@@ -1,2 +1,3 @@
 st.alpha: 0.9
 Xcursor.size: 16
+*.font: Liberation Mono:pixelsize=16:antialias=true:autohint=true;
