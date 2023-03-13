@@ -1,3 +1,34 @@
 st.alpha: 0.9
-Xcursor.size: 16
-*.font: Liberation Mono:pixelsize=16:antialias=true:autohint=true;
+Xcursor.size: 20
+*.font: DejaVuSansMono:pixelsize=30:antialias=true:autohint=true;
+
+! custom theme from wal
+!black
+*.color0: #03060A 
+!orange
+*.color1: #E95208 
+!blue
+*.color2: #106397 
+!blue
+*.color3: #0371B6 
+!yellow
+*.color4: #c8b200
+!red
+*.color5: #810505
+!green
+*.color6: #42630c
+!lightest blue
+*.color7: #83bfd9 
+!grey blue
+*.color8: #5b8597 
+
+! duplicates
+*.color9: #E95208
+*.color10: #106397
+*.color11: #0371B6
+*.color12: #c8b200
+*.color13: #810505
+*.color14: #42630c
+*.color15: #83bfd9
+*.background: #03060A
+*.foreground: #83bfd9

@@ -8,9 +8,8 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
-#export PATH=$PATH:$HOME/.scripts
+export PATH=$PATH:$HOME/.scripts
 export BROWSER="brave"
-#export JAVA_HOME=/usr/bin/java
 
 if [[ "$(tty)" = "/dev/tty1" ]]; then
 	startx
