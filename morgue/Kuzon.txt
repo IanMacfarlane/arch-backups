@@ -1,0 +1,99 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 10018255918183860955
+
+Kuzon the Firebug (Hill Orc Fire Elementalist)         Turns: 1, Time: 00:00:11
+
+Health: 14/14      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 11    Spells: 2/3 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You are on level 1 of the Dungeon.
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 1.5 Stealth
+ + Level 1.5 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.2 Fire Magic
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           22%        2d6       9%          2
+ Conjure Flame            Conj/Fire      7%         6-21      28%         3
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Kuzon the Hill Orc Fire Elementalist.
+They say the Orb of Zot lies within this dungeon, but they say a lot of things.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Saving game... please wait.
+
+  #####
+  #...#
+ 7#.<.#7
+ ##.@.##
++.......+
+#########
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Hill Orc Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+
+Illustrated notes
+

@@ -1,0 +1,337 @@
+Good Omen
+
+Level 1 of the Dungeon
+[Shop] Xiring's Book Shop
+  a book of Transfigurations (520 gold)
+  a Necronomicon (728 gold)
+  a book of Rime (364 gold)
+  a book of Dangerous Friends (520 gold)
+  a book of Minor Magic (234 gold)
+  a book of the Dragon (598 gold)
+  an Inescapable Atlas (442 gold)
+  a book of Decay (390 gold)
+  a book of Debilitation (260 gold)
+(0, 0, D:1)
+  a +0 dagger
+(7, -12, D:1)
+  a +0 dagger
+(8, -14, D:1)
+  23 stones
+(9, 3, D:1)
+  a +0 dagger
+(10, 15, D:1)
+  a +0 club
+  3 stones
+(15, 15, D:1)
+  a +0 animal skin
+(15, 21, D:1)
+  25 stones
+(17, 20, D:1)
+  a +0 dagger
+(25, -11, D:1)
+  9 stones
+(28, 18, D:1)
+  a +0 club
+(40, 20, D:1)
+  a +0 spear
+(42, 31, D:1)
+  a +0 club
+(46, 30, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  2 poisoned darts
+(7, 2, D:2)
+  a +0 whip
+(22, 36, D:2)
+  a +0 hunting sling
+(28, 43, D:2)
+  5 poisoned darts
+(30, 4, D:2)
+  a +0 club
+  a stone
+(31, 7, D:2)
+  24 stones
+(32, 3, D:2)
+  a +0 dagger
+  4 stones
+(40, 14, D:2)
+  6 silver javelins
+(43, 35, D:2)
+  a +0 vorpal hunting sling
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 hand axe
+(1, 0, D:3)
+  a +0 mace
+(4, -9, D:3)
+  17 stones
+(5, 1, D:3)
+  a +0 leather armour
+(27, -5, D:3)
+  a +0 club
+(27, -1, D:3)
+  a +0 club
+(29, 0, D:3)
+  33 stones
+(31, -11, D:3)
+  a +0 spear
+(32, -19, D:3)
+  a +0 robe
+(32, -8, D:3)
+  a +0 club
+(33, -8, D:3)
+  a +0 mace
+(34, -8, D:3)
+  a +0 club
+(38, -9, D:3)
+  a +0 short sword
+  a +0 ring mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+(0, 48, D:4)
+  16 arrows
+(1, 34, D:4)
+  a +0 club
+(1, 35, D:4)
+  a +0 falchion
+(1, 42, D:4)
+  a +0 whip
+(1, 43, D:4)
+  a +0 club
+  a +0 leather armour
+(2, 6, D:4)
+  a +0 chain mail
+(2, 34, D:4)
+  a +0 war axe
+(2, 35, D:4)
+  a +0 war axe
+  a +0 scale mail
+  a +0 dagger
+  a +0 robe
+(2, 42, D:4)
+  a +0 whip
+  a +0 spear
+(2, 43, D:4)
+  a +0 halberd
+(9, 46, D:4)
+  a +0 spear
+  a +0 whip
+  a +0 spear
+(10, 47, D:4)
+  a +0 spear
+(16, 19, D:4)
+  2 poisoned darts
+(18, 14, D:4)
+  a +0 robe
+(19, 48, D:4)
+  a +0 short sword
+(22, 11, D:4)
+  22 stones
+  a +0 helmet
+(31, 17, D:4)
+  a +0 mace
+(32, 16, D:4)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+(32, 17, D:4)
+  a +1 flail of holy wrath (still there?)
+  a +0 scale mail (still there?)
+(33, 14, D:4)
+  a +0 dagger
+(33, 16, D:4)
+  a +0 club
+(50, 31, D:4)
+  a book of Scorching
+(54, 15, D:4)
+  a potion of lignification
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  16 bolts
+(2, -1, D:5)
+  a +1 dagger of holy wrath
+(2, 34, D:5)
+  a +0 short sword
+  a +0 leather armour
+(6, 41, D:5)
+  a +0 giant spiked club
+(13, 50, D:5)
+  20 stones
+(14, 49, D:5)
+  the +1 quarterstaff of Wyrd {freeze, *Noise MP+9 Int+3}
+    It freezes those it strikes, dealing additional cold damage. It can also
+    slow down cold-blooded creatures.
+    
+    Int:       It affects your intelligence (+3).
+    MP:        It affects your magic capacity (+9).
+    *Noise:    It may make noises in combat.
+(17, 9, D:5)
+  a +0 leather armour
+(17, 29, D:5)
+  a +0 dagger
+  a +0 robe
+(19, 1, D:5)
+  a +0 club
+(21, 44, D:5)
+  a +0 hand axe
+(22, 15, D:5)
+  a +0 ring mail
+(32, 30, D:5)
+  18 arrows
+(36, 49, D:5)
+  3 poisoned darts
+(37, 52, D:5)
+  a +0 leather armour
+(43, 40, D:5)
+  the +8 storm bow {elec, penet}
+    Any ammunition fired from it occasionally discharges a powerful burst of
+    electricity upon striking a foe.
+    
+    Any ammunition fired by it passes through the targets it hits, potentially
+    hitting all targets in its path until it reaches maximum range.
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 war axe
+(3, -21, D:6)
+  3 poisoned darts
+(13, -34, D:6)
+  a +0 whip
+  a +0 chain mail
+(14, -34, D:6)
+  a +0 hand axe
+  a +0 ring mail
+(14, -33, D:6)
+  a +0 flail
+  a +0 leather armour
+  a +0 mace
+(14, -32, D:6)
+  a +3 whip
+  a +0 ring mail
+(17, -20, D:6)
+  a +0 whip
+  a +0 robe
+(18, -22, D:6)
+  a +0 club
+  a +0 whip
+(18, -21, D:6)
+  a +0 club
+  a +0 club
+(19, -21, D:6)
+  a +0 flail
+(26, -15, D:6)
+  a +0 hunting sling
+(26, -12, D:6)
+  24 stones
+(26, -6, D:6)
+  a +0 ring mail
+(28, -31, D:6)
+  a +0 flail
+(29, 0, D:6)
+  a +2 scythe of freezing
+  a +0 robe
+(32, -2, D:6)
+  a +0 shortbow of freezing
+  12 arrows
+(43, -9, D:6)
+  a +0 scale mail
+(44, -6, D:6)
+  a +0 chain mail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  19 arrows
+(0, 1, D:7)
+  2 curare-tipped darts
+(4, 1, D:7)
+  a +0 falchion
+  a +0 leather armour
+(6, 9, D:7)
+  a +0 leather armour
+(8, 10, D:7)
+  a +0 club
+(10, 16, D:7)
+  23 stones
+(10, 18, D:7)
+  a +0 whip
+(13, 20, D:7)
+  a scroll of immolation
+(20, 28, D:7)
+  a ring of ice
+(22, 19, D:7)
+  29 stones
+(26, 24, D:7)
+  a +0 short sword
+(30, 25, D:7)
+  a +0 club
+(33, -7, D:7)
+  a +0 chain mail
+(38, -1, D:7)
+  a +2 hand crossbow of flaming
+(42, 7, D:7)
+  21 stones
+(42, 16, D:7)
+  24 stones
+(42, 19, D:7)
+  a +1 spectral quarterstaff
+  a +0 hunting sling
+  18 sling bullets
+  a +0 ring mail
+(47, 23, D:7)
+  13 arrows
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  28 bolts
+(31, -1, D:8)
+  a +0 dagger
+  a curare-tipped dart
+  a +0 dagger
+  a +0 dagger
+(32, -2, D:8)
+  a +0 short sword
+  3 stones
+  a +0 shortbow
+  18 arrows
+(32, -1, D:8)
+  a +0 short sword
+  3 stones
+  a +0 dagger
+(39, 20, D:8)
+  11 stones
+(45, 0, D:8)
+  a +0 war axe
+  a +0 robe
+(46, 3, D:8)
+  a +0 robe
+(46, 5, D:8)
+  a +3 hand axe
+  a +0 robe of willpower
+(46, 28, D:8)
+  24 arrows
+(47, 6, D:8)
+  a +3 spear
+  a +0 robe
+(47, 7, D:8)
+  a +0 spear
+  a +0 robe
+(47, 26, D:8)
+  a killer bee corpse
+(47, 27, D:8)
+  a killer bee corpse
+(48, -18, D:8)
+  a +0 leather armour
+(54, 7, D:8)
+  a +0 trident
+(55, 3, D:8)
+  a potion of heal wounds
+(58, -2, D:8)
+  a scroll of enchant weapon
+(60, 6, D:8)
+  a scroll of identify
+

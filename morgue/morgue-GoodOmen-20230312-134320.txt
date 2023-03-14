@@ -1,0 +1,347 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 15205434015973318275
+
+1916 GoodOmen the Digger (level 9, -8/52 HPs)
+             Began as a Gargoyle Earth Elementalist on Mar 12, 2023.
+             Was an Initiate of Gozag.
+             Killed from afar by an acid dragon (23 damage)
+             ... with a splash of acid
+             ... on level 6 of the Dungeon.
+             The game lasted 01:08:27 (5446 turns).
+
+GoodOmen the Digger (Gargoyle Earth Elementalist)   Turns: 5446, Time: 01:08:28
+
+Health: -8/52      AC: 14    Str: 11    XL:     9   Next: 16%
+Magic:  13/18      EV: 12    Int: 21    God:    Gozag
+Gold:   335        SH:  0    Dex: 12    Spells: 16/20 levels left
+
+rFire   . . .      SeeInvis .   r - +3 halberd (venom)
+rCold   + . .      Faith    .   (shield currently unavailable)
+rNeg    + . .      Spirit   .   w - +1 robe {rC+}
+rPois   ?           Reflect  .   (helmet restricted)
+rElec   +          Harm     .   j - +1 cloak
+rCorr   .          Rampage  .   a - +1 pair of gloves
+Will    +....                   q - +0 pair of boots
+Stlth   +++.......              (no amulet)
+HPRegen 0.17/turn               t - ring of willpower
+MPRegen 0.16/turn               n - ring of wizardry
+
+@: mighty, brilliant
+A: sickness immunity, AC +6, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance, horns 1, thin
+skeletal structure 1
+a: Renounce Religion, Potion Petition, Call Merchant, Bribe Branch
+
+
+You were on level 6 of the Dungeon.
+You worshipped Gozag.
+Gozag was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 738 gold pieces.
+You spent 35 gold pieces at shops.
+You paid 368 gold pieces to Gozag.
+
+Inventory:
+
+Hand Weapons
+ f - a +3 scythe of venom
+ i - a +3 spectral club
+ k - a +2 dagger of protection
+ m - a +3 dagger
+ r - a +3 halberd of venom (weapon)
+Missiles
+ c - 85 stones
+Armour
+ a - a +1 pair of gloves (worn)
+ j - a +1 cloak (worn)
+ q - a +0 pair of boots (worn)
+ w - a +1 robe of cold resistance (worn)
+Magical Staves
+ h - a staff of poison
+Jewellery
+ l - a ring of protection from fire
+ n - a ring of wizardry (right hand)
+ t - a ring of willpower (left hand)
+Scrolls
+ b - a scroll of teleportation
+ p - 4 scrolls of magic mapping
+ s - a scroll of immolation
+Potions
+ g - a potion of cancellation
+ u - a potion of berserk rage
+
+
+   Skills:
+ * Level 4.5 Fighting
+ + Level 0.3 Maces & Flails
+ * Level 4.1 Polearms
+ - Level 1.6 Dodging
+ - Level 2.1 Stealth
+ - Level 6.2 Spellcasting
+ * Level 4.4 Conjurations
+ - Level 1.0 Transmutations
+ - Level 7.6 Earth Magic
+
+
+You had 16 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      94%        3d12      1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      30%        N/A       1%          2
+ Corpse Rot               Necr/Air       18%        N/A       6%          2
+ Poisonous Vapours        Pois/Air       18%        N/A       6%          2
+ Petrify                  Tmut/Erth      36%        N/A       6%          4
+ Tukima's Dance           Hex            9%         N/A       12%         3
+ Passage of Golubria      Tloc           9%         N/A       34%         4
+ Yara's Violent Unravell  Hex/Tmut       6%         3d5       61%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (0/1) D:5         
+
+Altars:
+Cheibriados
+Gozag
+Makhleb
+Sif Muna
+Uskayaw
+Yredelemnul
+
+Shops:
+D:2 (
+
+Annotations:
+D:4 2 transporters
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +6)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+You have a pair of small horns on your head.
+You have a somewhat thin skeletal structure. (Dex +2, Stealth+)
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a +0 scimitar and wearing a +0 plate armour
+(almost dead, 84% to hit)
+You feel a surge of power!
+The blast of sand misses the orc warrior.
+The orc warrior hits you with a +0 scimitar.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a +0 scimitar and wearing a +0 plate armour
+(almost dead, 84% to hit)
+You feel a surge of power!
+The blast of sand misses the orc warrior.
+The orc barely misses you.
+The orc warrior hits you with a +0 scimitar!
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a +0 scimitar and wearing a +0 plate armour
+(almost dead, 76% to hit)
+You feel a surge of power! The stone arrow misses the orc warrior. The orc
+barely misses you.
+The orc warrior hits you with a +0 scimitar!
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warrior
+Aim: an orc warrior, wielding a +0 scimitar and wearing a +0 plate armour
+(almost dead, 76% to hit)
+You feel a surge of power! The stone arrow hits the orc warrior!!
+You kill the orc warrior!
+The orc hits you with a +0 short sword.
+* * * LOW HITPOINT WARNING * * *
+As you read the scroll of fog, it crumbles to dust.
+The scroll dissolves into smoke. The orc hits you but does no damage.
+The orc hits you but does no damage.
+You are no longer corroded.
+The acid dragon spits acid at you.
+The splash of acid hits you!!
+You die...
+Your body crumbles into a pile of gold.
+
+#########.....#        #........#
+..........)...#  ..    #.....#'##
+..............# ...    +.....#...
+.........######...#    #.....#...
+.........#...##...#    #.....#...
+.........#....o....    #.....####
+.........#..D......    #.........
+.........#.........    #.........
+.........#0........    +.........
+.........#0######+######.........
+######....0000o0@................
+     #....000D0..................
+     #...0.0000............).....
+     #....0.0000...............##
+     #.......00.........##'...##}
+     #.[................#....##..
+     #..................#...##..!
+     +..................#...'...7
+######..................#...##...
+.......##########+#.....#....##..
+.......#........  #.....#.....##}
+
+
+You could see an acid dragon (catching breath) and an orc.
+
+Vanquished Creatures
+  Grinder (D:3)
+  Sigmund (D:4)
+  A steam dragon (D:6)
+  The ghost of GoodOmen the Magician, an amateur DEFE of Qazlal (D:6)
+  An orc warrior (D:6)
+  2 necrophages
+  An ogre (D:5)
+  A centaur (D:5)
+  A phantom (D:5)
+  5 wights (D:6)
+  A howler monkey (D:5)
+  2 hounds
+  2 jellies
+  2 gnoll shamans
+  Terence (D:3)
+  Jessica (D:2)
+  3 orc wizards
+  7 adders
+  16 gnolls
+  2 adder skeletons
+  4 dart slugs
+  3 orcs (D:5)
+  6 ball pythons
+  4 endoplasms
+  8 goblins
+  4 hobgoblins
+  2 jackals (D:4)
+  4 kobolds
+  2 quokkas
+  10 bats
+  5 frilled lizards
+  3 rats (D:1)
+107 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     7 | D:1      | Reached skill level 1 in Transmutations
+   215 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   249 | D:1      | Reached skill level 4 in Earth Magic
+   687 | D:1      | Found a faded altar of an unknown god.
+   699 | D:1      | Prayed at the altar of an unknown god.
+   699 | D:1      | Became a worshipper of Gozag Ym Sagoz the Greedy
+   817 | D:2      | Found Soataopt's Weapon Shop.
+   871 | D:2      | Reached XP level 3. HP: 13/19 MP: 1/6
+   875 | D:2      | Learned a level 3 spell: Stone Arrow
+  1156 | D:2      | Noticed Jessica
+  1185 | D:2      | Killed Jessica
+  1186 | D:2      | Reached XP level 4. HP: 20/24 MP: 0/8
+  1727 | D:3      | Noticed Grinder
+  1743 | D:3      | Paralysed by Grinder for 5 turns
+  1751 | D:3      | Killed Grinder
+  1752 | D:3      | Reached skill level 6 in Earth Magic
+  1752 | D:3      | Reached XP level 5. HP: 26/28 MP: 1/11
+  1752 | D:3      | Reached XP level 6. HP: 29/32 MP: 1/12
+  1764 | D:3      | Noticed Terence
+  1790 | D:3      | Killed Terence
+  2259 | D:4      | Found a burning altar of Makhleb.
+  2333 | D:4      | Found a basalt altar of Yredelemnul.
+  2333 | D:4      | Found a transporter.
+  2333 | D:4      | Noticed a steam dragon
+  2335 | D:4      | Found a snail-covered altar of Cheibriados.
+  2351 | D:4      | Noticed a hornet
+  2352 | D:4      | Found a transporter.
+  2461 | D:3      | Reached skill level 5 in Spellcasting
+  2539 | D:2      | Bought 17 stones for 18 gold pieces
+  2539 | D:2      | Bought 16 stones for 17 gold pieces
+  2794 | D:4      | Found a shimmering blue altar of Sif Muna.
+  2892 | D:4      | Gained mutation: You have a somewhat thin skeletal
+                  | structure. (Dex +2, Stealth+) [potion of mutation]
+  2892 | D:4      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  2998 | D:4      | Reached XP level 7. HP: 37/37 MP: 11/14
+  3125 | D:4      | Noticed Sigmund
+  3136 | D:4      | Killed Sigmund
+  3443 | D:5      | Entered Level 5 of the Dungeon
+  3674 | D:5      | Reached skill level 7 in Earth Magic
+  3889 | D:5      | Reached XP level 8. HP: 35/42 MP: 13/17
+  3919 | D:5      | Found a staircase to the Ecumenical Temple.
+  4118 | D:5      | Reached skill level 1 in Polearms
+  4163 | D:5      | Reached skill level 1 in Fighting
+  4163 | D:5      | Reached skill level 1 in Conjurations
+  4538 | D:5      | Found a hide-covered altar of Uskayaw.
+  4885 | D:6      | Found a runed translucent door.
+  4885 | D:6      | Noticed GoodOmen's ghost (amateur DEFE)
+  5052 | D:6      | Killed GoodOmen's ghost
+  5168 | D:6      | Reached XP level 9. HP: 52/52 MP: 2/18
+  5446 | D:6      | Killed from afar by an acid dragon
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_chessboard, layout_loops_cross,
+          shapermc_ecumenical_altar_pompeii, minmay_tiny_reverse_x
+D:2:      layout_rooms, serial_shops, shop, kennysheep_generic_room_11,
+          uniq_jessica
+D:3:      layout_rooms, uniq_grinder, uniq_terence
+D:4:      layout_loops_ring, overflow_temple_1_default,
+          gammafunk_temple_overflow_arena, mainiacjoe_overflow_catwalk,
+          uniq_sigmund
+D:5:      layout_basic, mainiacjoe_overflow_alcove_4,
+          minmay_temple_entry_nine_rooms
+D:6:      layout_gridville, hellmonk_ghost_happy_afterlife,
+          minmay_misc_feat_enclosed, uniq_maggie, uniq_eustachio
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Transmutations |  1                         |  1.0
+Earth Magic    |     4     6        7       |  7.6
+Spellcasting   |        3  4     5  6       |  6.2
+Polearms       |                       3  4 |  4.1
+Fighting       |                       4    |  4.5
+Conjurations   |                       3  4 |  4.4
+Maces & Flails |                            |  0.3
+Dodging        |                            |  1.6
+Stealth        |                            |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    18 |       |       ||    18
+       Whip              |     1 |       |       ||     1
+       Punch             |     1 |       |       ||     1
+       Club              |       |     6 |       ||     6
+       Scythe            |       |       |     8 ||     8
+ Cast: Sandblast         |    43 |    56 |    50 ||   149
+       Stone Arrow       |     2 |     3 |    37 ||    42
+Invok: Potion Petition   |       |       |     1 ||     1
+  Use: Scroll            |     4 |     6 |     8 ||    18
+       Potion            |       |     2 |     1 ||     3
+Armor: Robe              |    26 |    32 |    14 ||    72
+Dodge: Dodged            |    40 |    38 |    19 ||    97
+

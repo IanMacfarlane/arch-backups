@@ -1,0 +1,259 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 6075376699827435114
+
+268 Kuzon the Firebug (level 6, -1/42 HPs)
+             Began as a Human Fire Elementalist on Mar 10, 2023.
+             Was an Initiate of Vehumet.
+             Killed from afar by Blork the orc (8 damage)
+             ... with a puff of frost
+             ... on level 4 of the Dungeon.
+             The game lasted 00:49:05 (4226 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)         Turns: 4226, Time: 00:49:06
+
+Health: -1/42      AC:  3    Str:  9    XL:     6   Next: 46%
+Magic:  0/12       EV: 12    Int: 17    God:    Vehumet [......]
+Gold:   103        SH:  0    Dex: 13    Spells: 3/13 levels left
+
+rFire   + . .      SeeInvis .   c - +3 spear (elec)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   +   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   f - +0 pair of boots
+Stlth   ++........              h - amulet of guardian spirit
+HPRegen 0.14/turn               j - +4 ring of slaying
+MPRegen 0.13/turn               k - ring of protection from fire
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 103 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - a +3 spear of electrocution (weapon)
+ g - a +1 vorpal spear
+Armour
+ a - a +0 robe (worn)
+ f - a +0 pair of boots (worn)
+Jewellery
+ h - an amulet of guardian spirit (around neck)
+ j - a +4 ring of slaying (left hand)
+ k - a ring of protection from fire (right hand)
+Scrolls
+ e - 2 scrolls of identify
+ i - a scroll of fear
+Potions
+ d - 2 potions of curing
+
+
+   Skills:
+ + Level 0.6 Fighting
+ + Level 0.6 Polearms
+ + Level 2.1 Dodging
+ + Level 2.2 Stealth
+ + Level 4.2 Spellcasting
+ + Level 1.5 Conjurations
+ + Level 0.1 Hexes
+ + Level 4.6 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      56%        2x1d6     4%          1
+b - Scorch                Fire           38%        2d7       3%          2
+c - Inner Flame           Hex/Fire       11%        N/A       17%         3
+d - Flame Wave            Conj/Fire      14%        2d6       41%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Conjure Flame            Conj/Fire      14%        6-21      13%         3
+ Summon Small Mammal      Summ           12%        N/A       16%         1
+ Summon Guardian Golem    Hex/Summ       3%         N/A       41%         3
+ Call Canine Familiar     Summ           3%         N/A       43%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+Ru
+Vehumet
+Beogh
+
+Annotations:
+D:4 Blork the orc
+
+Message History
+
+The spell is quite dangerous to miscast (17% risk of failure)! Continue anyway?
+Aiming: Inner Flame (quite dangerous; 17% risk of failure)
+Press: ? - help, Dir - move target, f - Blork the orc
+Aim: Blork the orc, wielding a +0 glaive and wearing a +0 robe (chance to
+affect: 62%)
+Blork the orc resists with significant effort.
+Blork the orc completely misses you.
+Casting: Inner Flame (quite dangerous; 17% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash Blork the orc.
+Blork the orc is moderately wounded.
+Blork the orc's fire resistance burns away.
+Blork the orc barely misses you.
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! Blork the orc barely misses you.
+The foxfire hits Blork the orc. Blork the orc is burned terribly!
+Blork the orc is heavily wounded.
+The foxfire hits Blork the orc. Blork the orc is burned terribly!
+Blork the orc is severely wounded.
+Blork the orc mumbles some strange words.
+Blork the orc seems to speed up.
+Blork the orc misses you.
+Blork the orc gestures at you while chanting.
+The puff of flame hits you. You resist.
+Blork the orc is no longer more vulnerable to fire.
+Blork the orc casts a spell at you.
+The magic dart hits you.
+Blork the orc points at you and mumbles some strange words.
+The puff of flame hits you. You resist.
+Blork the orc closely misses you.
+Blork the orc hits you from afar with a +0 glaive.
+* * * LOW HITPOINT WARNING * * *
+Blork the orc closely misses you.
+Blork the orc begins to cast a cantrip, but forgets the words!
+Blork the orc points at you and mumbles some strange words.
+The magic dart hits you!
+* * * LOW HITPOINT WARNING * * *
+Blork the orc points at you and mumbles some strange words.
+The puff of frost hits you!
+You die...
+
+  #.   #.....##..#....
+  #.   #..>.........#
+  #.####.....#...#..#
+###.#.......##...#..# .
+#................#..#..
+#.....[......)#........
+#..!..........#..#.....
+#.............#..#..#..
+#.............#.........
+#......o......#.....#..
+#..........@........#.#
+#..............#..#.#.#
+#..............#......
+#...........^..#....###
+#######.######.#.#..#
+      #............<#
+      ######.#####%##
+     #######.#  #..[#
+     ........#  #...#
+     #######.#  #...#
+           #.#  #...#
+
+
+You could see Blork the orc (fast).
+
+Vanquished Creatures
+  An ogre (D:4)
+  2 hounds (D:4)
+  An orc wizard (D:3)
+  4 adders
+  4 worms
+  3 orcs
+  6 bats
+  7 endoplasms
+  A giant cockroach (D:1)
+  5 goblins
+  2 hobgoblins
+  5 kobolds
+  7 ball pythons
+  5 frilled lizards
+  4 rats
+57 creatures vanquished.
+
+Vanquished Creatures (others)
+  86 foxfires
+86 creatures vanquished.
+
+Grand Total: 143 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    60 | D:1      | Learned a level 1 spell: Summon Small Mammal
+   225 | D:1      | Reached XP level 2. HP: 19/19 MP: 5/5
+   727 | D:1      | Learned a level 2 spell: Scorch
+  1361 | D:1      | Reached XP level 3. HP: 24/24 MP: 4/6
+  1643 | D:1      | Learned a level 3 spell: Inner Flame
+  2612 | D:2      | Reached XP level 4. HP: 31/31 MP: 3/8
+  3333 | D:3      | Reached XP level 5. HP: 33/36 MP: 0/9
+  3347 | D:3      | Learned a level 4 spell: Flame Wave
+  3350 | D:3      | Found a sacrificial altar of Ru.
+  3363 | D:3      | Became a worshipper of Ru the Awakened
+  3460 | D:3      | Found a radiant altar of Vehumet.
+  3468 | D:3      | Fell from the grace of Ru
+  3468 | D:3      | Became a worshipper of Vehumet
+  3549 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  4004 | D:4      | Noticed an ogre
+  4008 | D:4      | Identified the +0 ring mail "Retois" {+Blink rPois Will-}
+  4196 | D:4      | Killed an ogre
+  4197 | D:4      | Reached XP level 6. HP: 22/42 MP: 6/12
+  4210 | D:4      | Noticed Blork the orc
+  4226 | D:4      | Killed from afar by Blork the orc
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      elethiomel_arrival_maze, layout_loops_corners,
+          wad_floor_pattern_untrapped
+D:2:      layout_basic, hellmonk_ecumenical_altar_defaced_shrine,
+          minmay_tetromino_o4
+D:3:      layout_rooms, mainiacjoe_overflow_brackets,
+          nicolae_vehumet_altar_sigil, nicolae_ru_great_annihilating_truth
+D:4:      layout_basic, chequers_serial_rivers_micro_d, uniq_sigmund,
+          uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Spellcasting   |           3  4 |  4.2
+Fire Magic     |           4    |  4.6
+Fighting       |                |  0.6
+Polearms       |                |  0.6
+Dodging        |                |  2.1
+Stealth        |                |  2.2
+Conjurations   |                |  1.5
+Hexes          |                |  0.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Spear             |    11 |     8 ||    19
+ Cast: Foxfire           |    32 |    23 ||    55
+       Summon Small Mamm |     1 |       ||     1
+       Scorch            |     8 |    17 ||    25
+       Inner Flame       |     1 |     3 ||     4
+  Use: Scroll            |     7 |     1 ||     8
+       Potion            |     2 |     2 ||     4
+Armor: Robe              |    14 |     2 ||    16
+Dodge: Dodged            |    20 |    21 ||    41
+

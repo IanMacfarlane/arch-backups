@@ -1,0 +1,446 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 10517057521726804540
+
+21280 Good Omen the Severer (level 12, 0/108 (111) HPs)
+             Began as a Minotaur Berserker on Mar 11, 2023.
+             Was a High Priest of Trog.
+             Slain by an orc high priest (9 damage)
+             ... on level 2 of the Orcish Mines.
+             The game lasted 01:59:22 (11847 turns).
+
+Good Omen the Severer (Minotaur Berserker)         Turns: 11847, Time: 01:59:23
+
+HP:   0/108 (111)   AC: 19    Str: 38    XL:     12   Next: 52%
+MP:   0/20          EV: 10    Int:  4    God:    Trog [*****.]
+Gold: 1324          SH:  2    Dex: 10    Spells: 11/11 levels left
+
+rFire   . . .      SeeInvis .   s - +3 war axe (elec)
+rCold   . . .      Faith    .   o - -2 buckler "Xychuohe" {MP+9 Str+5}
+rNeg    . . .      Spirit   +   y - +1 plate armour
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    +++..                   d - +1 pair of boots
+Stlth   ..........              l - amulet of guardian spirit
+HPRegen 1.28/turn               g - ring of willpower
+MPRegen 0.17/turn               n - +6 ring of strength
+
+@: strong-willed, on berserk cooldown, flying, regenerating, slowed, studying
+Long Blades, lightly drained, invisible (expiring), very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 2 of the Orcish Mines.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+You also visited: Bailey.
+
+You collected 1324 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ k - a +1 war axe of venom
+ s - a +3 war axe of electrocution (weapon)
+ B - a +0 club
+Armour
+ d - a +1 pair of boots (worn)
+ o - the -2 buckler "Xychuohe" (worn) {MP+9 Str+5}
+   (You found it on level 7 of the Dungeon)   
+   
+   Str:       It affects your strength (+5).
+   MP:        It affects your magic capacity (+9).
+ y - a +1 plate armour (worn)
+Jewellery
+ g - a ring of willpower (left hand)
+ j - an amulet of reflection
+ l - an amulet of guardian spirit (around neck)
+ n - a +6 ring of strength (right hand)
+ q - a ring of protection from cold
+Wands
+ a - a wand of acid (10)
+ e - a wand of mindburst (17)
+ p - a wand of flame (44)
+Scrolls
+ b - 6 scrolls of teleportation
+ i - a scroll of magic mapping
+ m - 6 scrolls of identify
+ t - 3 scrolls of fear
+ u - a scroll of blinking
+ w - a scroll of fog
+Potions
+ c - 3 potions of might
+ f - 9 potions of curing
+ h - a potion of flight
+ r - a potion of brilliance
+ x - a potion of invisibility
+ z - 4 potions of mutation
+ A - 2 potions of haste
+
+
+   Skills:
+ + Level 11.7 Fighting
+ + Level 16.3 Axes
+ + Level 12.6 Armour
+ + Level 6.2 Dodging
+ + Level 1.3 Stealth
+ + Level 4.8 Shields
+ + Level 0.3 Evocations
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Static Discharge         Conj/Air       0%         N/A       99%         2
+ Stone Arrow              Conj/Erth      0%         3d7       100%        3
+ Tukima's Dance           Hex            0%         N/A       100%        3
+ Animate Armour           Summ/Erth      0%         N/A       100%        4
+ Dispel Undead            Necr           0%         3d6       100%        4
+ Passage of Golubria      Tloc           0%         N/A       100%        4
+ Sticky Flame             Conj/Fire      0%         2d3       100%        4
+ Yara's Violent Unravell  Hex/Tmut       0%         3d3       100%        5
+ Lehudib's Crystal Spear  Conj/Erth      0%         10d2      100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (0/1) D:7             Orc (2/2) D:9
+    Elf (0/3) Orc:2        Bailey (visited)         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Dithmenos
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Sif Muna
+Trog
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:9 (   Orc:2 [
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The soul eater draws from the surrounding life force!
+* * * LOW HITPOINT WARNING * * *
+Things that are here:
+a +0 flail; a +0 chain mail
+You slash the orc high priest!
+You headbutt the orc high priest, but do no damage.
+The orc high priest is lightly wounded.
+The chaos spawn trumpets!
+The orc high priest hits you with a +0 halberd!
+* * * LOW HITPOINT WARNING * * *
+You slash the orc high priest!
+The orc high priest is moderately wounded.
+The chaos spawn bellows!
+The orc high priest hits you but does no damage.
+Your skin crawls.
+You feel strong-willed.
+The orc high priest hits you but does no damage.
+The orc high priest barely misses you.
+The ynoxinul gestures at you.
+The iron shot hits the orc high priest!
+The orc high priest shouts! You hear a shout.
+The orc high priest hits you but does no damage.
+Your skin crawls.
+You feel strong-willed.
+The orc high priest hits you but does no damage. x2
+Your ogre goes berserk!
+The orc high priest hits you from afar with a +0 halberd.
+* * * LOW HITPOINT WARNING * * *
+You swap places.
+You flicker for a moment.
+The chaos spawn barks!
+The orc high priest hits you with a +0 halberd!
+* * * LOW HITPOINT WARNING * * *
+The orc high priest hits you but does no damage.
+Things that are here:
+a +0 flail; a +0 chain mail
+You fail to use your ability.
+The chaos spawn gurgles horribly!
+The orc high priest hits you with a +0 halberd!
+You die...
+
+                ....#
+                 .%.##
+                 #oo3#
+      ..#       ##...#
+ .........#   ###....#
+ .........#####....3##
+.##................##
+...............3..##
+.#..............###
+..#...........)##O#
+.............34o@##
+..............######
+........#....)# ##.##  ######
+.#............###...####.##.###
+...................##.#.......##
+................).)#.....##....#
+.......>.........)))).#.###...##
+........)............).#.#...##
+............................##
+..................#....#....#
+................\.##........##
+
+
+You could see an orc high priest (ally target), a ynoxinul (summoned), a chaos
+spawn (summoned, wandering) and a friendly ogre (summoned, berserk).
+
+Vanquished Creatures
+  An orc warlord (Bailey)
+  2 two-headed ogres (D:9)
+  An orc high priest (Orc:2)
+  The ghost of Giumaukk the Slinger, a novice HaHu of Uskayaw (D:9)
+  4 orc knights
+  2 orc sorcerers
+  An unseen horror (D:8)
+  A hornet (D:9)
+  A shadow (D:6)
+  Sigmund (D:5)
+  A wraith (D:9)
+  A ynoxinul (D:9)
+  A wyvern (D:9)
+  A steam dragon (D:9)
+  A warg (Orc:1)
+  A water moccasin (D:5)
+  Duvessa (D:6)
+  25 orc warriors
+  2 sky beasts
+  2 black bears
+  7 ogres
+  4 necrophages
+  A centaur (D:9)
+  A kobold brigand (D:9)
+  2 bullfrogs
+  A wyvern zombie (D:8)
+  2 water moccasin zombies (D:5)
+  A wyvern skeleton (D:6)
+  Dowan (D:6)
+  A killer bee (D:4)
+  9 wights
+  5 howler monkeys
+  4 centaur zombies
+  7 crimson imps (D:8)
+  4 bullfrog zombies
+  8 hounds
+  12 orc priests
+  3 jellies
+  2 gnoll shamans
+  A human zombie (D:5)
+  2 iguanas
+  2 bullfrog skeletons
+  Ijyb (D:5)
+  10 orc wizards
+  A scorpion zombie (D:5)
+  A killer bee zombie (D:7)
+  A hound zombie (D:5)
+  2 hound skeletons
+  2 mummies (D:5)
+  26 gnolls
+  6 adders
+  4 white imps
+  An adder skeleton (D:5)
+  A worm (D:2)
+  A dart slug (D:4)
+  40 orcs
+  11 endoplasms
+  5 giant cockroaches
+  23 goblins
+  15 hobgoblins
+  9 jackals
+  2 quokkas
+  5 ball pythons
+  5 bats
+  3 frilled lizards (D:1)
+  10 kobolds
+  4 rats
+320 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc priest (Orc:2)
+  An orc wizard (Orc:2)
+  An orc (Orc:2)
+  4 plants
+7 creatures vanquished.
+
+Grand Total: 327 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Good Omen the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   150 | D:1      | Reached skill level 4 in Axes
+   240 | D:1      | Reached XP level 2. HP: 21/27 MP: 1/1
+   535 | D:1      | Reached ** piety under Trog
+   810 | D:2      | Reached XP level 3. HP: 27/34 MP: 2/2
+  1587 | D:3      | Found a shadowy altar of Dithmenos.
+  1660 | D:3      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1676 | D:3      | Noticed a necrophage
+  1692 | D:3      | Killed a necrophage
+  1693 | D:3      | Reached skill level 5 in Fighting
+  1693 | D:3      | Reached skill level 5 in Axes
+  1693 | D:3      | Reached XP level 5. HP: 43/48 MP: 4/4
+  2181 | D:3      | Found a faded altar of an unknown god.
+  2326 | D:3      | Reached *** piety under Trog
+  2791 | D:4      | Found a shimmering altar of Xom.
+  2802 | D:4      | Noticed an ogre
+  2812 | D:4      | Killed an ogre
+  2813 | D:4      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2856 | D:4      | Reached skill level 6 in Axes
+  3545 | D:4      | Reached skill level 5 in Armour
+  3545 | D:4      | Reached XP level 7. HP: 53/61 MP: 6/6
+  3634 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  3635 | D:4      | Found a glowing silver altar of Zin.
+  3661 | D:4      | Found a glowing golden altar of the Shining One.
+  4012 | D:4      | Reached skill level 1 in Shields
+  4013 | D:4      | Reached skill level 7 in Axes
+  4033 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  4141 | D:5      | Entered Level 5 of the Dungeon
+  4170 | D:5      | Noticed Sigmund
+  4185 | D:5      | Killed Sigmund
+  4186 | D:5      | Reached skill level 1 in Stealth
+  4228 | D:5      | Reached XP level 8. HP: 64/70 MP: 7/7
+  4337 | D:5      | Reached skill level 8 in Axes
+  4848 | D:5      | Reached skill level 9 in Axes
+  4850 | D:5      | Found a shimmering blue altar of Sif Muna.
+  5123 | D:5      | Found a basalt altar of Yredelemnul.
+  5138 | D:5      | Noticed Ijyb
+  5154 | D:5      | Killed Ijyb
+  5228 | D:5      | Reached skill level 10 in Axes
+  5502 | D:6      | Reached XP level 9. HP: 75/76 MP: 8/8
+  5876 | D:6      | Found a burning altar of Makhleb.
+  5982 | D:6      | Reached skill level 11 in Axes
+  6045 | D:6      | Reached **** piety under Trog
+  6151 | D:6      | Found a hazy altar of Hepliaklqana.
+  6397 | D:6      | Noticed Dowan
+  6417 | D:6      | Killed Dowan
+  6481 | D:6      | Noticed Duvessa
+  6492 | D:6      | Killed Duvessa
+  6809 | D:7      | Found a staircase to the Ecumenical Temple.
+  7040 | D:7      | Identified the -2 buckler "Xychuohe" {MP+9 Str+5}
+  7512 | D:7      | Found a blossoming altar of Fedhas.
+  8082 | D:8      | Found a flagged portal.
+  8148 | Bailey   | Entered a bailey
+  8237 | Bailey   | Reached XP level 10. HP: 81/88 MP: 9/9
+  8238 | Bailey   | Reached skill level 12 in Axes
+  8300 | Bailey   | Noticed an orc knight
+  8319 | Bailey   | Killed an orc knight
+  8320 | Bailey   | Reached skill level 10 in Armour
+  8486 | Bailey   | Noticed an orc knight
+  8506 | Bailey   | Killed an orc knight
+  8549 | Bailey   | Reached skill level 13 in Axes
+  8664 | Bailey   | Noticed an orc warlord
+  8678 | Bailey   | Killed an orc warlord
+  8730 | Bailey   | Reached skill level 10 in Fighting
+  8730 | Bailey   | Reached skill level 15 in Axes
+  8730 | Bailey   | Reached XP level 11. HP: 76/100 MP: 10/10
+  9315 | D:8      | Reached ***** piety under Trog
+  9744 | D:9      | Found a staircase to the Orcish Mines.
+  9774 | D:9      | Noticed a two-headed ogre
+  9786 | D:9      | Killed a two-headed ogre
+  9787 | D:9      | Reached XP level 12. HP: 107/108 MP: 11/11
+  9801 | D:9      | Paralysed by a hornet for 1 turns
+  9809 | D:9      | Paralysed by a hornet for 3 turns
+  9925 | D:9      | Found Vuych's Weapon Shop.
+  9947 | D:9      | Found a broken altar of Ashenzari.
+ 10015 | D:9      | Found a runed translucent door.
+ 10015 | D:9      | Noticed Giumaukk's ghost (novice HaHu)
+ 10147 | D:9      | Noticed a two-headed ogre
+ 10154 | D:9      | Killed a two-headed ogre
+ 10442 | D:9      | Found a bloodstained altar of Trog.
+ 10522 | D:9      | Killed Giumaukk's ghost
+ 10742 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 10898 | Orc:1    | Paralysed by an orc sorcerer for 7 turns
+ 10941 | Orc:1    | Reached skill level 16 in Axes
+ 11380 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 11380 | Orc:2    | Found Joyrorph's Antique Armour Shop.
+ 11515 | Orc:2    | Found a staircase to the Elven Halls.
+ 11793 | Orc:2    | Noticed an orc high priest
+ 11793 | Orc:2    | Noticed an orc high priest
+ 11817 | Orc:2    | Killed an orc high priest
+ 11847 | Orc:2    | Slain by an orc high priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_room, layout_basic, minmay_pentomino_x2
+D:2:      layout_basic
+D:3:      kennysheep_six_static_rooms, layout_loops_ring, lemuel_tele_altar,
+          basic_ecumenical_altar, bh_walls_and_bars
+D:4:      layout_layer_cave, mainiacjoe_overflow_tiny_flanked,
+          mainiacjoe_overflow_concentric_impassable,
+          gammafunk_temple_overflow_forgotten, minmay_bent
+D:5:      layout_basic, lemuel_mausoleum_altar_yredelemnul,
+          mainiacjoe_overflow_alcove_4, minmay_misc_feat_nine_boxes, uniq_ijyb,
+          uniq_sigmund
+D:6:      layout_basic, mainiacjoe_overflow_catwalk,
+          mainiacjoe_overflow_boulevard, hangedman_decor_growths,
+          kennysheep_pointless_box, st_stairs_1, kennysheep_crisscross,
+          minmay_manual_mail, uniq_duvessa
+D:7:      nicolae_cairo_tiling_large, layout_gridville, fedhas_ov_isle_minmay,
+          minmay_temple_entry_large_hall
+D:8:      layout_cave_pods, enter_bailey_5, minmay_nine_imps
+D:9:      layout_cave_pools, ashenzari_altar_1, mainiacjoe_overflow_brackets,
+          orc_0_dummy, serial_shops, shop_statue, serial_column_ruins,
+          column_ruins_square_medium, column_ruins_hut, column_ruins_open_tiny,
+          column_ruins_columns_straight, column_ruins_grid_3,
+          column_ruins_open_tiny, hellmonk_ghost_big_iron
+Orc:1:    layout_diamond_mine, basic_altar
+Orc:2:    grunt_orc_tribal_feast, layout_caves, serial_shops, shop,
+          nicolae_orc_lava_room
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Axes           |  4        5     6  7 10 11 15    16 | 16.3
+Fighting       |     4     5           6  8 10    11 | 11.7
+Armour         |           3  4  5  6  7  9 11    12 | 12.6
+Dodging        |              3           4  6       |  6.2
+Shields        |                    1     2  4       |  4.8
+Stealth        |                    1                |  1.3
+Evocations     |                                     |  0.3
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    77 |    46 |       |       ||   123
+       Headbutt          |     4 |    17 |    66 |    40 ||   127
+       Punch             |     1 |     1 |     3 |       ||     5
+       War axe           |       |    57 |   282 |   268 ||   607
+Invok: Berserk           |     2 |     2 |     6 |     8 ||    18
+       Trog's Hand       |       |       |     3 |     7 ||    10
+       Brothers in Arms  |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |     2 ||     2
+  Use: Potion            |     4 |     2 |     3 |     4 ||    13
+       Scroll            |     3 |     4 |     9 |     5 ||    21
+Armor: Animal skin       |     7 |       |       |       ||     7
+       Scale mail        |    16 |    34 |    25 |       ||    75
+       Chain mail        |       |       |    96 |     8 ||   104
+       Plate armour      |       |       |       |   101 ||   101
+Dodge: Dodged            |    43 |    46 |   136 |    95 ||   320
+Block: Other             |       |    16 |       |       ||    16
+       Reflection        |       |     1 |       |       ||     1
+       Buckler           |       |       |     4 |    15 ||    19
+
