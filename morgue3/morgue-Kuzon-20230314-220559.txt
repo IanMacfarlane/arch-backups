@@ -1,0 +1,235 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 4387494984971113420
+
+44 Kuzon the Firebug (level 3, -2/24 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Frozen to death by an endoplasm (4 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:50 (1464 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)         Turns: 1464, Time: 00:05:52
+
+Health: -2/24      AC:  3    Str:  8    XL:     3   Next: 87%
+Magic:  4/6        EV: 12    Int: 17    God:    
+Gold:   116        SH:  0    Dex: 13    Spells: 2/6 levels left
+
+rFire   . . .      SeeInvis .    l - +0 dagger
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    e - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: lethally poisoned (-2 -> -3)
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 116 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ l - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ e - a +0 helmet (worn)
+Jewellery
+ k - a ring of willpower
+ m - an amulet of regeneration
+Scrolls
+ i - 2 scrolls of identify {unknown}
+ n - a scroll of poison {unknown}
+Potions
+ c - a potion of heal wounds {unknown}
+ d - 2 potions of brilliance {unknown}
+ f - 3 potions of curing {unknown}
+ g - a potion of lignification {unknown}
+ h - a potion of invisibility {unknown}
+ j - a potion of attraction {unknown}
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 2.4 Spellcasting
+ + Level 1.8 Conjurations
+ * Level 3.8 Fire Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      44%        2x1d6     6%          1
+b - Scorch                Fire           30%        2d6       6%          2
+c - Sandblast             Erth           4%         2d4       19%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      1%         N/A       28%         2
+ Inner Flame              Hex/Fire       8%         N/A       26%         3
+ Kindle Blastsparks       Fire/Tloc/Air  12%        2d11      32%         3
+ Stone Arrow              Conj/Erth      10%        3d7       36%         3
+ Flame Wave               Conj/Fire      11%        2d6       50%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Shops:
+D:1 *
+
+Message History
+
+You conjure some foxfire! You feel sick. The foxfire hits the adder.
+The adder is lightly wounded.
+The foxfire hits the adder.
+The adder is moderately wounded.
+The adder barely misses you.
+You feel sick.
+You are no longer poisoned.
+The foxfire hits the adder but does no damage.
+The adder is moderately wounded.
+The foxfire hits the adder.
+The adder is heavily wounded.
+The adder bites you. x2
+You see here a bat corpse.
+The adder attacks as you move away! The adder bites you but does no damage.
+Magic courses through your body. The adder bites you but does no damage.
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! The adder barely misses you.
+The endoplasm hits you but does no damage.
+The adder bites you.
+You are poisoned.
+The adder poisons you!
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! You feel sick. The foxfire hits the adder.
+The adder is severely wounded.
+The foxfire hits the adder but does no damage.
+The adder is severely wounded.
+The endoplasm barely misses you. The adder barely misses you.
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! You feel sick. The foxfire hits the adder.
+The adder is almost dead.
+The foxfire hits the endoplasm.
+The endoplasm is almost dead.
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The endoplasm freezes you.
+You are frozen.
+You die...
+
+#.......##.#               #.
+##....#<...#               #.
+ #... #.####               #.
+ ###  #.#                  #.
+      #.#                  #.
+      #.##########         #.
+      #..........#         #.
+      #..........#         #.
+      #..........# #......##.
+      #..........# #......##.
+      #..SJ......# #......##.
+      #.v@v......# #......##.
+      #..§§......# #......##.
+      #..........# #......##.
+      ##..##########.....†##.
+ ########...##   #.......)...
+ ............### #.........†.
+ ..............###...........
+ ...........##...............
+ ...........#####.....#######
+ ...........#   #.....#######
+ ...........#   #.....#......
+ ...........#   ##....#......
+
+
+You could see an adder (ally target) and an endoplasm.
+
+Vanquished Creatures
+  An adder (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  9 bats
+  3 endoplasms
+  A giant cockroach (D:2)
+  2 goblins
+  2 hobgoblins
+  3 jackals (D:2)
+  2 kobolds (D:2)
+  3 rats
+28 creatures vanquished.
+
+Vanquished Creatures (others)
+  60 foxfires
+60 creatures vanquished.
+
+Grand Total: 88 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   281 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+   284 | D:1      | Learned a level 2 spell: Scorch
+   474 | D:1      | Found Japtes's Assorted Antiques.
+  1161 | D:2      | Reached XP level 3. HP: 24/24 MP: 4/6
+  1163 | D:2      | Learned a level 1 spell: Sandblast
+  1464 | D:2      | Frozen to death by an endoplasm
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_radiant_lines, layout_basic, serial_shops,
+          nicolae_shop_behind_doors
+D:2:      layout_basic, grunt_ministairs_14
+
+Action                     || total
+---------------------------++-------
+  Melee: Dagger            ||    13
+         Unarmed           ||     1
+   Cast: Foxfire           ||    35
+         Scorch            ||    10
+         Sandblast         ||     3
+    Use: Potion            ||     1
+   Stab: Sleeping          ||     1
+ Armour: Robe              ||    14
+  Dodge: Dodged            ||    36
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1464 |   1388 |     76 |      0 |   1154 |   2 |  732.0 |
+       Dungeon |   1464 |   1388 |     76 |      0 |   1154 |   2 |  732.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 904 daAuts
+     D:2: 560 daAuts
+

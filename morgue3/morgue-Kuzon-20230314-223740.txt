@@ -1,0 +1,315 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8776050608873516564
+
+296 Kuzon the Firebug (level 6, -3/41 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Slain by a crimson imp
+             ... wielding a +2 dagger of chaos
+              (15 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:14:49 (4493 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)         Turns: 4493, Time: 00:14:50
+
+Health: -3/41      AC:  7    Str:  8    XL:     6   Next: 62%
+Magic:  1/11       EV: 17    Int: 17    God:    
+Gold:   135        SH:  0    Dex: 14    Spells: 5/11 levels left
+
+rFire   + + .      SeeInvis .    f - +0 dagger
+rCold   + . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    D - +0 steam dragon scales
+rPois   +          Reflect  .    e - +0 helmet
+rElec   +          Rampage  .    (no cloak)
+rCorr   +                        n - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth   ++                       d - amulet of the acrobat
+HPRegen 0.26/turn                c - +4 ring of slaying
+MPRegen 0.12/turn                i - ring of protection from fire
+
+@: agile, resistant, on berserk cooldown, slowed, very slow
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 161 gold pieces.
+You spent 26 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 dagger (weapon)
+Armour
+ e - a +0 helmet (worn)
+ n - a +0 pair of gloves (worn)
+ D - +0 steam dragon scales (worn)
+Jewellery
+ c - a +4 ring of slaying (left hand)
+ d - an amulet of the acrobat (around neck)
+ g - a ring of positive energy
+ i - a ring of protection from fire (right hand)
+Wands
+ A - a wand of charming (3)
+Scrolls
+ l - 4 scrolls of immolation
+ m - a scroll of silence {unknown}
+ o - a scroll of fear
+ p - 2 scrolls of teleportation {unknown}
+ q - a scroll of fog {unknown}
+ r - a scroll of summoning {unknown}
+ u - a scroll of amnesia {unknown}
+ w - a scroll of enchant weapon {unknown}
+ B - a scroll of noise {unknown}
+Potions
+ h - a potion of brilliance {unknown}
+ j - a potion of attraction {unknown}
+ s - a potion of might {unknown}
+ t - 2 potions of heal wounds {unknown}
+ v - 4 potions of curing {unknown}
+ x - a potion of lignification {unknown}
+ z - a potion of degeneration {unknown}
+ C - a potion of cancellation {unknown}
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 3.4 Spellcasting
+ + Level 3.1 Conjurations
+ * Level 5.3 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      68%        2x1d7     3%          1
+b - Scorch                Fire           40%        2d7       2%          2
+c - Magic Dart            Conj           52%        1d5       4%          1
+d - Searing Ray           Conj           26%        2d5       7%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           4%         N/A       17%         1
+ Inner Flame              Hex/Fire       11%        N/A       17%         3
+ Kindle Blastsparks       Fire/Tloc/Air  16%        2d11      24%         3
+ Wereblood                Tmut           2%         N/A       26%         2
+ Dazzling Flash           Conj/Hex       16%        N/A       26%         3
+ Flame Wave               Conj/Fire      17%        2d7       30%         4
+ Gell's Gravitas          Tloc           2%         N/A       45%         3
+ Spider Form              Tmut/Pois      2%         N/A       45%         3
+ Teleport Other           Tloc           2%         N/A       45%         3
+ Tukima's Dance           Hex            2%         N/A       45%         3
+ Fulminant Prism          Conj/Hex       4%         3d5       65%         4
+ Passage of Golubria      Tloc           2%         N/A       86%         4
+ Agony                    Necr           2%         N/A       99%         5
+ Silence                  Hex/Air        1%         N/A       99%         5
+ Yara's Violent Unravell  Hex/Tmut       1%         3d3       99%         5
+ Dispersal                Tloc           1%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Gozag
+Xom
+
+Shops:
+D:1 ?   D:5 =
+
+Annotations:
+D:3 2 transporters, Bokogi's ghost, amateur HuFE
+
+Message History
+
+The crimson imp barely misses you. x2; The crimson imp blinks!
+The crimson imp hits you but does no damage.
+The crimson imp blinks!
+The crimson imp hits you but does no damage.
+The crimson imp attacks as you move away!
+The crimson imp misses you. The crimson imp completely misses you.
+The crimson imp attacks as you move away!
+The crimson imp completely misses you. x2; The crimson imp closely misses you.
+The crimson imp completely misses you.
+The crimson imp attacks as you move away!
+The crimson imp completely misses you. x2; The crimson imp blinks!
+Casting: Foxfire (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Casting: Foxfire (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - crimson imp
+Aim: a crimson imp, wielding a +2 dagger of chaos (100% to hit)
+The magic dart hits the crimson imp.
+The crimson imp is lightly wounded.
+The crimson imp completely misses you. The crimson imp closely misses you.
+The crimson imp completely misses you.
+The crimson imp hits you with a +2 dagger of chaos.
+The crimson imp blinks!
+The crimson imp completely misses you.
+The crimson imp hits you but does no damage.
+The crimson imp closely misses you. The crimson imp completely misses you. x3
+You hit the crimson imp.
+The crimson imp is heavily wounded.
+The crimson imp hits you. The crimson imp blinks!
+The crimson imp hits you with a +2 dagger of chaos.
+You easily resist.
+You barely miss the crimson imp.
+The crimson imp is heavily wounded.
+The crimson imp completely misses you. The crimson imp blinks!
+The crimson imp hits you with a +2 dagger of chaos.
+* * * LOW HITPOINT WARNING * * *
+Space warps horribly around you!
+You die...
+
+# #§#.............
+#^#^#...........5....#
+#...#................#
++._.'................#
+#5..#○○°.....○☼§.☼§..#
+#5#^#.§☼○§☼°○§☼☼○§(..#
+# #5#.°○☼§.§○○.°§§...#
+#####°☼○.○..○☼§§☼○...#
+......○☼§☼.○§§..§....##
+.....○..§...○.○§☼§....###
+.....○☼.○§☼55§○.........#
+......§°§§.§@°§☼§○...##.#
+.......○☼§§..○§☼.☼......#
+.....§§☼☼○§§○..☼§○........
+.....§☼☼°§.○§☼.§☼......##.
+.....§.○○☼§°○○°☼(§.....#
+.........................
+###+########.####........#
+  ........##'####........#
+  .............##........
+  .............##.......
+  .............##......
+  .+#####......#....############
+
+
+You could see 2 crimson imps.
+
+Vanquished Creatures
+  2 hounds
+  Jessica (D:3)
+  2 iguanas (D:4)
+  3 gnolls (D:2)
+  3 adders
+  An ufetubus (D:4)
+  2 worms
+  12 dart slugs
+  3 orcs (D:3)
+  7 ball pythons
+  7 bats
+  7 endoplasms
+  2 giant cockroaches (D:1)
+  2 goblins
+  4 hobgoblins
+  3 quokkas
+  4 frilled lizards
+  4 kobolds
+  4 rats (D:1)
+73 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A foxfire (D:1)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  269 foxfires
+269 creatures vanquished.
+
+Grand Total: 343 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   292 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/5
+   318 | D:1      | Learned a level 2 spell: Scorch
+   592 | D:1      | Found Icziysso's Magic Scroll Shoppe.
+   601 | D:1      | Bought a scroll of identify for 26 gold pieces
+   691 | D:1      | Reached XP level 3. HP: 24/24 MP: 3/6
+  1502 | D:2      | Reached XP level 4. HP: 30/30 MP: 2/7
+  1505 | D:2      | Reached skill level 4 in Fire Magic
+  1893 | D:2      | Reached XP level 5. HP: 30/35 MP: 6/9
+  2442 | D:3      | Noticed Jessica
+  2445 | D:3      | Killed Jessica
+  2656 | D:3      | Found an opulent altar of Gozag.
+  2803 | D:3      | Found a transporter.
+  2820 | D:3      | Noticed Bokogi's ghost (amateur HuFE)
+  3014 | D:3      | Found a transporter.
+  3282 | D:4      | Reached XP level 6. HP: 41/41 MP: 4/10
+  3629 | D:4      | Reached skill level 5 in Fire Magic
+  4341 | D:5      | Entered Level 5 of the Dungeon
+  4352 | D:5      | Found Esmuo's Jewellery Shop.
+  4406 | D:5      | Learned a level 1 spell: Magic Dart
+  4409 | D:5      | Learned a level 2 spell: Searing Ray
+  4438 | D:5      | Found a shimmering altar of Xom.
+  4493 | D:5      | Slain by a crimson imp
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      wander_arrival_estate, layout_basic, serial_shops,
+          nicolae_shop_temple_entry_statues_fountains, minmay_shallow_snake_nest
+D:2:      layout_basic, chequers_serial_rivers_micro_a, grunt_ministairs_10
+D:3:      layout_basic, mainiacjoe_overflow_surrounded_room,
+          gammafunk_ghost_stat_death, serial_park_tiny_pond, uniq_jessica
+D:4:      kennysheep_slugbush, layout_loops_ring
+D:5:      layout_basic, lemuel_round_altar, led_xom_imps, serial_shops,
+          nicolae_shop_trees, st_stairs_2
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |           2     3 |  3.1
+Fire Magic     |           4     5 |  5.3
+Spellcasting   |              3    |  3.4
+Dodging        |                   |  2.0
+Stealth        |                   |  2.0
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     1 |       ||     1
+         Dagger            |       |     4 ||     4
+   Cast: Foxfire           |    31 |   123 ||   154
+         Scorch            |    11 |    11 ||    22
+         Magic Dart        |       |     1 ||     1
+    Use: Scroll            |       |     5 ||     5
+         Potion            |       |     2 ||     2
+ Armour: Robe              |     3 |     5 ||     8
+         Steam dragon scal |       |    15 ||    15
+  Dodge: Dodged            |    27 |    91 ||   118
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4502 |   4309 |    193 |      0 |   3606 |   5 |  900.4 |
+       Dungeon |   4502 |   4309 |    193 |      0 |   3606 |   5 |  900.4 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1371 daAuts
+     D:4: 1252 daAuts
+     D:2: 903 daAuts
+     D:3: 817 daAuts
+     D:5: 157 daAuts
+

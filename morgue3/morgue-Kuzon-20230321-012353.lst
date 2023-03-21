@@ -1,0 +1,3954 @@
+Kuzon
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 hand axe
+(7, 6, D:1)
+  a stone
+(19, -4, D:1)
+  a +0 club
+(32, 5, D:1)
+  a +0 robe
+(38, 40, D:1)
+  a +0 club
+(40, -2, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(0, 1, D:2)
+  5 stones
+(27, 16, D:2)
+  a +0 long sword
+(34, 21, D:2)
+  a +0 dagger
+(35, 19, D:2)
+  a stone
+(37, 3, D:2)
+  6 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(7, 13, D:3)
+  a +0 flail
+(10, 27, D:3)
+  a +0 war axe
+(13, 8, D:3)
+  a +0 short sword
+(18, 18, D:3)
+  a +0 ring mail
+(21, 11, D:3)
+  a +0 morningstar
+(24, -4, D:3)
+  a +0 ring mail
+(24, 18, D:3)
+  8 stones
+(34, 36, D:3)
+  8 stones
+(43, -5, D:3)
+  a +0 club
+(49, 14, D:3)
+  a +0 hammer
+(51, 15, D:3)
+  a +3 quarterstaff of chaos (still there?)
+  a +0 cloak (still there?)
+(51, 21, D:3)
+  a +0 dagger
+(56, -9, D:3)
+  a +0 whip
+(56, 21, D:3)
+  a +0 war axe
+(60, 30, D:3)
+  a +0 long sword
+  a +2 whip of draining
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 plate armour
+(0, 3, D:4)
+  a +0 robe
+  a +0 dagger
+(0, 4, D:4)
+  a +0 ring mail
+  a +0 short sword
+(2, 4, D:4)
+  a +0 hand axe
+(18, 13, D:4)
+  a +0 giant club
+(19, -8, D:4)
+  a +0 long sword
+(19, 12, D:4)
+  a +0 whip
+(20, -23, D:4)
+  a +0 ring mail
+(31, 19, D:4)
+  the +6 morningstar "Undertaker" {freeze, +Blink rElec rPois Stlth+}
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    +Blink:    It lets you blink.
+    Stlth:     It makes you more stealthy.
+(37, -25, D:4)
+  a +0 hand axe
+(37, -9, D:4)
+  a +0 quarterstaff
+(51, -17, D:4)
+  a +0 spear
+(54, 3, D:4)
+  a +0 dagger
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 shortbow
+(1, 18, D:5)
+  a +0 sling
+(14, -4, D:5)
+  a +0 halberd
+(15, -6, D:5)
+  a +0 club
+(15, -5, D:5)
+  a +0 whip
+(15, -3, D:5)
+  a +0 spear
+(16, -5, D:5)
+  a +0 leather armour
+  a +0 whip
+(22, 13, D:5)
+  a +3 battleaxe
+(28, 14, D:5)
+  7 stones
+(30, -3, D:5)
+  a +0 scimitar
+(31, -10, D:5)
+  a +0 club
+(31, 11, D:5)
+  4 stones
+(31, 13, D:5)
+  a stone
+(33, -10, D:5)
+  a +0 short sword
+(42, 23, D:5)
+  a staff of fire
+(45, 17, D:5)
+  a +0 whip
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 chain mail
+  a +0 club
+(8, 1, D:6)
+  a piece from Xom's chessboard (15/15)
+(9, 2, D:6)
+  a +0 shortbow
+(9, 3, D:6)
+  a +0 shortbow
+  a +0 club
+(10, -2, D:6)
+  a +0 whip
+(10, 5, D:6)
+  a +0 spear
+(14, -1, D:6)
+  a +0 robe
+(14, 16, D:6)
+  a +0 robe
+(15, 14, D:6)
+  a +0 scale mail
+  a +0 spear
+(16, 0, D:6)
+  a +0 leather armour
+  a +0 club
+(16, 3, D:6)
+  a +0 whip
+(16, 4, D:6)
+  a +0 spear
+  a +0 spear
+(16, 14, D:6)
+  a +0 flail
+  a +0 halberd
+(16, 25, D:6)
+  a +0 dagger
+(17, 24, D:6)
+  a +0 troll leather armour
+(18, 21, D:6)
+  a +0 spear
+(20, 7, D:6)
+  a +0 spear
+(21, 6, D:6)
+  6 stones
+(25, -11, D:6)
+  a +0 robe
+(27, 9, D:6)
+  a +0 robe
+(28, -12, D:6)
+  a +0 giant spiked club
+(39, 4, D:6)
+  a +0 club
+  a +0 spear
+  4 stones
+(39, 5, D:6)
+  a +0 halberd
+(39, 6, D:6)
+  a +0 flail
+(56, 0, D:6)
+  a +0 buckler
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 long sword
+(0, 3, D:7)
+  4 potions of attraction
+(21, 26, D:7)
+  a +0 quarterstaff
+(29, -6, D:7)
+  a +0 club
+(29, 30, D:7)
+  3 scrolls of vulnerability
+(31, -5, D:7)
+  a +0 buckler
+  a +0 scale mail
+  a +0 spear
+(32, -5, D:7)
+  a +0 club
+  4 stones
+  a +0 club
+(34, -5, D:7)
+  a +3 heavy spear
+  a +0 spear
+(44, -2, D:7)
+  a +0 short sword
+(46, 0, D:7)
+  a +0 club
+  7 poisoned darts
+  a +0 short sword
+  2 stones
+  a +0 ring mail
+  a +0 whip
+(47, 0, D:7)
+  a +0 whip
+(48, -1, D:7)
+  a +0 dagger
+(49, 15, D:7)
+  a +0 long sword
+(50, 22, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+[Shop] Lauzxu Afik's CLEARANCE SALE!
+  a +0 ring mail (16 gold)
+  a +0 ring mail (16 gold)
+(0, 0, D:8)
+  a +3 short sword
+  a +0 robe
+(1, -2, D:8)
+  a +4 falchion
+  a +0 robe
+  a +2 dire flail
+  a +0 robe
+  a +0 mace
+  a +0 robe
+(1, -1, D:8)
+  a +4 long sword
+  a +0 robe
+(12, -13, D:8)
+  a +0 whip
+(24, -11, D:8)
+  a +0 dagger
+(24, -9, D:8)
+  a +0 arbalest
+  a +0 war axe
+  a +0 plate armour
+(24, -8, D:8)
+  a +0 dagger
+  a +0 robe
+(26, -9, D:8)
+  a +0 dagger
+  a +0 robe
+(32, -17, D:8)
+  6 stones
+(32, 0, D:8)
+  a +0 whip
+(32, 1, D:8)
+  a +0 whip
+  a +0 leather armour
+(32, 4, D:8)
+  a +0 shortbow
+(33, -24, D:8)
+  a book of Displacement
+(36, 6, D:8)
+  a +0 ring mail
+(38, -8, D:8)
+  3 potions of mutation
+(44, 7, D:8)
+  a +0 dire flail
+  a +0 giant club
+(55, 5, D:8)
+  a +2 robe of willpower
+  a +0 whip of flaming
+(57, 5, D:8)
+  a +0 robe
+  a +0 scimitar of flaming
+(58, -6, D:8)
+  a +0 giant club
+  a +0 giant club
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 club
+(2, -2, D:9)
+  a +0 club
+  a +0 chain mail
+(3, -2, D:9)
+  a +0 dagger
+  a +0 robe
+  a +0 long sword
+  a +0 plate armour
+(15, -30, D:9)
+  8 stones
+(17, -26, D:9)
+  a +0 dagger
+(25, -36, D:9)
+  a +0 robe
+  a +0 dagger
+  a +0 ring mail
+  a +0 dagger
+(25, -5, D:9)
+  the +3 whip of Ifuehui {protect, Int+3}
+    Int:       It affects your intelligence (+3).
+(26, -35, D:9)
+  a +0 club
+  a +0 robe
+  a +0 dagger
+(26, -26, D:9)
+  a +0 dagger
+  a +0 robe
+(27, -25, D:9)
+  a +0 short sword
+(27, -24, D:9)
+  a +0 dagger
+  a +0 hand axe
+  a +0 leather armour
+(28, -19, D:9)
+  a +0 plate armour
+  a +0 halberd
+(40, -31, D:9)
+  a potion of attraction
+(43, -24, D:9)
+  a +0 giant spiked club
+  a +0 dire flail
+  2 stones
+(44, -12, D:9)
+  a potion of mutation
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 robe
+(3, 3, D:10)
+  a +0 plate armour
+(7, -7, D:10)
+  a +0 sling
+  a +0 quarterstaff
+  a +0 leather armour
+(7, 42, D:10)
+  a +0 club
+  4 stones
+(7, 43, D:10)
+  a +0 whip
+(8, 40, D:10)
+  a +0 club
+  a stone
+(8, 43, D:10)
+  a +0 dagger
+  6 poisoned darts
+(9, 41, D:10)
+  a +0 club
+(10, 14, D:10)
+  a +0 leather armour
+(10, 16, D:10)
+  a +0 scale mail
+(15, 31, D:10)
+  a +3 heavy scimitar
+  6 javelins
+  a +0 scale mail
+(16, -5, D:10)
+  the +3 ring mail of Luklewk {Rampage rF+ Int-4 Dex+3}
+    Int:       It affects your intelligence (-4).
+    Dex:       It affects your dexterity (+3).
+    rF:        It protects you from fire.
+    Rampage:   It bestows one free step when moving towards enemies.
+(30, -5, D:10)
+  a +0 hand axe
+(45, -4, D:10)
+  a +0 chain mail
+(45, 18, D:10)
+  a +2 dire flail of protection
+  a +0 giant club
+(52, 33, D:10)
+  a +0 flail
+
+Level 11 of the Dungeon
+(1, 38, D:11)
+  a +0 club
+(2, 12, D:11)
+  5 stones
+(4, 7, D:11)
+  a +0 chain mail
+(10, 25, D:11)
+  3 poisoned darts
+(12, 38, D:11)
+  a +0 short sword
+(14, 44, D:11)
+  3 stones
+(28, 11, D:11)
+  a +0 shortbow
+(29, 10, D:11)
+  a +0 shortbow
+  a +0 shortbow
+(37, 33, D:11)
+  2 poisoned darts
+(45, 23, D:11)
+  4 stones
+(47, 38, D:11)
+  a +0 cloak
+(48, 40, D:11)
+  a +0 hand axe
+(49, 22, D:11)
+  a +0 leather armour
+(49, 38, D:11)
+  a scroll of vulnerability
+(50, 9, D:11)
+  a +0 shortbow
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  9 stones
+(2, -38, D:12)
+  a +0 giant club
+  a +0 giant club
+(4, -25, D:12)
+  a +0 leather armour
+  a +0 long sword
+(10, 3, D:12)
+  a +0 dagger
+(11, -17, D:12)
+  +0 acid dragon scales
+(16, -38, D:12)
+  a +0 robe
+(21, -36, D:12)
+  a potion of mutation
+(22, -8, D:12)
+  a +0 leather armour
+(25, -28, D:12)
+  a +0 leather armour
+(30, -23, D:12)
+  a +0 troll leather armour
+(34, -36, D:12)
+  a +0 dagger
+(37, 4, D:12)
+  5 poisoned darts
+(39, -3, D:12)
+  a +0 short sword
+(39, -2, D:12)
+  a +0 robe
+  a +0 dagger
+  a +0 leather armour
+  a +0 short sword
+  a +0 leather armour
+  a +0 hand axe
+(40, -2, D:12)
+  a +0 robe
+  a +0 dagger
+(50, -17, D:12)
+  a +0 short sword
+  a +0 leather armour
+(51, -12, D:12)
+  6 stones
+(53, -33, D:12)
+  2 boomerangs
+
+Level 13 of the Dungeon
+[Shop] Alaysoar's Assorted Antiques
+  a +0 leather armour (66 gold)
+  a scroll of teleportation (99 gold)
+  a +0 plate armour (759 gold)
+  a potion of brilliance (132 gold)
+  a ring of fire (825 gold)
+  a +0 scale mail (132 gold)
+  a +3 scale mail of poison resistance (759 gold)
+(0, 5, D:13)
+  a +0 giant spiked club
+  a +0 giant club
+(8, -14, D:13)
+  4 large rocks
+(14, -18, D:13)
+  a +0 glaive
+(14, -7, D:13)
+  a +0 robe
+(15, -14, D:13)
+  a +1 crystal plate armour of cold resistance
+(16, -14, D:13)
+  6 stones
+(16, -11, D:13)
+  a +1 pair of gloves
+(16, -10, D:13)
+  a scroll of noise
+(21, -1, D:13)
+  a +0 shortbow
+(22, -15, D:13)
+  a +0 glaive
+(23, -33, D:13)
+  a +0 leather armour
+(23, -15, D:13)
+  a +0 long sword
+(24, -22, D:13)
+  a potion of lignification
+(26, -25, D:13)
+  a +0 shortbow
+(27, -28, D:13)
+  a +0 flail
+(28, -24, D:13)
+  a +0 dire flail
+(29, -26, D:13)
+  an amulet of reflection
+  a +0 shortbow
+(37, -44, D:13)
+  a +0 leather armour
+(42, -12, D:13)
+  8 stones
+(55, -13, D:13)
+  4 stones
+
+Level 14 of the Dungeon
+[Shop] Mats's Magic Scroll Shop
+  a scroll of identify (30 gold)
+  a scroll of noise (15 gold)
+  a scroll of identify (30 gold)
+  a scroll of identify (30 gold)
+  a scroll of identify (30 gold)
+  2 scrolls of poison (120 gold)
+  a scroll of blinking (112 gold)
+  a scroll of vulnerability (60 gold)
+(0, 0, D:14)
+  a +0 heavy war axe
+(1, 0, D:14)
+  a +0 club
+(2, 0, D:14)
+  a +0 battleaxe
+(3, 0, D:14)
+  a +0 war axe
+(4, 0, D:14)
+  a +2 great mace of holy wrath
+(6, -24, D:14)
+  a +0 flail
+(13, -32, D:14)
+  a +3 scimitar of flaming
+(14, -27, D:14)
+  a +0 long sword
+(23, -24, D:14)
+  a +0 chain mail
+  a +3 battleaxe
+(25, -32, D:14)
+  a potion of attraction
+  a +0 buckler
+(25, -25, D:14)
+  a +0 plate armour
+  a +0 halberd
+(25, -22, D:14)
+  a +0 troll leather armour
+(27, -35, D:14)
+  a +0 ring mail
+  a +0 dire flail
+  a +0 longbow
+(27, 9, D:14)
+  6 datura-tipped darts
+(30, 8, D:14)
+  a +0 war axe
+(35, -3, D:14)
+  a +0 double sword
+(40, 2, D:14)
+  a +1 long sword
+  a +0 plate armour
+(42, -23, D:14)
+  a +2 long sword of protection
+  2 stones
+  a +0 chain mail
+(48, -7, D:14)
+  a +0 long sword
+(54, -13, D:14)
+  a +0 robe
+(56, -20, D:14)
+  5 large rocks
+(56, -15, D:14)
+  a +0 quarterstaff
+
+Level 15 of the Dungeon
+(0, 0, D:15)
+  a wand of flame (9)
+(3, 3, D:15)
+  16 gold pieces
+(4, 2, D:15)
+  4 poisoned darts
+(5, 1, D:15)
+  a wand of light (5)
+(8, -18, D:15)
+  a +0 hand axe
+(15, -7, D:15)
+  a +0 spear
+(17, -18, D:15)
+  2 stones
+(18, -9, D:15)
+  a +0 robe
+  a +0 dagger
+(19, -8, D:15)
+  a +0 leather armour
+  a +0 rapier of venom
+(20, -36, D:15)
+  a +0 arbalest
+  a +2 war axe
+  a +0 plate armour
+  a +0 flail
+(20, -30, D:15)
+  the +4 kite shield of a bazaar {rElec rCorr Str-4 Dex+5}
+    Str:       It affects your strength (-4).
+    Dex:       It affects your dexterity (+5).
+    rElec:     It insulates you from electricity.
+    rCorr:     It protects you from acid and corrosion.
+(20, -7, D:15)
+  a +0 robe
+  a +0 dagger
+(21, -38, D:15)
+  a +0 plate armour
+  a +0 long sword
+(21, -37, D:15)
+  a +0 trident
+  the +8 chain mail of Uskayaw's Benevolence {Will+++ Dex-3}
+    Dex:       It affects your dexterity (-3).
+    Will:      It greatly increases your willpower.
+  a +7 flail of protection
+  a +0 plate armour
+  a +0 plate armour
+  a +0 great mace
+  a +0 plate armour
+  a +0 great mace
+(21, -35, D:15)
+  a +0 hand axe
+  a +0 hand axe
+(21, -30, D:15)
+  a +0 club
+(22, -37, D:15)
+  a +2 flail of protection
+(23, -4, D:15)
+  a +0 robe
+  a +0 flail
+(27, -30, D:15)
+  a +0 plate armour
+  a +0 glaive
+(27, -29, D:15)
+  a +0 flail
+  a +0 ring mail
+  a +0 mace
+(27, -21, D:15)
+  a +0 robe
+  a +1 hand axe of venom
+(28, -30, D:15)
+  a +0 chain mail
+  a +0 long sword
+  a +4 arbalest
+  a +2 chain mail
+  a +0 great sword
+(28, -29, D:15)
+  a +0 hand axe
+(28, -15, D:15)
+  2 javelins
+(28, 13, D:15)
+  a +0 sling
+(30, -19, D:15)
+  a +0 leather armour
+  a +0 hand axe
+(32, -19, D:15)
+  a +0 robe
+  a +0 war axe
+(32, -18, D:15)
+  a scroll of noise
+(32, 0, D:15)
+  a +0 rapier
+(34, -21, D:15)
+  a staff of earth
+(43, -1, D:15)
+  a +0 rapier
+  a +0 leather armour
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a +0 robe
+  a +0 dagger
+(1, -1, Orc:1)
+  a +0 chain mail
+  a +0 trident
+  a +2 robe of fire resistance
+  a +0 dagger
+(2, -1, Orc:1)
+  a +0 chain mail
+  a +0 hand axe
+(3, -2, Orc:1)
+  a +0 plate armour
+  a +0 scimitar
+(3, -1, Orc:1)
+  a +0 leather armour
+  a +0 war axe
+  a +0 robe
+  a +0 dagger
+(4, -3, Orc:1)
+  a +0 club
+(4, -2, Orc:1)
+  a +0 chain mail
+  a +1 battleaxe of flaming
+(5, -3, Orc:1)
+  a +0 flail
+  a +0 chain mail
+  2 boomerangs
+  a +0 short sword
+(6, -3, Orc:1)
+  a +0 plate armour
+  a +0 dire flail
+(7, -3, Orc:1)
+  a +0 mace
+(9, 2, Orc:1)
+  a +0 scale mail
+  a +0 trident
+(11, -2, Orc:1)
+  a +0 hand axe
+(11, 1, Orc:1)
+  a +0 dagger
+(12, -1, Orc:1)
+  a +0 morningstar
+(14, 4, Orc:1)
+  a +0 short sword
+  2 boomerangs of dispersal
+  a +0 plate armour
+
+Level 2 of the Orcish Mines
+[Shop] Heatiot's Book Boutique
+  a book of the Hunter (338 gold)
+  Great Wizards, Vol. II (494 gold)
+  a book of Debilitation (260 gold)
+  a There-And-Back Book (390 gold)
+  a book of Misfortune (364 gold)
+  a book of Displacement (286 gold)
+  a book of Rime (364 gold)
+  a Trismegistus Codex (364 gold)
+  a book of Unlife (468 gold)
+  the Information on Attendants and Flesh (624 gold)
+    Spells                            Type                      Level
+     a - Summon Lightning Spire        Summoning/Air                 4
+     b - Yara's Violent Unravelling    Hexes/Transmutation           5
+     c - Summon Forest                 Summoning/Translocation       5
+     d - Summon Cactus Giant           Summoning                     6
+[Shop] Tecyib's General Store
+  6 stones (9 gold)
+  2 silver boomerangs (192 gold)
+  a book of Displacement (352 gold)
+  2 poisoned darts (19 gold)
+  a potion of resistance (160 gold)
+  a potion of degeneration (16 gold)
+  a +4 battleaxe of electrocution (611 gold)
+[Shop] Xipp's General Store
+  a scroll of fear (64 gold)
+  a scroll of vulnerability (64 gold)
+  a +0 quarterstaff (64 gold)
+  a potion of heal wounds (80 gold)
+  a +2 robe of cold resistance (283 gold)
+  a potion of lignification (48 gold)
+  a +0 helmet (72 gold)
+  a +1 dagger of freezing (169 gold)
+[Shop] Byraomn's Weapon Boutique
+  a +6 shortbow of freezing (635 gold)
+  the +6 scimitar "Demonslayer" {heavy, rN+ Int+2 Stlth+} (941 gold)
+    Int:       It affects your intelligence (+2).
+    rN:        It protects you from negative energy.
+    Stlth:     It makes you more stealthy.
+  a +0 arbalest (76 gold)
+  the +2 trident "Nom Hapu" {antimagic, Str+3} (574 gold)
+    Str:       It affects your strength (+3).
+  a +0 club (17 gold)
+  a +0 flail (59 gold)
+  a +0 flail of protection (105 gold)
+  a +0 quarterstaff (68 gold)
+  a +0 club (17 gold)
+(0, 0, Orc:2)
+  a +0 club
+(2, -2, Orc:2)
+  a +1 glaive of freezing
+  a +0 chain mail
+(2, -1, Orc:2)
+  a +0 dagger
+  a +0 robe
+(2, 0, Orc:2)
+  a +2 scimitar of holy wrath
+  a +0 chain mail
+(4, -1, Orc:2)
+  a +2 war axe
+  a +0 plate armour
+(6, 38, Orc:2)
+  a +0 ring mail
+  a +0 hand axe
+(7, 38, Orc:2)
+  a +0 robe
+  a +0 dagger
+  a +0 dagger
+(8, 37, Orc:2)
+  a +0 giant club
+(8, 38, Orc:2)
+  a +0 plate armour
+  a +0 heavy hand axe
+(9, 33, Orc:2)
+  a +0 plate armour
+  a +0 war axe
+(9, 34, Orc:2)
+  a +0 giant club
+(9, 36, Orc:2)
+  a +0 giant club
+(9, 37, Orc:2)
+  a +0 giant spiked club
+  a +0 giant spiked club
+  a +0 giant spiked club
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 giant club
+(10, 34, Orc:2)
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 giant spiked club
+(11, 34, Orc:2)
+  a +0 giant spiked club
+  a +0 giant club
+(12, 32, Orc:2)
+  a +0 robe
+  a +0 dagger
+  a +0 leather armour
+  a +2 dagger of draining
+(12, 33, Orc:2)
+  a +0 short sword
+  a +0 giant club
+(12, 35, Orc:2)
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 giant club
+(13, 34, Orc:2)
+  a +0 leather armour
+  a +0 trident
+(14, 29, Orc:2)
+  a +0 trident
+(14, 33, Orc:2)
+  a +0 giant club
+  a +0 giant club
+(16, 10, Orc:2)
+  a +0 club
+(16, 11, Orc:2)
+  a +0 cloak
+(17, 10, Orc:2)
+  a +0 spear
+(19, 10, Orc:2)
+  a +0 leather armour
+  a +0 club
+(19, 11, Orc:2)
+  a +0 spear
+  a +0 spear
+  a +0 giant club
+  a +0 giant club
+(21, 10, Orc:2)
+  a +0 robe
+  a +0 whip
+(21, 32, Orc:2)
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 giant club
+  a +0 giant spiked club
+(22, 29, Orc:2)
+  a +0 giant club
+(22, 31, Orc:2)
+  a +0 giant club
+  a +0 dire flail
+(22, 32, Orc:2)
+  a +0 robe
+  a +0 dagger
+  a +0 giant club
+(23, 29, Orc:2)
+  a +0 robe
+  a +0 dagger
+(24, 30, Orc:2)
+  a +0 robe
+  a +0 dagger
+(24, 31, Orc:2)
+  a +0 hand axe
+(25, 36, Orc:2)
+  a +0 giant club
+  a +0 giant club
+(26, 12, Orc:2)
+  a +0 short sword
+(26, 29, Orc:2)
+  a +0 robe
+  a +1 dagger of venom
+  a +0 chain mail
+  a +0 hand axe
+(27, 10, Orc:2)
+  a +0 giant club
+(27, 11, Orc:2)
+  a +0 robe
+  a +3 dagger
+  a +0 giant club
+  a +0 giant spiked club
+(27, 27, Orc:2)
+  a +0 ring mail
+  a +0 club
+(27, 33, Orc:2)
+  a +0 robe of willpower
+  a +1 halberd of flaming
+(28, 10, Orc:2)
+  a +0 giant spiked club
+(28, 12, Orc:2)
+  a +0 giant club
+(28, 29, Orc:2)
+  a +0 mace
+(29, 9, Orc:2)
+  a +0 giant club
+  a +0 giant spiked club
+(29, 10, Orc:2)
+  a +0 giant club
+  a +0 giant club
+  a +0 giant spiked club
+(29, 11, Orc:2)
+  a +0 giant club
+(30, 8, Orc:2)
+  a +0 giant club
+  a +0 giant spiked club
+(30, 10, Orc:2)
+  a +0 robe
+  a +0 spear
+(31, 7, Orc:2)
+  a +0 robe
+  a +0 whip
+  a +0 giant club
+(31, 8, Orc:2)
+  a +0 giant club
+  a +0 giant club
+  a +0 giant club
+  a +0 giant spiked club
+(32, 7, Orc:2)
+  a +0 giant club
+  a +0 giant club
+  a +0 giant spiked club
+
+Level 1 of the Elven Halls
+(0, 0, Elf:1)
+  a +0 dagger
+(2, -8, Elf:1)
+  a +0 long sword
+(5, -11, Elf:1)
+  a +0 rapier
+  a +0 long sword
+(7, -2, Elf:1)
+  a +0 robe
+(8, -7, Elf:1)
+  a +0 longbow
+  a +0 scimitar
+  a +0 leather armour
+(8, -6, Elf:1)
+  a +1 long sword of holy wrath
+  a +0 leather armour
+(10, -5, Elf:1)
+  a +0 long sword
+  a +0 chain mail
+  a potion of degeneration
+(11, -11, Elf:1)
+  a +0 long sword
+(11, -4, Elf:1)
+  a +0 rapier
+  a +0 ring mail
+(11, -3, Elf:1)
+  a +1 short sword of freezing
+(12, -3, Elf:1)
+  a +1 short sword of freezing
+(13, -3, Elf:1)
+  a +0 short sword
+(13, 2, Elf:1)
+  a +0 shortbow
+  a +0 dagger
+  a +0 leather armour
+  a +0 long sword
+(14, -2, Elf:1)
+  a +0 dagger
+  a +0 ring mail
+(14, -1, Elf:1)
+  a +3 short sword of electrocution
+  a +1 short sword of electrocution
+(14, 0, Elf:1)
+  a +2 long sword of distortion
+(15, -3, Elf:1)
+  a +0 long sword
+(18, -20, Elf:1)
+  a +0 dagger
+  a +0 chain mail
+  a +0 long sword
+  a +0 leather armour
+  a scroll of vulnerability
+(18, 30, Elf:1)
+  a +0 whip of draining
+(19, 25, Elf:1)
+  a +2 heavy long sword
+(20, -18, Elf:1)
+  a scroll of identify
+(25, -9, Elf:1)
+  a +1 vampiric long sword
+(26, -8, Elf:1)
+  a +0 leather armour
+  a +0 dagger
+(26, 25, Elf:1)
+  a +4 short sword of draining
+(27, -11, Elf:1)
+  a +0 shortbow
+  a +0 ring mail
+(30, 25, Elf:1)
+  a +4 antimagic long sword
+(36, 8, Elf:1)
+  a +0 flail of holy wrath
+(39, -12, Elf:1)
+  a +0 dagger
+  a +0 leather armour
+(39, -7, Elf:1)
+  a +0 rapier
+(39, 24, Elf:1)
+  a +2 buckler
+  a +2 scale mail of fire resistance
+  a +0 scimitar
+(40, -8, Elf:1)
+  a +0 shortbow
+  a +0 long sword of holy wrath
+(40, 23, Elf:1)
+  a +0 chain mail
+  a +0 long sword
+(40, 25, Elf:1)
+  a +0 long sword
+(41, -10, Elf:1)
+  a +0 long sword
+  a +0 ring mail
+(41, -2, Elf:1)
+  4 silver javelins
+(41, 22, Elf:1)
+  a +0 ring mail
+  a +0 short sword
+  a +0 leather armour
+  a +0 dagger
+  a +2 shortbow of draining
+  a +0 leather armour
+  a +0 dagger
+  a +0 shortbow
+(42, 21, Elf:1)
+  a +0 dagger
+  a +0 long sword
+  a +0 rapier
+(45, 4, Elf:1)
+  a +0 long sword
+(47, 6, Elf:1)
+  a +0 heavy trident
+(48, 12, Elf:1)
+  a +0 long sword
+(48, 14, Elf:1)
+  a +0 chain mail
+  a +3 heavy long sword
+(51, 11, Elf:1)
+  a +0 leather armour
+  a +0 short sword
+  a +0 shortbow
+(51, 12, Elf:1)
+  a +0 short sword
+(51, 15, Elf:1)
+  a +0 leather armour
+  a +0 long sword
+(52, 15, Elf:1)
+  a +0 long sword
+(53, -8, Elf:1)
+  the +4 scale mail of Fun and Games {Harm rCorr}
+    rCorr:     It protects you from acid and corrosion.
+    Harm:      It increases damage dealt and taken.
+(53, 13, Elf:1)
+  a +0 leather armour
+  a +0 dagger
+  a +0 longbow
+(53, 14, Elf:1)
+  a +0 long sword
+(53, 15, Elf:1)
+  a +0 leather armour
+  a +0 long sword
+(54, 8, Elf:1)
+  a staff of earth
+(55, 12, Elf:1)
+  a +0 leather armour
+  a +0 short sword
+  a +0 shortbow
+(56, 10, Elf:1)
+  a +0 long sword
+
+Level 2 of the Elven Halls
+[Shop] Omataogg's Weapon Boutique
+  a +1 dagger of venom (122 gold)
+  3 stones (3 gold)
+  the +1 scimitar of the Sharing Hero {flame, rPois Str+5 SInv} (495 gold)
+    Str:       It affects your strength (+5).
+    rPois:     It protects you from poison.
+    SInv:      It lets you see invisible.
+  a +2 dagger of venom (187 gold)
+  the +4 whip of Valiance {heavy, rPois rF+} (555 gold)
+    rF:        It protects you from fire.
+    rPois:     It protects you from poison.
+  a +0 dire flail (52 gold)
+  the +3 great sword of Qairogim {heavy, Will+ Str+3 Stlth+} (629 gold)
+    Str:       It affects your strength (+3).
+    Will:      It increases your willpower.
+    Stlth:     It makes you more stealthy.
+  a +0 whip (32 gold)
+  the +7 captain's cutlass {speed, disarm} (702 gold)
+  a +0 flail (45 gold)
+(0, 0, Elf:2)
+  a +0 glaive of protection
+(1, -8, Elf:2)
+  a scroll of identify
+(5, 2, Elf:2)
+  a +0 leather armour
+(8, 18, Elf:2)
+  a +0 war axe
+(9, 23, Elf:2)
+  a +0 dagger
+  a +0 robe
+(10, 16, Elf:2)
+  a potion of mutation
+(10, 17, Elf:2)
+  a +0 scale mail
+(10, 18, Elf:2)
+  a +0 flail
+(11, -21, Elf:2)
+  a +0 rapier
+(11, -3, Elf:2)
+  a +0 scale mail
+(11, 17, Elf:2)
+  3 stones
+(11, 25, Elf:2)
+  a +0 hand axe of freezing
+(12, -22, Elf:2)
+  a +0 shortbow
+  a +0 long sword
+  a +0 scale mail
+(12, -17, Elf:2)
+  a +0 rapier
+  a +0 rapier
+  a +0 leather armour
+(12, 16, Elf:2)
+  a +1 quick blade of electrocution
+(12, 17, Elf:2)
+  a staff of poison
+(12, 18, Elf:2)
+  a +0 club
+(13, -19, Elf:2)
+  a +1 vampiric quick blade
+(14, -15, Elf:2)
+  a +3 halberd of freezing
+(16, -25, Elf:2)
+  a +0 dagger
+(16, -14, Elf:2)
+  a +0 long sword
+(18, -8, Elf:2)
+  a +2 long sword of draining
+(19, 4, Elf:2)
+  a +3 dagger
+(19, 5, Elf:2)
+  a +1 mace of protection
+(19, 8, Elf:2)
+  a +2 mace of protection
+(20, -18, Elf:2)
+  a +3 mace of protection
+(20, -12, Elf:2)
+  a +1 war axe of flaming
+  a +2 halberd of protection
+(20, -11, Elf:2)
+  a +5 heavy long sword
+(20, 8, Elf:2)
+  a +0 long sword
+  a +0 leather armour
+  a +0 short sword
+  a +0 leather armour
+  a +0 dagger
+  a +0 leather armour
+(22, -34, Elf:2)
+  a +2 scimitar of freezing
+(22, -32, Elf:2)
+  a +0 short sword
+(24, -31, Elf:2)
+  a +0 heavy hand axe
+(24, -30, Elf:2)
+  a +0 short sword
+  a +0 ring mail
+  a +2 buckler
+(24, 9, Elf:2)
+  a +7 vampiric glaive
+(24, 11, Elf:2)
+  a +4 battleaxe of freezing
+(25, -31, Elf:2)
+  a +1 hand axe of venom
+(25, -28, Elf:2)
+  a +0 short sword
+(25, -22, Elf:2)
+  a +0 long sword
+(26, 11, Elf:2)
+  a +3 scimitar of draining
+(27, -34, Elf:2)
+  a +1 heavy war axe
+(27, -33, Elf:2)
+  a +1 mace of draining
+(28, -35, Elf:2)
+  a +0 short sword of speed
+(28, -34, Elf:2)
+  a +2 bardiche of distortion
+(28, 9, Elf:2)
+  a +0 rapier
+  a +0 leather armour
+  a scroll of identify
+(29, -35, Elf:2)
+  a +0 long sword
+  a +0 leather armour
+  a +0 buckler
+(30, -33, Elf:2)
+  a +0 long sword
+(31, -3, Elf:2)
+  5 stones
+(31, 19, Elf:2)
+  a +0 rapier
+(34, -33, Elf:2)
+  a +0 long sword
+  a +0 short sword
+(37, -9, Elf:2)
+  a +0 chain mail
+(39, 14, Elf:2)
+  a +0 hand axe
+(44, -3, Elf:2)
+  a +1 heavy scimitar
+
+Level 3 of the Elven Halls
+[Shop] Voisew's Magic Scroll Emporium
+  a scroll of identify (30 gold)
+  a scroll of silence (142 gold)
+  a scroll of poison (60 gold)
+  a scroll of identify (30 gold)
+  a scroll of poison (60 gold)
+  a scroll of identify (30 gold)
+(0, 0, Elf:3)
+  a piece from Xom's chessboard (15/15)
+(1, -1, Elf:3)
+  5 stones
+(1, 1, Elf:3)
+  a +0 chain mail
+(2, -1, Elf:3)
+  a +0 ring mail
+(2, 2, Elf:3)
+  a +0 dagger
+(5, -17, Elf:3)
+  a +0 dagger
+(5, 0, Elf:3)
+  a +1 chain mail of cold resistance
+(5, 1, Elf:3)
+  a +1 plate armour of cold resistance
+(5, 2, Elf:3)
+  a +0 short sword
+(6, 1, Elf:3)
+  a +0 short sword
+(7, 1, Elf:3)
+  4 stones
+(8, -7, Elf:3)
+  a +0 long sword
+  a +0 leather armour
+(8, 0, Elf:3)
+  7 stones
+(9, 1, Elf:3)
+  8 stones
+(10, 2, Elf:3)
+  2 stones
+(11, -4, Elf:3)
+  a staff of fire
+  a +0 scale mail
+(11, 0, Elf:3)
+  a +0 club
+(12, -3, Elf:3)
+  a +0 scale mail
+  a +0 rapier
+(12, 16, Elf:3)
+  a +0 shortbow
+  a +0 short sword of draining
+  a +0 scale mail
+(12, 31, Elf:3)
+  a +0 dagger
+(13, -2, Elf:3)
+  a +6 falchion of holy wrath
+  2 scrolls of identify
+(13, 1, Elf:3)
+  a +2 trident of pain
+(13, 2, Elf:3)
+  a +0 rapier
+  a +0 long sword
+  a +0 leather armour
+(13, 30, Elf:3)
+  a +0 short sword
+(14, 0, Elf:3)
+  a +0 vampiric scimitar
+(14, 1, Elf:3)
+  a +0 long sword
+(14, 2, Elf:3)
+  a +0 long sword
+  a +1 ring mail of cold resistance
+(14, 3, Elf:3)
+  a +0 long sword
+(15, 13, Elf:3)
+  a +4 great mace of venom
+  a +2 leather armour of cold resistance
+(15, 23, Elf:3)
+  a +0 chain mail
+  a +0 short sword
+(15, 24, Elf:3)
+  a +0 leather armour
+  a +0 vampiric long sword
+(16, 0, Elf:3)
+  a +1 pair of gloves of strength
+(16, 1, Elf:3)
+  a +2 ring mail of fire resistance
+(16, 6, Elf:3)
+  a +0 scale mail
+  a +0 heavy long sword
+  a +0 long sword
+  a +0 chain mail
+(16, 24, Elf:3)
+  a +2 long sword of holy wrath
+  a +0 leather armour
+(16, 25, Elf:3)
+  the +5 glaive "Gued" {heavy, Fly rN++ Str+2 Stlth-}
+    Str:       It affects your strength (+2).
+    rN:        It greatly protects you from negative energy.
+    Fly:       It grants you flight.
+    Stlth:     It makes you less stealthy.
+  a +0 leather armour
+  a +0 dagger
+(17, -7, Elf:3)
+  a +0 longbow
+  a +0 leather armour
+(17, 0, Elf:3)
+  a phantom mirror
+(17, 1, Elf:3)
+  a box of beasts
+(17, 6, Elf:3)
+  a +0 leather armour
+  a +0 short sword
+  a +0 long sword
+  a +0 leather armour
+  a +0 longbow
+  a +0 rapier
+  a +0 falchion
+(17, 7, Elf:3)
+  a +0 troll leather armour
+  a +0 short sword
+(18, -1, Elf:3)
+  a phantom mirror
+(18, 1, Elf:3)
+  a book of Touch
+(19, 0, Elf:3)
+  a +0 rapier
+(19, 38, Elf:3)
+  a +0 ring mail
+(20, 1, Elf:3)
+  a +0 rapier
+(20, 6, Elf:3)
+  a +0 short sword
+  a +0 leather armour
+  a +0 short sword
+(21, -1, Elf:3)
+  a phial of floods
+(21, 2, Elf:3)
+  a +0 club
+(23, 5, Elf:3)
+  4 stones
+(23, 8, Elf:3)
+  a +0 short sword
+(24, 0, Elf:3)
+  a +0 ring mail
+(24, 1, Elf:3)
+  a staff of earth
+(24, 7, Elf:3)
+  a +0 leather armour
+  a +0 long sword
+(24, 8, Elf:3)
+  a +0 dagger
+(24, 9, Elf:3)
+  a +0 scimitar of distortion
+  a +0 shortbow
+(25, -1, Elf:3)
+  a lightning rod (4/4)
+(25, 1, Elf:3)
+  a +0 rapier
+(25, 2, Elf:3)
+  a lightning rod (4/4)
+(25, 9, Elf:3)
+  a +0 kite shield
+  a +0 ring mail
+  a +3 demon trident of venom
+(26, -1, Elf:3)
+  a +0 dagger
+  a +4 shortbow of electrocution
+(26, 1, Elf:3)
+  a staff of air
+(27, -1, Elf:3)
+  a +0 rapier
+(27, 9, Elf:3)
+  a +0 ring mail
+  a +0 long sword
+  a scroll of vulnerability
+(30, 39, Elf:3)
+  a +0 leather armour
+  a +0 short sword
+(31, 13, Elf:3)
+  a +1 heavy quarterstaff
+  a +0 leather armour
+(31, 17, Elf:3)
+  a +0 buckler
+  a +0 scimitar
+(33, -5, Elf:3)
+  a +0 pair of gloves
+(34, -2, Elf:3)
+  a +0 scimitar
+  a +0 ring mail
+(44, -8, Elf:3)
+  a +2 heavy hand axe
+(44, 28, Elf:3)
+  a +0 plate armour
+(45, 21, Elf:3)
+  a +0 scale mail
+  a +0 short sword
+  a +0 long sword of electrocution
+  a +2 vampiric war axe
+(46, -5, Elf:3)
+  a +0 short sword
+(48, 15, Elf:3)
+  a +0 short sword
+(48, 16, Elf:3)
+  a +2 hand axe of venom
+(49, 9, Elf:3)
+  a +0 battleaxe of flaming
+(49, 25, Elf:3)
+  a +0 scale mail
+  a +0 long sword
+(51, -3, Elf:3)
+  4 poisoned darts
+  a +0 sling
+  a +0 leather armour
+  a +2 shortbow of flaming
+(53, 23, Elf:3)
+  a +0 chain mail
+  a +0 long sword
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a potion of mutation
+(6, 25, Lair:1)
+  a +1 robe of cold resistance
+  a +0 quarterstaff of freezing
+(7, -10, Lair:1)
+  a +0 chain mail
+(13, 6, Lair:1)
+  6 poisoned darts
+(26, 20, Lair:1)
+  6 stones
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  4 stones
+(3, 13, Lair:2)
+  a +0 mace
+(22, -21, Lair:2)
+  a +0 flail
+(26, -3, Lair:2)
+  a +0 shortbow
+(45, -8, Lair:2)
+  a +0 scale mail
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a +0 mace
+(6, 8, Lair:3)
+  4 stones
+(10, 14, Lair:3)
+  a potion of mutation
+(12, 5, Lair:3)
+  a potion of degeneration
+  2 potions of lignification
+(25, 27, Lair:3)
+  a +0 spear
+(30, 27, Lair:3)
+  a +0 flail
+  2 boomerangs
+(35, 1, Lair:3)
+  a +0 flail
+(36, -2, Lair:3)
+  a +0 trident
+(36, 0, Lair:3)
+  a +0 trident
+(37, 28, Lair:3)
+  a +0 trident
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a +0 rapier
+  a +0 robe
+(1, 17, Lair:4)
+  a ring of ice
+  a ring of protection from fire
+(3, -11, Lair:4)
+  4 curare-tipped darts
+(3, 11, Lair:4)
+  a +0 dagger
+  a +0 robe
+  a +0 buckler
+(9, -1, Lair:4)
+  a +2 quick blade of venom
+(12, -13, Lair:4)
+  a +0 robe
+(12, 13, Lair:4)
+  a +0 spear
+  a +0 short sword
+  a +0 robe
+  a +0 buckler
+(12, 39, Lair:4)
+  a +3 ring mail
+(18, -8, Lair:4)
+  a +0 leather armour
+(20, 36, Lair:4)
+  a +0 short sword
+  a +0 robe
+(22, 26, Lair:4)
+  6 stones
+(25, 12, Lair:4)
+  a +0 short sword
+  a +0 robe
+(29, 19, Lair:4)
+  a +0 quarterstaff
+(32, 9, Lair:4)
+  a +0 dagger
+  a +0 robe
+(33, 9, Lair:4)
+  a +0 rapier
+  a +0 robe
+(33, 11, Lair:4)
+  a +0 spear
+(35, 13, Lair:4)
+  a +0 rapier
+  a +0 robe
+  a +0 buckler
+(36, 14, Lair:4)
+  a +0 dagger
+  a +0 robe
+(37, 2, Lair:4)
+  a +0 spear
+(44, 39, Lair:4)
+  a +0 sling
+(45, 35, Lair:4)
+  a +0 chain mail
+(46, 4, Lair:4)
+  a +0 rapier
+(55, -5, Lair:4)
+  a +0 long sword
+(56, -10, Lair:4)
+  a +0 whip
+
+Level 5 of the Lair of Beasts
+(1, 38, Lair:5)
+  a +0 rapier
+(3, 37, Lair:5)
+  2 stones
+(14, 24, Lair:5)
+  a +0 scale mail
+(24, 10, Lair:5)
+  5 poisoned darts
+(29, 2, Lair:5)
+  18 gold pieces
+(33, 16, Lair:5)
+  a +0 hand axe
+(40, 20, Lair:5)
+  2 potions of lignification
+(41, 34, Lair:5)
+  5 stones
+(44, 35, Lair:5)
+  +0 acid dragon scales
+(54, 51, Lair:5)
+  a +0 shortbow
+(55, 31, Lair:5)
+  a +0 short sword
+(59, 46, Lair:5)
+  a +1 whip of electrocution
+(59, 53, Lair:5)
+  +0 swamp dragon scales
+(60, 6, Lair:5)
+  2 poisoned darts
+(60, 46, Lair:5)
+  +0 steam dragon scales
+(60, 49, Lair:5)
+  a potion of degeneration
+(60, 50, Lair:5)
+  a +2 dagger of draining
+(62, 10, Lair:5)
+  5 stones
+(66, 3, Lair:5)
+  a +0 leather armour
+(66, 5, Lair:5)
+  a +2 ring mail of cold resistance
+(69, 12, Lair:5)
+  a potion of mutation
+
+Level 1 of the Shoals
+(0, 0, Shoals:1)
+  a scroll of torment
+(2, -18, Shoals:1)
+  a +0 spear
+(3, -18, Shoals:1)
+  a +0 shortbow
+(3, -1, Shoals:1)
+  a +0 club
+(17, -15, Shoals:1)
+  a +0 trident
+  a boomerang
+(18, 0, Shoals:1)
+  a +0 heavy trident
+(19, -16, Shoals:1)
+  a +0 spear
+(26, -23, Shoals:1)
+  a +0 robe
+(29, 1, Shoals:1)
+  a +0 trident
+(30, -19, Shoals:1)
+  3 boomerangs
+(30, -1, Shoals:1)
+  a +0 spear
+  a +0 sling
+  a +0 spear
+  a +0 sling
+(30, 0, Shoals:1)
+  a +0 spear
+  a silver javelin
+  a +0 leather armour
+(31, 1, Shoals:1)
+  a +0 sling
+  a +0 quarterstaff
+(45, 16, Shoals:1)
+  a +0 scale mail
+
+Level 2 of the Shoals
+(0, 0, Shoals:2)
+  a +0 ring mail
+(12, -7, Shoals:2)
+  3 boomerangs
+  a +1 glaive of venom
+(12, -6, Shoals:2)
+  a +0 spear
+(13, -7, Shoals:2)
+  a +0 spear
+(14, -6, Shoals:2)
+  a +0 spear
+  a +0 robe
+  a +2 trident of venom
+(18, 9, Shoals:2)
+  a +2 heavy trident
+  a +0 robe
+(19, 19, Shoals:2)
+  a +0 quarterstaff
+(20, 16, Shoals:2)
+  a +0 trident
+  a +0 robe
+(21, -26, Shoals:2)
+  a +0 trident
+  a +0 robe
+(22, -26, Shoals:2)
+  a +0 shortbow
+(22, -14, Shoals:2)
+  a +3 scale mail
+(22, 13, Shoals:2)
+  a +0 helmet
+(26, 3, Shoals:2)
+  a +3 leather armour of poison resistance
+(28, -2, Shoals:2)
+  a +0 trident
+(30, -3, Shoals:2)
+  a +0 trident
+(32, 6, Shoals:2)
+  a +0 short sword of freezing
+(41, 8, Shoals:2)
+  a ring of flight
+(42, -22, Shoals:2)
+  a +0 hand axe
+  a +0 chain mail
+(43, -26, Shoals:2)
+  a +0 spear
+
+Level 3 of the Shoals
+(0, 0, Shoals:3)
+  a +0 trident
+(2, -8, Shoals:3)
+  a +0 dagger
+(3, 5, Shoals:3)
+  4 boomerangs
+(3, 7, Shoals:3)
+  a +0 battleaxe
+(4, 10, Shoals:3)
+  a +0 trident
+  3 boomerangs
+(6, -5, Shoals:3)
+  a +0 plate armour
+(11, -8, Shoals:3)
+  4 stones
+(21, 11, Shoals:3)
+  a +0 spear
+(22, -3, Shoals:3)
+  a +0 scale mail
+(25, -8, Shoals:3)
+  a +0 spear
+(26, 10, Shoals:3)
+  a +1 trident of protection
+(26, 18, Shoals:3)
+  a +0 leather armour
+  2 silver javelins
+  a +9 spear
+(27, 18, Shoals:3)
+  2 boomerangs
+  a +0 trident
+(29, 26, Shoals:3)
+  a phial of floods
+  a +0 trident
+(33, 20, Shoals:3)
+  a +0 flail
+(39, 5, Shoals:3)
+  a +0 leather armour
+(39, 35, Shoals:3)
+  a +0 trident
+  2 silver boomerangs
+(40, -8, Shoals:3)
+  2 stones
+(40, 24, Shoals:3)
+  a +0 scale mail
+(41, 36, Shoals:3)
+  a +0 trident
+  3 boomerangs
+
+Level 4 of the Shoals
+[Shop] Acaerpha's Antique Armour Shop
+  a +0 leather armour (64 gold)
+  a +2 robe of fire resistance (566 gold)
+  a +0 chain mail (144 gold)
+  a +0 cloak of preservation (368 gold)
+  a +0 scale mail (128 gold)
+  a +1 plate armour of poison resistance (1024 gold)
+  a +2 ring mail of positive energy (576 gold)
+  a +0 leather armour (64 gold)
+(0, 0, Shoals:4)
+  a +0 trident of flaming
+  a +2 leather armour of poison resistance
+(0, 1, Shoals:4)
+  a +4 trident of protection
+  a +0 robe
+(1, -1, Shoals:4)
+  a +0 trident
+  3 boomerangs
+(7, 4, Shoals:4)
+  3 boomerangs
+  a +0 trident
+(8, 8, Shoals:4)
+  3 boomerangs
+  a +0 trident
+(8, 12, Shoals:4)
+  2 boomerangs
+  a +0 trident
+(8, 14, Shoals:4)
+  a +0 robe
+  a +0 rapier
+(8, 15, Shoals:4)
+  5 boomerangs
+  a +0 trident
+  a +0 trident
+(9, 8, Shoals:4)
+  a boomerang
+  a +0 trident
+(10, 10, Shoals:4)
+  3 boomerangs
+  a +0 trident
+(12, 22, Shoals:4)
+  a wand of flame (1)
+  a ring of protection from fire
+  the ring "Vineub" {Fire Drain rPois Will- Str+10}
+    [ring of fire]
+    
+    It enhances your fire magic.
+    Str:       It affects your strength (+10).
+    rF:        It protects you from fire.
+    rC:        It makes you vulnerable to cold.
+    rPois:     It protects you from poison.
+    Drain:     It drains your maximum health when unequipped.
+    Will:      It decreases your willpower.
+  a +4 ring of protection
+  an amulet of faith
+  a ring of positive energy
+(13, -4, Shoals:4)
+  a staff of fire
+(13, 15, Shoals:4)
+  a +0 spear
+(14, -4, Shoals:4)
+  a staff of air
+(15, -17, Shoals:4)
+  a +1 trident of freezing
+  a +0 robe
+(15, -15, Shoals:4)
+  a +2 trident of venom
+  a +0 leather armour
+(16, -16, Shoals:4)
+  a +0 spear
+  2 boomerangs
+(16, -15, Shoals:4)
+  a +0 trident
+  a +0 trident
+  3 boomerangs
+(16, -13, Shoals:4)
+  a staff of death
+(18, -14, Shoals:4)
+  8 stones
+(19, -17, Shoals:4)
+  a +0 trident
+(20, 30, Shoals:4)
+  a boomerang
+  a +0 trident
+(21, -14, Shoals:4)
+  a +0 spear
+(24, -14, Shoals:4)
+  a +0 spear
+(27, 0, Shoals:4)
+  a +0 pair of boots
+(27, 28, Shoals:4)
+  6 stones
+(31, 6, Shoals:4)
+  a scroll of vulnerability
+(34, -6, Shoals:4)
+  a +0 trident of venom
+  a +0 leather armour
+(34, -4, Shoals:4)
+  a +0 rapier
+  a +0 robe
+(35, -7, Shoals:4)
+  3 large rocks
+(35, -5, Shoals:4)
+  a +4 trident of distortion
+  a +0 robe
+(35, -3, Shoals:4)
+  a +0 rapier
+  a +0 robe
+(36, -6, Shoals:4)
+  a +1 rapier of freezing
+  a +0 robe
+(36, -5, Shoals:4)
+  a +1 spear of venom
+  a silver javelin
+  a +0 leather armour
+(36, -2, Shoals:4)
+  a +0 spear
+  a javelin
+  a +0 leather armour
+(36, 32, Shoals:4)
+  a +0 trident
+(37, -8, Shoals:4)
+  the +2 robe of Uddahem {+Blink Int-5 Dex+6 Slay+3}
+    Int:       It affects your intelligence (-5).
+    Dex:       It affects your dexterity (+6).
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (+3).
+    +Blink:    It lets you blink.
+(38, 20, Shoals:4)
+  a +0 spear
+(43, 24, Shoals:4)
+  a book of Displacement
+(45, 20, Shoals:4)
+  a scroll of vulnerability
+(47, 9, Shoals:4)
+  a +0 spear
+(47, 18, Shoals:4)
+  a potion of mutation
+(55, 29, Shoals:4)
+  a +0 trident
+  3 boomerangs
+  a +0 rapier
+  a +0 robe
+(56, 15, Shoals:4)
+  a +0 trident
+  3 boomerangs
+  a +0 trident
+(56, 16, Shoals:4)
+  a +3 spear of freezing
+  a silver javelin
+  a +0 leather armour
+(56, 18, Shoals:4)
+  a +0 sling of draining
+
+Level 1 of the Snake Pit
+(3, -6, Snake:1)
+  a ring of flight
+(12, -13, Snake:1)
+  a +4 glaive
+(16, -10, Snake:1)
+  a +0 robe
+  a +0 glaive
+(17, -10, Snake:1)
+  a +0 spear
+  a +0 robe
+  a +0 short sword
+(17, -9, Snake:1)
+  a +0 long sword
+(17, 0, Snake:1)
+  a +0 mace
+(27, -20, Snake:1)
+  6 stones
+(29, -15, Snake:1)
+  a +0 trident
+(35, 19, Snake:1)
+  a +2 glaive of protection
+(36, 19, Snake:1)
+  a +0 dire flail
+(39, 22, Snake:1)
+  a +0 ring mail
+(40, 15, Snake:1)
+  5 stones
+(43, -9, Snake:1)
+  a +0 club
+  a +0 robe
+
+Level 2 of the Snake Pit
+(0, 0, Snake:2)
+  a +0 ring mail
+(2, -14, Snake:2)
+  a +2 halberd of protection
+  a +0 robe
+(7, -24, Snake:2)
+  a +0 spear
+  2 potions of degeneration
+(7, 2, Snake:2)
+  a +0 robe
+  a +0 mace
+(8, -16, Snake:2)
+  a +0 short sword
+  a +5 arbalest
+(8, -15, Snake:2)
+  a +0 flail
+(9, -31, Snake:2)
+  a potion of degeneration
+(9, -14, Snake:2)
+  a +0 pair of boots
+(9, -3, Snake:2)
+  a +0 flail of venom
+(10, -33, Snake:2)
+  a potion of degeneration
+(10, -32, Snake:2)
+  a potion of degeneration
+(10, -29, Snake:2)
+  a potion of degeneration
+(10, -3, Snake:2)
+  a +0 mace
+(11, -32, Snake:2)
+  a potion of degeneration
+(11, -31, Snake:2)
+  a +1 spear of venom
+(11, -29, Snake:2)
+  a potion of degeneration
+(11, -10, Snake:2)
+  a +0 quarterstaff
+  a +0 robe
+(11, -2, Snake:2)
+  a +0 dire flail
+(11, 4, Snake:2)
+  a +0 robe
+(12, -33, Snake:2)
+  a potion of degeneration
+(12, -31, Snake:2)
+  a potion of degeneration
+(12, -29, Snake:2)
+  a potion of degeneration
+(12, 6, Snake:2)
+  a +0 spear
+(13, -33, Snake:2)
+  a potion of degeneration
+(13, -32, Snake:2)
+  a potion of degeneration
+(13, -29, Snake:2)
+  a potion of degeneration
+(13, -21, Snake:2)
+  a +0 halberd
+(13, -2, Snake:2)
+  a +0 sling
+(14, -32, Snake:2)
+  a potion of degeneration
+(15, -31, Snake:2)
+  a potion of degeneration
+(16, -31, Snake:2)
+  a potion of degeneration
+(16, -28, Snake:2)
+  a +0 robe
+  a +0 long sword
+(19, -2, Snake:2)
+  a +0 mace
+(22, -4, Snake:2)
+  5 scrolls of enchant weapon
+(24, -18, Snake:2)
+  a +4 shortbow of flaming
+(29, -23, Snake:2)
+  6 stones
+(36, -19, Snake:2)
+  a potion of mutation
+(49, -11, Snake:2)
+  a +0 giant club
+
+Level 3 of the Snake Pit
+(0, 0, Snake:3)
+  a +0 hand axe
+(1, -1, Snake:3)
+  a +0 trident
+(1, 0, Snake:3)
+  a +0 trident
+  a +0 robe
+(18, 0, Snake:3)
+  a +0 glaive
+(20, 24, Snake:3)
+  a +0 halberd
+  a +0 robe
+(22, 2, Snake:3)
+  a +0 robe
+  a +0 dagger
+(24, 2, Snake:3)
+  a +0 pair of gloves
+  a +0 cloak of preservation
+  a +4 rapier of electrocution
+(24, 22, Snake:3)
+  a +2 trident of flaming
+  a +0 plate armour
+  a +0 tower shield
+(25, 2, Snake:3)
+  a +0 robe
+  a +0 flail
+(25, 3, Snake:3)
+  a +4 trident
+(26, 2, Snake:3)
+  a +1 kite shield of protection
+  a +0 war axe
+(27, 23, Snake:3)
+  a +0 halberd
+  a potion of mutation
+(27, 31, Snake:3)
+  a +0 robe
+  a +0 scimitar
+(28, 0, Snake:3)
+  a +0 trident
+(29, 32, Snake:3)
+  a +0 robe
+  a +0 trident
+(29, 33, Snake:3)
+  a +2 trident
+(30, 3, Snake:3)
+  a +0 scimitar
+(31, -2, Snake:3)
+  a +1 vampiric halberd
+(32, 35, Snake:3)
+  7 stones
+(35, 1, Snake:3)
+  a +0 halberd
+  3 stones
+(37, 2, Snake:3)
+  a +0 short sword
+  a +0 robe
+  a +2 kite shield of resistance
+(47, 36, Snake:3)
+  a +0 long sword
+
+Level 4 of the Snake Pit
+[Shop] Paypihot's Self-Improvement Boutique
+  a manual of Armour (1040 gold)
+  a manual of Unarmed Combat (1040 gold)
+(0, 0, Snake:4)
+  a +0 halberd
+(2, -2, Snake:4)
+  a +0 mace
+(11, -36, Snake:4)
+  a +0 dire flail
+(12, -35, Snake:4)
+  a +0 war axe
+(12, -34, Snake:4)
+  a +0 war axe
+  a +0 robe
+(13, -33, Snake:4)
+  a +0 arbalest
+  a +0 short sword
+(13, -32, Snake:4)
+  a +0 flail
+(15, -19, Snake:4)
+  a +0 robe
+  a +0 scimitar
+(15, -17, Snake:4)
+  a +0 trident
+  a +0 robe
+  a +0 dire flail
+(15, -16, Snake:4)
+  a +0 halberd
+(16, -21, Snake:4)
+  a +0 spear
+(17, -34, Snake:4)
+  a +0 scimitar
+  a +0 shortbow
+(17, -21, Snake:4)
+  a +0 short sword
+(20, 0, Snake:4)
+  a +0 battleaxe of venom
+(24, -20, Snake:4)
+  a +0 robe
+  a +0 long sword
+(35, -7, Snake:4)
+  a +0 club
+(37, -8, Snake:4)
+  a +0 short sword
+(38, -1, Snake:4)
+  a +0 dagger
+(40, -9, Snake:4)
+  a +0 whip
+  a +0 robe
+(41, -18, Snake:4)
+  a +0 whip
+  a +0 robe
+(41, -9, Snake:4)
+  a +0 battleaxe
+(42, -29, Snake:4)
+  6 poisoned darts
+(42, -10, Snake:4)
+  a +0 flail
+(43, -43, Snake:4)
+  a +0 flail
+  a +0 shortbow
+(43, -18, Snake:4)
+  a +0 battleaxe
+  a +0 robe
+(44, -18, Snake:4)
+  a +0 scimitar
+  a +0 long sword
+  a +0 robe
+(45, -18, Snake:4)
+  a +0 short sword
+  a +0 robe
+(46, -39, Snake:4)
+  a +3 glaive
+(46, -25, Snake:4)
+  a +0 spear
+(46, -18, Snake:4)
+  a +0 halberd
+  a +0 robe
+(46, -17, Snake:4)
+  a +0 long sword of electrocution
+  a +0 shortbow
+  a +0 mace
+  a +0 short sword
+  a +0 glaive
+  a +0 broad axe
+(46, -14, Snake:4)
+  a +0 trident
+  a +0 robe
+  a box of beasts
+(46, -13, Snake:4)
+  a +0 arbalest
+  a +0 short sword
+(46, -12, Snake:4)
+  a +1 flail of holy wrath
+  a +0 robe
+(47, -27, Snake:4)
+  a +0 halberd
+(47, -17, Snake:4)
+  a +0 glaive
+(47, -14, Snake:4)
+  a +2 antimagic mace
+  a +0 short sword
+(47, -9, Snake:4)
+  a +0 dire flail
+(48, -28, Snake:4)
+  a +0 short sword
+(48, -27, Snake:4)
+  a +0 flail
+(48, -7, Snake:4)
+  a +0 halberd
+(48, 12, Snake:4)
+  a +0 mace
+  a +0 robe
+(49, -27, Snake:4)
+  a +0 mace
+(49, -26, Snake:4)
+  a +0 scimitar
+(50, -27, Snake:4)
+  a +0 glaive
+  a +0 short sword
+(50, -25, Snake:4)
+  a +0 longbow
+  a +0 long sword
+  a +0 robe
+(56, -19, Snake:4)
+  a +0 mace
+(56, -10, Snake:4)
+  a +0 mace
+  a +0 robe
+(63, -49, Snake:4)
+  a +0 hand axe
+
+Level 1 of the Vaults
+(0, 0, Vaults:1)
+  a +0 robe
+(2, -3, Vaults:1)
+  a +0 scale mail
+  a +0 dire flail
+(2, -1, Vaults:1)
+  a +0 ring mail
+  a +2 war axe of freezing
+(2, 6, Vaults:1)
+  a +2 bardiche of venom
+  a +0 plate armour
+  a potion of mutation
+(3, -2, Vaults:1)
+  a +0 ring mail
+  a +1 dire flail of venom
+(4, -3, Vaults:1)
+  a +0 ring mail
+  a +0 flail
+(6, -3, Vaults:1)
+  a +0 animal skin
+  a +0 dire flail
+(7, -3, Vaults:1)
+  a +0 kite shield
+  a +0 chain mail
+  a +0 long sword
+(7, 29, Vaults:1)
+  a +0 scale mail
+(8, -14, Vaults:1)
+  a +0 whip
+(9, -3, Vaults:1)
+  a tin of tremorstones (2/2)
+  8 scrolls of identify
+  8 potions of flight
+  4 potions of berserk rage
+  10 potions of might
+  a +0 troll leather armour
+(10, 29, Vaults:1)
+  a +0 dagger
+  a +0 robe
+(11, -2, Vaults:1)
+  a +0 animal skin
+  a +0 dire flail
+(12, -2, Vaults:1)
+  a +0 arbalest
+  a +0 arbalest
+(13, -1, Vaults:1)
+  a +0 morningstar
+  a +0 ring mail
+(13, 0, Vaults:1)
+  a +0 ring mail
+  a +0 falchion
+(14, -4, Vaults:1)
+  a +0 ring mail
+  a +0 long sword
+(19, 21, Vaults:1)
+  a +0 dire flail
+  a +0 ring mail
+(22, 0, Vaults:1)
+  a +0 scale mail
+(24, 1, Vaults:1)
+  a +2 great sword of flaming
+(24, 2, Vaults:1)
+  a +0 arbalest
+(25, 1, Vaults:1)
+  a +3 arbalest
+  a +0 falchion
+  a +0 ring mail
+(37, 5, Vaults:1)
+  a +0 shortbow
+(37, 8, Vaults:1)
+  a +0 falchion
+  a +0 ring mail
+(37, 26, Vaults:1)
+  a +0 troll leather armour
+(38, 6, Vaults:1)
+  a +0 longbow
+(38, 26, Vaults:1)
+  a +0 great mace of protection
+  a +0 ring mail
+(40, 8, Vaults:1)
+  a +0 morningstar
+  a +0 leather armour
+(40, 29, Vaults:1)
+  a +0 flail
+  a +0 ring mail
+(41, 28, Vaults:1)
+  a +0 long sword
+  a +3 plate armour
+(43, 22, Vaults:1)
+  a +0 shortbow of freezing
+(46, -10, Vaults:1)
+  a +0 dire flail
+  a +0 animal skin
+(46, 23, Vaults:1)
+  a +0 shortbow
+  a +1 barding
+(46, 28, Vaults:1)
+  a +0 longbow
+(47, 18, Vaults:1)
+  the +1 hand axe "Baymau" {freeze, rCorr Dex+3}
+    Dex:       It affects your dexterity (+3).
+    rCorr:     It protects you from acid and corrosion.
+(47, 27, Vaults:1)
+  a +0 great mace
+  a +0 plate armour
+(49, 27, Vaults:1)
+  a +0 arbalest
+  a +1 broad axe of flaming
+  a +0 plate armour
+(50, -12, Vaults:1)
+  a +0 shortbow
+(51, 28, Vaults:1)
+  a +0 arbalest
+  a +0 long sword
+  a +0 scale mail
+(52, -7, Vaults:1)
+  a +0 mace
+  a +0 ring mail
+(52, 29, Vaults:1)
+  a +2 great sword
+  a +0 chain mail
+(53, -5, Vaults:1)
+  a +0 dagger
+  a +0 robe
+(54, 30, Vaults:1)
+  a +1 morningstar of distortion
+  a +0 ring mail
+(55, -5, Vaults:1)
+  a +0 shortbow
+(55, -4, Vaults:1)
+  a +0 longbow
+  a +0 longbow
+(56, -4, Vaults:1)
+  a +0 shortbow
+(57, 19, Vaults:1)
+  a +0 long sword
+(61, 41, Vaults:1)
+  a +2 flail of holy wrath
+  a +0 ring mail
+(65, 16, Vaults:1)
+  a +0 arbalest
+  a +0 arbalest
+(66, 16, Vaults:1)
+  a +0 arbalest
+(66, 17, Vaults:1)
+  a +0 arbalest
+  a +0 arbalest
+(67, -5, Vaults:1)
+  a +0 mace
+(67, -4, Vaults:1)
+  a +0 short sword
+
+Level 2 of the Vaults
+(0, 0, Vaults:2)
+  a +0 long sword
+  a +0 plate armour
+  a +0 heavy mace
+  a +0 leather armour
+(1, 0, Vaults:2)
+  a +0 morningstar
+  a +0 scale mail
+(2, 1, Vaults:2)
+  a +0 long sword
+  a +0 plate armour
+  a +0 kite shield
+(6, 11, Vaults:2)
+  a +0 flail
+  a +0 scale mail
+(13, 11, Vaults:2)
+  a +0 dagger
+  a +0 robe
+(17, -37, Vaults:2)
+  a +0 long sword
+(18, -33, Vaults:2)
+  a +0 robe
+(19, -28, Vaults:2)
+  a +0 dagger
+  a +0 leather armour
+(21, -27, Vaults:2)
+  a +0 quarterstaff
+  a +0 arbalest
+  a +0 ring mail
+(22, -27, Vaults:2)
+  a +0 arbalest
+(23, -30, Vaults:2)
+  a +2 morningstar of protection
+  a +0 leather armour
+(23, 7, Vaults:2)
+  a +0 short sword
+(28, 10, Vaults:2)
+  a +0 falchion
+(28, 12, Vaults:2)
+  a +0 arbalest
+(28, 14, Vaults:2)
+  a +0 arbalest
+(32, 11, Vaults:2)
+  a +0 arbalest
+(32, 13, Vaults:2)
+  a +2 antimagic triple crossbow
+(34, -19, Vaults:2)
+  a +0 morningstar
+(35, -30, Vaults:2)
+  a +0 ring mail
+(35, -28, Vaults:2)
+  a +0 ring mail
+(36, -29, Vaults:2)
+  a +3 broad axe
+  a +0 chain mail
+(36, -23, Vaults:2)
+  a +0 plate armour
+(36, -21, Vaults:2)
+  a scroll of vulnerability
+(37, -31, Vaults:2)
+  a +0 morningstar
+  a +0 scale mail
+  a +0 dire flail
+  a +0 plate armour
+(37, -30, Vaults:2)
+  a +1 bardiche of venom
+  a +0 chain mail
+(42, -7, Vaults:2)
+  a +0 scale mail
+  a +0 hand crossbow
+  a +2 scale mail of fire resistance
+  a +0 falchion
+  a +4 arbalest
+  a +0 ring mail
+  a +0 morningstar
+  a +0 arbalest
+  a +0 dire flail of protection
+(43, -31, Vaults:2)
+  a +0 great mace
+  a +0 ring mail
+(43, -8, Vaults:2)
+  a +0 trident
+(43, -7, Vaults:2)
+  a +0 ring mail
+  a +0 long sword
+  a +0 arbalest
+(44, -31, Vaults:2)
+  a +0 long sword
+  a +0 ring mail
+(50, -41, Vaults:2)
+  a +0 ring mail
+(54, -20, Vaults:2)
+  a +0 ring mail
+  a +2 heavy war axe
+(55, -19, Vaults:2)
+  a +0 ring mail
+  a +0 flail
+(56, -19, Vaults:2)
+  a +0 ring mail
+  a +0 great mace
+(57, -22, Vaults:2)
+  a +0 long sword
+(58, -19, Vaults:2)
+  a +0 war axe
+(58, -18, Vaults:2)
+  a +0 ring mail
+  a +0 morningstar
+(58, -17, Vaults:2)
+  a +0 troll leather armour
+(58, -14, Vaults:2)
+  a +0 scale mail
+  a +0 falchion
+  a +0 arbalest
+(59, -19, Vaults:2)
+  a +0 ring mail
+(59, -18, Vaults:2)
+  a +0 ring mail
+(59, 5, Vaults:2)
+  a +0 arbalest
+  a +0 arbalest
+  a +0 great sword
+  a +0 chain mail
+(60, -26, Vaults:2)
+  a +0 arbalest
+(60, 4, Vaults:2)
+  a +0 falchion
+  a +0 scale mail
+(60, 5, Vaults:2)
+  a +0 arbalest
+  a +0 arbalest
+  a +0 morningstar
+  a +0 arbalest
+  a +0 ring mail
+(61, -14, Vaults:2)
+  2 potions of mutation
+(62, 4, Vaults:2)
+  a +0 long sword
+  a +0 scale mail
+(63, -38, Vaults:2)
+  a +0 chain mail
+  a +1 great mace of protection
+(63, -37, Vaults:2)
+  a +0 plate armour
+  a +0 great sword
+(64, -39, Vaults:2)
+  a +0 chain mail
+  a +0 war axe
+  a +0 chain mail of positive energy
+  a +3 dire flail
+
+Level 3 of the Vaults
+(0, 0, Vaults:3)
+  a +2 arbalest of flaming
+  a +0 arbalest
+(1, 1, Vaults:3)
+  a +0 arbalest
+(1, 2, Vaults:3)
+  a +0 arbalest
+(2, 1, Vaults:3)
+  a +0 arbalest
+(2, 3, Vaults:3)
+  a +0 dire flail
+  a +0 plate armour
+(24, 19, Vaults:3)
+  a +0 robe
+  a +1 dagger of flaming
+(26, 18, Vaults:3)
+  a +0 scale mail
+(27, 20, Vaults:3)
+  a +0 scale mail
+(29, 11, Vaults:3)
+  a +0 ring mail
+  a +1 falchion of draining
+(29, 19, Vaults:3)
+  a +0 scale mail
+(31, 22, Vaults:3)
+  a +0 troll leather armour
+  a +0 leather armour
+  a +0 flail
+(32, 13, Vaults:3)
+  a +0 scale mail
+  a +0 long sword
+(32, 20, Vaults:3)
+  a +0 ring mail
+  a +0 heavy long sword
+(32, 22, Vaults:3)
+  a +0 ring mail
+(32, 24, Vaults:3)
+  a +0 arbalest
+(33, -23, Vaults:3)
+  a +0 dagger
+  a +0 robe
+(33, 20, Vaults:3)
+  a +0 ring mail
+  a +0 long sword
+  a +0 arbalest
+(37, -7, Vaults:3)
+  a potion of magic
+(39, -5, Vaults:3)
+  a +2 sling of draining
+  (unseen)
+(41, -10, Vaults:3)
+  a scroll of brand weapon
+(42, -25, Vaults:3)
+  a +0 robe
+(43, -5, Vaults:3)
+  a manual of Unarmed Combat
+(45, -7, Vaults:3)
+  31 gold pieces
+(56, -8, Vaults:3)
+  a +0 great sword
+(59, -28, Vaults:3)
+  a scroll of identify
+(63, -13, Vaults:3)
+  a +0 animal skin
+  a +0 dire flail
+(70, 27, Vaults:3)
+  5 stones
+
+Level 4 of the Vaults
+[Shop] Fal Wujo's General Store
+  a wand of iceblast (4) (182 gold)
+  a potion of haste (190 gold)
+  a wand of iceblast (5) (228 gold)
+  a ring of fire (475 gold)
+  a scroll of fear (76 gold)
+  a +0 trident (66 gold)
+  a +0 robe (13 gold)
+  6 stones (11 gold)
+  a +0 scale mail (76 gold)
+(0, 0, Vaults:4)
+  a condenser vane
+(0, 32, Vaults:4)
+  a potion of degeneration
+(5, -2, Vaults:4)
+  a +0 chain mail
+(5, -1, Vaults:4)
+  a +0 chain mail
+(8, 36, Vaults:4)
+  a scroll of identify
+(15, 21, Vaults:4)
+  a scroll of identify
+  a +0 scale mail of willpower
+  a +0 morningstar
+  a +0 arbalest
+(17, 25, Vaults:4)
+  a +0 scale mail
+(18, 26, Vaults:4)
+  a +0 ring mail
+  a +0 great mace
+(19, 30, Vaults:4)
+  a +0 scale mail
+  a +0 mace
+(20, 34, Vaults:4)
+  a +0 scale mail
+  a +0 war axe
+(24, 15, Vaults:4)
+  a +0 scale mail
+(26, 18, Vaults:4)
+  a +0 plate armour
+  a +0 dire flail of protection
+(26, 19, Vaults:4)
+  a +0 scale mail
+  a +0 dire flail
+(27, 18, Vaults:4)
+  a +0 plate armour
+  a +3 great mace
+(27, 19, Vaults:4)
+  a +0 plate armour
+  a +1 battleaxe of venom
+(27, 35, Vaults:4)
+  a +0 scale mail
+  a +0 war axe
+  a +0 arbalest
+(28, 17, Vaults:4)
+  a +0 chain mail
+  a +0 long sword
+(28, 18, Vaults:4)
+  a +0 chain mail
+  a +2 battleaxe of electrocution
+(28, 19, Vaults:4)
+  +0 gold dragon scales
+(29, 10, Vaults:4)
+  a +0 dire flail
+  a +2 dire flail of holy wrath
+(32, 6, Vaults:4)
+  a +0 animal skin
+  a +0 dire flail
+(42, -5, Vaults:4)
+  a potion of degeneration
+(42, 47, Vaults:4)
+  a +0 sling
+  a +0 arbalest
+  a +0 arbalest
+  a +0 arbalest
+(43, 46, Vaults:4)
+  a +0 arbalest
+(44, -7, Vaults:4)
+  a +0 troll leather armour
+(44, 39, Vaults:4)
+  a +0 plate armour
+  a +0 great mace
+(44, 46, Vaults:4)
+  a +0 plate armour
+  a +0 dire flail
+(46, 45, Vaults:4)
+  a +0 leather armour
+  a +0 morningstar
+(46, 46, Vaults:4)
+  a +0 troll leather armour
+(47, 42, Vaults:4)
+  a +0 chain mail
+  a +0 great mace
+  a +0 scale mail
+  a +0 war axe
+(47, 44, Vaults:4)
+  a +0 buckler
+  a +0 scale mail
+  a +0 long sword
+(48, 42, Vaults:4)
+  a +0 ring mail
+  a +0 great mace
+(51, 18, Vaults:4)
+  a +0 animal skin
+  a +1 antimagic dire flail
+(51, 20, Vaults:4)
+  a scroll of vulnerability
+  a +0 scale mail
+  a +0 dire flail
+(51, 22, Vaults:4)
+  a +0 ring mail
+(51, 45, Vaults:4)
+  a +0 leather armour
+  a +0 morningstar
+(52, 17, Vaults:4)
+  a +0 scale mail
+(52, 21, Vaults:4)
+  a +0 ring mail
+  a +2 flail of holy wrath
+(52, 23, Vaults:4)
+  a +0 ring mail
+  a +0 mace
+(52, 24, Vaults:4)
+  a +0 troll leather armour
+(52, 46, Vaults:4)
+  a +0 scale mail of cold resistance
+  a +2 chain mail of poison resistance
+  a +1 battleaxe of freezing
+(52, 47, Vaults:4)
+  a +0 robe
+  a +0 dagger
+(53, 23, Vaults:4)
+  a +0 troll leather armour
+(53, 24, Vaults:4)
+  a +0 scale mail
+  a +0 falchion
+  a +0 arbalest
+(54, 29, Vaults:4)
+  a +0 arbalest
+(54, 44, Vaults:4)
+  a +0 leather armour
+  a +2 heavy mace
+(54, 46, Vaults:4)
+  a +0 troll leather armour
+(59, 11, Vaults:4)
+  a +0 leather armour
+  a +0 morningstar
+(59, 17, Vaults:4)
+  a +0 arbalest
+(60, 13, Vaults:4)
+  a +2 flail of holy wrath
+(60, 17, Vaults:4)
+  a +0 animal skin
+  a +0 great mace
+(62, 13, Vaults:4)
+  a +0 robe
+  a +0 dagger
+(62, 14, Vaults:4)
+  a +0 plate armour
+  a +1 long sword
+(62, 15, Vaults:4)
+  a +0 arbalest
+(63, 10, Vaults:4)
+  a +0 shortbow
+  a +0 scale mail
+  a +0 morningstar
+(63, 12, Vaults:4)
+  a scroll of vulnerability
+  a +0 scale mail
+  a +0 great mace
+(63, 14, Vaults:4)
+  a +0 plate armour
+  a +2 dire flail of protection
+
+Level 5 of the Vaults
+[Shop] Zemim's Jewellery Shop
+  a ring of protection from fire (300 gold)
+  a ring of ice (300 gold)
+  an amulet of magic regeneration (360 gold)
+  a ring of see invisible (180 gold)
+  a ring of ice (300 gold)
+  an amulet of reflection (360 gold)
+  a ring of magical power (240 gold)
+  a ring of ice (300 gold)
+  a ring of protection from cold (300 gold)
+  a ring of ice (300 gold)
+(0, 0, Vaults:5)
+  a +0 war axe
+  a potion of mutation
+(0, 4, Vaults:5)
+  a tin of tremorstones (2/2)
+(4, -11, Vaults:5)
+  4 large rocks
+(10, -8, Vaults:5)
+  a +0 robe of willpower
+(10, 0, Vaults:5)
+  a +2 pair of gloves of infusion
+(10, 26, Vaults:5)
+  a tin of tremorstones (2/2)
+(11, 2, Vaults:5)
+  a scroll of identify
+(16, 4, Vaults:5)
+  a +0 arbalest
+  a staff of death
+  5 stones
+(17, 22, Vaults:5)
+  a +0 leather armour
+  a +4 vampiric short sword
+(18, 14, Vaults:5)
+  a +0 ring mail
+  a +0 flail
+  +0 gold dragon scales
+(18, 19, Vaults:5)
+  a +0 chain mail
+  a +1 heavy long sword
+(18, 22, Vaults:5)
+  a +0 plate armour
+  a +1 antimagic great mace
+  10 stones
+  3 scrolls of identify
+(18, 26, Vaults:5)
+  a +0 scale mail
+  a +0 arbalest
+  a +0 quarterstaff
+(20, 9, Vaults:5)
+  5 boomerangs of dispersal
+  a +0 scale mail
+  a +0 long sword
+  4 large rocks
+(20, 14, Vaults:5)
+  4 atropa-tipped darts
+(20, 19, Vaults:5)
+  a +0 ring mail
+  a +0 dire flail
+  a potion of lignification
+(20, 39, Vaults:5)
+  a +0 leather armour
+(21, 19, Vaults:5)
+  a +0 ring mail
+  a +0 dire flail
+(21, 26, Vaults:5)
+  a +0 scale mail
+  a +0 morningstar
+  a +0 arbalest
+  a ring of resist corrosion
+(22, 9, Vaults:5)
+  a +0 ring mail
+  a +0 dire flail
+  a scroll of identify
+(22, 11, Vaults:5)
+  4 large rocks
+(22, 15, Vaults:5)
+  a +0 leather armour
+  a +0 rapier
+(22, 19, Vaults:5)
+  a +0 leather armour
+  a +0 morningstar
+  a +0 chain mail
+  a +0 glaive
+(23, 10, Vaults:5)
+  +0 storm dragon scales
+(23, 15, Vaults:5)
+  a +0 tower shield
+  a +0 chain mail
+  a +1 long sword of protection
+(23, 21, Vaults:5)
+  a +0 plate armour
+  3 potions of attraction
+  a +1 lajatang of speed
+(24, 11, Vaults:5)
+  quicksilver dragon scales
+(24, 15, Vaults:5)
+  a +0 plate armour
+  a +2 war axe
+(24, 16, Vaults:5)
+  a +0 plate armour
+  a +0 battleaxe
+(24, 17, Vaults:5)
+  2 stones
+  a +0 arbalest
+  a +0 falchion
+(24, 19, Vaults:5)
+  a scroll of identify
+  a +0 arbalest
+  a +0 plate armour
+  a +0 great sword
+  a +0 dire flail
+  a +0 mace
+(24, 20, Vaults:5)
+  a +1 dire flail of draining
+  a +0 dire flail
+(24, 32, Vaults:5)
+  a +4 ring of slaying
+  a ring of protection from cold
+  a ring of flight
+  a ring of see invisible
+  a ring of protection from cold
+  a +4 ring of protection
+  a +4 ring of protection
+  a ring of protection from cold
+(25, 13, Vaults:5)
+  a +0 chain mail
+  a +0 dire flail
+  a +0 arbalest
+(25, 14, Vaults:5)
+  a +0 chain mail
+  a +0 glaive
+(25, 17, Vaults:5)
+  a +0 leather armour
+  a +2 morningstar of protection
+  a +0 chain mail
+  a +0 great sword
+(25, 19, Vaults:5)
+  a +0 arbalest
+(26, 9, Vaults:5)
+  +0 storm dragon scales
+(26, 14, Vaults:5)
+  a +0 chain mail
+  a +0 great sword
+(27, 8, Vaults:5)
+  a +0 short sword
+(27, 13, Vaults:5)
+  a +0 plate armour
+  a +2 long sword
+(27, 15, Vaults:5)
+  a +0 chain mail
+  a +0 dire flail
+(27, 16, Vaults:5)
+  a ring of poison resistance
+  a +0 morningstar
+  a +0 arbalest
+(27, 20, Vaults:5)
+  a +1 battleaxe of freezing
+(27, 21, Vaults:5)
+  a +0 troll leather armour
+(28, 13, Vaults:5)
+  a +0 plate armour
+  a +1 battleaxe of flaming
+  a +0 chain mail
+  a +3 great sword
+(28, 14, Vaults:5)
+  a +0 plate armour
+  a +1 heavy battleaxe
+(28, 15, Vaults:5)
+  a +0 plate armour
+  a +0 great mace
+  a +0 chain mail
+  a +3 heavy dire flail
+(29, 13, Vaults:5)
+  a +0 chain mail
+  a +1 battleaxe
+(29, 16, Vaults:5)
+  a +0 chain mail
+  a +0 bardiche
+(29, 17, Vaults:5)
+  a +0 leather armour
+  a +0 scimitar
+  a +0 ring mail
+  a +0 rapier
+(30, 15, Vaults:5)
+  a +4 chain mail of poison resistance
+  a +0 dire flail
+(31, 12, Vaults:5)
+  a +0 chain mail
+  a +2 demon trident
+(31, 14, Vaults:5)
+  a +0 plate armour
+  a +0 war axe
+(31, 19, Vaults:5)
+  a +0 ring mail
+  a +0 scimitar
+  a +0 shortbow
+(32, 14, Vaults:5)
+  a +0 plate armour
+  a +0 long sword
+(32, 16, Vaults:5)
+  a +0 ring mail
+  a +0 rapier
+  a +0 arbalest
+(32, 20, Vaults:5)
+  a +0 scale mail
+  a +0 morningstar
+(32, 28, Vaults:5)
+  a +0 war axe
+(32, 29, Vaults:5)
+  a book of Cantrips
+(33, 9, Vaults:5)
+  a +0 long sword
+  a +1 battleaxe of freezing
+(33, 10, Vaults:5)
+  a +0 plate armour
+  a +6 heavy long sword
+  a +0 arbalest
+(33, 14, Vaults:5)
+  a scroll of vulnerability
+  a +0 robe
+  a +0 hand crossbow
+(33, 17, Vaults:5)
+  5 large rocks
+(33, 30, Vaults:5)
+  a +0 ring mail
+(33, 31, Vaults:5)
+  a +0 chain mail
+(33, 32, Vaults:5)
+  a condenser vane
+(34, 29, Vaults:5)
+  a +1 tower shield of protection
+  a +0 war axe
+(34, 32, Vaults:5)
+  the +0 robe "Wamimik" {Archmagi}
+    Archmagi:  It increases the power of your magical spells.
+(35, 9, Vaults:5)
+  a +0 leather armour
+  a +0 rapier
+(35, 21, Vaults:5)
+  a +0 chain mail
+(35, 30, Vaults:5)
+  a staff of poison
+(35, 31, Vaults:5)
+  a staff of cold
+(40, 2, Vaults:5)
+  a tin of tremorstones (2/2)
+(41, 2, Vaults:5)
+  a +0 broad axe
+  a +1 scale mail of poison resistance
+  a +2 buckler of protection
+  a +0 giant spiked club
+(42, 0, Vaults:5)
+  a +0 flail
+(42, 4, Vaults:5)
+  6 stones
+(42, 6, Vaults:5)
+  a +0 great mace
+  a +0 scale mail
+(43, -1, Vaults:5)
+  a phial of floods
+(43, 0, Vaults:5)
+  a +0 mace
+(43, 2, Vaults:5)
+  a piece from Xom's chessboard (15/15)
+(43, 3, Vaults:5)
+  a scroll of identify
+(45, 2, Vaults:5)
+  a scroll of noise
+(46, -4, Vaults:5)
+  a +1 hat
+(51, 27, Vaults:5)
+  a +0 leather armour of fire resistance
+(51, 35, Vaults:5)
+  a +0 leather armour
+  a +0 great mace
+(53, 4, Vaults:5)
+  +0 storm dragon scales
+(53, 37, Vaults:5)
+  a +0 long sword
+  a +0 shortbow
+(55, 12, Vaults:5)
+  a +0 chain mail
+  a +0 great sword of draining
+  2 atropa-tipped darts
+  an amulet of regeneration
+(55, 13, Vaults:5)
+  a +0 arbalest
+  a +0 morningstar of protection
+(55, 41, Vaults:5)
+  a +0 chain mail
+  a +0 great sword
+(56, -10, Vaults:5)
+  a +0 dire flail
+  a +0 dire flail
+(56, 12, Vaults:5)
+  a +0 chain mail
+  a +3 battleaxe of venom
+  a scroll of identify
+  6 stones
+(58, -11, Vaults:5)
+  3 scrolls of identify
+
+Level 1 of the Crypt
+(0, 0, Crypt:1)
+  a +0 leather armour
+(7, 11, Crypt:1)
+  a +0 triple sword
+(9, -9, Crypt:1)
+  a +0 robe
+(12, -4, Crypt:1)
+  a +0 short sword
+(15, -7, Crypt:1)
+  a +0 rapier
+(15, 15, Crypt:1)
+  a potion of lignification
+(22, 28, Crypt:1)
+  a +0 quarterstaff
+(27, -3, Crypt:1)
+  5 poisoned darts
+(28, 9, Crypt:1)
+  a +0 hand axe
+(29, 3, Crypt:1)
+  a +0 plate armour
+  a +2 heavy great sword
+  a +1 dagger of speed
+(30, 4, Crypt:1)
+  a +0 long sword
+(30, 35, Crypt:1)
+  a scroll of identify
+(32, -7, Crypt:1)
+  a +0 robe
+(33, 26, Crypt:1)
+  a +0 heavy hand axe
+(33, 27, Crypt:1)
+  a +0 chain mail
+(38, -4, Crypt:1)
+  a +0 glaive
+(39, -5, Crypt:1)
+  a +2 halberd of venom
+  a +0 glaive
+(40, -5, Crypt:1)
+  a +0 flail
+(43, 7, Crypt:1)
+  a +0 pair of boots
+(43, 16, Crypt:1)
+  a +0 morningstar
+  a +0 robe
+(47, 1, Crypt:1)
+  a +0 robe
+  a +0 dagger
+(47, 2, Crypt:1)
+  a +0 robe
+(47, 18, Crypt:1)
+  2 stones
+
+Level 2 of the Crypt
+(0, 0, Crypt:2)
+  the +0 scale mail "Newnop" {Rampage rElec rPois rC-}
+    rC:        It makes you vulnerable to cold.
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    Rampage:   It bestows one free step when moving towards enemies.
+(21, -13, Crypt:2)
+  a potion of attraction
+  a +0 robe
+(23, -8, Crypt:2)
+  a +0 helmet
+(26, -10, Crypt:2)
+  a +0 glaive
+(28, -12, Crypt:2)
+  a +0 battleaxe
+(29, -12, Crypt:2)
+  a +0 trident
+(31, -12, Crypt:2)
+  a +0 dire flail
+(32, -13, Crypt:2)
+  a +0 war axe
+(38, -18, Crypt:2)
+  a +3 great mace of flaming
+  a +0 chain mail
+(44, -43, Crypt:2)
+  2 boomerangs
+(51, -24, Crypt:2)
+  a +0 leather armour
+(52, -38, Crypt:2)
+  a +0 chain mail
+  a +0 bardiche
+(52, -35, Crypt:2)
+  a +0 war axe
+  a +0 chain mail
+(55, -13, Crypt:2)
+  a +0 long sword
+  a +0 chain mail
+(56, -40, Crypt:2)
+  a +0 robe
+(59, -13, Crypt:2)
+  a +0 battleaxe
+  5 stones
+  a +0 plate armour
+(60, -40, Crypt:2)
+  a +0 robe
+
+Level 3 of the Crypt
+(0, 0, Crypt:3)
+  a phantom mirror
+(1, -2, Crypt:3)
+  a +2 cloak of preservation
+(3, -16, Crypt:3)
+  a +0 robe
+(3, 14, Crypt:3)
+  a +0 ring mail
+(5, -13, Crypt:3)
+  a +0 scale mail
+(5, 11, Crypt:3)
+  a +0 hand axe
+(11, -1, Crypt:3)
+  a +0 war axe
+  a +0 chain mail
+(19, 4, Crypt:3)
+  a +0 vampiric long sword
+(20, 11, Crypt:3)
+  a book of the Tundra
+(29, -33, Crypt:3)
+  a +0 robe
+(30, 0, Crypt:3)
+  a +0 battleaxe
+  a +0 chain mail
+(31, -2, Crypt:3)
+  a staff of death
+  a +0 robe
+  a potion of attraction
+(31, 0, Crypt:3)
+  a +0 great sword of draining
+  a +2 chain mail of fire resistance
+(32, -2, Crypt:3)
+  a +2 heavy great sword
+  a +0 chain mail
+(33, -17, Crypt:3)
+  a potion of degeneration
+(33, -1, Crypt:3)
+  a +0 trident
+(34, -1, Crypt:3)
+  a +0 battleaxe
+  a +0 plate armour
+(35, 0, Crypt:3)
+  a +0 long sword
+  2 atropa-tipped darts
+(36, -14, Crypt:3)
+  a +0 ring mail
+(36, -1, Crypt:3)
+  a +0 robe
+(37, -1, Crypt:3)
+  a +0 halberd
+(37, 0, Crypt:3)
+  a +0 hand axe
+(38, -5, Crypt:3)
+  a +0 great mace
+  a +0 plate armour
+(38, -4, Crypt:3)
+  a +0 hand axe
+  a +0 robe
+  the +1 buckler "Captosohi" {Int+3}
+    Int:       It affects your intelligence (+3).
+(38, -3, Crypt:3)
+  a +0 short sword
+(38, -2, Crypt:3)
+  a +0 battleaxe
+  a +0 plate armour
+  a +0 long sword
+(38, 3, Crypt:3)
+  a +2 spear of venom
+(39, 4, Crypt:3)
+  a +0 halberd
+(40, -1, Crypt:3)
+  a +0 plate armour
+  a +0 glaive
+  a +0 trident
+(42, -1, Crypt:3)
+  a +0 chain mail
+  a +0 war axe
+  a +2 heavy glaive
+  a +0 chain mail
+  a +2 long sword of protection
+(42, 2, Crypt:3)
+  a +0 battleaxe
+  a +0 flail
+(43, -1, Crypt:3)
+  a +0 glaive
+(43, 2, Crypt:3)
+  a +0 plate armour
+  a +0 long sword
+(44, 2, Crypt:3)
+  a +0 plate armour
+  a +0 great mace
+  a +3 sling of flaming
+  a +0 hand axe of flaming
+  a +0 chain mail of cold resistance
+(44, 3, Crypt:3)
+  a +0 dire flail
+(44, 5, Crypt:3)
+  a +0 long sword
+(45, -15, Crypt:3)
+  a +0 chain mail
+(45, 1, Crypt:3)
+  a +0 robe
+(45, 5, Crypt:3)
+  a +0 long sword
+  a +0 plate armour
+(51, 7, Crypt:3)
+  a +0 glaive
+(52, 8, Crypt:3)
+  a +3 plate armour of poison resistance
+(53, 8, Crypt:3)
+  a +3 great mace
+  a +0 plate armour
+(59, 1, Crypt:3)
+  a +0 chain mail
+  a +0 halberd
+(59, 2, Crypt:3)
+  4 stones
+(62, -21, Crypt:3)
+  a +0 leather armour
+(67, -32, Crypt:3)
+  a +0 club
+
+Level 1 of the Realm of Zot
+(0, 0, Zot:1)
+  a scroll of identify
+(0, 25, Zot:1)
+  a potion of degeneration
+  a +0 cloak
+  a +0 long sword
+(1, 23, Zot:1)
+  a +0 mace
+(2, 27, Zot:1)
+  a +0 scimitar
+(3, 25, Zot:1)
+  a +0 short sword of freezing
+(3, 26, Zot:1)
+  a +0 trident
+(9, 27, Zot:1)
+  a +0 mace
+(10, 0, Zot:1)
+  a +0 short sword
+(11, -1, Zot:1)
+  a +3 battleaxe of venom
+(11, 25, Zot:1)
+  quicksilver dragon scales
+(12, -2, Zot:1)
+  a +0 broad axe
+  a +0 trident
+(12, 24, Zot:1)
+  +0 gold dragon scales
+  a +0 glaive
+(13, -1, Zot:1)
+  a +0 scimitar
+(13, 24, Zot:1)
+  a +0 trident
+(14, -8, Zot:1)
+  a +0 scale mail
+(25, 14, Zot:1)
+  8 stones
+(28, -3, Zot:1)
+  2 stones
+
+Level 2 of the Realm of Zot
+(0, 0, Zot:2)
+  4 curare-tipped darts
+(4, 4, Zot:2)
+  7 stones
+(7, 24, Zot:2)
+  a +0 trident
+(9, 9, Zot:2)
+  a +0 short sword
+(10, 9, Zot:2)
+  quicksilver dragon scales
+(11, 13, Zot:2)
+  a +10 club of flaming
+(12, 19, Zot:2)
+  a +0 cloak
+  a +0 long sword
+(16, 19, Zot:2)
+  +0 shadow dragon scales
+(24, 23, Zot:2)
+  8 stones
+(24, 34, Zot:2)
+  a +0 shortbow
+(31, 22, Zot:2)
+  a +0 cloak
+  a +0 halberd
+  a scroll of vulnerability
+(31, 24, Zot:2)
+  a +0 long sword of holy wrath
+  a +0 cloak
+(34, 20, Zot:2)
+  a +0 glaive
+  a scroll of identify
+(34, 24, Zot:2)
+  a +0 mace
+(34, 26, Zot:2)
+  a +0 mace
+  a +0 flail
+(35, 23, Zot:2)
+  a +0 glaive
+(35, 24, Zot:2)
+  +0 gold dragon scales
+  a +0 demon trident of venom
+(36, 25, Zot:2)
+  a +0 flail of protection
+(37, 20, Zot:2)
+  a +0 scale mail
+(39, -4, Zot:2)
+  a potion of degeneration
+(40, -9, Zot:2)
+  a +0 dagger
+(40, -7, Zot:2)
+  a +0 hand axe
+(40, -4, Zot:2)
+  a +0 short sword
+  a +0 cloak
+(41, -6, Zot:2)
+  a +0 dagger
+  a +0 cloak
+
+Level 3 of the Realm of Zot
+(0, 0, Zot:3)
+  a +0 hand axe
+(7, 1, Zot:3)
+  a ring of poison resistance
+(7, 8, Zot:3)
+  a +0 robe
+(8, -23, Zot:3)
+  a +1 cloak
+  a +3 long sword of holy wrath
+(8, -20, Zot:3)
+  a +0 dire flail
+(8, 12, Zot:3)
+  a +0 sling
+(9, -22, Zot:3)
+  a +0 trident
+(10, -23, Zot:3)
+  a +0 glaive
+(10, -20, Zot:3)
+  a +0 flail
+(11, -24, Zot:3)
+  a +0 scimitar
+(12, -22, Zot:3)
+  +0 storm dragon scales
+(13, -21, Zot:3)
+  a +0 mace
+(13, -20, Zot:3)
+  a +0 cloak
+  a +0 short sword
+(14, -12, Zot:3)
+  a +0 flail
+(15, -20, Zot:3)
+  a +0 dire flail
+(15, -15, Zot:3)
+  a +0 tower shield
+  a +0 cloak
+  a +0 broad axe
+(15, -12, Zot:3)
+  a +0 robe
+(16, -14, Zot:3)
+  a +0 dire flail
+(17, -17, Zot:3)
+  a +0 cloak
+  a +2 great sword of holy wrath
+(17, 9, Zot:3)
+  a +0 dire flail
+(18, 7, Zot:3)
+  2 stones
+(19, -34, Zot:3)
+  a +0 morningstar
+(20, 23, Zot:3)
+  a +0 chain mail
+(28, -8, Zot:3)
+  a +0 short sword
+(36, 21, Zot:3)
+  a +0 war axe
+(42, -2, Zot:3)
+  4 stones
+(43, -18, Zot:3)
+  a +0 glaive
+(44, -17, Zot:3)
+  a +0 long sword
+(45, -18, Zot:3)
+  quicksilver dragon scales
+  a +0 long sword
+  a +0 cloak
+(47, 10, Zot:3)
+  5 stones
+(48, 14, Zot:3)
+  a +1 war axe of venom
+(49, 15, Zot:3)
+  a +0 whip
+  a +0 cloak
+  a +0 hand axe
+(58, -9, Zot:3)
+  6 stones
+
+Level 4 of the Realm of Zot
+(0, 0, Zot:4)
+  a +0 hand axe
+(1, -32, Zot:4)
+  a +0 long sword
+(1, -31, Zot:4)
+  a +1 cloak
+(2, -32, Zot:4)
+  a +0 scimitar
+(2, -31, Zot:4)
+  a +0 mace
+(3, -32, Zot:4)
+  a +0 flail
+(3, -31, Zot:4)
+  a +0 battleaxe
+  a +2 war axe of electrocution
+(4, -32, Zot:4)
+  a +0 dire flail
+(4, -31, Zot:4)
+  a +0 dire flail
+  a +1 long sword of holy wrath
+  a +0 cloak
+  a +0 tower shield
+  a +0 trident
+  a +0 long sword
+  a +0 cloak
+  a +0 long sword of holy wrath
+(5, -31, Zot:4)
+  a +0 hand axe
+  a +0 long sword
+  a +0 hand axe
+(5, -30, Zot:4)
+  a +0 cloak
+  a +0 long sword
+  a +0 short sword
+(5, -29, Zot:4)
+  a +0 flail
+(6, -32, Zot:4)
+  a +0 cloak
+(6, -31, Zot:4)
+  a +0 halberd
+(6, -30, Zot:4)
+  a +0 flail
+(6, 11, Zot:4)
+  a +0 cloak
+  a +0 short sword
+(7, 8, Zot:4)
+  a +0 long sword
+(8, -28, Zot:4)
+  a +0 war axe
+  a +0 cloak
+  a +0 tower shield
+(8, 11, Zot:4)
+  a +2 cloak
+  a +0 long sword
+(8, 13, Zot:4)
+  a +0 hand axe
+(9, -23, Zot:4)
+  a +0 whip
+  a +0 cloak
+(10, -24, Zot:4)
+  a +0 halberd
+(12, -25, Zot:4)
+  a +0 halberd
+  a +0 hand axe
+  a scroll of noise
+(12, -24, Zot:4)
+  a +0 short sword
+(12, -23, Zot:4)
+  a +0 mace
+(13, -28, Zot:4)
+  a +0 cloak
+(13, -21, Zot:4)
+  a +0 hand axe
+(15, -29, Zot:4)
+  +0 gold dragon scales
+(16, -23, Zot:4)
+  +0 gold dragon scales
+(23, 1, Zot:4)
+  5 stones
+(24, 10, Zot:4)
+  5 stones
+(27, -19, Zot:4)
+  a +0 scale mail
+
+Level 5 of the Realm of Zot
+(1, 5, Zot:5)
+  a scroll of teleportation
+(4, 2, Zot:5)
+  a scroll of summoning
+(24, 24, Zot:5)
+  a +0 long sword of holy wrath
+  a +1 cloak
+(33, 5, Zot:5)
+  a +0 long sword
+(37, 20, Zot:5)
+  a +0 hand axe
+(38, -1, Zot:5)
+  a +0 rapier
+  a +0 cloak
+  a +10 club of flaming
+  a yellow draconian corpse
+(40, -2, Zot:5)
+  +0 storm dragon scales
+  +0 shadow dragon scales
+  a +0 cloak
+  a +0 rapier
+(41, 25, Zot:5)
+  a +0 war axe
+(42, -1, Zot:5)
+  a scroll of identify
+  a +0 battleaxe
+(42, 0, Zot:5)
+  a +0 cloak
+  a +0 short sword
+  a +0 morningstar
+(42, 28, Zot:5)
+  a +2 cloak
+  a +0 long sword
+(42, 29, Zot:5)
+  a +0 glaive
+(42, 30, Zot:5)
+  a +0 short sword
+(44, 0, Zot:5)
+  a +0 glaive of flaming
+(44, 4, Zot:5)
+  a +4 scimitar
+(44, 9, Zot:5)
+  a +12 club
+
+Level 1 of the Depths
+(0, 0, Depths:1)
+  a +0 rapier
+(0, 4, Depths:1)
+  a +0 whip
+(2, 2, Depths:1)
+  the +6 morningstar "Luji" {freeze, rPois rCorr Str-5 SInv}
+    Str:       It affects your strength (-5).
+    rPois:     It protects you from poison.
+    SInv:      It lets you see invisible.
+    rCorr:     It protects you from acid and corrosion.
+(5, 2, Depths:1)
+  a +1 demon whip of electrocution
+(6, -34, Depths:1)
+  a +2 pair of gloves
+(7, -56, Depths:1)
+  a +0 ring mail
+(7, -34, Depths:1)
+  a staff of conjuration
+  a ring of ice
+  +0 fire dragon scales
+(9, -39, Depths:1)
+  a +0 robe
+  a +0 trident
+(10, -40, Depths:1)
+  a +0 troll leather armour
+(12, -37, Depths:1)
+  a box of beasts
+(18, -28, Depths:1)
+  a +2 battleaxe of freezing
+(22, -46, Depths:1)
+  a +0 dire flail
+  a +0 dire flail
+(23, -40, Depths:1)
+  +0 fire dragon scales
+(26, -40, Depths:1)
+  a +1 battleaxe of freezing
+(28, -22, Depths:1)
+  a +0 scale mail
+(34, 0, Depths:1)
+  a +0 dire flail
+  a +0 dire flail
+(36, -41, Depths:1)
+  a +0 robe
+(37, -42, Depths:1)
+  4 large rocks
+(37, -41, Depths:1)
+  a +1 dire flail of draining
+  a +0 dire flail
+(39, -42, Depths:1)
+  4 large rocks
+(39, -22, Depths:1)
+  a +0 leather armour
+(40, -43, Depths:1)
+  a +0 chain mail
+  a +3 battleaxe
+(40, -42, Depths:1)
+  a +0 robe
+  a +0 dagger
+(42, -45, Depths:1)
+  a +0 scale mail
+  a +2 kite shield of positive energy
+  a +0 long sword
+(42, -42, Depths:1)
+  4 large rocks
+(43, -39, Depths:1)
+  a +0 leather armour
+(43, -23, Depths:1)
+  a +0 chain mail
+(43, -3, Depths:1)
+  a +0 dire flail
+  a +0 dire flail
+(44, -17, Depths:1)
+  a +1 great sword of flaming
+(44, -1, Depths:1)
+  a +5 eudemon blade of holy wrath (still there?)
+  a +2 tower shield (still there?)
+(45, -30, Depths:1)
+  a +3 heavy long sword
+  a +3 scale mail of positive energy
+  a +0 buckler
+(48, -53, Depths:1)
+  3 large rocks
+(49, -53, Depths:1)
+  a +0 great sword of flaming
+(54, -28, Depths:1)
+  a +0 robe
+(61, -53, Depths:1)
+  a +0 falchion of flaming
+(68, -25, Depths:1)
+  a +1 battleaxe of freezing
+(69, -48, Depths:1)
+  a book of Hexes
+
+Level 2 of the Depths
+(0, 0, Depths:2)
+  a scroll of noise
+(11, 27, Depths:2)
+  a +0 leather armour
+(12, 32, Depths:2)
+  a potion of mutation
+(12, 33, Depths:2)
+  a potion of cancellation
+(13, 32, Depths:2)
+  a potion of heal wounds
+(13, 34, Depths:2)
+  a potion of magic
+(14, 32, Depths:2)
+  a potion of mutation
+(15, 13, Depths:2)
+  a +0 dire flail
+  a +0 dire flail
+(17, 33, Depths:2)
+  a potion of haste
+(17, 36, Depths:2)
+  a potion of haste
+(23, 3, Depths:2)
+  3 atropa-tipped darts
+(28, 24, Depths:2)
+  a +0 chain mail
+  a +0 battleaxe
+  5 atropa-tipped darts
+(32, 2, Depths:2)
+  a scroll of identify
+(32, 22, Depths:2)
+  a +1 great sword of flaming
+(32, 28, Depths:2)
+  a +0 robe
+(33, 19, Depths:2)
+  +0 gold dragon scales
+(33, 28, Depths:2)
+  a +0 troll leather armour
+  a +0 robe
+  a +0 long sword
+  a +1 battleaxe of freezing
+  a potion of degeneration
+(33, 30, Depths:2)
+  a +0 troll leather armour
+  a +0 robe
+  a +0 long sword
+(34, 25, Depths:2)
+  a staff of fire
+  a +0 robe
+  a +0 buckler
+  a +2 scale mail of fire resistance
+  a +0 war axe
+(35, 9, Depths:2)
+  a +0 dagger
+(35, 13, Depths:2)
+  a ring of resist corrosion
+(35, 25, Depths:2)
+  a +1 battleaxe of freezing
+(36, 30, Depths:2)
+  2 boomerangs
+(38, 9, Depths:2)
+  a +0 scale mail
+(39, 17, Depths:2)
+  5 stones
+(47, 8, Depths:2)
+  2 large rocks
+(49, 7, Depths:2)
+  a +0 robe
+(54, 8, Depths:2)
+  +0 gold dragon scales
+(55, 32, Depths:2)
+  a +0 flail
+(56, -1, Depths:2)
+  6 stones
+(61, 32, Depths:2)
+  5 large rocks
+(63, 33, Depths:2)
+  a book of Dreams
+(63, 34, Depths:2)
+  a +0 dagger
+  a +0 robe
+
+Level 3 of the Depths
+(0, 0, Depths:3)
+  a +0 battleaxe
+(2, -21, Depths:3)
+  a +0 battleaxe of freezing
+(4, 7, Depths:3)
+  a +0 war axe
+  a +0 ring mail
+  a +0 buckler
+(5, 29, Depths:3)
+  a +0 spear
+(6, 29, Depths:3)
+  a +0 flail
+  a +0 animal skin
+(6, 31, Depths:3)
+  a +0 spear
+(7, 27, Depths:3)
+  a +0 battleaxe of freezing
+(7, 32, Depths:3)
+  a +0 dire flail
+  a +1 dire flail of protection
+  a scroll of vulnerability
+(8, 30, Depths:3)
+  a +0 rapier of venom
+  a +0 robe
+  a +0 buckler
+(9, 5, Depths:3)
+  a +2 mace of protection
+(10, 31, Depths:3)
+  a +0 robe
+(10, 32, Depths:3)
+  a potion of degeneration
+(11, 31, Depths:3)
+  a +1 battleaxe of freezing
+(28, 6, Depths:3)
+  a +0 pair of boots of stealth
+(31, -20, Depths:3)
+  a +0 dire flail
+  a +0 dire flail
+(31, -1, Depths:3)
+  a +0 ring mail
+(35, -21, Depths:3)
+  a +0 pair of boots
+(49, 30, Depths:3)
+  a scroll of identify
+(52, -19, Depths:3)
+  a +0 battleaxe of freezing
+(56, 12, Depths:3)
+  5 large rocks
+(61, -9, Depths:3)
+  3 large rocks
+(64, -24, Depths:3)
+  a +2 kite shield
+(64, 19, Depths:3)
+  a +0 hand axe
+(65, -21, Depths:3)
+  a +0 chain mail
+
+Level 4 of the Depths
+(0, 0, Depths:4)
+  a +0 great sword of flaming
+(0, 4, Depths:4)
+  a +0 troll leather armour
+(0, 12, Depths:4)
+  a +2 long sword of protection
+(1, 12, Depths:4)
+  a +0 cloak
+  a +0 dagger
+  a +0 battleaxe
+(3, -3, Depths:4)
+  6 atropa-tipped darts
+(5, -3, Depths:4)
+  5 stones
+(7, 11, Depths:4)
+  a +6 ring of intelligence
+  a ring of see invisible
+(8, 11, Depths:4)
+  +0 shadow dragon scales
+  the ring of the Hero {rElec rF+ rN+}
+    [ring of positive energy]
+    
+    rF:        It protects you from fire.
+    rElec:     It insulates you from electricity.
+    rN:        It protects you from negative energy.
+  an amulet of guardian spirit
+  the amulet "Juepn" {Regen+ Int+2}
+    [amulet of regeneration]
+    
+    Int:       It affects your intelligence (+2).
+    Regen:     It increases your rate of health regeneration.
+  a ring of wizardry
+  a +6 ring of intelligence
+  a +6 ring of intelligence
+(8, 26, Depths:4)
+  a +0 great sword of flaming
+(9, 26, Depths:4)
+  a +2 hand axe of electrocution
+(10, -19, Depths:4)
+  a +0 scale mail
+(10, 25, Depths:4)
+  a +0 battleaxe
+  a +4 ring mail of fire resistance
+  a +0 dire flail
+  a +0 dire flail
+(11, 27, Depths:4)
+  a +2 heavy long sword
+  a +0 ring mail
+  a +0 buckler
+  a +0 troll leather armour
+(11, 28, Depths:4)
+  a +0 battleaxe of freezing
+  4 large rocks
+(12, 4, Depths:4)
+  a +0 cloak
+  a +2 heavy battleaxe
+(12, 6, Depths:4)
+  a +0 scimitar
+  a +0 battleaxe
+(12, 27, Depths:4)
+  a +1 battleaxe of freezing
+(15, -14, Depths:4)
+  4 stones
+(15, -13, Depths:4)
+  a +0 dire flail
+  a +0 great mace
+(16, 27, Depths:4)
+  a +0 troll leather armour
+(16, 28, Depths:4)
+  a +0 troll leather armour
+(18, 27, Depths:4)
+  a +0 troll leather armour
+(19, -26, Depths:4)
+  a +0 hand axe
+(19, 27, Depths:4)
+  a +0 robe
+(20, 17, Depths:4)
+  a +0 scimitar
+  a +3 bardiche of venom
+  a +1 cloak
+(21, 17, Depths:4)
+  a +1 great sword of flaming
+  a +0 chain mail
+(25, -28, Depths:4)
+  a potion of mutation
+(25, -8, Depths:4)
+  a +0 spear
+(25, -7, Depths:4)
+  a +0 animal skin
+  a +2 antimagic hand axe
+(26, -10, Depths:4)
+  6 large rocks
+(26, -6, Depths:4)
+  a +0 animal skin
+  a +1 hand axe of flaming
+(26, 5, Depths:4)
+  a +0 robe
+(26, 6, Depths:4)
+  a +0 robe
+(27, -10, Depths:4)
+  a +0 spear
+(27, -5, Depths:4)
+  +0 ice dragon scales
+(27, 7, Depths:4)
+  a +0 robe
+(28, -10, Depths:4)
+  a +0 troll leather armour
+(28, -6, Depths:4)
+  a +0 troll leather armour
+  a scroll of noise
+(29, -11, Depths:4)
+  a +0 great sword of flaming
+  a +0 robe
+(29, 4, Depths:4)
+  a +0 quarterstaff
+  a +0 animal skin
+(29, 7, Depths:4)
+  a +0 spear
+  3 stones
+  a +0 buckler
+(34, 8, Depths:4)
+  a phial of floods
+(38, -23, Depths:4)
+  a staff of air
+(47, -4, Depths:4)
+  a +2 scimitar of holy wrath
+(50, 2, Depths:4)
+  a scroll of identify
+

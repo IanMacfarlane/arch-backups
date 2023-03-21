@@ -1,0 +1,174 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 3370053447223114291
+
+2 Kuzon the Firebug (level 1, 0/13 HPs)
+             Began as a Human Fire Elementalist on Mar 10, 2023.
+             Slain by a quokka (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:41 (133 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)          Turns: 133, Time: 00:01:41
+
+Health: 0/13       AC:  2    Str:  8    XL:     1   Next: 44%
+Magic:  2/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.1 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.1 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Conjure Flame            Conj/Fire      7%         6-21      28%         3
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The jackal barks! You hear a bark! x2
+The foxfire hits the jackal but does no damage.
+A jackal comes into view.
+The hobgoblin closely misses you.
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+There is not enough space to conjure foxfire!
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+There is not enough space to conjure foxfire!
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't know that spell.
+You hit the hobgoblin but do no damage.
+The hobgoblin is severely wounded.
+The jackal barely misses you. The hobgoblin barely misses you.
+You hit the hobgoblin.
+You kill the hobgoblin!
+A jackal comes into view.
+The jackal bites you.
+You miss the quokka. The jackal closely misses you. The quokka misses you.
+The jackal bites you but does no damage.
+You barely miss the quokka.
+The jackal bites you but does no damage.
+The quokka bites you.
+You barely miss the quokka. The jackal bites you. The quokka bites you. The
+jackal closely misses you.
+You miss the quokka. The quokka closely misses you. The jackal bites you. The
+quokka bites you.
+* * * LOW HITPOINT WARNING * * *
+You barely miss the quokka. The jackal barely misses you. The quokka bites you.
+* * * LOW HITPOINT WARNING * * *
+You hit the quokka.
+The quokka is lightly wounded.
+The jackal barely misses you. The quokka barely misses you. The jackal closely
+misses you.
+You hit the quokka.
+The quokka is heavily wounded.
+The jackal barely misses you. The quokka bites you.
+You die...
+
+               #..#
+               #..
+               #h.
+               #lh
+               #h#  .......#
+               #h#   ......#
+ ###  #..      #h#   ......##
+ ..#   ..#     #@#    ......###
+ #.#    ..     #r#    #.........
+##.#    #.##   #g#    #.....# ..
+...#    #..#   #r######.....#...
+...#     #.##  #....gr..........
+...#######..############....#...
+...................g....r.......
+##.########....###########.##...
+......######..8.~~~~~~~~##.#  ..
+......g...g..#.~~~.....~~#.#   .
+.............#.~~..~~~..~# #
+
+
+You could see a quokka, 5 jackals, a goblin, a frilled lizard and a rat.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  A kobold (D:1)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  6 foxfires (D:1)
+6 creatures vanquished.
+
+Grand Total: 8 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     2 | D:1      | You fall into a shaft and drop 1 floor!
+   133 | D:1      | Slain by a quokka
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_whirlpool, layout_basic
+D:2:      layout_basic, ebering_ecumenical_altar_webs, basic_altar,
+          kennysheep_generic_room_3
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     9
+ Cast: Foxfire           ||     4
+  Use: Potion            ||     1
+Armor: Robe              ||     3
+Dodge: Dodged            ||    14
+

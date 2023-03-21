@@ -1,0 +1,512 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 ring mail
+(4, 23, D:1)
+  a +0 club
+(25, 14, D:1)
+  2 stones
+(28, 12, D:1)
+  a +0 whip
+  2 stones
+(28, 19, D:1)
+  a +0 short sword
+(32, 0, D:1)
+  7 stones
+(32, 21, D:1)
+  a +0 short sword
+(33, 22, D:1)
+  a +0 short sword
+(35, 24, D:1)
+  a +0 dagger
+(49, 1, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(10, -37, D:2)
+  3 stones
+(21, -7, D:2)
+  8 stones
+(32, -2, D:2)
+  a +0 dagger
+  a +0 sling
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(1, 1, D:3)
+  a +0 leather armour
+(6, -22, D:3)
+  a +2 sling of freezing
+(23, -19, D:3)
+  3 boomerangs
+(34, -29, D:3)
+  5 poisoned darts
+(35, -13, D:3)
+  a +0 chain mail
+(44, -11, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  6 stones
+(12, -7, D:4)
+  a +0 club
+(14, -9, D:4)
+  a +0 dagger
+(14, 38, D:4)
+  6 stones
+(20, 4, D:4)
+  a +0 club
+(22, 2, D:4)
+  a +0 club
+(22, 3, D:4)
+  a +0 flail
+(23, 5, D:4)
+  a +0 flail
+(53, -13, D:4)
+  a +0 leather armour
+(53, 16, D:4)
+  a +0 short sword
+(56, -6, D:4)
+  a +0 club
+  5 stones
+(58, 5, D:4)
+  a +0 scale mail
+(58, 6, D:4)
+  a +0 flail
+(66, -1, D:4)
+  4 stones
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 buckler
+(5, -26, D:5)
+  a +0 dagger
+(13, -9, D:5)
+  7 stones
+(15, -22, D:5)
+  a +0 shortbow
+  a +0 giant spiked club
+(20, -27, D:5)
+  2 stones
+(20, -16, D:5)
+  a +0 dagger
+(33, -53, D:5)
+  a +0 dagger
+(40, -11, D:5)
+  a +0 flail
+(43, -8, D:5)
+  a +0 flail
+(44, -7, D:5)
+  a +0 falchion
+(52, -34, D:5)
+  a +0 shortbow
+(53, -27, D:5)
+  a +0 ring mail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 short sword
+(1, -1, D:6)
+  a +0 flail
+(4, -2, D:6)
+  a +0 dagger
+  5 stones
+  a +0 scale mail
+(4, 10, D:6)
+  a +0 club
+(4, 11, D:6)
+  a +0 dagger
+  3 stones
+(4, 16, D:6)
+  a +0 dagger of venom
+  8 poisoned darts
+(18, 16, D:6)
+  a +3 falchion
+  a +0 robe
+(20, 16, D:6)
+  a +0 dagger
+  a +1 dagger of holy wrath
+  a +0 robe
+  a +0 short sword
+  a +0 robe
+(21, 16, D:6)
+  a +0 dagger
+(25, -5, D:6)
+  6 datura-tipped darts
+(27, -7, D:6)
+  2 stones
+(29, 2, D:6)
+  a +0 ring mail
+(30, 18, D:6)
+  a +4 spear of freezing
+  a +0 robe
+(35, 15, D:6)
+  a +0 flail
+(37, -18, D:6)
+  a +0 hand axe
+(37, -7, D:6)
+  a +0 whip
+(40, -20, D:6)
+  a +0 leather armour
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 great sword of draining
+(2, -32, D:7)
+  a +0 trident
+(2, 20, D:7)
+  a +0 giant spiked club
+(9, -33, D:7)
+  a +0 robe
+(9, -24, D:7)
+  a +0 mace
+(9, -22, D:7)
+  a +0 falchion
+  2 boomerangs of dispersal
+(9, -16, D:7)
+  a +0 short sword
+(10, -18, D:7)
+  2 stones
+(10, -16, D:7)
+  a +0 club
+  a +0 robe
+  a +0 dagger
+(10, 12, D:7)
+  8 stones
+(11, -30, D:7)
+  a +0 flail
+  a +0 leather armour
+  a +0 short sword
+(11, -17, D:7)
+  a +0 robe
+  a +0 dagger
+(14, -23, D:7)
+  a +0 whip
+(22, 10, D:7)
+  2 stones
+(24, -39, D:7)
+  a +0 ring mail
+(24, -8, D:7)
+  a +0 robe
+(25, 7, D:7)
+  a +5 falchion
+  a +0 robe
+  a +0 battleaxe
+  a +0 robe
+(26, 7, D:7)
+  a +2 battleaxe
+  a +0 robe
+  a +0 club
+  a +0 leather armour
+(27, 5, D:7)
+  a +0 hand axe
+  a +0 ring mail
+(28, 4, D:7)
+  a +0 dagger
+  a +0 robe
+(28, 5, D:7)
+  a +0 club
+(31, 23, D:7)
+  7 stones
+(43, -30, D:7)
+  a +1 short sword of venom
+(44, -30, D:7)
+  a +0 short sword
+(44, -29, D:7)
+  a +0 dagger
+(44, -21, D:7)
+  a +0 short sword
+  a +0 flail
+(44, -20, D:7)
+  a +0 leather armour
+  a +0 short sword
+  a +0 scale mail
+  a +0 hand axe
+(45, -30, D:7)
+  a curare-tipped dart
+  a +0 whip
+(47, -21, D:7)
+  a +0 giant club
+  a +0 giant club
+(52, -33, D:7)
+  a +0 short sword
+  2 stones
+  a +0 dagger
+(52, -32, D:7)
+  a stone
+  a +2 short sword of draining
+(52, -17, D:7)
+  an amulet of the acrobat
+  a +6 ring of strength
+(53, -22, D:7)
+  a +0 sling
+
+Level 8 of the Dungeon
+[Shop] Leekeqas's Jewellery Boutique
+  a ring of protection from cold (325 gold)
+  a ring of flight (227 gold)
+  a +6 ring of strength (468 gold)
+  a ring of ice (325 gold)
+  a ring of wizardry (390 gold)
+  the ring of the Heavens {Drain Fly rC+ Str+4 Slay+3} (609 gold)
+    [ring of flight]
+    
+    Str:       It affects your strength (+4).
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (+3).
+    rC:        It protects you from cold.
+    Fly:       It grants you flight.
+    Drain:     It drains your maximum health when unequipped.
+  an amulet of regeneration (390 gold)
+  the ring of Ybount {rPois rF- rC+ Str+3 Dex+3} (543 gold)
+    [ring of protection from cold]
+    
+    Str:       It affects your strength (+3).
+    Dex:       It affects your dexterity (+3).
+    rF:        It makes you vulnerable to fire.
+    rC:        It protects you from cold.
+    rPois:     It protects you from poison.
+(0, 0, D:8)
+  a +0 robe
+(4, -3, D:8)
+  5 stones
+  a +0 robe
+  a +0 trident
+(4, 10, D:8)
+  a +0 war axe
+(4, 13, D:8)
+  6 stones
+(4, 14, D:8)
+  a +0 cloak
+(6, 4, D:8)
+  4 stones
+  a +0 plate armour
+  a +0 war axe
+(7, 5, D:8)
+  a +0 robe
+  a +2 battleaxe
+(7, 15, D:8)
+  a potion of attraction
+(8, 2, D:8)
+  a +0 dagger
+(8, 4, D:8)
+  +0 steam dragon scales
+(8, 6, D:8)
+  a +0 robe
+  a +0 dagger
+(9, 3, D:8)
+  a +0 robe
+  a +3 falchion of freezing
+(9, 6, D:8)
+  a +0 robe
+  a +5 scimitar
+(10, 2, D:8)
+  3 stones
+(12, 5, D:8)
+  a +0 robe
+  a +4 long sword
+(14, -8, D:8)
+  a +0 chain mail
+  a +0 glaive
+(14, 6, D:8)
+  a +0 robe
+  a +0 short sword
+(15, -9, D:8)
+  a staff of air
+(23, -5, D:8)
+  a +0 trident
+(26, -12, D:8)
+  a +0 dagger
+(27, -5, D:8)
+  a +0 robe
+(37, -16, D:8)
+  a +0 hand axe
+(38, -8, D:8)
+  a +0 broad axe
+(40, -10, D:8)
+  a +0 hand axe
+(48, 7, D:8)
+  a +0 quarterstaff
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 leather armour
+(3, 4, D:9)
+  +1 steam dragon scales
+(5, -9, D:9)
+  a +2 spear of freezing
+  a +1 vampiric spear
+  a +0 scale mail
+(5, 33, D:9)
+  a +0 mace
+(6, -10, D:9)
+  a +0 shortbow
+(7, -9, D:9)
+  a +0 spear
+  a +0 flail
+(14, 6, D:9)
+  a +0 scale mail
+(16, 20, D:9)
+  a +0 mace
+  a +0 flail
+(25, -9, D:9)
+  a +0 robe
+(26, 35, D:9)
+  a +5 hand axe of freezing
+  a +0 robe
+  a +4 war axe
+  4 poisoned darts
+  a +0 robe
+(27, 34, D:9)
+  a +3 dire flail
+  a +0 robe
+(30, -9, D:9)
+  a +2 dagger of draining
+(30, 12, D:9)
+  a +0 club
+  5 stones
+(31, 10, D:9)
+  a +8 giant club
+  a +0 robe
+(31, 12, D:9)
+  a +0 dagger
+(32, 12, D:9)
+  a +0 dagger
+(32, 13, D:9)
+  a +0 short sword
+  a curare-tipped dart
+(37, 25, D:9)
+  a +0 robe
+  a +0 long sword
+(38, 20, D:9)
+  a +0 robe
+  a +0 dagger
+(38, 21, D:9)
+  a +0 hand axe
+(39, 19, D:9)
+  a +0 scale mail
+  a +0 short sword
+  a +0 whip
+  a +0 club
+(39, 22, D:9)
+  a +0 hand axe
+(40, 21, D:9)
+  a +0 leather armour
+  a +0 club
+(40, 22, D:9)
+  a +0 leather armour
+  a +0 trident
+(40, 23, D:9)
+  a +0 chain mail
+  2 boomerangs
+  a +3 trident
+(42, -8, D:9)
+  a +0 flail
+(43, -8, D:9)
+  a +0 club
+  a +0 halberd
+(43, 22, D:9)
+  a +0 robe
+  a +0 dagger
+(44, -8, D:9)
+  a +2 spear of freezing
+  a +0 scale mail
+  a +0 flail
+  a +0 spear
+  a +0 scale mail
+(44, -7, D:9)
+  a +0 flail
+(45, -8, D:9)
+  a +0 halberd
+(53, 12, D:9)
+  a +0 ring mail
+(53, 20, D:9)
+  +0 steam dragon scales
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a scroll of immolation
+(4, 3, D:10)
+  a +0 shortbow
+  a scroll of identify
+  a +0 kite shield
+  a +0 scale mail
+  a +0 spear
+(5, 2, D:10)
+  a +0 long sword
+  a +0 robe
+  a ring of fire
+  2 potions of resistance
+  a scroll of magic mapping
+(13, 15, D:10)
+  12 gold pieces
+(15, 20, D:10)
+  a +0 whip
+(15, 21, D:10)
+  a +0 spear
+(17, 11, D:10)
+  7 stones
+(17, 16, D:10)
+  a +0 robe
+  a +0 dagger
+(17, 20, D:10)
+  a +0 club
+  a +0 robe
+(18, 18, D:10)
+  a +0 spear
+(21, 31, D:10)
+  a +0 short sword
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 quarterstaff
+(1, -22, Lair:1)
+  2 stones
+(2, -19, Lair:1)
+  6 stones
+(4, -18, Lair:1)
+  4 stones
+(5, -19, Lair:1)
+  8 stones
+(5, -3, Lair:1)
+  7 stones
+(5, 2, Lair:1)
+  a +0 chain mail
+(32, -2, Lair:1)
+  6 stones
+(34, 0, Lair:1)
+  a scroll of vulnerability
+(44, -17, Lair:1)
+  a +0 scale mail
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 ring mail
+(2, 6, Lair:2)
+  a komodo dragon corpse
+(2, 9, Lair:2)
+  a basilisk corpse
+(3, 30, Lair:2)
+  a +0 giant club
+(15, 31, Lair:2)
+  a +0 robe
+(17, 11, Lair:2)
+  5 stones
+(24, 7, Lair:2)
+  5 stones
+(26, 5, Lair:2)
+  a wolf corpse (skeletalised by now)
+(33, 5, Lair:2)
+  4 atropa-tipped darts
+(39, 15, Lair:2)
+  a scroll of vulnerability
+(48, 42, Lair:2)
+  a scroll of amnesia
+

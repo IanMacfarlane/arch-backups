@@ -1,0 +1,246 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16297578349929943985
+
+58 GoodOmen the Grave Robber (level 3, -2/24 HPs)
+             Began as a Mummy Necromancer on Mar 17, 2023.
+             Slain by Ijyb
+             ... wielding a +0 dagger
+              (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:55 (1585 turns).
+
+GoodOmen the Grave Robber (Mummy Necromancer)       Turns: 1585, Time: 00:04:56
+
+Health: -2/24      AC:  2    Str: 11    XL:     3   Next: 76%
+Magic:  1/8        EV: 12    Int: 16    God:    
+Gold:   95         SH:  0    Dex: 12    Spells: 5/9 levels left
+
+rFire   x . .      SeeInvis .    c - +0 short sword
+rCold   + . .      Faith    +    (no shield)
+rNeg    + + +      Spirit   .    a - +0 robe
+rPois   ∞          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.11/turn                (no ring)
+
+@: no status effects
+A: cold resistance 1, negative energy resistance 3, torment resistance 2, heat
+vulnerability 1, in touch with death 1, no potions, faith
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 95 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ - Level 1.5 Dodging
+ - Level 1.5 Stealth
+ + Level 3.6 Spellcasting
+ * Level 5.0 Necromancy
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           100%       1d9       2%          1
+b - Vampiric Draining     Necr           28%        2d8       6%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Animate Dead             Necr           28%        N/A       22%         4
+ Lesser Beckoning         Tloc           4%         N/A       26%         2
+ Gell's Gravitas          Tloc           2%         N/A       47%         3
+ Teleport Other           Tloc           2%         N/A       47%         3
+ Agony                    Necr           28%        N/A       52%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Shops:
+D:1 ?
+
+Annotations:
+D:3 Ijyb
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You are vulnerable to heat. (rF-)
+You are in touch with the powers of death.
+You do not drink.
+You have a special connection with the divine. (Faith)
+
+Message History
+
+You feel a surge of power! The ball python writhes in agony!
+You kill the ball python!
+The endoplasm misses you.
+You feel a surge of power! The ball python writhes in agony.
+You kill the ball python!
+The dead are slithering! The endoplasm hits you.
+You feel a surge of power! The endoplasm writhes in agony.
+The endoplasm freezes you.
+You are frozen. You resist.
+You feel a surge of power! The endoplasm writhes in agony.
+You kill the endoplasm!
+Ijyb shouts!
+You feel a surge of power! Ijyb writhes in agony!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Ijyb hits your ball python skeleton with a +0 dagger.
+Your ball python skeleton bites Ijyb.
+Your ball python skeleton completely misses Ijyb.
+Your ball python skeleton bites Ijyb but does no damage.
+Your ball python skeleton closely misses Ijyb.
+You feel a surge of power! Ijyb writhes in agony!
+Your ball python skeleton bites Ijyb but does no damage.
+Your ball python skeleton grabs Ijyb.
+Your ball python skeleton constricts Ijyb.
+Your ball python skeleton barely misses Ijyb.
+Ijyb hits your ball python skeleton with a +0 dagger.
+Your ball python skeleton is destroyed!
+Ijyb shouts!
+You feel a surge of power! Ijyb writhes in agony! Your ball python skeleton
+misses Ijyb.
+Your ball python skeleton grabs Ijyb.
+Your ball python skeleton constricts Ijyb.
+Ijyb zaps a wand. The puff of flame hits you!! The fire burns you terribly!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You hit Ijyb but do no damage.
+Ijyb is almost dead.
+Your ball python skeleton barely misses Ijyb.
+Your ball python skeleton constricts Ijyb.
+Ijyb hits you with a +0 dagger.
+You die...
+
+  .......    #.....[....#
+  .......  ###.....##.#..
+   ...... ##.......# ..##
+    .....##.....#### #.#
+       #.....####     ..
+       ##..#.#        ##.
+        #....#          .
+       ##....#
+      ##...#.##
+  #####..###...
+  #....Z......##
+ #..#.g@......#
+......###.!...#
+.....#   .....#
+####.    ..)...
+   #     ......
+          ....#
+           ...#
+
+
+You could see Ijyb (ally target) and a friendly ball python skeleton.
+
+Vanquished Creatures
+  An adder (D:2)
+  2 dart slugs (D:1)
+  5 endoplasms
+  A giant cockroach (D:1)
+  3 goblins
+  2 hobgoblins (D:1)
+  4 jackals (D:1)
+  3 ball pythons
+  5 bats (D:1)
+  4 frilled lizards
+  6 kobolds
+  3 rats
+39 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A dart slug (D:1)
+  A jackal (D:1)
+  A frilled lizard (D:1)
+3 creatures vanquished.
+
+Grand Total: 42 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Mummy Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 4/4
+   141 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/6
+   190 | D:1      | Found Weadali's Magic Scroll Shop.
+   724 | D:1      | Gained mutation: You are in touch with the powers of death.
+                  | [Mummy growth]
+   724 | D:1      | Reached XP level 3. HP: 24/24 MP: 2/7
+  1025 | D:1      | Learned a level 3 spell: Vampiric Draining
+  1145 | D:2      | Reached skill level 5 in Necromancy
+  1499 | D:2      | Found a faded altar of an unknown god.
+  1572 | D:3      | Noticed Ijyb
+  1585 | D:3      | Slain by Ijyb
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_battle_scene, layout_basic, serial_shops,
+          nicolae_shop_hallway_plus
+D:2:      layout_rooms, shapermc_ecumenical_altar_mp_vishouse
+D:3:      layout_rooms, cheibrodos_sewer_entry_drain, uniq_ijyb
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Spellcasting   |  3       |  3.6
+Necromancy     |        5 |  5.0
+Dodging        |          |  1.5
+Stealth        |          |  1.5
+
+Action                     || total
+---------------------------++-------
+  Melee: Unarmed           ||     7
+         Club              ||     4
+         Short sword       ||     1
+   Cast: Necrotise         ||    69
+    Use: Scroll            ||     2
+ Armour: Robe              ||    13
+  Dodge: Dodged            ||    27
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1584 |   1509 |     75 |      0 |   1187 |   3 |  528.0 |
+       Dungeon |   1584 |   1509 |     75 |      0 |   1187 |   3 |  528.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1026 daAuts
+     D:2: 522 daAuts
+     D:3: 35 daAuts
+

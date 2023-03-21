@@ -1,0 +1,165 @@
+ASSERT(save) in 'tags.h' at line 67 failed.
+
+Version: Dungeon Crawl Stone Soup 0.28.0
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Seed: 0, deterministic pregen: 1
+Command line: crawl
+
+RC options:
+restart_after_game = maybe
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 26 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILE+0x3a) [0x558dc5e5d1da]: write_stack_trace(_IO_FILE*)
+crawl(_Z13do_crash_dumpv+0x3eb) [0x558dc5e65feb]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x1d5) [0x558dc5e5d635]: crash_signal_handler(int)
+/usr/lib/libc.so.6(+0x38f50) [0x7f6cf6451f50]: 
+/usr/lib/libc.so.6(+0x878ec) [0x7f6cf64a08ec]: 
+/usr/lib/libc.so.6(gsignal+0x18) [0x7f6cf6451ea8]: 
+crawl(+0x3e14b6) [0x558dc5e654b6]: 
+crawl(+0x3e1961) [0x558dc5e65961]: 
+crawl(_Z9save_gamebPKc+0x7d3) [0x558dc5f4cbd3]: save_game(bool, char const*)
+crawl(_Z7cgotoxyii10GotoRegion+0xa5) [0x558dc60ab685]: cgotoxy(int, int, GotoRegion)
+crawl(+0x9a557f) [0x558dc642957f]: 
+crawl(+0x9ad4ed) [0x558dc64314ed]: 
+crawl(_ZN2ui11pump_eventsEi+0x398) [0x558dc64326b8]: ui::pump_events(int)
+crawl(_ZN2ui10run_layoutESt10shared_ptrINS_6WidgetEERKbS2_+0xaa) [0x558dc643280a]: ui::run_layout(std::shared_ptr<ui::Widget>, bool const&, std::shared_ptr<ui::Widget>)
+crawl(_Z24fatal_error_notificationNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+0x5ed) [0x558dc5f238dd]: fatal_error_notification(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)
+crawl(_Z3endibPKcz+0x29a) [0x558dc5f240aa]: end(int, bool, char const*, ...)
+crawl(_ZN19crawl_view_geometry13init_geometryEv+0x2f9) [0x558dc6441459]: crawl_view_geometry::init_geometry()
+crawl(_Z8getch_ckv+0x70) [0x558dc6491700]: getch_ck()
+crawl(_ZN2ui11pump_eventsEi+0xed) [0x558dc643240d]: ui::pump_events(int)
+crawl(_ZN2ui10run_layoutESt10shared_ptrINS_6WidgetEERKbS2_+0xaa) [0x558dc643280a]: ui::run_layout(std::shared_ptr<ui::Widget>, bool const&, std::shared_ptr<ui::Widget>)
+crawl(_Z12startup_stepv+0x181c) [0x558dc63843dc]: startup_step()
+crawl(+0xa19e6d) [0x558dc649de6d]: 
+crawl(main+0x176) [0x558dc5db1f86]: 
+/usr/lib/libc.so.6(+0x23790) [0x7f6cf643c790]: 
+/usr/lib/libc.so.6(__libc_start_main+0x8a) [0x7f6cf643c84a]: 
+crawl(_start+0x25) [0x558dc5db2845]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 12.2.1 20230201
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/crawl/" -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = ABSENT, level layout type  = ABSENT, absdepth0 = 0
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Data directory '/usr/share/crawl/dat/' found.
+Loading databases... Loading spells and features... Loading maps...
+Hello, welcome to Dungeon Crawl Stone Soup 0.28.0!
+(c) Copyright 1997-2002 Linley Henzell, 2002-2021 Crawl DevTeam
+Options read from "/usr/share/crawl/settings/init.txt".
+Terminal too small (114,19); need at least (79,24)
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+No version history (current version is 0.28.0)
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 1
+io_inited: 1, need_save: 0, saving_game: 1, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+Last resize was 0 seconds ago.
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    []
+Species: Yak
+Job:     Unemployed
+
+HP: 0/0; mods: 0/0
+MP: 0/0; mod: 0
+Stats: 0 (0) 0 (0) 0 (0)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: auto)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |                     |   0   |     0    |    0  |      0 | 0/59
+Short Blades    |                     |   0   |     0    |    0  |      0 | 0/0
+Long Blades     |                     |   0   |     0    |    0  |      0 | 0/0
+Axes            |                     |   0   |     0    |    0  |      0 | 0/70
+Maces & Flails  |                     |   0   |     0    |    0  |      0 | 0/0
+Polearms        |                     |   0   |     0    |    0  |      0 | 0/0
+Staves          |                     |   0   |     0    |    0  |      0 | 0/59
+Slings          |                     |   0   |     0    |    0  |      0 | 0/0
+Bows            |                     |   0   |     0    |    0  |      0 | 0/0
+Crossbows       |                     |   0   |     0    |    0  |      0 | 0/70
+Throwing        |                     |   0   |     0    |    0  |      0 | 0/0
+Armour          |                     |   0   |     0    |    0  |      0 | 0/0
+Dodging         |                     |   0   |     0    |    0  |      0 | 0/50
+Stealth         |                     |   0   |     0    |    0  |      0 | 0/0
+Shields         |                     |   0   |     0    |    0  |      0 | 0/50
+Unarmed Combat  |                     |   0   |     0    |    0  |      0 | 0/0
+Spellcasting    |                     |   0   |     0    |    0  |      0 | 0/70
+Conjurations    |                     |   0   |     0    |    0  |      0 | 0/0
+Hexes           |                     |   0   |     0    |    0  |      0 | 0/0
+Summonings      |                     |   0   |     0    |    0  |      0 | 0/0
+Necromancy      |                     |   0   |     0    |    0  |      0 | 0/0
+Translocations  |                     |   0   |     0    |    0  |      0 | 0/50
+Transmutations  |                     |   0   |     0    |    0  |      0 | 0/0
+Fire Magic      |                     |   0   |     0    |    0  |      0 | 0/0
+Ice Magic       |                     |   0   |     0    |    0  |      0 | 0/42
+Air Magic       |                     |   0   |     0    |    0  |      0 | 0/0
+Earth Magic     |                     |   0   |     0    |    0  |      0 | 0/0
+Poison Magic    |                     |   0   |     0    |    0  |      0 | 0/59
+Invocations     |                     |   0   |     0    |    0  |      0 | 0/0
+Evocations      |                     |   0   |     0    |    0  |      0 | 0/4
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+
+Mutations:
+
+Inventory bugs:
+
+Equipment:
+
+}}}}}}}}}}}
+
+
+Screenshot:
+@
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

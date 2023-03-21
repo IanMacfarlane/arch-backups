@@ -1,0 +1,595 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8810710154254922299
+
+24067 GoodOmen the Destroyer (level 12, -3/59 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 19, 2023.
+             Was an Elder of Vehumet.
+             Slain by a slime creature (13 damage)
+             ... on level 12 of the Dungeon.
+             The game lasted 01:19:14 (17276 turns).
+
+GoodOmen the Destroyer (DEEE)                      Turns: 17276, Time: 01:19:14
+
+Health: -3/59      AC:  9    Str:  5    XL:     12   Next: 77%
+Magic:  29/30      EV: 11    Int: 36    God:    Vehumet [****..]
+Gold:   855        SH:  0    Dex: 16    Spells: 1/36 levels left
+
+rFire   x . .      SeeInvis .    J - +6 dagger {chaos, rCorr Int+4}
+rCold   + . .      Faith    +    c - orb {light}
+rNeg    + . .      Spirit   .    S - +1 acid dragon scales of the Great Game {rElec Regen+ rCorr Dex+3}
+rPois   .          Reflect  .    (no helmet)
+rElec   +          Rampage  .    (no cloak)
+rCorr   +                        I - +0 pair of gloves
+Will    ++...                    u - +0 pair of boots
+Stlth   +                        r - amulet of faith
+HPRegen 1.09/turn                F - ring of willpower
+MPRegen 0.22/turn                y - ring "Cebiociva" {Ice rN+ Int+6 Dex-2}
+
+@: confused, ambrosia-drunk, glowing
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 12 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+You also visited: Sewer, Ossuary and Gauntlet.
+
+You collected 855 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ J - the +6 dagger of Tension (weapon) {chaos, rCorr Int+4}
+   (You took it off an orc on level 9 of the Dungeon)   
+   
+   Int:       It affects your intelligence (+4).
+   rCorr:     It protects you from acid and corrosion.
+Missiles
+ B - a throwing net
+Armour
+ c - an orb of light (worn)
+ u - a +0 pair of boots (worn)
+ I - a +0 pair of gloves (worn)
+ S - the +1 acid dragon scales of the Great Game (worn) {rElec Regen+ rCorr Dex+3}
+   (You found it in a Gauntlet)   
+   
+   Dex:       It affects your dexterity (+3).
+   rElec:     It insulates you from electricity.
+   Regen:     It increases your rate of health regeneration.
+   rCorr:     It protects you from acid and corrosion.
+Magical Staves
+ D - a staff of earth
+ P - a staff of fire
+Jewellery
+ r - an amulet of faith (around neck)
+ v - a +5 ring of evasion
+ y - the ring "Cebiociva" (right hand) {Ice rN+ Int+6 Dex-2}
+   (You acquired it on level 7 of the Dungeon)   
+   
+   [ring of ice]
+   
+   It enhances your ice magic.
+   Int:       It affects your intelligence (+6).
+   Dex:       It affects your dexterity (-2).
+   rF:        It makes you vulnerable to fire.
+   rC:        It protects you from cold.
+   rN:        It protects you from negative energy.
+ E - the ring "Tesewiagismi" {Int+6 Dex+3}
+   (You found it in a Gauntlet)   
+   
+   [ring of intelligence]
+   
+   Int:       It affects your intelligence (+6).
+   Dex:       It affects your dexterity (+3).
+ F - a ring of willpower (left hand)
+ K - an amulet of regeneration
+ L - a +5 ring of evasion
+ O - an amulet of reflection
+Wands
+ p - a wand of quicksilver (2)
+ A - a wand of flame (63)
+ G - a wand of iceblast (11)
+Scrolls
+ b - 5 scrolls of teleportation
+ i - a scroll of fear
+ j - a scroll of poison
+ k - 2 scrolls of magic mapping
+ n - 4 scrolls of fog
+ H - 2 scrolls of identify
+ N - 2 scrolls of enchant weapon
+Potions
+ d - 6 potions of invisibility
+ e - a potion of cancellation
+ f - 7 potions of flight
+ g - 4 potions of lignification
+ m - 5 potions of resistance
+ o - 3 potions of brilliance
+ q - 5 potions of might
+ t - 2 potions of curing
+ x - 3 potions of magic
+ C - a potion of ambrosia
+Miscellaneous
+ M - a condenser vane
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 12.5 Spellcasting
+ * Level 14.1 Conjurations
+ * Level 4.8 Summonings
+ - Level 1.3 Transmutations
+ - Level 0.9 Fire Magic
+ * Level 11.6 Air Magic
+ * Level 9.0 Earth Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+c - Spellforged Servitor  Conj/Summ      37%        N/A       17%         7
+d - Swiftness             Air            82%        N/A       1%          3
+e - Iron Shot             Conj/Erth      41%        9d8       1%          6
+f - Iskenderun's Battles  Conj           90%        2d14      1%          5
+g - Passwall              Tmut/Erth      47%        N/A       1%          2
+h - Airstrike             Air            41%        2d(6-22)  1%          4
+i - Flame Wave            Conj/Fire      67%        2d15      1%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           64%        N/A       2%          1
+ Necrotise                Necr           88%        1d8       4%          1
+ Momentum Strike          Conj/Tloc      100%       3d10      1%          2
+ Scorch                   Fire           58%        2d8       1%          2
+ Lightning Bolt           Conj/Air       43%        1d62      1%          5
+ Animate Armour           Summ/Erth      100%       N/A       2%          4
+ Wereblood                Tmut           32%        N/A       3%          2
+ Petrify                  Tmut/Erth      57%        N/A       4%          4
+ Blink                    Tloc           44%        N/A       6%          2
+ Ensorcelled Hibernation  Hex/Ice        66%        N/A       6%          2
+ Lesser Beckoning         Tloc           44%        N/A       6%          2
+ Spider Form              Tmut/Pois      27%        N/A       9%          3
+ Blade Hands              Tmut           16%        N/A       52%         5
+ Summon Cactus Giant      Summ           27%        N/A       63%         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:5            Lair (1/5) D:9         
+  Sewer (visited)         Ossuary (visited)         Gauntlet (visited)        
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:7 :
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Unknown command.
+Casting: Airstrike (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Casting: Flame Wave (dangerous; 1% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+A wave of flame ripples out!
+The flame wave engulfs the slime creature!
+The slime creature is moderately wounded.
+The slime creature quivers.
+(Press . to intensify the flame waves.)
+The slime creature quivers.
+You hear a shout! x2
+The slime creature hits you but does no damage.
+A wave of flame ripples out!
+The flame wave engulfs the slime creature!
+The slime creature is moderately wounded.
+The flame wave engulfs the slime creature!
+The slime creature is moderately wounded.
+The flame wave engulfs the slime creature!!
+The slime creature is moderately wounded.
+You hear a shout!
+The slime creature hits you! x2
+A wave of flame ripples out!
+The flame wave engulfs the slime creature!
+The slime creature is severely wounded.
+The flame wave engulfs the slime creature!
+The slime creature is heavily wounded.
+The flame wave engulfs the slime creature.
+The slime creature is moderately wounded.
+The slime creature hits you! x2
+* * * LOW HITPOINT WARNING * * *
+The slime creature hits you.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Okay, then.
+You are confused.
+You feel invigorated. The slime creature hits you!
+You die...
+
+     ##########
+     #.........
+     #.........
+     #....(....
+######......)..
+.......J.......
+     #.@J......
+    #...J......
+  .............
+ ##############
+
+
+You could see 3 slime creatures.
+
+Vanquished Creatures
+  A minotaur (Gauntlet)
+  Erolcha (D:11)
+  2 catoblepae
+  2 two-headed ogres
+  A death yak (Lair:1)
+  A wizard (Gauntlet)
+  Pikel (D:5)
+  An orange crystal statue (D:11)
+  A wolf spider (shapeshifter) (D:10)
+  5 elephants
+  A cyclops (D:10)
+  A black mamba (Lair:1)
+  Joseph (D:8)
+  3 gargoyles
+  Psyche (D:9)
+  A kobold demonologist (D:11)
+  The ghost of Kuzon the Firebug, a novice HuFE (D:4)
+  Maggie (D:6)
+  2 trolls
+  A nameless horror (D:11)
+  A spectral lindwurm (Gauntlet)
+  A hornet (D:11)
+  A shadow (D:8)
+  4 wraiths
+  A wyvern (D:7)
+  28 yaks
+  8 water moccasins
+  Pargi (Sewer)
+  6 orc warriors
+  2 sky beasts
+  3 black bears
+  3 ice beasts
+  6 centaurs
+  3 ogres
+  4 wolves
+  3 phantoms (D:5)
+  A kobold brigand (D:7)
+  6 bullfrogs
+  A gnoll sergeant (D:8)
+  3 scorpions
+  7 water moccasin zombies (Ossuary)
+  5 killer bees (D:9)
+  3 howler monkeys (D:8)
+  A hound (D:6)
+  Crazy Yiuf (D:7)
+  A gnoll bouda (D:6)
+  8 orc priests
+  6 jellies
+  3 iguanas
+  10 orc wizards
+  2 mummies (Ossuary)
+  16 gnolls
+  9 adders
+  5 white imps
+  2 ufetubi
+  3 adder zombies (Ossuary)
+  5 dart slugs
+  40 orcs
+  4 bats (D:1)
+  7 endoplasms
+  12 giant cockroaches
+  6 gnoll zombies (Ossuary)
+  2 goblins (D:1)
+  6 hobgoblins
+  9 jackals
+  9 kobolds
+  3 quokkas
+  4 ball pythons
+  3 frilled lizards
+  5 hobgoblin zombies (Ossuary)
+  2 kobold zombies (Ossuary)
+  An orc zombie (Ossuary)
+  7 rats
+322 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Josephine (D:11)
+  Sonja (D:11)
+  A wraith (D:11)
+  2 yaks (D:11)
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  51 fungi (D:9)
+  43 plants
+94 creatures vanquished.
+
+Grand Total: 421 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   141 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   586 | D:1      | Found a faded altar of an unknown god.
+   906 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/10
+   910 | D:2      | Learned a level 3 spell: Stone Arrow
+  1969 | D:3      | Reached skill level 1 in Conjurations
+  2207 | D:3      | Reached XP level 4. HP: 24/24 MP: 6/11
+  2253 | D:3      | Learned a level 4 spell: Petrify
+  2643 | D:4      | Found a runed translucent gate.
+  2643 | D:4      | Found a runed translucent gate.
+  2643 | D:4      | Found a runed translucent gate.
+  2643 | D:4      | Noticed Kuzon's ghost (novice HuFE)
+  2668 | D:4      | Reached skill level 2 in Conjurations
+  2705 | D:4      | Found a sand-covered staircase.
+  2710 | Ossuary  | Entered an ossuary
+  2738 | Ossuary  | Reached skill level 5 in Earth Magic
+  2738 | Ossuary  | Reached XP level 5. HP: 21/28 MP: 8/13
+  2748 | Ossuary  | Reached skill level 3 in Conjurations
+  2871 | Ossuary  | Reached XP level 6. HP: 17/32 MP: 1/15
+  2992 | Ossuary  | Reached skill level 5 in Spellcasting
+  2997 | Ossuary  | Reached skill level 4 in Conjurations
+  3134 | Ossuary  | Reached XP level 7. HP: 36/36 MP: 0/16
+  3435 | D:4      | Got the Elucidation of Arcane Combat and the Morgue
+  3440 | D:4      | Learned a level 3 spell: Swiftness
+  3970 | D:4      | Killed Kuzon's ghost
+  3971 | D:4      | Reached skill level 5 in Conjurations
+  4115 | D:5      | Entered Level 5 of the Dungeon
+  4134 | D:5      | Found an opulent altar of Gozag.
+  4171 | D:5      | Reached XP level 8. HP: 41/41 MP: 6/19
+  4298 | D:5      | Found a blossoming altar of Fedhas.
+  4315 | D:5      | Reached skill level 6 in Conjurations
+  4507 | D:5      | Noticed Pikel
+  4529 | D:5      | Killed Pikel
+  4530 | D:5      | Reached skill level 1 in Air Magic
+  4674 | D:5      | Reached skill level 7 in Conjurations
+  4713 | D:5      | Found a staircase to the Ecumenical Temple.
+  4728 | Temple   | Entered the Ecumenical Temple
+  4790 | Temple   | Became a worshipper of Vehumet
+  5433 | D:5      | Learned a level 5 spell: Lightning Bolt
+  5435 | D:5      | Reached XP level 9. HP: 45/45 MP: 14/21
+  5622 | D:6      | Reached * piety under Vehumet
+  5622 | D:6      | Offered knowledge of Shock by Vehumet.
+  5715 | D:6      | Noticed Maggie
+  5721 | D:6      | Killed Maggie
+  5744 | D:6      | Found a glowing drain.
+  5824 | Sewer    | Entered a sewer
+  5827 | Sewer    | Noticed Pargi
+  5830 | Sewer    | Killed Pargi
+  5831 | Sewer    | Reached skill level 8 in Conjurations
+  6368 | D:6      | Learned a level 5 spell: Iskenderun's Battlesphere
+  6402 | D:6      | Reached ** piety under Vehumet
+  6535 | D:6      | Offered knowledge of Poisonous Vapours by Vehumet.
+  6826 | D:6      | Learned a level 2 spell: Passwall
+  6856 | D:7      | Found Tuunou's Book Boutique.
+  6960 | D:7      | Reached skill level 5 in Air Magic
+  7106 | D:7      | Identified a scroll of acquirement
+  7106 | D:7      | Acquired the ring "Cebiociva" {Ice rN+ Int+6 Dex-2}
+  7234 | D:7      | Reached skill level 9 in Conjurations
+  7412 | D:7      | Offered knowledge of Static Discharge by Vehumet.
+  7732 | D:7      | Found a runed translucent door.
+  7733 | D:7      | Noticed Crazy Yiuf
+  7775 | D:7      | Killed Crazy Yiuf
+  7933 | D:8      | Found a white marble altar of Elyvilon.
+  7933 | D:8      | Found a bloodstained altar of Trog.
+  7957 | D:8      | Reached XP level 10. HP: 50/50 MP: 17/24
+  8084 | D:8      | Found a hide-covered altar of Uskayaw.
+  8147 | D:8      | Reached *** piety under Vehumet
+  8612 | D:8      | Offered knowledge of Airstrike by Vehumet.
+  8622 | D:8      | Reached skill level 10 in Conjurations
+  8756 | D:7      | Learned a level 4 spell: Airstrike
+  8974 | D:8      | Noticed Joseph
+  8980 | D:8      | Killed Joseph
+  9313 | D:9      | Noticed Psyche
+  9315 | D:9      | Killed Psyche
+  9368 | D:9      | Noticed a two-headed ogre
+  9371 | D:9      | Killed a two-headed ogre
+  9581 | D:9      | Found a staircase to the Lair.
+  9589 | D:9      | Reached skill level 10 in Spellcasting
+  9589 | D:9      | Reached skill level 11 in Conjurations
+  9782 | D:9      | Reached **** piety under Vehumet
+  9817 | D:9      | Reached XP level 11. HP: 54/54 MP: 12/27
+  9819 | D:9      | Offered knowledge of Sticky Flame by Vehumet.
+ 10233 | D:9      | Identified the +6 dagger of Tension {chaos, rCorr Int+4}
+ 10582 | D:9      | Found a shimmering blue altar of Sif Muna.
+ 10797 | D:10     | Entered Level 10 of the Dungeon
+ 10837 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 11224 | Lair:1   | Reached skill level 12 in Conjurations
+ 11794 | D:9      | Reached ***** piety under Vehumet
+ 11801 | D:9      | Offered knowledge of Spellforged Servitor by Vehumet.
+ 11914 | D:9      | Acquired a staff of earth
+ 12195 | Lair:1   | Noticed a death yak
+ 12196 | Lair:1   | Noticed a death yak
+ 12200 | Lair:1   | Noticed a catoblepas
+ 12483 | Lair:1   | Killed a catoblepas
+ 12484 | Lair:1   | Reached skill level 10 in Air Magic
+ 12658 | Lair:1   | Noticed a death yak
+ 12659 | Lair:1   | Noticed a death yak
+ 12660 | Lair:1   | Noticed a death yak
+ 12661 | Lair:1   | Noticed a death yak
+ 12663 | Lair:1   | Noticed a death yak
+ 12663 | Lair:1   | Noticed a death yak
+ 12666 | Lair:1   | Noticed a death yak
+ 12824 | Lair:1   | Killed a death yak
+ 12985 | D:10     | Noticed a two-headed ogre
+ 12988 | D:10     | Killed a two-headed ogre
+ 12989 | D:10     | Reached skill level 13 in Conjurations
+ 13153 | D:10     | Learned a level 7 spell: Spellforged Servitor
+ 13354 | D:10     | Reached XP level 12. HP: 59/59 MP: 19/29
+ 14034 | D:10     | Reached skill level 1 in Summonings
+ 14040 | D:10     | a shapeshifter changed into an entropy weaver
+ 14040 | D:10     | Noticed an entropy weaver (shapeshifter)
+ 14756 | D:11     | Found a gate leading to a gauntlet.
+ 14765 | Gauntlet | Entered a Gauntlet
+ 14765 | Gauntlet | Found a transporter.
+ 14765 | Gauntlet | Found a transporter.
+ 14775 | Gauntlet | Found a transporter.
+ 14776 | Gauntlet | Found a transporter.
+ 14779 | Gauntlet | Found a transporter.
+ 14780 | Gauntlet | Found a transporter.
+ 14869 | Gauntlet | Noticed a catoblepas
+ 14870 | Gauntlet | Found a transporter.
+ 14871 | Gauntlet | Found a transporter.
+ 14874 | Gauntlet | Found a transporter.
+ 14874 | Gauntlet | Found a transporter.
+ 14913 | Gauntlet | Killed a catoblepas
+ 14997 | Gauntlet | Noticed a death scarab
+ 14998 | Gauntlet | Noticed a death scarab
+ 15009 | Gauntlet | Learned a level 4 spell: Flame Wave
+ 15011 | Gauntlet | Found a runed translucent door.
+ 15015 | Gauntlet | Found a runed translucent door.
+ 15018 | Gauntlet | Found a transporter.
+ 15021 | Gauntlet | Found a transporter.
+ 15073 | Gauntlet | Identified the ring "Tesewiagismi" {Int+6 Dex+3}
+ 15230 | Gauntlet | Noticed a minotaur
+ 15237 | Gauntlet | Killed a minotaur
+ 15361 | Gauntlet | Identified the +1 acid dragon scales of the Great Game
+                  | {rElec Regen+ rCorr Dex+3}
+ 15361 | Gauntlet | Identified the +5 short sword of Conformity {pain, rElec
+                  | rPois Dex+3 Stlth+}
+ 15514 | D:11     | Noticed Erolcha
+ 15536 | D:11     | Killed Erolcha
+ 15739 | D:11     | Noticed Josephine
+ 15831 | D:11     | Found a shadowy altar of Dithmenos.
+ 15966 | D:11     | Killed Josephine
+ 16018 | D:11     | Noticed Sonja
+ 16020 | D:11     | Killed Sonja
+ 16153 | D:11     | Reached skill level 14 in Conjurations
+ 16784 | D:11     | Learned a level 6 spell: Iron Shot
+ 17276 | D:12     | Slain by a slime creature
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_boxorama, layout_basic,
+          shapermc_ecumenical_altar_acropolis
+D:2:      layout_basic
+D:3:      layout_loops_cross, kennysheep_generic_room_12
+D:4:      layout_rooms, ebering_ghost_rock_garden,
+          nicolae_ossuary_entry_false_entrances, small_statue_alley_b
+D:5:      black_bear_nest_2, layout_gridville, grunt_gozag_statues,
+          mainiacjoe_overflow_tiny_flanked, minmay_temple_entry_large_hall,
+          uniq_pikel
+D:6:      layout_loops_ring, gup_sewer_entry_glass, uniq_maggie
+D:7:      layout_basic, serial_shops, nicolae_stop_n_shop_1,
+          uniq_crazy_yiuf_cottage
+D:8:      layout_basic, lemuel_crystal_altar,
+          chequers_temple_overflow_statue_of_worship, uniq_joseph
+D:9:      layout_rooms, nicolae_sif_muna_little_library,
+          due_lair_maze_entry_diamond, uniq_psyche
+D:10:     layout_long_grid
+D:11:     layout_irregular_city, gauntlet_entry_generic, minivault_16,
+          grunt_dithmenos_smoke_and_mirrors, uniq_josephine, uniq_erolcha,
+          uniq_sonja
+D:12:     layout_rooms, orc_0_dummy
+Temple:   nicolae_temple_bog_church
+Lair:1:   layout_cave_pods, grunt_megastairs_4, infiniplex_staircase_pool
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Earth Magic    |     4     5     6  7  8  9          |  9.0
+Conjurations   |        1  2  3  4  5  7  9 11 13 14 | 14.1
+Spellcasting   |           4     5  6  7  8 10 11 12 | 12.5
+Air Magic      |                       2  5  8 10 11 | 11.6
+Summonings     |                                   4 |  4.8
+Dodging        |                                     |  2.6
+Stealth        |                                     |  2.6
+Transmutations |                                     |  1.3
+Fire Magic     |                                     |  0.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Scimitar          |       |    15 |     1 |     2 ||    18
+         Staff             |       |       |       |     3 ||     3
+         Dagger            |       |       |       |     4 ||     4
+   Cast: Sandblast         |    67 |    28 |    50 |    32 ||   177
+         Stone Arrow       |       |    18 |   102 |   196 ||   316
+         Lightning Bolt    |       |       |     1 |    25 ||    26
+         Petrify           |       |       |     1 |       ||     1
+         Airstrike         |       |       |       |    81 ||    81
+         Iskenderun's Batt |       |       |       |    16 ||    16
+         Spellforged Servi |       |       |       |     7 ||     7
+         Flame Wave        |       |       |       |     4 ||     4
+         Iron Shot         |       |       |       |     2 ||     2
+         Swiftness         |       |       |       |     1 ||     1
+    Use: Scroll            |     3 |     3 |    10 |    23 ||    39
+         Potion            |       |     1 |       |    14 ||    15
+ Armour: Robe              |     4 |     8 |    13 |    12 ||    37
+         Swamp dragon scal |       |       |       |    44 ||    44
+         Acid dragon scale |       |       |       |     3 ||     3
+  Dodge: Dodged            |    12 |    23 |    24 |    99 ||   158
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  17390 |  16881 |    509 |   1024 |  12829 |  17 | 1022.9 |
+       Dungeon |  14445 |  13941 |    504 |    763 |  10875 |  12 | 1203.8 |
+        Temple |    181 |    177 |      4 |      0 |    145 |   1 |  181.0 |
+          Lair |   1179 |   1179 |      0 |    158 |    715 |   1 | 1179.0 |
+         Sewer |    239 |    239 |      0 |      0 |    214 |   1 |  239.0 |
+       Ossuary |    694 |    694 |      0 |     92 |    503 |   1 |  694.0 |
+      Gauntlet |    649 |    649 |      0 |     11 |    377 |   1 |  649.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 2449 daAuts
+    D:11: 1917 daAuts
+     D:8: 1621 daAuts
+    D:10: 1478 daAuts
+     D:5: 1324 daAuts
+  Lair:1: 1179 daAuts
+     D:7: 1142 daAuts
+     D:6: 1027 daAuts
+     D:3: 934 daAuts
+     D:1: 913 daAuts
+     D:2: 815 daAuts
+     D:4: 814 daAuts
+ Ossuary: 694 daAuts
+Gauntlet: 649 daAuts
+   Sewer: 239 daAuts
+

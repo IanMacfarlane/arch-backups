@@ -1,0 +1,331 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+  5 stones
+(0, 12, D:1)
+  a +0 leather armour
+(1, 17, D:1)
+  a +0 robe
+(3, 24, D:1)
+  a +0 animal skin
+(6, 0, D:1)
+  a +0 whip of electrocution
+(14, -7, D:1)
+  a +0 leather armour
+(14, 1, D:1)
+  a +0 dagger
+  3 stones
+(19, -5, D:1)
+  16 stones
+(20, -4, D:1)
+  a +0 short sword
+(25, 33, D:1)
+  a +0 club
+  2 stones
+(28, 1, D:1)
+  a +0 dagger
+(31, -7, D:1)
+  a +0 club
+(34, 10, D:1)
+  a +0 dagger
+(39, 1, D:1)
+  a +0 chain mail
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 short sword of speed
+(7, 9, D:2)
+  11 arrows
+(18, -4, D:2)
+  a +0 robe
+(20, -13, D:2)
+  a +0 whip
+(21, 24, D:2)
+  19 stones
+(22, 14, D:2)
+  a book of Debilitation
+(28, -14, D:2)
+  12 stones
+(40, -5, D:2)
+  a book of Spectacle
+(41, 0, D:2)
+  12 stones
+(51, 13, D:2)
+  a +0 club
+(53, 15, D:2)
+  a +0 whip
+(55, 1, D:2)
+  a +0 whip
+  2 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(22, 6, D:3)
+  a +0 dagger
+  a +0 dagger
+(24, 6, D:3)
+  a +0 club
+  2 stones
+(27, -5, D:3)
+  12 arrows
+(32, -6, D:3)
+  a +0 ring mail
+(35, 7, D:3)
+  5 curare-tipped darts
+(40, 2, D:3)
+  12 sling bullets
+(48, -7, D:3)
+  a +0 ring mail
+(52, -5, D:3)
+  a +0 leather armour
+(53, -3, D:3)
+  2 poisoned darts
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 club
+(8, 4, D:4)
+  a +0 pair of boots
+(20, -20, D:4)
+  8 stones
+(21, -5, D:4)
+  a +0 scale mail
+(25, -18, D:4)
+  a +0 ring mail
+(25, 6, D:4)
+  a +0 hand axe
+  a +0 leather armour
+(29, 1, D:4)
+  a +0 scale mail
+(30, -6, D:4)
+  4 boomerangs
+(32, 6, D:4)
+  a +0 club
+  a +1 vorpal hunting sling
+  12 stones
+(33, 16, D:4)
+  a +0 dagger
+  a +0 robe
+(34, -22, D:4)
+  18 stones
+(35, 5, D:4)
+  14 stones
+(38, 15, D:4)
+  16 arrows
+(39, -2, D:4)
+  a +0 spear
+(39, 13, D:4)
+  a +0 trident
+(40, 11, D:4)
+  a +0 dagger
+(40, 12, D:4)
+  a +0 club
+  a +0 flail
+  a +0 ring mail
+(46, -9, D:4)
+  a +0 dagger
+  (unseen)
+(46, -3, D:4)
+  15 stones
+(52, 7, D:4)
+  a +0 shortbow
+(57, 10, D:4)
+  24 stones
+(60, -15, D:4)
+  a +0 dagger
+(62, -16, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+[Shop] Leeweat's Jewellery Shoppe
+  a ring of protection from fire (300 gold)
+  a ring of positive energy (240 gold)
+  a ring of protection from fire (300 gold)
+  a ring of resist corrosion (240 gold)
+  a ring of poison resistance (240 gold)
+  the macabre finger necklace {rN+} (480 gold)
+    [amulet of nothing]
+    
+    It enables you to equip an extra ring.
+    
+    rN:        It protects you from negative energy.
+  a ring of positive energy (240 gold)
+  a ring of protection from cold (300 gold)
+  an amulet of reflection (360 gold)
+  an amulet of magic regeneration (360 gold)
+  a ring of see invisible (180 gold)
+(0, 0, D:5)
+  a +0 dagger
+(8, 33, D:5)
+  a +0 ring mail
+(9, 5, D:5)
+  16 stones
+(16, 0, D:5)
+  a +0 robe
+(17, 1, D:5)
+  a +0 trident
+(27, 2, D:5)
+  13 gold pieces
+(29, 24, D:5)
+  19 sling bullets
+(32, 32, D:5)
+  a +0 ring mail
+(37, 32, D:5)
+  a +0 dagger
+(39, 29, D:5)
+  27 sling bullets
+(41, 29, D:5)
+  5 sling bullets
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 ring mail
+(2, -7, D:6)
+  18 stones
+(3, 1, D:6)
+  6 javelins
+(12, -6, D:6)
+  30 sling bullets
+(29, -24, D:6)
+  a +0 dagger
+(29, -23, D:6)
+  a +0 dagger
+  a +0 robe
+  a +1 mace of protection
+  a +0 leather armour
+(29, -12, D:6)
+  a +0 ring mail
+(30, -23, D:6)
+  a +0 hand axe
+  a +0 chain mail
+(30, -22, D:6)
+  a +0 trident
+(35, -10, D:6)
+  a +0 mace
+(40, -8, D:6)
+  a book of Cantrips
+(43, -36, D:6)
+  a +0 pair of boots
+(47, -22, D:6)
+  a +1 hand axe
+  a scroll of vulnerability
+  a potion of attraction
+  a scroll of amnesia
+  a ring of ice
+  a +6 ring of intelligence
+(49, -27, D:6)
+  a +0 shortbow
+  18 arrows
+(56, -43, D:6)
+  a +0 ring mail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  16 gold pieces
+(11, -1, D:7)
+  a +0 spear
+(11, 0, D:7)
+  a +0 spear
+(11, 1, D:7)
+  a +0 spear
+(11, 2, D:7)
+  a +0 spear
+(13, -13, D:7)
+  a scroll of teleportation
+(13, 11, D:7)
+  a +0 scale mail
+(13, 12, D:7)
+  4 javelins
+(16, -7, D:7)
+  a +0 robe
+(21, -14, D:7)
+  a bullfrog corpse (skeletalised by now)
+(26, -3, D:7)
+  17 sling bullets
+(26, 14, D:7)
+  a +0 ring mail
+(29, 0, D:7)
+  a +0 dagger
+
+a bailey
+(0, 0, Bailey)
+  a +0 trident
+  a +0 chain mail
+(0, 4, Bailey)
+  a +0 halberd
+  a +0 chain mail
+(2, 8, Bailey)
+  a potion of brilliance
+(2, 10, Bailey)
+  a potion of invisibility
+(3, 9, Bailey)
+  a potion of mutation
+(3, 11, Bailey)
+  a potion of mutation
+(4, 8, Bailey)
+  a potion of cancellation
+(5, 9, Bailey)
+  a potion of magic
+(5, 11, Bailey)
+  a potion of haste
+(6, 12, Bailey)
+  a potion of cancellation
+(7, 13, Bailey)
+  a +1 halberd of electrocution
+(8, -4, Bailey)
+  a +0 halberd of electrocution
+(8, 0, Bailey)
+  a +0 trident
+  a +0 scale mail
+  an orc corpse (skeletalised by now)
+(8, 4, Bailey)
+  a +0 halberd of draining
+  a gnoll corpse
+(8, 14, Bailey)
+  a +1 halberd of electrocution
+  a gnoll corpse
+(9, 14, Bailey)
+  a +1 halberd of draining
+  a gnoll corpse
+(10, 0, Bailey)
+  a +0 halberd
+  a +0 ring mail
+(10, 4, Bailey)
+  a +0 halberd of draining
+(10, 10, Bailey)
+  a +0 trident
+  a +0 ring mail
+(10, 14, Bailey)
+  a +1 halberd of electrocution
+  a gnoll corpse
+(14, -4, Bailey)
+  a +0 halberd
+  a +0 scale mail
+(14, 4, Bailey)
+  a +0 halberd
+  a +0 chain mail
+  an orc corpse
+(14, 6, Bailey)
+  a +0 trident
+  a +0 chain mail
+(14, 8, Bailey)
+  a +0 halberd of draining
+  a gnoll corpse
+(14, 14, Bailey)
+  a +0 spear
+  a +0 chain mail
+  an orc corpse
+(18, 0, Bailey)
+  a +0 trident
+  a +0 scale mail
+(18, 6, Bailey)
+  a +0 halberd of draining
+  a gnoll corpse
+(18, 14, Bailey)
+  a +0 trident
+  a +0 chain mail
+  an orc corpse
+

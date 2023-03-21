@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 1222943069345701268
+
+5 Bokogi the Firebug (level 1, 0/10 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 12, 2023.
+             Succumbed to their own poison gas
+             ... on level 1 of the Dungeon.
+             The game lasted 00:04:15 (100 turns).
+
+Bokogi the Firebug (Deep Elf Fire Elementalist)      Turns: 100, Time: 00:04:15
+
+Health: 0/10       AC:  2    Str:  5    XL:     1   Next: 66%
+Magic:  6/6        EV: 17    Int: 19    God:    
+Gold:   0          SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .    c - +0 mace
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.21/turn                d - +5 ring of evasion
+MPRegen 0.10/turn                (no ring)
+
+@: lethally poisoned (0 -> -14)
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 mace (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ d - a +5 ring of evasion (left hand)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.4 Stealth
+ + Level 3.3 Spellcasting
+ + Level 1.1 Conjurations
+ + Level 3.4 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      44%        2x1d6     6%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           32%        2d6       5%          2
+ Inner Flame              Hex/Fire       9%         N/A       22%         3
+ Kindle Blastsparks       Fire/Tloc/Air  14%        2d11      28%         3
+ Flame Wave               Conj/Fire      11%        2d6       50%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You conjure some foxfire!
+The foxfire hits the endoplasm.
+You kill the endoplasm!
+Your foxfire dissipates!
+You see here a +0 mace.
+You see here a dart slug corpse.
+You see here a +0 mace.
+Okay, then.
+c - a +0 mace (weapon)
+Found a scroll labelled CIEGRIEGUCW.
+Found a scroll labelled EZOHOL GURGHA.
+d - a scroll labelled CIEGRIEGUCW
+Found 7 gold pieces.
+e - a scroll labelled EZOHOL GURGHA
+As you read the scroll labelled CIEGRIEGUCW, it crumbles to dust.
+You feel strangely unstable. It was a scroll of teleportation.
+Your surroundings suddenly seem different.
+Found a robe and an emerald ring.
+Found 6 stones.
+You see here a +0 robe.
+d - a +5 ring of evasion
+d - a +5 ring of evasion (left hand)
+The air fills with toxic fumes!
+As you read the scroll labelled EZOHOL GURGHA, it crumbles to dust.
+It was a scroll of poison.
+Really walk into that cloud of poison gas? 
+[Y]es or [N]o only, please.
+Really walk into that cloud of poison gas? 
+Okay, then.
+Really walk into that cloud of poison gas? 
+[Y]es or [N]o only, please.
+Really walk into that cloud of poison gas? 
+Okay, then.
+Really walk into that cloud of poison gas? 
+Okay, then.
+Really walk into that cloud of poison gas? 
+You are engulfed in poison gas.
+You are lethally poisoned! Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You die...
+
+########
+.....$.#
+.>.>.>.+       #####   #
+.......#       #000#  .#
+########     ###000###0#0#
+.......#    .#00@.0000000#
+...<...+ .00000000000#0###
+.......# .0#0#0000000#
+########   # ###000###
+........       #000#
+:#####.#      .00000
+|#   #.#     ########
+.#   #.#
+.#   #.#
+.#   #.#
+.#   #.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A dart slug (D:1)
+  2 endoplasms (D:1)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  9 foxfires (D:1)
+9 creatures vanquished.
+
+Grand Total: 12 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   100 | D:1      | Succumbed to their own poison gas
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_up_and_down, layout_loops_ring, minmay_tetromino_l2
+
+Action                     || total
+---------------------------++-------
+   Cast: Foxfire           ||     5
+    Use: Scroll            ||     2
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     99 |     99 |      0 |      0 |      0 |   1 |   99.0 |
+       Dungeon |     99 |     99 |      0 |      0 |      0 |   1 |   99.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 99 daAuts
+

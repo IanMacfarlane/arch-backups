@@ -1,0 +1,146 @@
+Kuzon
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(2, 8, D:1)
+  a +0 dagger
+  2 stones
+(3, 28, D:1)
+  a +0 club
+(5, 26, D:1)
+  a +0 dagger
+(5, 41, D:1)
+  a +0 dagger
+(6, 41, D:1)
+  a +0 dagger
+(13, -10, D:1)
+  a +0 club
+(13, 4, D:1)
+  a stone
+(16, 18, D:1)
+  a +0 dagger
+(26, 29, D:1)
+  a +0 club
+(26, 32, D:1)
+  a +0 dagger
+(30, 41, D:1)
+  5 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  3 stones
+(2, -23, D:2)
+  a +0 dagger
+(8, 0, D:2)
+  a +0 club
+  a +0 robe
+(10, -38, D:2)
+  a +0 buckler
+(10, -27, D:2)
+  a +0 club
+(12, -28, D:2)
+  a +0 club
+(16, -35, D:2)
+  a +0 dagger
+(21, 4, D:2)
+  a +0 dagger
+(27, -15, D:2)
+  a +0 club
+(27, -14, D:2)
+  a +0 club
+  a +0 sling
+(27, -9, D:2)
+  a +0 dagger
+  4 stones
+(28, -15, D:2)
+  a +0 club
+  a +0 club
+  a +0 club
+  a +0 club
+  a +0 dagger of electrocution
+(30, -15, D:2)
+  a +0 short sword
+  a +0 animal skin
+  a +0 helmet
+(30, 2, D:2)
+  6 datura-tipped darts
+(32, -15, D:2)
+  a +0 dagger
+(41, -45, D:2)
+  a +2 rapier of venom
+(46, -11, D:2)
+  4 stones
+(48, -31, D:2)
+  a +0 dagger
+(66, -21, D:2)
+  a +0 short sword
+  4 stones
+(71, -19, D:2)
+  a stone
+
+Level 3 of the Dungeon
+[Shop] Azi Woorph's Assorted Antiques
+  a +4 ring of protection (792 gold)
+  a +0 leather armour (44 gold)
+  a +0 falchion (66 gold)
+  a wand of quicksilver (8) (739 gold)
+  a potion of magic (176 gold)
+  a +0 scale mail (88 gold)
+(0, 0, D:3)
+  a +0 sling
+(1, 0, D:3)
+  a +0 short sword
+(9, 8, D:3)
+  a +0 chain mail
+(14, 32, D:3)
+  a +0 club
+(15, -16, D:3)
+  4 stones
+(20, -24, D:3)
+  a +0 dagger
+(29, 8, D:3)
+  a +0 spear
+  a +0 halberd
+  a +0 halberd
+  a +0 spear
+(32, 7, D:3)
+  2 scrolls of noise
+(35, 8, D:3)
+  5 stones
+(40, -17, D:3)
+  a +0 dagger
+(45, -10, D:3)
+  a +0 spear
+(47, -8, D:3)
+  a +0 spear
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+(8, 16, D:4)
+  a +0 club
+(19, 30, D:4)
+  an iguana corpse (skeletalised by now)
+(27, -3, D:4)
+  a +0 spear
+(27, -2, D:4)
+  a +0 whip
+(28, -2, D:4)
+  a +0 club
+(31, 31, D:4)
+  the +2 chain mail "Qadajouf" {Int+6 Slay+2}
+    Int:       It affects your intelligence (+6).
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (+2).
+(34, 43, D:4)
+  a +0 war axe
+(35, -5, D:4)
+  a +0 sling
+(37, 42, D:4)
+  a +0 leather armour
+(40, 20, D:4)
+  a +0 robe
+(48, 1, D:4)
+  a +0 club
+

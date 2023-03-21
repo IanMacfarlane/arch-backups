@@ -1,0 +1,194 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 4566385123582866640
+
+9 GoodOmen the Digger (level 2, 15/15 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 19, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:38 (150 turns).
+
+GoodOmen the Digger (Deep Elf Earth Elementalist)    Turns: 150, Time: 00:00:38
+
+Health: 15/15      AC:  2    Str:  5    XL:     2   Next: 6%
+Magic:  0/8        EV: 12    Int: 19    God:    
+Gold:   29         SH:  0    Dex: 15    Spells: 6/7 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.11/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 29 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of butterflies {unknown}
+Potions
+ b - a potion of magic
+ d - a potion of mutation {unknown}
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.7 Stealth
+ + Level 3.2 Spellcasting
+ + Level 1.4 Transmutations
+ + Level 3.4 Earth Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           32%        2d9       3%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      10%        N/A       9%          2
+ Stone Arrow              Conj/Erth      18%        3d8       22%         3
+ Petrify                  Tmut/Erth      12%        N/A       50%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The blast of sand hits the endoplasm.
+The endoplasm is almost dead.
+A jackal comes into view.
+The blast of sand hits the endoplasm!
+You kill the endoplasm!
+The blast of sand hits the hobgoblin!
+You kill the hobgoblin!
+A jackal comes into view.
+A goblin comes into view. It is wielding a +0 club.
+The blast of sand hits the giant cockroach.
+The giant cockroach is severely wounded.
+The jackal barks! You hear an angry hiss.
+A jackal comes into view.
+The giant cockroach closely misses you.
+A jackal comes into view.
+The giant cockroach barely misses you.
+The jackal barely misses you.
+The jackal attacks as you move away!
+The jackal bites you but does no damage.
+The jackal barely misses you. The giant cockroach closely misses you.
+The blast of sand misses the giant cockroach.
+The blast of sand hits the jackal.
+The jackal is almost dead.
+The jackal barks!
+The giant cockroach completely misses you.
+The blast of sand hits the jackal.
+You kill the jackal!
+The jackal barks!
+The giant cockroach waves its antennae.
+The giant cockroach closely misses you.
+The giant cockroach bites you but does no damage.
+The jackal misses you.
+You have reached level 2!
+The blast of sand hits the giant cockroach!
+You kill the giant cockroach!
+The jackal closely misses you. x2
+You are out of magic!
+You are out of magic!
+You are out of magic!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                       .....
+......h...#            .....
+..........#            .....
+......)...#            .....
+..........#            .....
+..........#            #....
+.......†..#   #......# #....
+.........#    #......# ####.
+........h######......##   #.
+........h#............#  ###
+.....#.hg#............#  #..
+.... ###@+............#  #.#
+...    #.#............# ##.#
+..     #..............###...
+.      #.###......#####...##
+       #.# #####.....##.###
+       #.#     ##.......#
+       ..#     #......###
+       ###     ##...>.#
+                #....##
+                #..###
+                #...
+                #.##
+
+
+You could see 3 jackals and a goblin.
+
+Vanquished Creatures
+  An endoplasm (D:1)
+  2 giant cockroaches (D:1)
+  A goblin (D:1)
+  A hobgoblin (D:1)
+  A jackal (D:1)
+  A ball python (D:1)
+  A rat (D:1)
+8 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   149 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/8
+   150 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_long_road, layout_basic
+
+Action                     || total
+---------------------------++-------
+   Cast: Sandblast         ||    11
+ Armour: Robe              ||     2
+  Dodge: Dodged            ||    10
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    155 |    155 |      0 |      0 |    115 |   1 |  155.0 |
+       Dungeon |    155 |    155 |      0 |      0 |    115 |   1 |  155.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 155 daAuts
+

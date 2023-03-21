@@ -1,0 +1,243 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16855942635181690507
+
+56 Kuzon the Firebug (level 3, 0/19 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Slain by a goblin
+             ... wielding a +0 short sword
+             ... led by Robin
+              (1 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:04:22 (1409 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 1409, Time: 00:04:23
+
+Health: 0/19       AC:  3    Str:  5    XL:     3   Next: 71%
+Magic:  10/10      EV: 12    Int: 21    God:    
+Gold:   148        SH:  0    Dex: 15    Spells: 6/9 levels left
+
+rFire   . . .      SeeInvis .    e - +1 short sword (drain)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    c - +1 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       g - amulet of magic regeneration
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.52/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 148 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +1 short sword of draining (weapon)
+Armour
+ a - a +0 robe (worn)
+ c - a +1 hat (worn)
+Jewellery
+ g - an amulet of magic regeneration (around neck)
+Potions
+ b - a potion of magic
+ d - 2 potions of lignification {unknown}
+ f - a potion of attraction {unknown}
+ h - 2 potions of haste {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 3.7 Spellcasting
+ * Level 2.6 Conjurations
+ * Level 4.1 Fire Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      72%        2x1d7     3%          1
+b - Scorch                Fire           42%        2d7       3%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       12%        N/A       16%         3
+ Kindle Blastsparks       Fire/Tloc/Air  18%        2d11      22%         3
+ Flame Wave               Conj/Fire      18%        2d7       30%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Shops:
+D:1 *
+
+Annotations:
+D:2 Robin
+
+Message History
+
+The goblin shoots a sling bullet. The sling bullet closely misses you.
+The hobgoblin shouts! You hear a shout!
+Robin attacks as you move away! Robin misses you.
+The ball python attacks as you move away!
+The ball python misses you. The ball python barely misses you.
+A goblin comes into view. It is wielding a +0 dagger.
+The goblin shoots a sling bullet. The sling bullet closely misses you. Robin
+zaps a wand.
+The roots erupt in riotous growth! The ball python is unaffected. Robin is
+unaffected.
+The grasping roots grab you!
+The goblin is unaffected. The grasping roots constrict you.
+The goblin hits you with a +0 dagger.
+You escape the roots grasp. The goblin attacks as you move away!
+The goblin hits you with a +0 dagger. Found a dagger.
+A bat comes into view.
+The goblin attacks as you move away! The goblin closely misses you.
+Robin throws the goblin at you!
+The ball python bites you but does no damage.
+The ball python grabs you. The ball python constricts you.
+Your magical contamination has completely faded away.
+You barely miss the ball python. The goblin unwields a +0 sling.
+The goblin wields a +0 short sword. The goblin closely misses you.
+The ball python misses you. The ball python constricts you.
+You closely miss the ball python. The bat hits you.
+The goblin hits you with a +0 short sword.
+The ball python bites you.
+* * * LOW HITPOINT WARNING * * *
+The ball python constricts you.
+You hit the ball python.
+You kill the ball python!
+The goblin no longer looks unusually strong.
+The hobgoblin no longer looks unusually strong.
+The bat hits you but does no damage. The goblin hits you but does no damage.
+You closely miss the goblin. The bat hits you but does no damage. The bat
+misses you.
+The goblin hits you with a +0 short sword.
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+You miss the goblin. The bat hits you but does no damage.
+The goblin hits you with a +0 short sword.
+You die...
+
+   .######...#####  #.##
+   ...............  #)#
+.  ..............>  .)#
+.  #.............. #.S
+   ...####...##### #..
+   ##    #...#     #g#
+         #...#     #g  #.
+      ####...##       ...
+      #.......#      ..).
+      #.##....#     .....
+      #  ##.#.#####......
+        ##...gKgg@g.....#
+        #....g.g##b####.#
+        ##....#......
+      ........####.##.#
+      .......##   .#  #
+     ..###....    .#
+     .   ##.##    ##
+          #.
+          #.
+
+
+You could see Robin, 2 hobgoblins, 3 goblins, a bat and a kobold.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  2 adders (D:2)
+  2 ball pythons
+  A giant cockroach (D:1)
+  6 hobgoblins
+  2 jackals (D:2)
+  2 kobolds (D:1)
+  7 goblins
+  3 rats
+26 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  5 foxfires (D:1)
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  42 foxfires
+42 creatures vanquished.
+
+Grand Total: 73 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+     3 | D:1      | Noticed an electric eel
+     4 | D:1      | Noticed an electric eel
+   156 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   277 | D:1      | Learned a level 2 spell: Scorch
+   290 | D:1      | Found Xoschul's Assorted Antiques.
+   777 | D:1      | Found a faded altar of an unknown god.
+  1196 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/10
+  1285 | D:2      | Reached skill level 4 in Fire Magic
+  1331 | D:2      | Noticed Robin
+  1409 | D:2      | Slain by a goblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      arrival_aquarium_b, layout_basic, serial_shops,
+          nicolae_shop_overgrown_old_shop, ebering_ecumenical_altar_petrified
+D:2:      layout_loops_cross, minmay_pentomino_q2, uniq_robin
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Conjurations   |     2    |  2.6
+Fire Magic     |        4 |  4.1
+Dodging        |          |  2.4
+Stealth        |          |  2.4
+Spellcasting   |          |  3.7
+
+Action                     || total
+---------------------------++-------
+  Melee: Short sword       ||     6
+   Cast: Foxfire           ||    27
+         Scorch            ||    15
+    Use: Scroll            ||     2
+ Armour: Robe              ||    11
+  Dodge: Dodged            ||    21
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1408 |   1333 |     75 |      0 |   1094 |   2 |  704.0 |
+       Dungeon |   1408 |   1333 |     75 |      0 |   1094 |   2 |  704.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1136 daAuts
+     D:2: 272 daAuts
+

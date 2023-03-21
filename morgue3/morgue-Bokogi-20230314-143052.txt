@@ -1,0 +1,217 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 13132321171961356323
+
+35 Bokogi the Firebug (level 3, 0/24 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Succumbed to an adder's poison
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:55 (1392 turns).
+
+Bokogi the Firebug (Human Fire Elementalist)        Turns: 1392, Time: 00:02:56
+
+Health: 0/24       AC:  3    Str:  8    XL:     3   Next: 52%
+Magic:  6/6        EV: 12    Int: 17    God:    
+Gold:   61         SH:  0    Dex: 13    Spells: 3/6 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    g - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: lethally poisoned (0 -> -11), very slightly contaminated
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 61 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ g - a +0 helmet (worn)
+Scrolls
+ c - 2 scrolls of blinking {unknown}
+ e - 3 scrolls of teleportation {unknown}
+ f - a scroll of identify {unknown}
+Potions
+ d - 3 potions of curing {unknown}
+ h - a potion of attraction {unknown}
+ i - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 2.3 Dodging
+ + Level 2.4 Stealth
+ + Level 2.3 Spellcasting
+ + Level 1.5 Conjurations
+ + Level 3.3 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      40%        2x1d6     7%          1
+b - Scorch                Fire           26%        2d6       8%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Freeze                   Ice            4%         1d3       19%         1
+ Inner Flame              Hex/Fire       7%         N/A       28%         3
+ Kindle Blastsparks       Fire/Tloc/Air  10%        2d10      34%         3
+ Hailstorm                Conj/Ice       4%         3d4       38%         3
+ Frozen Ramparts          Ice            2%         1d1       50%         3
+ Flame Wave               Conj/Fire      10%        2d6       56%         4
+ Summon Lightning Spire   Summ/Air       1%         N/A       88%         4
+ Storm Form               Tmut/Air       0%         N/A       100%        7
+ Maxwell's Capacitive Co  Air            0%         ∞         100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+The frilled lizard is moderately wounded.
+The bat barely misses you.
+The adder attacks as you move away! The adder closely misses you. Found a
+scroll labelled GULILU BAZU.
+You feel very sick.
+The foxfire hits the bat.
+The bat is severely wounded.
+The bat hits you but does no damage.
+Casting: Foxfire (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! You feel sick. The foxfire hits the bat.
+You kill the bat!
+The adder misses you. The rat barely misses you.
+The rat attacks as you move away! The rat misses you.
+The frilled lizard attacks as you move away!
+The frilled lizard barely misses you. The adder attacks as you move away! The
+adder bites you. You feel sick.
+The foxfire hits the adder.
+The adder is almost dead.
+Casting: Foxfire (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You miscast Foxfire.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen. You feel sick. The adder bites you.
+You are more poisoned.
+The adder poisons you! The adder closely misses you. The rat bites you but does
+no damage.
+The frilled lizard barely misses you.
+Unknown command.
+Magic courses through your body.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder barely misses you. The frilled lizard bites you.
+* * * LOW HITPOINT WARNING * * *
+The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The dart slug briefly extends its eye-stalks.
+The adder attacks as you move away! The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+You die...
+
+ .#...............
+...............g..
+.?.........#######
+........w.)#
+........$..#
+...........#
+...........#
+.......rK..#
+..<....lS.##
+...#......#
+   ######@#
+     #....#
+     #.####
+     #
+
+
+You could see an adder, a dart slug, a kobold, a frilled lizard and a rat.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  A ball python (D:1)
+  5 endoplasms
+  A goblin (D:2)
+  4 hobgoblins (D:1)
+  4 jackals (D:1)
+  3 quokkas (D:1)
+  3 bats
+  A frilled lizard (D:2)
+  A kobold (D:1)
+  3 rats (D:1)
+27 creatures vanquished.
+
+Vanquished Creatures (others)
+  38 foxfires
+38 creatures vanquished.
+
+Grand Total: 65 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   213 | D:1      | Reached XP level 2. HP: 15/19 MP: 1/5
+   218 | D:1      | Learned a level 2 spell: Scorch
+   608 | D:1      | Reached XP level 3. HP: 24/24 MP: 4/6
+  1392 | D:2      | Succumbed to an adder's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      co_arrival_random_square_maze, layout_basic
+D:2:      layout_rooms, minmay_misc_feat_cross, grunt_ministairs_14,
+          chequers_arboretum, hangedman_feature_mirror
+
+Action                     || total
+---------------------------++-------
+  Melee: Unarmed           ||     2
+   Cast: Foxfire           ||    23
+         Scorch            ||    13
+    Use: Potion            ||     1
+ Armour: Robe              ||     6
+  Dodge: Dodged            ||    23
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1391 |   1366 |     25 |      0 |   1165 |   2 |  695.5 |
+       Dungeon |   1391 |   1366 |     25 |      0 |   1165 |   2 |  695.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1375 daAuts
+     D:2: 16 daAuts
+

@@ -1,0 +1,100 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  2 stones
+(1, -25, D:1)
+  a +0 club
+(8, -30, D:1)
+  a +0 short sword
+  a +0 animal skin
+  a +0 helmet
+(9, -31, D:1)
+  a potion of attraction
+(10, -30, D:1)
+  a +0 dagger
+(13, -10, D:1)
+  a +0 dagger
+(18, -13, D:1)
+  7 stones
+(20, 3, D:1)
+  a +0 leather armour
+(22, 4, D:1)
+  a +0 ring mail
+(23, -32, D:1)
+  a +0 dagger
+(35, -4, D:1)
+  a +0 short sword
+  3 stones
+(43, -26, D:1)
+  a +0 leather armour
+(44, -14, D:1)
+  a +0 club
+(46, 4, D:1)
+  a +0 ring mail
+(47, 3, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+  a +0 club
+(0, 10, D:2)
+  a +0 short sword
+  4 stones
+(2, -1, D:2)
+  a +1 dagger of holy wrath
+(3, -1, D:2)
+  a +0 spear
+(4, -1, D:2)
+  a +0 club
+(12, 37, D:2)
+  a +0 dagger
+(21, 42, D:2)
+  a +0 ring mail
+(39, 19, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+[Shop] Rainooqa's Assorted Antiques
+  a scroll of fog (96 gold)
+  a +0 leather armour (48 gold)
+  a scroll of fear (96 gold)
+  a scroll of amnesia (96 gold)
+  a potion of brilliance (96 gold)
+  the +1 robe of Hangman {Stlth+} (372 gold)
+    Stlth:     It makes you more stealthy.
+  a scroll of silence (228 gold)
+(0, 0, D:3)
+  a +0 whip of draining
+  a +0 leather armour
+(22, 3, D:3)
+  a +0 falchion
+  a +0 leather armour
+(23, 2, D:3)
+  a +0 club
+(24, 1, D:3)
+  a +0 short sword
+  a +0 leather armour
+(25, -1, D:3)
+  a +0 flail
+(29, -8, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(33, -23, D:3)
+  a +2 whip of electrocution
+(39, 5, D:3)
+  a +0 trident
+(42, 15, D:3)
+  5 stones
+(53, -1, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a scroll of enchant armour
+(1, -8, D:4)
+  a +0 robe
+(4, -10, D:4)
+  a scroll of teleportation
+

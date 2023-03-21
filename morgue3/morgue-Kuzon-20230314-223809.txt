@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 3599970088714793372
+
+0 Kuzon the Firebug (level 1, -2/13 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Slain by a gnoll
+             ... wielding a +0 club
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:22 (63 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)           Turns: 63, Time: 00:00:23
+
+Health: -2/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  0/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ * Level 3.0 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      41%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Kuzon the Human Fire Elementalist.
+The fabulous Orb of Zot lies far below, as if waiting for you to find it.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+A gnoll comes into view. It is wielding a +0 club.
+A gnoll is nearby!
+Found a stone staircase leading down.
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The gnoll shouts!
+Casting: Foxfire (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The foxfire hits the gnoll but does no damage.
+The foxfire hits the gnoll.
+The gnoll is lightly wounded.
+The foxfire hits the gnoll.
+The gnoll is heavily wounded.
+The foxfire hits the gnoll.
+The gnoll is severely wounded.
+The foxfire hits the gnoll but does no damage.
+The gnoll is severely wounded.
+The foxfire hits the gnoll.
+The gnoll is almost dead.
+You closely miss the gnoll.
+The gnoll is almost dead.
+The gnoll hits you with a +0 club.
+You hit the gnoll but do no damage.
+The gnoll is almost dead.
+The gnoll closely misses you.
+The gnoll hits you with a +0 club!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+The gnoll attacks as you move away! The gnoll hits you with a +0 club.
+You die...
+
+ #..
+ #..
+ #.#
+ #.####
+##....
+#...#####.
+#.........
+#..######.
+#..#
+#..#######  #
+#...g#...##.##
+#####@.#..#..
+    ##.##..#
+     #.##..#
+     ##..#.#
+      #..#.#
+      ##...##
+       ##.<.#
+      ##....#
+    ###..#..##
+    #....##..#
+    #...####.#
+    #...# ##.#
+
+
+You could see a gnoll.
+
+Vanquished Creatures (others)
+  6 foxfires (D:1)
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    63 | D:1      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_round_c, layout_basic, minmay_gold_behind_fungi,
+          dk_noncrumbling_3
+
+Action                     || total
+---------------------------++-------
+  Melee: Unarmed           ||     2
+   Cast: Foxfire           ||     3
+  Dodge: Dodged            ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     63 |     63 |      0 |      0 |     49 |   1 |   63.0 |
+       Dungeon |     63 |     63 |      0 |      0 |     49 |   1 |   63.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 63 daAuts
+

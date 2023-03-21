@@ -1,0 +1,198 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 15677153259379816969
+
+7 Kuzon the Magician (level 1, 0/10 HPs)
+             Began as a Deep Elf Air Elementalist on Mar 16, 2023.
+             Slain by a jackal (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:38 (187 turns).
+
+Kuzon the Magician (Deep Elf Air Elementalist)       Turns: 187, Time: 00:00:39
+
+Health: 0/10       AC:  2    Str:  5    XL:     1   Next: 91%
+Magic:  1/6        EV: 12    Int: 19    God:    
+Gold:   13         SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .    c - +0 dagger
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.21/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 13 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ d - a scroll of fog {unknown}
+ e - a scroll of noise {unknown}
+ f - a scroll of identify {unknown}
+Potions
+ b - a potion of magic
+ g - a potion of attraction {unknown}
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 3.1 Spellcasting
+ + Level 1.3 Conjurations
+ + Level 3.1 Air Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       44%        1d5       6%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Static Discharge         Conj/Air       22%        2-3/arc   9%          2
+ Swiftness                Air            14%        N/A       13%         3
+ Airstrike                Air            7%         2d(1-17)  38%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The zap hits the jackal.
+The jackal is moderately wounded.
+The jackal barks!
+You hear a bark!
+Aiming: Shock (safe; 6% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - jackal
+Aim: a jackal (moderately wounded, 60% to hit)
+The zap hits the jackal but does no damage.
+The jackal is moderately wounded.
+A jackal comes into view.
+The zap misses the jackal.
+The zap hits the jackal.
+The jackal is heavily wounded.
+You are out of magic!
+The jackal attacks as you move away! The jackal closely misses you.
+You completely miss the jackal.
+The jackal is heavily wounded.
+The jackal barely misses you.
+The jackal bites you but does no damage.
+You hit the jackal.
+You kill the jackal!
+The jackal bites you.
+The jackal bites you.
+You hit the jackal.
+The jackal is lightly wounded.
+The jackal bites you.
+You barely miss the jackal.
+The jackal is lightly wounded.
+The jackal bites you but does no damage.
+You closely miss the jackal.
+The jackal is lightly wounded.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal barely misses you.
+You closely miss the jackal.
+The jackal is lightly wounded.
+The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+You die...
+
+    ###.##'##.#####.........
+   .........................
+   .....#####.##+##.........
+   ##.. #...#.#   #...>.....
+    #...#(..'.#   #.........
+   ##...#...#.#   #...h...#
+   .....#####.#####.?....#
+   ...#.............##...#
+   ................†##.#.##.
+   ...........#####..#.#....
+  .............#  #h....#...
+  .............####@........
+.........................###
+............................
+............8.8.#.......####
+............._..###.....#
+.....##.........###.....####
+.^.................)........
+  ###....#....#####..#######
+    ##..##.....# #..##
+     #...#.#...# #..#
+    #..#...##..###..###
+  ....###..##....#....#
+
+
+You could see a jackal.
+
+Vanquished Creatures
+  2 endoplasms (D:1)
+  A hobgoblin (D:1)
+  A jackal (D:1)
+  2 kobolds (D:1)
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    30 | D:1      | Found a faded altar of an unknown god.
+   187 | D:1      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_four_houses, layout_rooms,
+          dreamdust_ecumenical_altar_statues, st_stairs_8
+
+Action                     || total
+---------------------------++-------
+  Melee: Dagger            ||     6
+   Cast: Shock             ||    14
+ Armour: Robe              ||     2
+  Dodge: Dodged            ||     3
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    186 |    186 |      0 |      0 |    141 |   1 |  186.0 |
+       Dungeon |    186 |    186 |      0 |      0 |    141 |   1 |  186.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 186 daAuts
+

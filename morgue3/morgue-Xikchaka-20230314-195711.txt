@@ -1,0 +1,376 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 1588764068557070697
+
+3028 Xikchaka the Skirmisher (level 10, -7/80 HPs)
+             Began as a Formicid Hunter on Mar 14, 2023.
+             Mangled by a wight
+             ... wielding a +2 great sword
+              (12 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:30:40 (7872 turns).
+
+Xikchaka the Skirmisher (Formicid Hunter)           Turns: 7872, Time: 00:30:41
+
+Health: -7/80      AC:  5    Str: 22    XL:     10   Next: 10%
+Magic:  0/10       EV: 15    Int:  9    God:    
+Gold:   517        SH:  0    Dex: 21    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis +    e - +2 hand crossbow
+rCold   + . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   +    y - +2 robe {rC+}
+rPois   .          Reflect  .    (helmet unavailable)
+rElec   .          Rampage  .    i - +0 cloak
+rCorr   +                        (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       j - amulet of guardian spirit
+HPRegen 0.33/turn                f - +6 ring of strength
+MPRegen 0.12/turn                n - ring of resist corrosion
+
+@: mighty
+A: permanent stasis, dig shafts and tunnels, antennae 3, four strong arms
+a: Dig, Shaft Self
+
+
+You were on level 7 of the Dungeon.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 517 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow
+ e - a +2 hand crossbow (weapon)
+Armour
+ c - a +1 leather armour
+ i - a +0 cloak (worn)
+ y - a +2 robe of cold resistance (worn)
+Jewellery
+ f - a +6 ring of strength (left hand)
+ j - an amulet of guardian spirit (around neck)
+ n - a ring of resist corrosion (right hand)
+ x - the ring of the Hippo {+Blink rPois rF++ rCorr Int-5}
+   (You took it off an orc on level 5 of the Dungeon)   
+   
+   [ring of poison resistance]
+   
+   Int:       It affects your intelligence (-5).
+   rF:        It greatly protects you from fire.
+   rPois:     It protects you from poison.
+   +Blink:    It lets you blink.
+   rCorr:     It protects you from acid and corrosion.
+Wands
+ r - a wand of roots (14)
+ s - a wand of acid (6)
+Scrolls
+ b - 3 scrolls of immolation
+ h - 3 scrolls of identify
+ o - 2 scrolls of fear
+ t - a scroll of enchant armour
+ u - a scroll of enchant weapon
+ v - a scroll of poison {unknown}
+Potions
+ d - 2 potions of haste
+ g - a potion of heal wounds {unknown}
+ k - a potion of brilliance {unknown}
+ l - a potion of might
+ m - a potion of lignification {unknown}
+ p - a potion of curing
+ q - a potion of mutation {unknown}
+ w - a potion of resistance {unknown}
+ z - 2 potions of attraction {unknown}
+
+
+   Skills:
+ + Level 8.1 Fighting
+ * Level 10.9 Ranged Weapons
+ + Level 4.8 Dodging
+ - Level 2.1 Stealth
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sandblast                Erth           0%         2d4       38%         1
+ Shock                    Conj/Air       0%         1d3       38%         1
+ Passwall                 Tmut/Erth      0%         N/A       52%         2
+ Stone Arrow              Conj/Erth      0%         3d7       77%         3
+ Airstrike                Air            0%         2d(0-16)  99%         4
+ Animate Dead             Necr           0%         N/A       99%         4
+ Petrify                  Tmut/Erth      0%         N/A       99%         4
+ Borgnjor's Vile Clutch   Necr/Erth      0%         N/A       100%        5
+ Metabolic Englaciation   Hex/Ice        0%         N/A       100%        5
+ Death Channel            Necr           0%         N/A       100%        6
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Swiftness                Air            Unusable   N/A       N/A         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+You have a pair of large antennae on your head. (SInv)
+Your four strong arms can wield two-handed weapons with a shield.
+
+Message History
+
+Your stasis prevents you from being slowed.
+A wight comes into view. It is wielding a +2 great sword and wearing a +2 robe
+of fire resistance.
+The wight closely misses you. The hornet barely misses you.
+You shoot a bolt. The bolt hits the hornet.
+The hornet is almost dead.
+You feel very sick.
+The hornet barely misses you. The wight hits you with a +5 flail!
+* * * LOW HITPOINT WARNING * * *
+The hornet barely misses you. The wight misses you.
+You shoot a bolt. The bolt hits the hornet!
+You kill the hornet!
+You feel sick. The wight hits you but does no damage. The wight closely misses
+you.
+Your life force feels restored.
+Okay, then.
+Unknown command.
+You can't see any enemies this would affect, really read the scroll of fear? 
+Okay, then.
+Okay, then.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: a wight, wielding a +5 flail and wearing a +0 robe (severely damaged)
+The floor.
+Unknown command.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: a wight, wielding a +5 flail and wearing a +0 robe (severely damaged)
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor, spattered with blood.
+It was a potion of curing. You feel better. The wight barely misses you.
+The wight hits you with a +5 flail!
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+It was a potion of might.
+You feel very mighty all of a sudden.
+The wight barely misses you. The wight misses you.
+You shoot a bolt. The bolt hits the wight!
+You destroy the wight!
+The wight hits you with a +2 great sword!
+You die...
+
+#.
+ .####
+  ...###
+   ....#
+#  #.#.#
+#.##.#.##
+#.......#
+  ##.#..#
+  #.....#
+  #z.##.#
+  #.@##.#
+  #.)##.#
+  #..##.#
+  #..##<#
+  #?.##.#   {
+  #..##.#    {
+  #.)...{    {
+  #.######
+  ..
+ ###
+
+
+You could see a wight.
+
+Vanquished Creatures
+  Pikel (D:5)
+  A hornet (D:7)
+  A yak (D:5)
+  A shadow (D:5)
+  A steam dragon (D:5)
+  Edmund (D:5)
+  A water moccasin (D:5)
+  Duvessa (D:4)
+  A sky beast (D:6)
+  An ice beast (D:4)
+  A black bear (D:5)
+  2 ogres (D:5)
+  A centaur (D:5)
+  A lemure (D:4)
+  A phantom (D:5)
+  2 scorpions
+  A bullfrog (D:5)
+  2 wights (D:7)
+  Dowan (D:4)
+  8 hounds
+  A jelly (D:6)
+  Crazy Yiuf (D:5)
+  2 orc priests
+  A gnoll bouda (D:5)
+  4 iguanas
+  2 orc wizards (D:4)
+  4 gnolls
+  6 adders
+  A shadow imp (D:5)
+  A white imp (D:6)
+  An ufetubus (D:4)
+  4 dart slugs
+  19 orcs
+  5 bats
+  8 endoplasms
+  2 giant cockroaches
+  6 goblins
+  5 hobgoblins
+  2 jackals (D:2)
+  9 kobolds
+  8 quokkas
+  8 ball pythons
+  A rat (D:3)
+131 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 fungi (D:6)
+5 creatures vanquished.
+
+Grand Total: 136 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xikchaka the Formicid Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    42 | D:1      | Reached XP level 2. HP: 21/23 MP: 2/2
+   236 | D:1      | Reached XP level 3. HP: 28/28 MP: 3/3
+   983 | D:2      | Reached XP level 4. HP: 35/35 MP: 4/4
+  1463 | D:3      | Found a hide-covered altar of Uskayaw.
+  1688 | D:3      | Found a shadowy altar of Dithmenos.
+  1840 | D:3      | Reached skill level 5 in Ranged Weapons
+  2397 | D:4      | Noticed Duvessa
+  2400 | D:4      | Noticed Dowan
+  2403 | D:4      | Killed Duvessa
+  2404 | D:4      | Reached XP level 5. HP: 39/42 MP: 5/5
+  2404 | D:4      | Reached XP level 6. HP: 45/48 MP: 6/6
+  2416 | D:4      | Killed Dowan
+  2417 | D:4      | Reached skill level 6 in Ranged Weapons
+  2728 | D:4      | Noticed an ice beast
+  2741 | D:4      | Killed an ice beast
+  2742 | D:4      | Reached XP level 7. HP: 36/55 MP: 4/7
+  3498 | D:5      | Entered Level 5 of the Dungeon
+  3700 | D:5      | Noticed Edmund
+  3704 | D:5      | Killed Edmund
+  3705 | D:5      | Reached skill level 5 in Fighting
+  3705 | D:5      | Reached skill level 7 in Ranged Weapons
+  3865 | D:5      | Reached XP level 8. HP: 53/63 MP: 8/8
+  4251 | D:4      | Reached skill level 8 in Ranged Weapons
+  4569 | D:5      | Noticed Pikel
+  4988 | D:5      | Identified the ring of the Hippo {+Blink rPois rF++ rCorr
+                  | Int-5}
+  4994 | D:5      | Noticed a yak
+  5259 | D:6      | Found a staircase to the Ecumenical Temple.
+  5806 | D:6      | Identified the +8 short sword of Qecs {drain, SInv}
+  5976 | D:5      | Reached skill level 9 in Ranged Weapons
+  5988 | D:5      | Reached XP level 9. HP: 18/71 MP: 3/9
+  6537 | D:5      | Reached skill level 10 in Ranged Weapons
+  6890 | D:5      | Killed Pikel
+  6891 | D:5      | Reached XP level 10. HP: 77/80 MP: 10/10
+  6912 | D:5      | Found a runed translucent door.
+  6913 | D:5      | Noticed Crazy Yiuf
+  7023 | D:5      | Killed Crazy Yiuf
+  7383 | Temple   | Entered the Ecumenical Temple
+  7870 | D:7      | HP: 4/80 [wight/+5 flail (12)]
+  7872 | D:7      | Mangled by a wight
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      co_arrival_square_in_a_square_in_a_square, layout_basic,
+          chequers_serial_rivers_room_a, roderic_lattice_a,
+          minmay_misc_feat_hallway, minmay_pentomino_v2
+D:2:      layout_loops_ring, minmay_misc_feat_plants
+D:3:      layout_loops_ring, general_overflow_altar,
+          nicolae_uskayaw_murder_on_the_dancefloor, eino_tiny_chamber,
+          chequers_arboretum, corner_web_ring
+D:4:      layout_layer_cave, roderic_serpentine_path, minivault_1, uniq_duvessa
+D:5:      kennysheep_windowed_halls, layout_rooms, serial_corexii_hall,
+          chequers_hall_statues_corner_a, chequers_hall_statues_y,
+          corexii_hall_statues_deadend, uniq_edmund, uniq_pikel,
+          uniq_crazy_yiuf_cottage
+D:6:      layout_loops_ring, minmay_temple_entry_wispy, serial_aquarium,
+          aquarium_bridge_square [aquarium_subvault_bridge,
+          aquarium_subvault_wall, aquarium_subvault_bridge,
+          aquarium_subvault_wall], aquarium_window_1, aquarium_window_corner,
+          aquarium_window_fake, aquarium_view_2a, aquarium_pool_1,
+          kennysheep_generic_room_12
+D:7:      layout_loops_ring, okawaru_altar_gauntlet_db,
+          mainiacjoe_overflow_catwalk, serial_bayou_pond_c
+Temple:   eino_narrow_crystal_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Dodging        |     2                 3  4    |  4.8
+Stealth        |     2                         |  2.1
+Fighting       |        3        4  5  6  7  8 |  8.1
+Ranged Weapons |           5     6  7  9 10    | 10.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+   Fire: Shortbow          |    62 |       |       |       ||    62
+         Hand crossbow     |     1 |    79 |   191 |    14 ||   285
+Ability: Dig               |     1 |       |       |       ||     1
+    Use: Scroll            |     3 |     5 |     4 |       ||    12
+         Potion            |       |     1 |       |     2 ||     3
+ Armour: Leather armour    |     2 |    10 |    66 |       ||    78
+         Robe              |       |       |       |     2 ||     2
+  Dodge: Dodged            |     8 |    26 |   164 |    11 ||   209
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   8061 |   7549 |    512 |      0 |   5423 |   8 | 1007.6 |
+       Dungeon |   7711 |   7218 |    493 |      0 |   5230 |   7 | 1101.6 |
+        Temple |    350 |    331 |     19 |      0 |    193 |   1 |  350.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 2095 daAuts
+     D:5: 2068 daAuts
+     D:6: 1110 daAuts
+     D:3: 916 daAuts
+     D:1: 839 daAuts
+     D:2: 643 daAuts
+  Temple: 350 daAuts
+     D:7: 37 daAuts
+

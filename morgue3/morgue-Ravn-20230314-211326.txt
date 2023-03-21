@@ -1,0 +1,361 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 1303454863370709063
+
+3201 Ravn the Cleaver (level 9, -3/82 HPs)
+             Began as a Minotaur Berserker on Mar 14, 2023.
+             Was an Initiate of Hepliaklqana.
+             Killed from afar by a rime drake (30 damage)
+             ... with an icy flash freeze
+             ... on level 8 of the Dungeon.
+             The game lasted 00:21:31 (7353 turns).
+
+Ravn the Cleaver (Minotaur Berserker)               Turns: 7353, Time: 00:21:31
+
+Health: -3/82      AC: 17    Str: 26    XL:     9   Next: 65%
+Magic:  8/8        EV:  8    Int:  4    God:    Hepliaklqana [......]
+Gold:   326        SH:  0    Dex: 10    Spells: 8/8 levels left
+
+rFire   + . .      SeeInvis .    c - +2 battleaxe (elec)
+rCold   x . .      Faith    +    (shield currently unavailable)
+rNeg    . . .      Spirit   .    p - +1 plate armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        g - +0 pair of gloves
+Will    .....                    e - +0 pair of boots
+Stlth                            n - amulet of faith
+HPRegen 0.33/turn                d - ring of fire
+MPRegen 0.11/turn                s - ring of flight
+
+@: flying, studying Maces & Flails
+A: horns 2, retaliatory headbutt
+a: Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was noncommittal.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 463 gold pieces.
+You spent 137 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ c - a +2 battleaxe of electrocution (weapon)
+ o - the +7 quarterstaff "Ecasourch" {pain, Str+4 Dex-3}
+   (You found it on level 6 of the Dungeon)   
+   
+   Str:       It affects your strength (+4).
+   Dex:       It affects your dexterity (-3).
+Missiles
+ a - 13 boomerangs (quivered)
+ b - a throwing net
+Armour
+ e - a +0 pair of boots (worn)
+ g - a +0 pair of gloves (worn)
+ p - a +1 plate armour (worn)
+Jewellery
+ d - a ring of fire (left hand)
+ j - an amulet of magic regeneration
+ n - an amulet of faith (around neck)
+ s - a ring of flight (right hand)
+Wands
+ q - a wand of digging (5)
+ t - a wand of flame (15)
+Scrolls
+ f - 2 scrolls of identify
+ i - 4 scrolls of enchant weapon {unknown}
+ k - 4 scrolls of blinking
+ m - 3 scrolls of teleportation
+ r - a scroll of torment {unknown}
+ u - a scroll of vulnerability {unknown}
+Potions
+ h - a potion of attraction {unknown}
+ l - a potion of curing
+ v - a potion of ambrosia {unknown}
+ w - a potion of resistance {unknown}
+
+
+   Skills:
+ + Level 8.3 Fighting
+ * Level 11.2 Axes
+ + Level 5.4 Throwing
+ + Level 7.4 Armour
+ - Level 2.5 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Yredelemnul
+The Shining One
+
+Shops:
+D:3 (   D:4 :   D:5 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You slash the ice beast!
+Lightning courses through the ice beast!
+You kill the ice beast!
+You closely miss the rime drake.
+The rime drake breathes ice at you.
+The icy flash freeze hits you! You feel a painful chill!
+You are encased in ice.
+The rime drake bites you.
+You hit the rime drake but do no damage.
+Lightning courses through the rime drake!
+Your headbutt misses the rime drake.
+The rime drake is moderately wounded.
+The rime drake bites you but does no damage.
+You barely miss the rime drake.
+The rime drake is moderately wounded.
+The ice encasing you melts away.
+The rime drake bites you but does no damage. x2
+You slash the rime drake!
+The rime drake is heavily wounded.
+The rime drake bites you.
+You slash the rime drake!
+The rime drake is almost dead.
+The rime drake breathes ice at you.
+The icy flash freeze hits you!! You feel a painful chill!
+You are encased in ice.
+Press: ? - help, v - describe, . - travel
+Here: an ice beast
+The floor.
+You completely miss the rime drake. You headbutt the rime drake.
+The rime drake is almost dead.
+The rime drake bites you but does no damage. x2
+You barely miss the rime drake.
+The rime drake is almost dead.
+The rime drake bites you but does no damage.
+You barely miss the rime drake. Your headbutt misses the rime drake.
+The rime drake is almost dead.
+The ice encasing you melts away.
+The rime drake breathes ice at you.
+The icy flash freeze hits you!! You feel a painful chill!
+You die...
+
+       ...#.#.. #.#....
+        ......   .....
+        .....    .....
+        ....      ..~ ###  .
+        #..       ... ..# .#
+####    #Y#       #.# #.##.
+...######.#  #.####.# #...
+##.)......#  #.....Y# #..#
+#.....!.###  ######k###..#
+..#####...#       #@##...#
+[##  ####.#####   #.##...###
+##  ##........#####.<..#(..##
+#  ##..................###..###
+#  #....................###...#
+####)..........#.........####.#
+...).<.......(.#.........####.######
+#####.........##....>......[.......#
+    ##...#...###.........#)........#
+     ######### #.........#.........#
+               #.........#.........#
+               #.........#.........#
+
+
+You could see a rime drake (catching breath) and an ice beast.
+
+Vanquished Creatures
+  A two-headed ogre (D:8)
+  Psyche (D:8)
+  A steam dragon (D:4)
+  2 ice beasts (D:8)
+  An orc warrior (D:6)
+  2 centaurs (D:5)
+  3 wolves (D:8)
+  2 bullfrogs (D:7)
+  6 scorpions
+  3 howler monkeys (D:7)
+  2 hounds
+  5 jellies
+  An orc priest (D:6)
+  A gnoll bouda (D:8)
+  2 sleepcaps
+  5 iguanas
+  An orc wizard (D:3)
+  Robin (D:3)
+  10 gnolls
+  5 adders
+  A shadow imp (D:8)
+  4 white imps
+  2 worms
+  2 dart slugs (D:4)
+  23 orcs
+  6 endoplasms
+  5 giant cockroaches
+  15 goblins
+  3 hobgoblins (D:3)
+  12 jackals
+  6 kobolds
+  3 quokkas
+  10 ball pythons
+  3 bats
+  5 frilled lizards
+  2 rats (D:3)
+157 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An ogre (D:6)
+  A gnoll bouda (D:7)
+  4 gnolls (D:7)
+6 creatures vanquished.
+
+Grand Total: 163 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ravn the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   243 | D:1      | Reached skill level 4 in Axes
+   320 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+  1593 | D:2      | Reached XP level 3. HP: 29/33 MP: 2/2
+  1618 | D:2      | Found a faded altar of an unknown god.
+  2228 | D:3      | Reached ** piety under Trog
+  2442 | D:3      | Reached skill level 1 in Throwing
+  2484 | D:3      | Reached XP level 4. HP: 40/40 MP: 3/3
+  2517 | D:3      | Found Niryxta's Antique Weapon Shop.
+  2541 | D:3      | Reached skill level 5 in Axes
+  2593 | D:3      | Bought a runed war axe for 97 gold pieces
+  2638 | D:3      | Noticed Robin
+  2654 | D:3      | Killed Robin
+  2777 | D:3      | Reached XP level 5. HP: 47/47 MP: 4/4
+  3125 | D:4      | Identified a scroll of acquirement
+  3125 | D:4      | Acquired a +2 battleaxe of electrocution
+  3145 | D:4      | Noticed a steam dragon
+  3161 | D:4      | Killed a steam dragon
+  3162 | D:4      | Reached skill level 5 in Fighting
+  3162 | D:4      | Reached skill level 6 in Axes
+  3352 | D:4      | Reached XP level 6. HP: 51/56 MP: 5/5
+  3492 | D:4      | Reached *** piety under Trog
+  3808 | D:4      | Identified the +8 dagger of Girchoz {heavy, rN++}
+  3820 | D:4      | Found Feazaxoz's Book Shop.
+  3985 | D:5      | Entered Level 5 of the Dungeon
+  4185 | D:5      | Reached skill level 7 in Axes
+  4212 | D:5      | Reached XP level 7. HP: 61/61 MP: 6/6
+  4312 | D:5      | Found Vig Jyl's Weapon Boutique.
+  4329 | D:5      | Bought 2 boomerangs for 40 gold pieces
+  4786 | D:5      | Reached skill level 8 in Axes
+  4786 | D:5      | Reached skill level 5 in Armour
+  5136 | D:6      | Reached XP level 8. HP: 70/70 MP: 7/7
+  5185 | D:6      | Reached **** piety under Trog
+  5189 | D:6      | Identified the +7 quarterstaff "Ecasourch" {pain, Str+4
+                  | Dex-3}
+  5354 | D:6      | Found a burning altar of Makhleb.
+  5363 | D:6      | Reached skill level 9 in Axes
+  5976 | D:7      | Found a staircase to the Ecumenical Temple.
+  6506 | Temple   | Entered the Ecumenical Temple
+  6712 | Temple   | Fell from the grace of Trog
+  6712 | Temple   | Became a worshipper of Hepliaklqana the Forgotten
+  7026 | D:8      | Reached skill level 10 in Axes
+  7026 | D:8      | Reached XP level 9. HP: 59/79 MP: 8/8
+  7167 | D:8      | Noticed Psyche
+  7186 | D:8      | Killed Psyche
+  7298 | D:8      | Noticed a two-headed ogre
+  7308 | D:8      | Killed a two-headed ogre
+  7309 | D:8      | Reached skill level 5 in Throwing
+  7327 | D:8      | Noticed a rime drake
+  7335 | D:8      | Reached skill level 11 in Axes
+  7353 | D:8      | Killed from afar by a rime drake
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_concentric_ovals, layout_basic
+D:2:      layout_loops_corners, shapermc_ecumenical_altar_mp_vishouse
+D:3:      kennysheep_six_static_rooms, layout_basic, serial_shops,
+          nicolae_shop_competitors_out_of_business, minmay_strange_pillars,
+          uniq_robin
+D:4:      layout_loops_ring, nicolae_take_the_stairs
+D:5:      layout_basic, serial_shops, nicolae_diamond_shop, minmay_manual_mail
+D:6:      layout_cave_pools, mainiacjoe_overflow_concentric_impassable
+D:7:      layout_gridville, minmay_temple_entry_statues_pillars,
+          minmay_door_square
+D:8:      layout_rooms, zin_statuary, hellmonk_lair_entry_icy,
+          kennysheep_generic_room_15, uniq_psyche
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Axes           |  4        5  6  7  8 10 11 | 11.2
+Fighting       |     4        5     6  7  8 |  8.3
+Throwing       |        1        2  3  4  5 |  5.4
+Armour         |           3     4  5  6  7 |  7.4
+Dodging        |                            |  2.5
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Hand axe          |   105 |    25 |       ||   130
+         Punch             |     2 |       |       ||     2
+         Headbutt          |    14 |     7 |    27 ||    48
+         War axe           |       |    27 |       ||    27
+         Battleaxe         |       |    46 |   174 ||   220
+  Throw: Boomerang         |    29 |       |     3 ||    32
+ Invoke: Brothers in Arms  |       |       |     2 ||     2
+    Use: Scroll            |       |    12 |     1 ||    13
+ Armour: Animal skin       |    18 |       |       ||    18
+         Plate armour      |     7 |    80 |   128 ||   215
+  Dodge: Dodged            |    59 |    32 |    82 ||   173
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7435 |   7141 |    294 |      0 |   5815 |   9 |  826.1 |
+       Dungeon |   7223 |   6933 |    290 |      0 |   5677 |   8 |  902.9 |
+        Temple |    211 |    207 |      4 |      0 |    138 |   1 |  211.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1119 daAuts
+     D:3: 1070 daAuts
+     D:1: 1051 daAuts
+     D:2: 1015 daAuts
+     D:7: 1006 daAuts
+     D:4: 924 daAuts
+     D:6: 613 daAuts
+     D:8: 423 daAuts
+  Temple: 211 daAuts
+

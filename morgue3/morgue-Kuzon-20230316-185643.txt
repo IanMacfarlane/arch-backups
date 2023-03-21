@@ -1,0 +1,307 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 545397690252549936
+
+452 Kuzon the Firebug (level 6, -1/32 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Slain by Duvessa
+             ... wielding a +3 short sword
+              (9 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:12:35 (5825 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 5825, Time: 00:12:36
+
+Health: -1/32      AC:  7    Str:  5    XL:     6   Next: 75%
+Magic:  2/15       EV: 12    Int: 25    God:    
+Gold:   211        SH:  0    Dex: 15    Spells: 10/15 levels left
+
+rFire   + + .      SeeInvis .    q - +10 dagger {heavy, rF+ Int+3}
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    o - +0 robe
+rPois   .          Reflect  .    n - +2 hat
+rElec   .          Rampage  .    p - +1 cloak
+rCorr   .                        m - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.25/turn                c - ring of fire
+MPRegen 0.14/turn                u - ring of protection from cold
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 211 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +0 short sword of protection
+ l - the +4 short sword of Insufficient Pleasure {drain, Fly rElec rPois rF-}
+   (You found it on level 2 of the Dungeon)   
+   
+   rF:        It makes you vulnerable to fire.
+   rElec:     It insulates you from electricity.
+   rPois:     It protects you from poison.
+   Fly:       It grants you flight.
+ q - the +10 dagger of the Heart (weapon) {heavy, rF+ Int+3}
+   (You found it on level 3 of the Dungeon)   
+   
+   Int:       It affects your intelligence (+3).
+   rF:        It protects you from fire.
+Armour
+ m - a +0 pair of gloves (worn)
+ n - a +2 hat (worn)
+ o - a +0 robe (worn)
+ p - a +1 cloak (worn)
+Jewellery
+ c - a ring of fire (left hand)
+ u - a ring of protection from cold (right hand)
+Scrolls
+ a - 2 scrolls of enchant weapon
+ f - 2 scrolls of blinking
+ h - a scroll of teleportation
+ j - 2 scrolls of amnesia
+Potions
+ b - a potion of magic
+ d - a potion of brilliance {unknown}
+ e - 2 potions of lignification
+ g - a potion of might
+ r - 2 potions of haste
+ s - a potion of curing
+ v - a potion of mutation {unknown}
+ w - a potion of cancellation {unknown}
+
+
+   Skills:
+ - Level 2.5 Dodging
+ - Level 2.5 Stealth
+ + Level 5.0 Spellcasting
+ * Level 4.8 Conjurations
+ * Level 5.9 Fire Magic
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Passwall              Tmut/Erth      5%         N/A       12%         2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       31%        N/A       8%          3
+ Apportation              Tloc           12%        N/A       9%          1
+ Necrotise                Necr           24%        1d5       9%          1
+ Flame Wave               Conj/Fire      49%        2d12      9%          4
+ Kindle Blastsparks       Fire/Tloc/Air  48%        2d14      11%         3
+ Ensorcelled Hibernation  Hex/Ice        12%        N/A       12%         2
+ Frozen Ramparts          Ice            12%        1d2       24%         3
+ Swiftness                Air            6%         N/A       24%         3
+ Vampiric Draining        Necr           6%         2d6       24%         3
+ Ice Form                 Ice/Tmut       6%         N/A       63%         4
+ Summon Ice Beast         Ice/Summ       6%         N/A       63%         4
+ Agony                    Necr           6%         N/A       92%         5
+ Alistair's Intoxication  Tmut/Pois      4%         N/A       92%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Xom
+
+Annotations:
+D:5 Duvessa
+
+Message History
+
+The puff of flame hits you. You resist.
+You feel a surge of power! You conjure some foxfire! Duvessa barely misses you.
+Dowan smirks and points a slender finger.
+You feel a surge of power! You conjure some foxfire!
+The foxfire hits Duvessa but does no damage.
+Duvessa is moderately wounded.
+The foxfire hits Duvessa.
+Duvessa is moderately wounded.
+Duvessa hits you but does no damage. Duvessa misses you.
+You feel a surge of power! You conjure some foxfire!
+Duvessa is no longer more vulnerable to fire.
+The foxfire hits Duvessa. Duvessa resists.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa resists.
+Duvessa is heavily wounded.
+Duvessa hits you with a +3 short sword.
+Dowan gestures at you while chanting.
+You resist with some effort.
+You feel a surge of power! You conjure some foxfire! The foxfire hits Dowan.
+You kill Dowan!
+Duvessa screams in rage.
+Duvessa goes berserk! Duvessa closely misses you. Duvessa hits you with a +3
+short sword.
+Your Spellcasting skill increases to level 5!
+You feel a surge of power! You conjure some foxfire! The foxfire hits Duvessa.
+Duvessa completely resists.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa completely resists.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa resists.
+Duvessa is heavily wounded.
+Duvessa closely misses you.
+You feel a surge of power! You conjure some foxfire!
+The foxfire hits Duvessa but does no damage.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa completely resists.
+Duvessa is heavily wounded.
+Duvessa hits you with a +3 short sword!
+* * * LOW HITPOINT WARNING * * *
+Duvessa hits you with a +3 short sword!
+You die...
+
+*
+*
+*    ########
+*    #......#   ###########***********
+*    #......#   #..........,,,,,,,,,,*
+*    #......#   #.v.)......,,*********
+*    #<.....#####.v@e.!....,,*
+*****#......##....§........,,*
+,,,,,#......##...########..,**
+,,,,,#......##...#      *,***
+,,,,,#......##...#      *,*
+,,,,,##..#.......#      *,*
+,,,,,+......####+#****  *,*
+,,,,,##.....#*,,,,,,,*  *,*
+,,,,,*#.....#+,,,,,,,*  *,*
+,,,,,,#.###.#*,,,,,,,*  *,*
+**+**+##* ###*,,,,,,,** *,*
+**,,,,,*     *,,,,,,,,* *,*************
+
+
+You could see Duvessa (berserk, fast, ally target).
+
+Vanquished Creatures
+  A phantom (D:4)
+  Dowan (D:5)
+  Terence (D:3)
+  2 iguanas
+  2 orc wizards (D:4)
+  6 gnolls
+  7 adders
+  A dart slug (D:4)
+  3 orcs (D:4)
+  9 endoplasms
+  5 giant cockroaches
+  7 goblins
+  13 hobgoblins
+  12 kobolds
+  2 quokkas (D:2)
+  6 ball pythons
+  3 bats
+  4 frilled lizards
+  5 rats
+90 creatures vanquished.
+
+Vanquished Creatures (others)
+  An adder (D:4)
+  A goblin (D:4)
+  234 foxfires
+236 creatures vanquished.
+
+Grand Total: 326 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   686 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+  1156 | D:1      | You fall into a shaft and drop 1 floor!
+  1164 | D:2      | Learned a level 2 spell: Scorch
+  2393 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/9
+  2681 | D:2      | Identified the +4 short sword of Insufficient Pleasure
+                  | {drain, Fly rElec rPois rF-}
+  3034 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/11
+  3696 | D:3      | Reached XP level 5. HP: 28/28 MP: 9/13
+  3869 | D:3      | Noticed Terence
+  3874 | D:3      | Killed Terence
+  3875 | D:3      | Reached skill level 5 in Fire Magic
+  3962 | D:3      | Learned a level 2 spell: Passwall
+  4179 | D:3      | Identified the +10 dagger of the Heart {heavy, rF+ Int+3}
+  4861 | D:4      | Noticed a phantom
+  4861 | D:4      | Found a shimmering altar of Xom.
+  4870 | D:4      | Killed a phantom
+  4871 | D:4      | Reached XP level 6. HP: 32/32 MP: 5/14
+  5789 | D:5      | Entered Level 5 of the Dungeon
+  5812 | D:5      | Noticed Dowan
+  5814 | D:5      | Noticed Duvessa
+  5823 | D:5      | Killed Dowan
+  5824 | D:5      | Reached skill level 5 in Spellcasting
+  5825 | D:5      | Slain by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      shiori_arrival_maze, layout_basic, serial_co_window_serial,
+          co_window_paths_a, co_window_paths_b, co_window_paths_a,
+          co_window_of_opportunity_a, co_window_paths_a, co_window_2corner,
+          co_window_corner_ca, co_window_paths_c, co_window_corner_b,
+          co_window_broadway_b, co_window_corner_cb, co_window_broadway_b,
+          co_window_paths_d, co_window_4corner_a, glass_columns_b,
+          glass_columns_b, glass_columns_b, chequers_serial_rivers_small_b,
+          chequers_jeans, minmay_surrounded
+D:2:      layout_basic, minmay_between
+D:3:      layout_loops_ring, uniq_terence
+D:4:      layout_basic, xom_confusion_cloud
+D:5:      layout_basic, uniq_grinder, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3  4    |  4.8
+Fire Magic     |        4     5    |  5.9
+Spellcasting   |           4     5 |  5.0
+Dodging        |                   |  2.5
+Stealth        |                   |  2.5
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     1 |       ||     1
+         Short sword       |       |     2 ||     2
+   Cast: Foxfire           |    56 |    81 ||   137
+         Scorch            |    11 |    17 ||    28
+         Passwall          |       |     2 ||     2
+    Use: Scroll            |     1 |    11 ||    12
+ Armour: Robe              |     3 |     4 ||     7
+  Dodge: Dodged            |     6 |     9 ||    15
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5827 |   5420 |    407 |      0 |   4681 |   5 | 1165.4 |
+       Dungeon |   5827 |   5420 |    407 |      0 |   4681 |   5 | 1165.4 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 2107 daAuts
+     D:2: 1645 daAuts
+     D:3: 1211 daAuts
+     D:4: 826 daAuts
+     D:5: 35 daAuts
+

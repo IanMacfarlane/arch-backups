@@ -1,0 +1,325 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8483514481740093530
+
+515 Kuzon the Firebug (level 7, -2/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Slain by Duvessa
+             ... wielding a +2 rapier of venom
+              (17 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:11:17 (4651 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 4651, Time: 00:11:19
+
+Health: -2/36      AC:  8    Str:  5    XL:     7   Next: 0%
+Magic:  4/16       EV: 12    Int: 22    God:    
+Gold:   128        SH:  0    Dex: 15    Spells: 6/16 levels left
+
+rFire   . . .      SeeInvis .    u - +0 short sword
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    q - +0 cloak
+rCorr   +                        B - +2 pair of gloves
+Will    .....                    v - +1 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                g - ring of flight
+MPRegen 0.15/turn                n - ring of resist corrosion
+
+@: lethally poisoned (-2 -> -14), flying
+A: no potion heal 1, MP-powered wands
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You also visited: Sewer.
+
+You collected 338 gold pieces.
+You spent 210 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ u - a +0 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+ q - a +0 cloak (worn)
+ v - a +1 pair of boots (worn)
+ B - a +2 pair of gloves (worn)
+Jewellery
+ g - a ring of flight (left hand)
+ n - a ring of resist corrosion (right hand)
+ o - a ring of fire
+ A - an amulet of faith
+Wands
+ y - a wand of flame (28)
+Scrolls
+ d - a scroll of noise
+ i - 4 scrolls of amnesia
+ k - 2 scrolls of blinking
+ p - a scroll of enchant weapon {unknown}
+ r - a scroll of butterflies {unknown}
+ s - a scroll of fear {unknown}
+Potions
+ b - a potion of magic
+ c - 3 potions of curing
+ e - a potion of ambrosia {unknown}
+ f - 3 potions of haste {unknown}
+ h - 5 potions of brilliance
+ j - a potion of degeneration
+ l - a potion of mutation
+ m - 2 potions of heal wounds
+ t - a potion of flight {unknown}
+ x - a potion of might {unknown}
+ z - 2 potions of resistance {unknown}
+
+
+   Skills:
+ - Level 2.5 Dodging
+ - Level 2.5 Stealth
+ + Level 5.0 Spellcasting
+ * Level 4.7 Conjurations
+ + Level 2.5 Hexes
+ * Level 5.9 Fire Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           62%        2d8       1%          2
+c - Inner Flame           Hex/Fire       24%        N/A       5%          3
+d - Flame Wave            Conj/Fire      29%        2d9       11%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       1%          1
+ Kindle Blastsparks       Fire/Tloc/Air  28%        2d12      14%         3
+ Call Imp                 Summ           5%         N/A       16%         2
+ Mephitic Cloud           Conj/Pois/Air  12%        N/A       16%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)              Sewer (visited)         
+Temple: D:4-7       
+
+Altars:
+Fedhas
+Hepliaklqana
+Uskayaw
+
+Shops:
+D:4 [
+
+Annotations:
+D:5 1 transporter, Duvessa
+
+
+Innate Abilities, Weirdness & Mutations
+
+Potions are less effective at restoring your health.
+You expend magic power (3 MP) to strengthen your wands.
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash Dowan.
+Dowan is moderately wounded.
+Dowan's fire resistance burns away.
+You hear an angry hiss.
+Duvessa hits you with a +2 rapier of venom.
+You are poisoned.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash Dowan. Dowan is burned terribly!
+Dowan is almost dead.
+You feel very sick.
+Duvessa hits you with a +2 rapier of venom.
+You are more poisoned.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (dangerous; 5% risk of failure)
+Press: ? - help, Dir - move target, f - Dowan, p - Duvessa
+Aim: Dowan, wielding a +0 dagger and wearing a +0 robe (almost dead, more
+vulnerable to fire, chance to affect: 79%)
+Okay, then.
+Casting: Inner Flame (dangerous; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (11% risk of failure)! Continue anyway?
+Casting: Flame Wave (quite dangerous; 11% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+A wave of flame ripples out! The flame wave engulfs Duvessa. Flame seeps out of
+Duvessa.
+Duvessa is lightly wounded.
+(Press . to intensify the flame waves.)
+You feel very sick.
+Duvessa is engulfed in blazing flames. Flame seeps out of Duvessa.
+A wave of flame ripples out! The flame wave engulfs Duvessa! Flame seeps out of
+Duvessa.
+Duvessa is severely wounded.
+The flame wave engulfs Dowan!! Dowan is burned terribly!
+You kill Dowan!
+Duvessa screams, "No! How DARE you!"
+Duvessa goes berserk!
+You feel very sick.
+Duvessa barely misses you. Duvessa is engulfed in blazing flames. Flame seeps
+out of Duvessa.
+Duvessa hits you with a +2 rapier of venom!
+You die...
+
+.#       #...# ###.......####...#
+##       ############...#######.##
+.#       #~~~~~~#[)~#......####..#
+##       ######~#~#~#~...#.).###<##
+.#       #~~~~#~#~#)#~..####.# #..###
+##       #.##~~~~~#~~~~.#  #.# ##...#
+.#       ########~#~#~..####.## ###.#
+##       #~~~~~~~~#~~~........### #.#
+.#       ##~#######~#....####...###.###
+##        #~~~§~~~#§§§...#  ###.......#
+.#        #########§§....#    #####.#.#
+##                #@######        #.#..
+.#            #..)○e#             #..#.
+.#            #.#####             ##...
+##                                 ##.)
+                                    ###
+
+
+You could see Duvessa (berserk, inner flame).
+
+Vanquished Creatures
+  Pargi (Sewer)
+  A scorpion (D:5)
+  Dowan (D:5)
+  An orc priest (D:5)
+  A jelly (D:4)
+  2 sleepcaps (D:4)
+  3 orc wizards
+  6 adders
+  5 worms
+  13 orcs
+  6 endoplasms
+  6 giant cockroaches
+  9 goblins
+  6 hobgoblins
+  12 kobolds
+  2 quokkas
+  5 ball pythons
+  6 bats
+  7 frilled lizards
+  7 rats
+100 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A foxfire (D:3)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  270 foxfires
+  A plant (D:3)
+271 creatures vanquished.
+
+Grand Total: 372 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   271 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   274 | D:1      | Learned a level 2 spell: Scorch
+  1076 | D:2      | Reached XP level 3. HP: 19/19 MP: 7/9
+  1079 | D:2      | Gained mutation: Potions are less effective at restoring
+                  | your health. [potion of mutation]
+  1079 | D:2      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  2197 | D:3      | Reached XP level 4. HP: 16/24 MP: 2/11
+  2329 | D:3      | Found a blossoming altar of Fedhas.
+  2979 | D:3      | Learned a level 3 spell: Inner Flame
+  3007 | D:4      | Reached XP level 5. HP: 28/28 MP: 9/13
+  3416 | D:4      | Reached skill level 5 in Fire Magic
+  3420 | D:4      | Reached skill level 1 in Hexes
+  3560 | D:4      | Found a hazy altar of Hepliaklqana.
+  3644 | D:4      | Found Yfuxarie's Antique Armour Shop.
+  3649 | D:4      | Bought a pair of glowing gloves for 210 gold pieces
+  3706 | D:4      | Found a hide-covered altar of Uskayaw.
+  3738 | D:4      | Reached XP level 6. HP: 32/32 MP: 7/14
+  3845 | D:5      | Entered Level 5 of the Dungeon
+  3845 | D:5      | Noticed a yak
+  3845 | D:5      | Found a transporter.
+  4231 | D:5      | Found a glowing drain.
+  4237 | Sewer    | Entered a sewer
+  4360 | Sewer    | Noticed Pargi
+  4363 | Sewer    | Killed Pargi
+  4364 | Sewer    | Reached skill level 5 in Spellcasting
+  4575 | D:5      | Reached XP level 7. HP: 36/36 MP: 13/16
+  4622 | D:5      | Learned a level 4 spell: Flame Wave
+  4646 | D:5      | Noticed Duvessa
+  4646 | D:5      | Noticed Dowan
+  4651 | D:5      | Killed Dowan
+  4651 | D:5      | Slain by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rhombus, layout_basic
+D:2:      layout_loops_ring
+D:3:      layout_loops_cross, fedhas_ov_isle_minmay
+D:4:      layout_cave_pools, mainiacjoe_overflow_boulevard,
+          nzn_hepliaklqana_mist_gate, serial_shops, nicolae_shop_stone
+D:5:      layout_rooms, gammafunk_temple_overflow_arena,
+          lightli_sewer_entry_pipes, roderic_roman_lattice,
+          grunt_decor_fettered, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3  4    |  4.7
+Fire Magic     |        4     5    |  5.9
+Spellcasting   |           4     5 |  5.0
+Hexes          |              1  2 |  2.5
+Dodging        |                   |  2.5
+Stealth        |                   |  2.5
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Dagger            |     1 |       |       ||     1
+         Short sword       |       |     4 |       ||     4
+   Cast: Foxfire           |    77 |    80 |       ||   157
+         Scorch            |    14 |    20 |     2 ||    36
+         Inner Flame       |       |       |     1 ||     1
+         Flame Wave        |       |       |     1 ||     1
+    Use: Potion            |     5 |       |       ||     5
+         Scroll            |       |     6 |       ||     6
+ Armour: Robe              |     7 |    10 |       ||    17
+  Dodge: Dodged            |    12 |    12 |     1 ||    25
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4647 |   4561 |     86 |      0 |   3833 |   6 |  774.5 |
+       Dungeon |   4414 |   4328 |     86 |      0 |   3622 |   5 |  882.8 |
+         Sewer |    233 |    233 |      0 |      0 |    211 |   1 |  233.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1110 daAuts
+     D:3: 994 daAuts
+     D:1: 897 daAuts
+     D:4: 860 daAuts
+     D:5: 552 daAuts
+   Sewer: 233 daAuts
+

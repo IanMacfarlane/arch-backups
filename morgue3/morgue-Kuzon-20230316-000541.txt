@@ -1,0 +1,134 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 13638638050435324287
+
+0 Kuzon the Magician (level 1, 15/15 HPs)
+             Began as a Djinni Fire Elementalist on Mar 16, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:03 (0 turns).
+
+Kuzon the Magician (Djinni Fire Elementalist)          Turns: 0, Time: 00:00:04
+
+Health: 15/15      AC:  2    Str:  7    XL:     1   Next: 0%
+Gold:   0          EV: 12    Int: 16    God:    
+                   SH:  0    Dex: 13
+
+rFire   + + .      SeeInvis .    (no weapon)
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   ∞          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (boots unavailable)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.00/turn                (no ring)
+
+@: flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 1.5 Stealth
+ + Level 2.4 Spellcasting
+
+
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      36%        2x1d5     8%          1
+b - Scorch                Fire           18%        2d6       11%         2
+c - Kindle Blastsparks    Fire/Tloc/Air  18%        2d11      22%         3
+d - Inner Flame           Hex/Fire       9%         N/A       22%         3
+e - Flame Wave            Conj/Fire      9%         2d6       58%         4
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+Welcome, Kuzon the Djinni Fire Elementalist.
+Will you be the one to retrieve the terrific Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+You begin with the following spells memorised: Foxfire, Scorch, Kindle
+Blastsparks, Inner Flame, Flame Wave.
+There is a staircase leading out of the dungeon here.
+Welcome back, Kuzon the Djinni Fire Elementalist.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ## ##
+  #. .#
+###.♣.###
+#.......#
+  ♣.@.♣
+#.......#
+###.♣.###
+  #. .#
+  ## ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Djinni Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Kuzon set off with the following spells memorised: Foxfire,
+                  | Scorch, Kindle Blastsparks, Inner Flame, Flame Wave.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+     0 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_simpleton_c, layout_rooms, serial_shops, shop
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+       Dungeon |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+

@@ -1,0 +1,348 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 18106766418694206177
+
+1589 GoodOmen the Carver (level 8, -3/74 HPs)
+             Began as a Minotaur Fighter on Mar 20, 2023.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 6 of the Dungeon.
+             The game lasted 00:11:55 (4747 turns).
+
+GoodOmen the Carver (Minotaur Fighter)              Turns: 4747, Time: 00:11:56
+
+Health: -3/74      AC:  9    Str: 26    XL:     8   Next: 61%
+Magic:  22/22      EV: 10    Int:  5    God:    
+Gold:   328        SH:  4    Dex: 10    Spells: 7/7 levels left
+
+rFire   . . .      SeeInvis .    a - +1 long sword
+rCold   . . .      Faith    +    c - +0 buckler
+rNeg    . . .      Spirit   .    q - +3 leather armour "Wuup" {Regen+ Str+3 Stlth+}
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    l - +2 pair of boots
+Stlth   ++                       w - Hermit's Pendant {Faith Invo=14 Evo=0 MP+5}
+HPRegen 1.12/turn                (no ring)
+MPRegen 0.18/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 467 gold pieces.
+You spent 139 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 long sword (weapon)
+Missiles
+ v - 6 javelins (quivered)
+Armour
+ c - a +0 buckler (worn)
+ l - a +2 pair of boots (worn)
+ o - a +0 chain mail
+ q - the +3 leather armour "Wuup" (worn) {Regen+ Str+3 Stlth+}
+   (You found it on level 4 of the Dungeon)   
+   
+   Str:       It affects your strength (+3).
+   Regen:     It increases your rate of health regeneration.
+   Stlth:     It makes you more stealthy.
+Jewellery
+ w - the Hermit's Pendant (around neck) {Faith Invo=14 Evo=0 MP+5}
+   (You found it on level 5 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   Invo=14:   It sets your Invocations skill to 14.
+   Evo=0:     It sets your Evocations skill to 0.
+   
+   It allows you to gain divine favour quickly.
+   MP:        It affects your magic capacity (+5).
+Wands
+ t - a wand of mindburst (18)
+Scrolls
+ b - a scroll of amnesia {unknown}
+ e - 2 scrolls of poison
+ g - 2 scrolls of teleportation
+ k - 2 scrolls of blinking
+ n - 2 scrolls of noise
+ p - 4 scrolls of fear
+Potions
+ d - a potion of might
+ f - 3 potions of invisibility
+ h - a potion of brilliance
+ i - 3 potions of lignification
+ j - 2 potions of curing
+ m - a potion of ambrosia {unknown}
+ u - a potion of flight
+ z - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 8.1 Fighting
+ * Level 10.5 Long Blades
+ + Level 2.7 Throwing
+ - Level 3.6 Armour
+ - Level 3.6 Shields
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       61%         1
+ Summon Small Mammal      Summ           0%         N/A       61%         1
+ Wereblood                Tmut           0%         N/A       75%         2
+ Call Canine Familiar     Summ           0%         N/A       93%         3
+ Spider Form              Tmut/Pois      0%         N/A       93%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       93%         3
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+ Conjure Ball Lightning   Conj/Air       0%         3x3d6     100%        6
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Discord                  Hex            0%         N/A       100%        8
+ Disjunction              Tloc           0%         N/A       100%        8
+ Ignition                 Fire           0%         3d3       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (0/1) D:6         
+
+Altars:
+Qazlal
+
+Shops:
+D:3 [??*   D:4 *   D:6 (?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You miss the orc wizard. Your headbutt misses the orc wizard.
+The orc wizard is heavily wounded.
+You feel sick.
+You're too confused to move! You feel sick. The orc warrior misses you.
+The orc wizard hits you with a +2 dagger of venom.
+You are more poisoned.
+You bump into the rock wall. You feel sick.
+The orc warrior hits you from afar with a +0 halberd!
+The orc wizard hits you but does no damage.
+You are more poisoned.
+You bump into the rock wall.
+You feel very sick.
+The orc priest hits you with a +0 mace.
+* * * LOW HITPOINT WARNING * * *
+The orc warrior barely misses you.
+The orc wizard hits you but does no damage.
+You are more poisoned.
+You bump into the rock wall.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The orc priest calls upon Beogh to heal the orc wizard.
+The orc wizard is healed somewhat. The orc warrior barely misses you.
+The orc wizard closely misses you.
+The orc wizard attacks as you move away!
+The orc wizard hits you but does no damage.
+You feel less confused.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The orc wizard hits you but does no damage.
+You are lethally poisoned!
+The orc priest attacks as you move away!
+The orc priest closely misses you. You furiously retaliate! You headbutt the
+orc priest!
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+You feel better.
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+
+                        #######
+                        #......
+            #############......
+            #..........##......
+            #..........####.##.
+            #..........#  #.##.
+            #..........# ##.###
+        #####o.........# #..#
+       *#..@oo.........###.####
+       #..##o####..............
+       #.,.....,#.o#####.......
+       #.?..##..#..#   #....##.
+    ***#....**..#..#   #....##.
+    *,.............#***#....###
+    *,##.##.#........,,........
+ ****,*#.*#..#..#..#.###.......
+ *,,,,,,,,......#......#....##.
+ *,,,,**,,,.##..#......#...,*##
+ *,,,,**,,.,*#.*#((....#..,,*
+**,,,,,,,,,,,..*.........,,,*
+
+
+You could see an orc warrior, an orc priest and 2 orc wizards.
+
+Vanquished Creatures
+  Eustachio (D:4)
+  A black bear (D:4)
+  2 ice beasts (D:5)
+  2 ogres (D:5)
+  A centaur (D:6)
+  3 phantoms
+  A bullfrog (D:6)
+  2 scorpions
+  2 howler monkeys
+  A hound (D:5)
+  4 jellies
+  2 sleepcaps
+  Natasha (twice) (D:4)
+  An orc wizard (D:5)
+  8 adders
+  3 gnolls
+  2 ufetubi
+  A dart slug (D:3)
+  3 orcs
+  4 ball pythons
+  3 bats
+  3 endoplasms
+  4 giant cockroaches
+  6 goblins
+  3 hobgoblins
+  10 jackals
+  3 quokkas
+  2 frilled lizards
+  4 kobolds
+  8 rats
+92 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   299 | D:1      | Reached skill level 3 in Long Blades
+   849 | D:2      | Reached XP level 2. HP: 27/27 MP: 1/1
+   866 | D:2      | Found a faded altar of an unknown god.
+  1056 | D:2      | Reached XP level 3. HP: 32/33 MP: 2/2
+  1373 | D:2      | Reached skill level 4 in Long Blades
+  1586 | D:3      | Found Caehiw's Armour Emporium.
+  1719 | D:3      | Found Qahiah's Magic Scroll Shop.
+  1723 | D:3      | Bought a scroll of blinking for 75 gold pieces
+  1723 | D:3      | Bought a scroll of identify for 20 gold pieces
+  1894 | D:3      | Found Ytimnub's Magic Scroll Shop.
+  1913 | D:3      | Found Erepsuo Seuc's General Store.
+  1926 | D:3      | Bought a scroll of fear for 44 gold pieces
+  1934 | D:3      | Reached XP level 4. HP: 34/41 MP: 3/3
+  1968 | D:3      | Reached skill level 5 in Long Blades
+  2367 | D:3      | Found a stormy altar of Qazlal.
+  2598 | D:4      | Reached skill level 5 in Fighting
+  2598 | D:4      | Reached XP level 5. HP: 36/48 MP: 4/4
+  2703 | D:4      | Identified the +3 leather armour "Wuup" {Regen+ Str+3
+                  | Stlth+}
+  2730 | D:4      | Noticed a black bear
+  2748 | D:4      | Killed a black bear
+  2749 | D:4      | Reached skill level 6 in Long Blades
+  2864 | D:4      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2907 | D:4      | Noticed Eustachio
+  2919 | D:4      | Killed Eustachio
+  2920 | D:4      | Reached skill level 7 in Long Blades
+  2981 | D:4      | Found Quqe's Gadget Gallery.
+  3006 | D:4      | Reached XP level 7. HP: 64/64 MP: 6/6
+  3032 | D:4      | Noticed Natasha
+  3039 | D:4      | Killed Natasha
+  3170 | D:4      | Noticed Natasha
+  3173 | D:4      | Killed Natasha
+  3174 | D:4      | Reached skill level 8 in Long Blades
+  3254 | D:5      | Entered Level 5 of the Dungeon
+  3437 | D:5      | Reached skill level 9 in Long Blades
+  3776 | D:5      | Reached XP level 8. HP: 73/73 MP: 7/7
+  3806 | D:5      | Reached skill level 1 in Throwing
+  3919 | D:5      | Found a faded altar of an unknown god.
+  3919 | D:5      | Found the Hermit's Pendant {Faith Invo=14 Evo=0 MP+5}
+  4398 | D:5      | Reached skill level 10 in Long Blades
+  4497 | D:6      | Found Zefyp's Magic Scroll Shop.
+  4516 | D:6      | Found Hynar's Weapon Shoppe.
+  4746 | D:6      | HP: 2/74 [poisoned by an orc wizard]
+  4747 | D:6      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_windingriver, layout_loops_ring, serial_forest,
+          infiniplex_forest_corner_1, infiniplex_forest_straight_4,
+          infiniplex_forest_clump_curved, infiniplex_forest_clump_large,
+          infiniplex_forest_clump_double, infiniplex_forest_clump_cross,
+          minmay_rat_gold_closets
+D:2:      layout_loops_cross, ebering_ecumenical_altar_rust,
+          nicolae_eternal_life
+D:3:      layout_basic, mainiacjoe_overflow_surrounded_room, serial_shops,
+          nicolae_shop_behind_doors, nicolae_shop_stone, nicolae_shop_stone,
+          shop_coins, nicolae_figureground_pulse
+D:4:      layout_loops_ring, nicolae_shop_gadgets, uniq_natasha, uniq_eustachio
+D:5:      layout_loops_ring, serial_glass, glass_columns_b, glass_columns_a,
+          minmay_strange_pillars, item_on_display_a, feat_on_display,
+          item_on_display_a, nicolae_concentric_dashed_squares_wild,
+          hellmonk_guarded_unrand_hermit
+D:6:      layout_rooms, minmay_temple_entry_hall, nicolae_stop_n_shop_2,
+          hangedman_abyss_or_decor_lesser_grid, nicolae_take_the_stairs
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Long Blades    |  3     4  5  6  7  9 10 | 10.5
+Fighting       |     4     5     6  7  8 |  8.1
+Throwing       |                       2 |  2.7
+Armour         |                         |  3.6
+Shields        |                         |  3.6
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Long sword        |    81 |    94 |   103 ||   278
+         Headbutt          |    14 |     8 |    21 ||    43
+  Throw: Javelin           |       |       |     3 ||     3
+    Use: Scroll            |     8 |     1 |     5 ||    14
+         Potion            |       |       |     1 ||     1
+   Stab: Sleeping          |       |     1 |     4 ||     5
+         Distracted        |       |       |     1 ||     1
+ Armour: Scale mail        |    21 |       |       ||    21
+         Chain mail        |     8 |    21 |       ||    29
+         Leather armour    |       |    33 |    47 ||    80
+  Dodge: Dodged            |    38 |    61 |    52 ||   151
+  Block: Buckler           |    22 |    30 |    17 ||    69
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4783 |   4322 |    461 |      0 |   3504 |   6 |  797.2 |
+       Dungeon |   4783 |   4322 |    461 |      0 |   3504 |   6 |  797.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1032 daAuts
+     D:3: 947 daAuts
+     D:1: 846 daAuts
+     D:4: 828 daAuts
+     D:2: 823 daAuts
+     D:6: 305 daAuts
+

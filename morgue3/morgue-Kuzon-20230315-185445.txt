@@ -1,0 +1,473 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5817195364176583868
+
+9286 Kuzon the Arsonist (level 11, -1/54 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Was a Believer of Qazlal.
+             Slain by a cyan ugly thing (12 damage)
+             ... on level 11 of the Dungeon.
+             The game lasted 00:43:42 (14218 turns).
+
+Kuzon the Arsonist (Deep Elf Fire Elementalist)    Turns: 14218, Time: 00:43:42
+
+Health: -1/54      AC:  9    Str:  5    XL:     11   Next: 21%
+Magic:  4/27       EV: 11    Int: 37    God:    Qazlal [**....]
+Gold:   876        SH:  3    Dex: 15    Spells: 14/30 levels left
+
+rFire   + . .      SeeInvis .    r - staff of fire
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    k - +2 acid dragon scales
+rPois   .          Reflect  .    d - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   +                        (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.29/turn                y - +6 ring of intelligence
+MPRegen 0.20/turn                v - +6 ring of intelligence
+
+@: no status effects
+A: no striking features
+a: Renounce Religion, Upheaval
+
+
+You were on level 11 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was pleased with you.
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+
+You collected 876 gold pieces.
+
+Inventory:
+
+Missiles
+ i - 2 throwing nets
+Armour
+ a - a +2 robe
+ d - a +0 helmet (worn)
+ k - +2 acid dragon scales (worn)
+Magical Staves
+ r - a staff of fire (weapon)
+Jewellery
+ h - a +5 ring of evasion
+ q - a ring of ice
+ u - a ring of protection from fire
+ v - a +6 ring of intelligence (right hand)
+ x - a +4 ring of slaying
+ y - a +6 ring of intelligence (left hand)
+ z - a ring of see invisible
+Wands
+ p - a wand of paralysis (19)
+ B - a wand of acid (24)
+ D - a wand of digging (9)
+Scrolls
+ c - 2 scrolls of fear
+ j - 3 scrolls of noise
+ m - 3 scrolls of amnesia
+ n - 3 scrolls of enchant armour
+ o - a scroll of immolation {unknown}
+ s - 2 scrolls of poison
+ F - a scroll of vulnerability {unknown}
+ H - 2 scrolls of teleportation
+Potions
+ b - 4 potions of magic
+ e - 10 potions of curing
+ f - 2 potions of resistance
+ g - 3 potions of ambrosia
+ l - a potion of degeneration {unknown}
+ t - 2 potions of attraction {unknown}
+ w - 3 potions of might
+ A - a potion of haste {unknown}
+ C - 3 potions of mutation {unknown}
+ E - 2 potions of berserk rage {unknown}
+ G - a potion of invisibility {unknown}
+
+
+   Skills:
+ - Level 2.7 Dodging
+ - Level 2.8 Stealth
+ + Level 10.4 Spellcasting
+ * Level 11.7 Conjurations
+ * Level 12.1 Fire Magic
+ + Level 4.6 Invocations
+
+
+You had 14 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Flame Wave            Conj/Fire      100%       2d21      1%          4
+d - Fireball              Conj/Fire      52%        3d20      1%          5
+e - Sticky Flame          Conj/Fire      100%       2d11      1%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       1%          1
+ Inner Flame              Hex/Fire       77%        N/A       1%          3
+ Ignite Poison            Fire/Tmut/Pois 65%        N/A       2%          3
+ Kindle Blastsparks       Fire/Tloc/Air  100%       2d18      2%          3
+ Mephitic Cloud           Conj/Pois/Air  48%        N/A       2%          3
+ Beastly Appendage        Tmut           38%        N/A       4%          1
+ Summon Small Mammal      Summ           76%        N/A       4%          1
+ Starburst                Conj/Fire      52%        6d14      4%          6
+ Call Imp                 Summ           19%        N/A       7%          2
+ Ensorcelled Hibernation  Hex/Ice        38%        N/A       7%          2
+ Passwall                 Tmut/Erth      15%        N/A       7%          2
+ Wereblood                Tmut           19%        N/A       7%          2
+ Spider Form              Tmut/Pois      19%        N/A       14%         3
+ Swiftness                Air            19%        N/A       14%         3
+ Animate Dead             Necr           19%        N/A       41%         4
+ Borgnjor's Vile Clutch   Necr/Erth      9%         N/A       77%         5
+ Silence                  Hex/Air        9%         N/A       77%         5
+ Ignition                 Fire           52%        3d14      90%         8
+ Spellforged Servitor     Conj/Summ      29%        N/A       98%         7
+ Death Channel            Necr           9%         N/A       100%        6
+ Malign Gateway           Summ/Tloc      9%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:4            Lair (0/5) D:11        
+    Orc (0/2) D:11        
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+The Shining One
+
+Shops:
+D:2 (   D:3 *   D:4 (   D:7 :   D:9 [*
+
+Portals:
+Trove: D:10 (give +8 demon trident)
+
+Message History
+
+(Press . to intensify the flame waves.)
+The red ugly thing basks in the mutagenic energy from its kin and changes!
+A wave of flame ripples out!
+The flame wave engulfs the green ugly thing!!!
+The green ugly thing is almost dead.
+Casting: Flame Wave (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Restarting spell: Flame Wave (safe; 1% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+You feel a surge of power! A wave of flame ripples out!
+The flame wave engulfs the green ugly thing!!
+You kill the green ugly thing!
+Qazlal accepts your kill.
+(Press . to intensify the flame waves.)
+Your Fire Magic skill increases to level 12!
+A wave of flame ripples out!
+The flame wave engulfs the green ugly thing!
+The green ugly thing is almost dead.
+Casting: Flame Wave (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Restarting spell: Flame Wave (safe; 1% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+You feel a surge of power! A wave of flame ripples out!
+The flame wave engulfs the green ugly thing!!
+You kill the green ugly thing!
+Qazlal accepts your kill.
+(Press . to intensify the flame waves.)
+The brown ugly thing basks in the mutagenic energy from its kin and changes!
+Unknown command.
+Unknown command.
+The cyan ugly thing attacks as you move away!
+The cyan ugly thing engulfs you! The cyan ugly thing shocks you!
+You block the cyan ugly thing's attack.
+The cyan ugly thing engulfs you. The cyan ugly thing shocks you!
+* * * LOW HITPOINT WARNING * * *
+There is a stone staircase leading up here.
+The cyan ugly thing engulfs you.
+* * * LOW HITPOINT WARNING * * *
+The cyan ugly thing shocks you!
+You die...
+
+......##     #.#...#
+.....##      #...#.#
+.P..##       ###...#     ####~
+...##          ##.##    #~~~~~
+.###            #.#  ###~~....
+##              #.####.#~.....
+                #.##...u......
+         ########.##.#.#......
+         #........##.###......
+         #........u....##~~~..
+         #........u##### ####~
+         #.......@.#
+         #........##
+         #........#
+         #........#
+         ####.##..#
+            #.#...#
+            #.#.>.#
+            #.#...#
+            #.###..
+            #.#  ##.
+#############.#
+...........##.#
+
+
+You could see 2 ugly things.
+
+Vanquished Creatures
+  2 ugly things (D:11)
+  A cyclops (D:11)
+  A gargoyle (D:7)
+  A kobold demonologist (D:11)
+  An unseen horror (D:11)
+  2 trolls
+  2 hornets
+  2 wraiths
+  4 wyverns
+  8 yaks
+  A basilisk (D:11)
+  A steam dragon (D:10)
+  6 wargs (D:11)
+  An acid dragon (D:7)
+  Duvessa (D:7)
+  2 water moccasins (D:8)
+  A sky beast (D:7)
+  2 ice beasts (D:4)
+  4 orc warriors
+  An ogre (D:7)
+  2 phantoms
+  A centaur (D:8)
+  2 kobold brigands (D:10)
+  A gnoll sergeant (D:7)
+  A bullfrog (D:9)
+  7 scorpions
+  5 wights
+  Dowan (D:7)
+  3 killer bees (D:10)
+  2 howler monkeys (D:7)
+  4 orc priests
+  A hound (D:5)
+  2 gnoll boudas
+  2 jellies (D:5)
+  2 iguanas
+  Natasha (thrice) (D:3)
+  6 orc wizards
+  Robin (D:4)
+  21 gnolls
+  3 adders
+  A white imp (D:5)
+  An ufetubus (D:6)
+  4 worms
+  4 dart slugs
+  18 orcs
+  An endoplasm (D:1)
+  9 goblins
+  11 hobgoblins
+  4 jackals (D:3)
+  21 kobolds
+  A quokka (D:3)
+  8 ball pythons
+  11 bats
+  5 frilled lizards
+  3 rats
+216 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 foxfires (D:3)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  673 foxfires
+673 creatures vanquished.
+
+Grand Total: 892 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   234 | D:1      | Reached XP level 2. HP: 7/15 MP: 1/8
+   482 | D:1      | Found a faded altar of an unknown god.
+   928 | D:1      | Learned a level 2 spell: Scorch
+  1481 | D:2      | Reached XP level 3. HP: 19/19 MP: 4/9
+  1727 | D:2      | Reached skill level 4 in Fire Magic
+  1727 | D:2      | Reached XP level 4. HP: 24/24 MP: 3/11
+  1964 | D:2      | Found Kokaab's Weapon Shoppe.
+  1974 | D:2      | Identified the +4 whip of the Twenty Scars {spect, rF-
+                  | Will+++ Int+8 Dex-5}
+  2071 | D:2      | Learned a level 4 spell: Flame Wave
+  2472 | D:3      | Found Xamir's Assorted Antiques.
+  2499 | D:3      | Found a hazy altar of Hepliaklqana.
+  3003 | D:3      | Noticed Natasha
+  3009 | D:3      | Killed Natasha
+  3178 | D:3      | Noticed Natasha
+  3187 | D:3      | Killed Natasha
+  3188 | D:3      | Reached XP level 5. HP: 14/28 MP: 5/13
+  3343 | D:3      | Found a blossoming altar of Fedhas.
+  3387 | D:3      | Found a shimmering altar of Xom.
+  3484 | D:3      | Noticed Natasha
+  3486 | D:3      | Killed Natasha
+  3879 | D:3      | Found a stormy altar of Qazlal.
+  3887 | D:3      | Became a worshipper of Qazlal Stormbringer
+  4143 | D:4      | Reached skill level 5 in Fire Magic
+  4284 | D:4      | Reached XP level 6. HP: 32/32 MP: 6/14
+  4544 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  4612 | D:4      | Noticed Robin
+  4618 | D:4      | Killed Robin
+  4740 | D:4      | Found an iron altar of Okawaru.
+  4787 | D:4      | Noticed an ice beast
+  4799 | D:4      | Killed an ice beast
+  4800 | D:4      | Reached skill level 5 in Spellcasting
+  4863 | D:4      | Found a staircase to the Ecumenical Temple.
+  4989 | D:4      | Found Ubromeut's Weapon Shoppe.
+  5001 | D:5      | Entered Level 5 of the Dungeon
+  5002 | D:5      | Noticed an ice beast
+  5009 | D:4      | Killed an ice beast
+  5010 | D:4      | Reached skill level 5 in Conjurations
+  5010 | D:4      | Reached skill level 6 in Fire Magic
+  5010 | D:4      | Reached XP level 7. HP: 10/36 MP: 9/17
+  5225 | D:5      | Reached * piety under Qazlal
+  5944 | D:5      | Reached skill level 7 in Fire Magic
+  5944 | D:5      | Reached XP level 8. HP: 41/41 MP: 13/19
+  7025 | D:6      | Found a glowing golden altar of the Shining One.
+  7569 | D:7      | Reached skill level 8 in Fire Magic
+  7665 | D:7      | Identified the +3 leather armour "Kuothyg" {Fly}
+  7854 | D:6      | Learned a level 5 spell: Fireball
+  7886 | D:7      | Found Anaitt's Book Shop.
+  7892 | D:7      | Noticed a gargoyle
+  7920 | D:7      | Killed a gargoyle
+  8076 | D:7      | Noticed Dowan
+  8082 | D:7      | Noticed Duvessa
+  8085 | D:7      | Killed Dowan
+  8086 | D:7      | Reached XP level 9. HP: 45/45 MP: 14/22
+  8087 | D:7      | Killed Duvessa
+  8189 | D:7      | Reached skill level 9 in Fire Magic
+  8248 | D:7      | Found a shimmering blue altar of Sif Muna.
+  9261 | Temple   | Entered the Ecumenical Temple
+  9761 | D:8      | Reached ** piety under Qazlal
+  9762 | D:8      | Reached skill level 10 in Fire Magic
+ 10066 | D:8      | Reached skill level 1 in Invocations
+ 10118 | D:8      | Found a broken altar of Ashenzari.
+ 10482 | D:9      | Reached XP level 10. HP: 37/50 MP: 8/24
+ 10484 | D:9      | Reached skill level 10 in Conjurations
+ 11039 | D:9      | Paralysed by a hornet for 3 turns
+ 11441 | D:9      | Found Evaoma Qihu's Elemental Accessories.
+ 11472 | D:9      | Learned a level 4 spell: Sticky Flame
+ 11634 | D:9      | Found Teodosio's Dragon-Slaying Spoils.
+ 11821 | D:10     | Entered Level 10 of the Dungeon
+ 11862 | D:10     | Reached skill level 11 in Fire Magic
+ 12514 | D:10     | Found a portal to a secret trove of treasure.
+ 12537 | D:10     | Found an ornate altar of the Wu Jian Council.
+ 12842 | D:11     | Noticed a cyclops
+ 12845 | D:11     | Killed a cyclops
+ 13159 | D:11     | Reached skill level 10 in Spellcasting
+ 13369 | D:11     | Reached XP level 11. HP: 54/54 MP: 16/27
+ 13700 | D:11     | Found a staircase to the Lair.
+ 13834 | D:11     | Found a staircase to the Orcish Mines.
+ 14031 | D:11     | Got the Excursus on Voltage and Accomplices
+ 14199 | D:11     | Noticed a red ugly thing
+ 14199 | D:11     | Noticed a red ugly thing
+ 14201 | D:11     | Noticed a red ugly thing
+ 14205 | D:11     | Noticed a brown ugly thing
+ 14208 | D:11     | Killed a green ugly thing
+ 14209 | D:11     | Reached skill level 12 in Fire Magic
+ 14210 | D:11     | Killed a green ugly thing
+ 14218 | D:11     | Slain by a cyan ugly thing
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      erik_arrival_cave_to_civilisation [erik_arrival_cave_to_hall],
+          layout_loops_ring, shapermc_ecumenical_altar_acropolis, serial_forest,
+          infiniplex_forest_lined_room_2, infiniplex_forest_straight_2,
+          infiniplex_forest_end_1, infiniplex_forest_corner_1,
+          infiniplex_forest_end_3
+D:2:      layout_basic, serial_shops, nicolae_shop_hallway_plus
+D:3:      layout_basic, general_overflow_altar, mainiacjoe_overflow_boulevard,
+          lemuel_round_altar, fedhas_altar_4, serial_shops, shop_fountains,
+          uniq_natasha
+D:4:      layout_cave_pools, okawaru_gym_becter, nemelex_spade_bored_becter,
+          temple_fountains, serial_shops, kennysheep_mini_moat, uniq_robin
+D:5:      layout_basic, grunt_decor_cap
+D:6:      layout_loops_corners, nicolae_tso_swordbearing_angel,
+          patterned_corridor
+D:7:      layout_basic, lemuel_doored_altar, serial_shops, shop,
+          kennysheep_flooded_box, kennysheep_generic_room_14, uniq_duvessa
+D:8:      layout_cave_pods, mainiacjoe_overflow_small_starburst
+D:9:      layout_layer_cave, nicolae_shop_dragon_depot, nicolae_elemental_shop
+D:10:     layout_roguey, nicolae_wu_jian_immortal_techniques, enter_trove_2
+D:11:     cheibrodos_breeding_chamber, layout_loops_ring,
+          erik_lair_orcish_takeover, minmay_orc_entry_guard_dogs,
+          kennysheep_windowed_goal
+Temple:   nicolae_temple_bog_church
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Conjurations   |        2  3  4  5  6  8  9 11    | 11.7
+Fire Magic     |        4     5  6  7  8 10 11 12 | 12.1
+Spellcasting   |           4     5  6  7  8 10    | 10.4
+Invocations    |                          1  4    |  4.6
+Dodging        |                                  |  2.7
+Stealth        |                                  |  2.8
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Whip              |       |     1 |       |       ||     1
+         Staff             |       |       |    12 |     2 ||    14
+         Punch             |       |       |     1 |       ||     1
+   Cast: Foxfire           |    81 |   141 |   143 |    20 ||   385
+         Scorch            |     2 |    15 |    44 |    40 ||   101
+         Flame Wave        |       |       |    16 |    14 ||    30
+         Fireball          |       |       |     5 |    32 ||    37
+    Use: Scroll            |       |     2 |    15 |     1 ||    18
+         Potion            |       |       |     1 |       ||     1
+ Armour: Robe              |     3 |     3 |     6 |       ||    12
+         Acid dragon scale |       |       |       |    11 ||    11
+  Dodge: Dodged            |    12 |     9 |    33 |    23 ||    77
+  Block: Other             |       |       |     5 |     4 ||     9
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  14239 |  13812 |    427 |      0 |  12238 |  12 | 1186.6 |
+       Dungeon |  14231 |  13805 |    426 |      0 |  12238 |  11 | 1293.7 |
+        Temple |      8 |      8 |      0 |      0 |      0 |   1 |    8.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1666 daAuts
+     D:7: 1556 daAuts
+     D:1: 1554 daAuts
+     D:6: 1496 daAuts
+    D:10: 1473 daAuts
+     D:9: 1266 daAuts
+     D:8: 1191 daAuts
+     D:5: 1163 daAuts
+     D:4: 1030 daAuts
+    D:11: 924 daAuts
+     D:2: 907 daAuts
+  Temple: 8 daAuts
+

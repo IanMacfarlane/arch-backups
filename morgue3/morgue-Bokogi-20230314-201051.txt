@@ -1,0 +1,121 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 3254146078822262642
+
+0 Bokogi the Shooter (level 1, 12/12 HPs)
+             Began as a Kobold Hunter on Mar 14, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:06 (0 turns).
+
+Bokogi the Shooter (Kobold Hunter)                     Turns: 0, Time: 00:00:06
+
+Health: 12/12      AC:  3    Str:  8    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int: 10    God:    
+Gold:   0          SH:  0    Dex: 18    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +++                      (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.07/turn                (no ring)
+
+@: no status effects
+A: small, no large weapons, nightstalker 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Scrolls
+ b - a scroll of immolation
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 5.3 Ranged Weapons
+ + Level 2.4 Dodging
+ + Level 1.3 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are completely attuned to the shadows.
+
+Message History
+
+Welcome, Bokogi the Kobold Hunter.
+A smirking vizier told you that the Orb of Zot is just within this dungeon.
+Press ? for a list of commands and other information.
+Found 8 gold pieces and a copper ring.
+Found a staircase leading out of the dungeon.
+No target in view!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.♣♣♣♣♣♣♣♣
+♣..PP..PP
+♣...P$.PP
+♣P...PP..
+♣PP.@.P..
+♣..P...PP
+♣..PP...P
+♣PP..P...
+♣PP..PP=.
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Kobold Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 1/1
+     0 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_checkerplants, layout_basic,
+          hellmonk_ecumenical_altar_lost_god, grunt_decor_clamped,
+          minmay_misc_feat_pillars, amcnicky_mini_corridor_feature
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+       Dungeon |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+

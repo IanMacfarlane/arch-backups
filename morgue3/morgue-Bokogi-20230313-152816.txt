@@ -1,0 +1,373 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 11491955984131908464
+
+5454 Bokogi the Grappler (level 10, -1/141 HPs)
+             Began as a Troll Berserker on Mar 13, 2023.
+             Was a High Priest of Trog.
+             Succumbed to a killer bee's poison
+             ... on level 8 of the Dungeon.
+             The game lasted 00:20:58 (6160 turns).
+
+Bokogi the Grappler (Troll Berserker)               Turns: 6160, Time: 00:20:58
+
+Health: -1/141     AC:  6    Str: 37    XL:     10   Next: 41%
+Magic:  9/9        EV: 11    Int:  3    God:    Trog [*****.]
+Gold:   434        SH:  0    Dex:  9    Spells: 9/9 levels left
+
+rFire   x . .      SeeInvis .      - Unarmed
+rCold   + . .      Faith    +    (no shield)
+rNeg    . . .      Spirit   .    a - +0 animal skin
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    w - +1 cloak
+rCorr   .                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth                            k - amulet of faith
+HPRegen 1.23/turn                f - ring of ice
+MPRegen 0.11/turn                t - +6 ring of strength
+
+@: berserking (expiring), lethally poisoned (-1 -> -3), very quick
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 434 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 animal skin (worn)
+ w - a +1 cloak (worn)
+Jewellery
+ f - a ring of ice (left claw)
+ k - an amulet of faith (around neck)
+ l - a ring of see invisible
+ m - an amulet of regeneration
+ t - a +6 ring of strength (right claw)
+Wands
+ r - a wand of acid (7)
+ v - a wand of flame (21)
+Scrolls
+ d - 4 scrolls of blinking
+ g - 2 scrolls of fog
+ i - 3 scrolls of fear
+ n - 2 scrolls of teleportation
+Potions
+ b - 2 potions of curing
+ c - 5 potions of brilliance
+ e - a potion of magic
+ h - 2 potions of might
+ j - 4 potions of haste
+ o - a potion of degeneration {unknown}
+ q - 4 potions of mutation
+ u - a potion of heal wounds
+
+
+   Skills:
+ + Level 4.7 Fighting
+ + Level 6.1 Dodging
+ + Level 3.1 Stealth
+ + Level 12.4 Unarmed Combat
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Zin
+The Shining One
+
+Shops:
+D:5 *
+
+Annotations:
+D:8 2 transporters
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You kill the killer bee!
+Trog accepts your kill.
+You feel very sick.
+The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee closely misses you.
+You closely miss the killer bee.
+You feel very sick.
+The killer bee barely misses you. x2
+You miss the killer bee. You feel sick.
+The killer bee stings you but does no damage.
+The killer bee closely misses you.
+Okay, then.
+You are too berserk!
+You miss the killer bee.
+You feel very sick.
+The killer bee barely misses you. x2
+You closely miss the killer bee. You feel sick. The killer bee barely misses
+you.
+The killer bee stings you but does no damage.
+Okay, then.
+You barely miss the killer bee. You feel sick. The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+The killer bee barely misses you.
+You eviscerate the killer bee!!!
+You kill the killer bee!
+Trog accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+The killer bee stings you but does no damage.
+You eviscerate the killer bee!!!
+You kill the killer bee!
+Trog accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You are too berserk!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You are too berserk!
+You feel a strong urge to attack something.
+You die...
+
+#                ..[   #.#       #.#
+#                ...####.#########.#
+                 .........>......#.#
+                 #.#........#### #.#
+ ..        ...   #.#........#    #.#
+ .         ...   #.#........#    #.#
+.           ...  #.#)....)).#    #.#
+# .#         #.# #.#........#    #.#
+#^#          #..##.#........#    #.#
+###          #...#.#........#    #.#
+..#       +++#.#..%.........#    #.#
+..###     ........@#......).#    #.#
+#...#     .#.#'''#.#........#    #.#
+#...#     ...#?#/#.#........#    #.#
+#...#     #.## !?############    #.#
+#...#     #.# ###                #.#
+....###   #.#..#                 #.#
+#.....### #.#.###..              #.#
+#...#...###........              #.#
+#...###.....############    ..   #.#
+#...# #>........#......#    #.## #.#
+..... #########.#......#    #... #.#
+..#...        #.#......#    #..###.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Pikel (D:6)
+  The ghost of quaternion the Zephyrmancer, a novice TeAE (D:6)
+  An unseen horror (D:7)
+  An unseen horror skeleton (D:6)
+  A slime creature (D:7)
+  A steam dragon (D:7)
+  A vampire mosquito (D:7)
+  A water moccasin (D:5)
+  4 orc warriors
+  3 black bears
+  2 ogres (D:5)
+  2 lemures (D:6)
+  5 phantoms
+  A centaur (D:7)
+  A kobold brigand (D:8)
+  A bullfrog (D:6)
+  2 gnoll sergeants
+  5 scorpions
+  10 wights
+  8 killer bees (D:8)
+  A gnoll bouda (D:7)
+  4 orc priests
+  A hound (D:6)
+  2 jellies
+  2 sleepcaps (D:7)
+  6 iguanas
+  Natasha (thrice) (D:3)
+  7 orc wizards
+  A killer bee simulacrum (D:6)
+  A howler monkey zombie (D:6)
+  12 gnolls
+  6 adders
+  A shadow imp (D:7)
+  A howler monkey simulacrum (D:6)
+  2 ufetubi
+  4 worms
+  2 dart slugs
+  20 orcs
+  7 ball pythons
+  7 bats
+  8 endoplasms
+  3 giant cockroaches (D:2)
+  9 goblins
+  11 hobgoblins
+  3 jackals (D:2)
+  4 frilled lizards
+  14 kobolds
+  6 rats
+200 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   112 | D:1      | Reached XP level 2. HP: 24/29 MP: 1/1
+   309 | D:1      | Reached ** piety under Trog
+   580 | D:2      | Reached XP level 3. HP: 25/36 MP: 2/2
+   649 | D:2      | Reached skill level 4 in Unarmed Combat
+   649 | D:2      | Found a faded altar of an unknown god.
+   755 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+  1322 | D:3      | Noticed Natasha
+  1325 | D:3      | Reached *** piety under Trog
+  1330 | D:3      | Killed Natasha
+  1422 | D:3      | Reached XP level 5. HP: 39/52 MP: 4/4
+  1434 | D:3      | Reached skill level 5 in Unarmed Combat
+  1443 | D:3      | Noticed Natasha
+  1450 | D:3      | Killed Natasha
+  1691 | D:3      | Noticed Natasha
+  1701 | D:3      | Killed Natasha
+  2056 | D:4      | Noticed a black bear
+  2063 | D:4      | Killed a black bear
+  2064 | D:4      | Reached XP level 6. HP: 61/61 MP: 5/5
+  2067 | D:4      | Reached skill level 6 in Unarmed Combat
+  2224 | D:4      | Found a shimmering blue altar of Sif Muna.
+  2244 | D:4      | Reached **** piety under Trog
+  2300 | D:4      | Found a staircase to the Ecumenical Temple.
+  2395 | D:5      | Entered Level 5 of the Dungeon
+  2415 | D:5      | Found Gozag's Platinum Reserve.
+  2460 | D:5      | Reached XP level 7. HP: 66/67 MP: 6/6
+  2501 | D:5      | Reached skill level 1 in Stealth
+  2501 | D:5      | Reached skill level 7 in Unarmed Combat
+  2717 | D:5      | Found an opulent altar of Gozag.
+  3001 | D:5      | Reached skill level 8 in Unarmed Combat
+  3001 | D:5      | Reached XP level 8. HP: 72/75 MP: 7/7
+  3115 | D:6      | Found a broken altar of Ashenzari.
+  3256 | D:6      | Noticed Pikel
+  3281 | D:6      | Killed Pikel
+  3282 | D:6      | Reached skill level 9 in Unarmed Combat
+  3301 | D:6      | Found a bloodstained altar of Trog.
+  3306 | D:6      | Found a runed translucent gate.
+  3306 | D:6      | Found a runed translucent gate.
+  3308 | D:6      | Found a runed translucent gate.
+  3313 | D:6      | Noticed quaternion's ghost (novice TeAE)
+  3574 | D:6      | Reached skill level 5 in Dodging
+  3601 | D:6      | Reached XP level 9. HP: 55/84 MP: 8/8
+  3770 | D:6      | Reached skill level 10 in Unarmed Combat
+  3796 | D:6      | Found an ornate altar of the Wu Jian Council.
+  4165 | D:6      | Killed quaternion's ghost
+  4165 | D:6      | Reached ***** piety under Trog
+  4386 | D:7      | Killed an unseen horror
+  4387 | D:7      | Reached skill level 11 in Unarmed Combat
+  4562 | D:7      | Reached XP level 10. HP: 57/92 MP: 9/9
+  5004 | D:7      | Identified the +4 short sword "Alla Ogo" {antimagic, Int+6}
+  5008 | D:7      | Found a glowing silver altar of Zin.
+  5211 | D:7      | Found a hazy altar of Hepliaklqana.
+  5483 | Temple   | Entered the Ecumenical Temple
+  5735 | D:8      | Reached skill level 12 in Unarmed Combat
+  5906 | D:8      | Found a shadowy altar of Dithmenos.
+  5922 | D:8      | Found a transporter.
+  5922 | D:8      | Found a transporter.
+  6156 | D:8      | HP: 3/141 [killer bee (8)]
+  6159 | D:8      | HP: 1/141 [poisoned by a killer bee]
+  6160 | D:8      | Succumbed to a killer bee's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      nagdon_arrival_zigzag_paths, layout_rooms
+D:2:      layout_loops_ring, nicolae_ecumenical_snake_handling,
+          kennysheep_generic_room_3
+D:3:      layout_loops_cross, minmay_goblin_kobold_house, uniq_natasha
+D:4:      cheibrodos_helix_gallery, layout_rooms, kennysheep_little_box,
+          temple_hall, grunt_ministairs_10, chequers_serial_rivers_micro_e
+D:5:      layout_basic, nicolae_gozag_zags_fifth_avenue, st_stairs_8
+D:6:      layout_basic, general_overflow_altar, ashenzari_altar_1,
+          mainiacjoe_overflow_concentric_impassable, gammafunk_ghost_necromancy,
+          st_stairs_4, serial_bayou_pond_d, minmay_misc_feat_cross,
+          minmay_crystal_room, corner_web_ring, uniq_pikel
+D:7:      minmay_chambers_of_sixes, layout_gridville,
+          mainiacjoe_overflow_catwalk_spiral
+D:8:      gammafunk_jiyva_shrine, layout_basic, lemuel_crystal_altar, eino_jars
+Temple:   eino_wide_crystal_templ
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Unarmed Combat |        4     5  6  8  9 11 12 | 12.4
+Dodging        |        3           4  5     6 |  6.1
+Fighting       |              3           4    |  4.7
+Stealth        |                    1     2  3 |  3.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |   101 |   134 |   198 |   130 ||   563
+         Punch             |     1 |     4 |     8 |     4 ||    17
+ Invoke: Berserk           |       |       |     3 |     2 ||     5
+         Trog's Hand       |       |       |     1 |     1 ||     2
+         Brothers in Arms  |       |       |     1 |       ||     1
+    Use: Scroll            |     3 |     5 |     9 |     1 ||    18
+   Stab: Sleeping          |       |     2 |     2 |     1 ||     5
+ Armour: Animal skin       |    33 |    33 |    38 |    32 ||   136
+  Dodge: Dodged            |    56 |    45 |    72 |   100 ||   273
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6121 |   5673 |    448 |      0 |   4353 |   9 |  680.1 |
+       Dungeon |   6066 |   5632 |    434 |      0 |   4319 |   8 |  758.2 |
+        Temple |     54 |     41 |     13 |      0 |     34 |   1 |   54.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:6: 1220 daAuts
+     D:7: 1184 daAuts
+     D:5: 710 daAuts
+     D:3: 697 daAuts
+     D:2: 658 daAuts
+     D:4: 569 daAuts
+     D:1: 557 daAuts
+     D:8: 468 daAuts
+  Temple: 54 daAuts
+

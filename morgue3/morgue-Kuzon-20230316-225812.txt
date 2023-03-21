@@ -1,0 +1,474 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16858206308685834485
+
+11482 Kuzon the Zephyrmancer (level 11, -3/54 HPs)
+             Began as a Deep Elf Air Elementalist on Mar 16, 2023.
+             Was an Elder of Makhleb.
+             Engulfed by an ice statue's freezing vapour (10 damage)
+             ... in an ice cave.
+             The game lasted 00:52:59 (16778 turns).
+
+Kuzon the Zephyrmancer (Deep Elf Air Elementalist) Turns: 16778, Time: 00:52:59
+
+Health: -3/54      AC:  9    Str:  7    XL:     11   Next: 49%
+Magic:  14/29      EV: 12    Int: 37    God:    Makhleb [****..]
+Gold:   725        SH:  0    Dex: 15    Spells: 10/34 levels left
+
+rFire   . . .      SeeInvis +    n - +6 long sword {flame, Str+2 SInv}
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    u - +0 steam dragon scales
+rPois   .          Reflect  .    b - +1 helmet
+rElec   .          Rampage  .    w - +0 cloak
+rCorr   .                        k - +0 pair of gloves
+Will    +....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.29/turn                o - +6 ring of intelligence
+MPRegen 0.21/turn                j - +6 ring of intelligence
+
+@: about to teleport
+A: no striking features
+a: Renounce Religion, Minor Destruction, Lesser Servant of Makhleb, Major
+Destruction
+
+
+You were in an ice cave.
+You worshipped Makhleb.
+Makhleb was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You also visited: Ice Cave.
+
+You collected 769 gold pieces.
+You spent 44 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ n - the +6 long sword of Leti (weapon) {flame, Str+2 SInv}
+   (You found it on level 3 of the Dungeon)   
+   
+   Str:       It affects your strength (+2).
+   SInv:      It lets you see invisible.
+Missiles
+ f - a throwing net
+Armour
+ b - a +1 helmet (worn)
+ k - a +0 pair of gloves (worn)
+ u - +0 steam dragon scales (worn)
+ w - a +0 cloak (worn)
+Jewellery
+ a - a +6 ring of strength
+ j - a +6 ring of intelligence (right hand)
+ o - a +6 ring of intelligence (left hand)
+ D - a ring of positive energy
+Wands
+ q - a wand of iceblast (18)
+ v - a wand of flame (37)
+Scrolls
+ e - a scroll of magic mapping
+ p - a scroll of teleportation
+ r - 2 scrolls of poison
+ t - 2 scrolls of noise
+ x - 2 scrolls of fear
+ y - a scroll of brand weapon
+ C - a scroll of fog
+ E - a scroll of immolation
+Potions
+ c - 2 potions of haste
+ d - 2 potions of cancellation
+ g - 2 potions of mutation
+ i - 2 potions of curing
+ l - 2 potions of lignification
+ m - 3 potions of attraction
+ s - a potion of invisibility {unknown}
+ z - a potion of degeneration {unknown}
+ B - a potion of might {unknown}
+ F - a potion of berserk rage {unknown}
+Miscellaneous
+ A - a condenser vane
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 12.0 Spellcasting
+ - Level 7.4 Conjurations
+ - Level 5.2 Necromancy
+ * Level 13.0 Air Magic
+ + Level 6.2 Invocations
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       100%       1d9       1%          1
+b - Static Discharge      Conj/Air       100%       2-7/arc   1%          2
+c - Swiftness             Air            87%        N/A       1%          3
+d - Airstrike             Air            43%        2d(7-23)  1%          4
+e - Passwall              Tmut/Erth      18%        N/A       2%          2
+f - Vampiric Draining     Necr           57%        2d10      1%          3
+g - Necrotise             Necr           100%       1d9       1%          1
+h - Arcjolt               Conj/Air       39%        1d49      1%          5
+i - Vhi's Electric Charg  Tloc/Air       100%       N/A       1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Apportation              Tloc           44%        N/A       1%          1
+ Summon Small Mammal      Summ           88%        N/A       1%          1
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  100%       N/A       1%          2
+ Dispel Undead            Necr           57%        3d20      1%          4
+ Ensorcelled Hibernation  Hex/Ice        44%        N/A       2%          2
+ Agony                    Necr           57%        N/A       5%          5
+ Anguish                  Hex/Necr       20%        N/A       6%          4
+ Death Channel            Necr           28%        N/A       30%         6
+ Alistair's Intoxication  Tmut/Pois      14%        N/A       43%         5
+ Maxwell's Capacitive Co  Air            43%        ∞         50%         8
+ Enfeeble                 Hex            11%        N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (0/1) D:6            Lair (1/5) D:9         
+    Orc (0/2) D:11          IceCv (1/1)             
+
+Altars:
+Elyvilon
+Fedhas
+Kikubaaqudgha
+Makhleb
+Qazlal
+Xom
+The Shining One
+
+Shops:
+D:11 ?
+
+Annotations:
+D:8 1 runed translucent door, Ravn's ghost, novice MiFi
+IceCv exclusion: 2 ice statues
+
+Message History
+
+Really walk into a travel-excluded area? 
+Casting: Airstrike (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Airstrike (safe; 1% risk of failure)
+Press: ? - help, Dir - move target, f/p - ice statue
+Aim: an ice statue (lightly damaged, empty space bonus: 4/8)
+The air twists around and strikes the ice statue!!
+The ice statue is heavily damaged.
+Casting: Airstrike (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Airstrike (safe; 1% risk of failure)
+Press: ? - help, Dir - move target, f/p - ice statue
+Aim: an ice statue (heavily damaged, empty space bonus: 4/8)
+The air twists around and strikes the ice statue!
+The ice statue is severely damaged.
+Casting: Airstrike (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Airstrike (safe; 1% risk of failure)
+Press: ? - help, Dir - move target, f/p - ice statue
+Aim: an ice statue (severely damaged, empty space bonus: 4/8)
+The air twists around and strikes the ice statue!
+The ice statue is almost destroyed.
+The ice statue gestures at you.
+The freezing blast misses you.
+Casting: Airstrike (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Airstrike (safe; 1% risk of failure)
+Press: ? - help, Dir - move target, f/p - ice statue
+Aim: an ice statue (almost destroyed, empty space bonus: 4/8)
+The air twists around and strikes the ice statue!
+The ice statue is almost destroyed.
+You are engulfed in freezing vapours.
+The ice statue gestures at you.
+The shard of ice hits you!!
+You are engulfed in freezing vapours.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. You are engulfed in freezing vapours.
+You die...
+
+              #####
+             ##.∩.##
+             #..∩..#
+             ##...##
+              ##.##
+              ##.##
+           ####...####
+        ####.........####
+      ###.....#####.....###
+     ##....####..☼###.....###
+  ####...####....○○○####....####
+ ##.....##....8##.○@☼○.###.....##
+##.....##$[..########☼...##.....##
+#....### [?###....####....##.....#
+#.....## ###.........##....#.....#
+#......###.....###8...###........#
+##...........###     .  ###.....##
+ ###.........#            #######
+   ###########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:10)
+  A lindwurm (Lair:1)
+  A cyclops (D:9)
+  A black mamba (Lair:1)
+  Maurice (D:8)
+  A cane toad (Lair:1)
+  3 komodo dragons (Lair:1)
+  A troll (D:10)
+  2 hornets
+  3 slime creatures (IceCv)
+  A wyvern (D:10)
+  A wraith (D:7)
+  Grum (D:11)
+  8 yaks
+  A steam dragon (D:7)
+  Menkaure (D:7)
+  An acid dragon (D:10)
+  A water moccasin (D:7)
+  3 ice beasts (D:5)
+  6 orc warriors
+  A sky beast (D:6)
+  3 black bears
+  4 wolves
+  An ogre (D:5)
+  A phantom (D:5)
+  6 centaurs
+  A slime creature simulacrum (IceCv)
+  A kobold brigand (D:10)
+  2 bullfrogs
+  3 gnoll sergeants
+  3 glowing shapeshifter simulacra (IceCv)
+  A wyvern zombie (D:5)
+  A scorpion (D:3)
+  3 wights (D:8)
+  A water moccasin skeleton (D:5)
+  3 killer bees (D:9)
+  3 howler monkeys (D:9)
+  An electric eel (D:10)
+  A bullfrog zombie (D:5)
+  A centaur zombie (D:5)
+  9 orc priests
+  2 hounds
+  3 iguanas
+  A sleepcap (D:8)
+  14 orc wizards
+  2 scorpion zombies (D:5)
+  3 shapeshifter simulacra (IceCv)
+  2 killer bee zombies (D:5)
+  A hound zombie (D:5)
+  A hound skeleton (D:5)
+  15 gnolls
+  6 adders
+  2 shadow imps (D:5)
+  12 white imps (D:11)
+  2 ufetubi (D:5)
+  2 worms
+  47 orcs
+  3 bats
+  4 endoplasms
+  A giant cockroach (D:3)
+  8 goblins
+  3 hobgoblins
+  4 jackals (D:1)
+  A quokka (D:4)
+  9 ball pythons
+  4 frilled lizards
+  11 kobolds
+  2 rats
+254 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 yaks (Lair:1)
+  A bullfrog (Lair:1)
+  An orc (D:10)
+  4 butterflies (Lair:1)
+9 creatures vanquished.
+
+Vanquished Creatures (others)
+  13 plants (D:10)
+  6 withered plants (D:5)
+19 creatures vanquished.
+
+Grand Total: 282 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   201 | D:1      | Reached XP level 2. HP: 15/15 MP: 0/8
+  1083 | D:2      | Reached XP level 3. HP: 19/19 MP: 5/9
+  1693 | D:3      | Reached XP level 4. HP: 24/24 MP: 6/11
+  1852 | D:3      | Identified the +6 long sword of Leti {flame, Str+2 SInv}
+  2059 | D:3      | Noticed a scorpion
+  2064 | D:3      | Killed a scorpion
+  2065 | D:3      | Reached skill level 4 in Air Magic
+  2216 | D:3      | Reached XP level 5. HP: 28/28 MP: 7/13
+  2390 | D:3      | Found a burning altar of Makhleb.
+  2399 | D:3      | Found a blossoming altar of Fedhas.
+  2402 | D:3      | Found a shimmering altar of Xom.
+  2405 | D:3      | Found a stormy altar of Qazlal.
+  2418 | D:3      | Became a worshipper of Makhleb the Destroyer
+  2653 | D:4      | Learned a level 2 spell: Static Discharge
+  2657 | D:4      | Learned a level 3 spell: Swiftness
+  3204 | D:4      | Reached * piety under Makhleb
+  3205 | D:4      | Reached XP level 6. HP: 17/32 MP: 5/14
+  3547 | D:5      | Entered Level 5 of the Dungeon
+  3603 | D:5      | Noticed an ice beast
+  3656 | D:5      | Reached skill level 5 in Air Magic
+  4012 | D:4      | Learned a level 4 spell: Airstrike
+  4045 | D:5      | Reached skill level 5 in Spellcasting
+  4045 | D:5      | Reached skill level 5 in Conjurations
+  4075 | D:5      | Reached XP level 7. HP: 36/36 MP: 11/16
+  4312 | D:5      | Reached skill level 6 in Air Magic
+  4794 | D:5      | Reached XP level 8. HP: 41/41 MP: 0/19
+  5044 | D:5      | Reached skill level 7 in Air Magic
+  5765 | D:6      | Found a glowing golden altar of the Shining One.
+  5873 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+  6250 | D:6      | Reached skill level 8 in Air Magic
+  6467 | D:6      | Found a staircase to the Ecumenical Temple.
+  7275 | D:7      | Reached XP level 9. HP: 45/45 MP: 9/22
+  7278 | D:7      | Learned a level 2 spell: Passwall
+  7426 | D:7      | Reached ** piety under Makhleb
+  7785 | D:7      | Reached skill level 9 in Air Magic
+  8128 | D:7      | Paralysed by a hornet for 2 turns
+  8137 | D:7      | Learned a level 3 spell: Vampiric Draining
+  8348 | D:7      | Noticed Menkaure
+  8350 | D:7      | Killed Menkaure
+  8351 | D:7      | Reached skill level 1 in Necromancy
+  8811 | D:8      | Reached skill level 10 in Air Magic
+  9081 | D:8      | Reached *** piety under Makhleb
+  9242 | D:8      | Learned a level 1 spell: Necrotise
+  9278 | D:8      | Reached skill level 1 in Invocations
+  9790 | D:8      | Reached XP level 10. HP: 32/50 MP: 12/25
+  9970 | D:8      | Noticed Maurice
+ 10307 | D:8      | Killed Maurice
+ 10308 | D:8      | Reached skill level 10 in Spellcasting
+ 10440 | D:8      | Found a runed translucent door.
+ 10441 | D:8      | Found a shimmering altar of Xom.
+ 10441 | D:8      | Noticed a +0 falchion of chaos
+ 10441 | D:8      | Noticed Ravn's ghost (novice MiFi)
+ 11079 | D:9      | Reached skill level 11 in Air Magic
+ 11734 | D:9      | Noticed a cyclops
+ 11736 | D:9      | Killed a cyclops
+ 11737 | D:9      | Reached skill level 5 in Necromancy
+ 11893 | D:9      | Found a staircase to the Lair.
+ 12364 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12398 | D:10     | Entered Level 10 of the Dungeon
+ 12650 | D:10     | Learned a level 5 spell: Arcjolt
+ 12654 | D:10     | Learned a level 3 spell: Vhi's Electric Charge
+ 12689 | D:10     | Noticed a two-headed ogre
+ 12883 | D:10     | Killed a two-headed ogre
+ 13272 | D:10     | Reached **** piety under Makhleb
+ 13617 | D:10     | Found a white marble altar of Elyvilon.
+ 14047 | Lair:1   | Reached skill level 12 in Air Magic
+ 14052 | Lair:1   | Reached XP level 11. HP: 48/54 MP: 13/28
+ 14063 | Lair:1   | Reached skill level 5 in Invocations
+ 14221 | Lair:1   | Found an ancient bone altar of Kikubaaqudgha.
+ 14750 | Lair:1   | Noticed a lindwurm
+ 14754 | Lair:1   | Killed a lindwurm
+ 15267 | D:11     | Found Rell's Magic Scroll Shoppe.
+ 15277 | D:11     | Bought a scroll of identify for 22 gold pieces
+ 15277 | D:11     | Bought a scroll of identify for 22 gold pieces
+ 15352 | D:11     | Noticed a two-headed ogre
+ 15423 | D:11     | Noticed Grum
+ 15625 | D:11     | Killed Grum
+ 15687 | D:11     | Found a frozen archway.
+ 15884 | IceCv    | Entered an ice cave
+ 16260 | IceCv    | Reached skill level 13 in Air Magic
+ 16778 | IceCv    | Engulfed by an ice statue's freezing vapour
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_radiant_lines, layout_basic
+D:2:      layout_basic
+D:3:      layout_basic, grunt_temple_overflow_cloverleaf
+D:4:      layout_basic
+D:5:      layout_gridville, serial_undead, serial_undead_d, serial_undead_f,
+          serial_undead_a, serial_undead_c, serial_undead_e, serial_undead_c,
+          serial_undead_c
+D:6:      layout_layer_cave, mainiacjoe_overflow_catch_the_wave,
+          minmay_temple_entry_mini_moons
+D:7:      layout_loops_cross, uniq_menkaure
+D:8:      layout_basic, ebering_ghost_xom, uniq_maurice
+D:9:      layout_basic, dpeg_oklobed_lair,
+          nicolae_concentric_dashed_squares_wild, dreamdust_princess_corridor
+D:10:     layout_loops_cross, nicolae_elyvilon_temple_path,
+          kennysheep_cross_bottleneck, chequers_serial_rivers_micro_d
+D:11:     layout_irregular_city, david_orc_4, portal_ice_cave_entry_imps,
+          serial_shops, shop, kennysheep_vampire_church, uniq_fannar, uniq_grum
+Lair:1:   layout_roguey, nicolae_volcano_entry_vermiform, basic_altar,
+          lemuel_fruit_fields
+IceCv:    ice_cave_hellmonk_azure_passage
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Conjurations   |     2     3  4  5  6  7          |  7.4
+Spellcasting   |           4     5  6  7  9 11 12 | 12.0
+Air Magic      |           4     5  6  8 10 12 13 | 13.0
+Necromancy     |                          3  5    |  5.2
+Invocations    |                          1  4  6 |  6.2
+Dodging        |                                  |  2.4
+Stealth        |                                  |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Long sword        |       |    19 |    25 |    31 ||    75
+         Punch             |       |       |       |     2 ||     2
+   Cast: Shock             |    79 |    79 |   121 |    84 ||   363
+         Static Discharge  |       |     1 |     2 |     2 ||     5
+         Airstrike         |       |     5 |    94 |   152 ||   251
+         Swiftness         |       |     4 |     3 |     7 ||    14
+         Vampiric Draining |       |       |     2 |    21 ||    23
+         Necrotise         |       |       |       |     1 ||     1
+ Invoke: Lesser Servant of |       |       |       |     3 ||     3
+         Minor Destruction |       |       |       |     2 ||     2
+    Use: Scroll            |     3 |     2 |     5 |     9 ||    19
+         Potion            |       |     2 |     2 |     3 ||     7
+ Armour: Robe              |     3 |     6 |     6 |       ||    15
+         Steam dragon scal |       |       |     9 |    14 ||    23
+  Dodge: Dodged            |     2 |    16 |    34 |    55 ||   107
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  16769 |  16203 |    566 |    420 |  13390 |  13 | 1289.9 |
+       Dungeon |  14694 |  14172 |    522 |    157 |  11945 |  11 | 1335.8 |
+          Lair |   1176 |   1132 |     44 |      0 |   1023 |   1 | 1176.0 |
+      Ice Cave |    898 |    898 |      0 |    263 |    422 |   1 |  898.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 2245 daAuts
+     D:5: 1900 daAuts
+     D:7: 1776 daAuts
+     D:8: 1747 daAuts
+    D:10: 1611 daAuts
+     D:6: 1488 daAuts
+     D:3: 1184 daAuts
+  Lair:1: 1176 daAuts
+     D:4: 1031 daAuts
+     D:1: 959 daAuts
+   IceCv: 898 daAuts
+     D:2: 472 daAuts
+    D:11: 279 daAuts
+

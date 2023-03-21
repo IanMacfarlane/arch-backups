@@ -1,0 +1,246 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14895650080472612155
+
+74 Strahd the Grave Robber (level 4, -1/15 HPs)
+             Began as a Vampire Necromancer on Mar 15, 2023.
+             Slain by a gnoll
+             ... wielding a +0 club
+              (6 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:09:46 (1490 turns).
+
+Strahd the Grave Robber (Vampire Necromancer)       Turns: 1490, Time: 00:09:46
+
+Health: -1/15      AC:  2    Str:  7    XL:     4   Next: 10%
+Magic:  0/8        EV: 12    Int: 19    God:    
+Gold:   140        SH:  0    Dex: 14    Spells: 4/8 levels left
+
+rFire   . . .      SeeInvis +    h - +0 dagger
+rCold   + + .      Faith    .    (no shield)
+rNeg    + + +      Spirit   .    a - +0 robe
+rPois   ∞          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++++                     (no amulet)
+HPRegen 0.00/turn                (no ring)
+MPRegen 0.11/turn                (no ring)
+
+@: bloodless, inhibited regen
+A: bloodless, fangs 3, see invisible, vampiric 2, [frail 3]
+a: Bat Form, Revivify
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 140 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ h - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ i - a ring of willpower
+Scrolls
+ c - a scroll of fog
+ d - a scroll of identify
+ f - a scroll of vulnerability {unknown}
+ g - a scroll of amnesia {unknown}
+Potions
+ b - 2 potions of magic
+ e - a potion of attraction {unknown}
+
+
+   Skills:
+ - Level 2.3 Dodging
+ - Level 3.2 Stealth
+ + Level 2.8 Spellcasting
+ * Level 5.5 Necromancy
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Necrotise             Necr           92%        1d8       1%          1
+b - Vampiric Draining     Necr           23%        2d7       4%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Animate Dead             Necr           23%        N/A       16%         4
+ Agony                    Necr           23%        N/A       41%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not regenerate when monsters are visible.
+You are frail without blood (-20% HP).
+You can heal yourself when you bite living creatures.
+You are immune to poison.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are afflicted with vampirism and can become a bat while bloodless.
+[You are extremely frail. (-30% HP)]
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (4% risk of failure)! Continue anyway? 
+Aiming: Vampiric Draining (quite dangerous; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - gnoll
+Aim: a gnoll, wielding a +0 club (lightly wounded, ally target)
+You draw life force from the gnoll. The gnoll barely misses you.
+You hit the gnoll.
+The gnoll is heavily wounded.
+The gnoll hits you with a +0 club.
+The gnoll hits you with a +0 club.
+Keep bloodletting? 
+You begin bloodletting. You continue bloodletting.
+The gnoll barely misses you.
+You continue bloodletting.
+The gnoll barely misses you.
+You continue bloodletting.
+The gnoll hits you with a +0 club.
+You continue bloodletting.
+Your gnoll skeleton crumbles into dust!
+The gnoll barely misses you.
+You continue bloodletting.
+The gnoll closely misses you.
+You become bloodless.
+Okay, then.
+You hit the gnoll but do no damage. You bite the gnoll, but do no damage.
+The gnoll is heavily wounded.
+The gnoll closely misses you.
+You hit the gnoll. Your bite misses the gnoll.
+The gnoll is heavily wounded.
+The gnoll hits you with a +0 club.
+You hit the gnoll.
+The gnoll is severely wounded.
+The gnoll barely misses you.
+Okay, then.
+Aiming: Necrotise (safe; 1% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 club (severely wounded, chance to affect: 87%)
+The gnoll writhes in agony.
+The gnoll hits you with a +0 club.
+You die...
+
+###########
+ .........#
+  #.......#
+ ##.......#
+ #........#######################
+ #...........@g.........Z.......#
+ #.....<..####...#######..##.##.#
+ #.........##.....#    #.##...#.#
+.....#####.###...##    #.#.....[#
+##..     #.# ##.##     #.#......#
+ #. ######.#  #.#      #.#......#
+#.   ...##.#  #.########.##...#.#
+##..###.##.# ##'##......^#......#
+  #........###...#.#########.####
+ ######.#####......#    ## #.#
+ #.......###.....).##  ##.##.#
+ #.#......#.........####...#)####
+
+
+You could see a gnoll.
+
+Vanquished Creatures
+  3 gnolls (D:2)
+  An adder (D:2)
+  A dart slug (D:1)
+  4 bats (D:1)
+  2 endoplasms (D:1)
+  3 giant cockroaches (D:1)
+  7 goblins
+  2 hobgoblins (D:1)
+  2 quokkas (D:1)
+  2 ball pythons
+  A frilled lizard (D:2)
+  2 rats (D:1)
+30 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A goblin (D:1)
+  A hobgoblin (D:1)
+  A frilled lizard (D:1)
+3 creatures vanquished.
+
+Grand Total: 33 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Strahd the Vampire Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   217 | D:1      | Reached XP level 2. HP: 19/19 MP: 1/5
+  1014 | D:1      | Reached skill level 5 in Necromancy
+  1022 | D:1      | Gained mutation: You are afflicted with vampirism and can
+                  | become a bat while bloodless. [Vampire growth]
+  1022 | D:1      | Reached XP level 3. HP: 13/14 MP: 0/6
+  1329 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1454 | D:2      | Reached XP level 4. HP: 21/21 MP: 0/8
+  1490 | D:2      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_shattered_statue, layout_loops_ring, minmay_nonomino_d4
+D:2:      minmay_inner_zag, layout_loops_corners, corner_web_ring,
+          minmay_tripent
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Necromancy     |     5 |  5.5
+Dodging        |       |  2.3
+Stealth        |       |  3.2
+Spellcasting   |       |  2.8
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     3 |       ||     3
+         Club              |    10 |       ||    10
+         Dagger            |     8 |     4 ||    12
+         Bite              |     2 |     1 ||     3
+   Cast: Necrotise         |    60 |     1 ||    61
+         Vampiric Draining |       |     1 ||     1
+Ability: Exsanguinate      |     3 |     1 ||     4
+         Revivify          |     3 |       ||     3
+    Use: Scroll            |     1 |       ||     1
+   Stab: Sleeping          |     1 |       ||     1
+ Armour: Robe              |    20 |       ||    20
+  Dodge: Dodged            |    59 |     7 ||    66
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1491 |   1449 |     42 |      0 |   1034 |   2 |  745.5 |
+       Dungeon |   1491 |   1449 |     42 |      0 |   1034 |   2 |  745.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1224 daAuts
+     D:2: 267 daAuts
+

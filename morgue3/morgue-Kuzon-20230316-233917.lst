@@ -1,0 +1,167 @@
+Kuzon
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+  4 stones
+(1, -6, D:1)
+  9 stones
+(7, 10, D:1)
+  a +0 club
+(10, 12, D:1)
+  a +0 dagger
+(13, 8, D:1)
+  a +0 club
+  5 stones
+(15, 31, D:1)
+  6 poisoned darts
+(28, 3, D:1)
+  a +0 dagger
+  a stone
+(31, 13, D:1)
+  5 stones
+(42, -1, D:1)
+  a +0 club
+(55, 33, D:1)
+  5 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  3 stones
+(5, -21, D:2)
+  a stone
+(9, -12, D:2)
+  a +0 ring mail
+(10, -15, D:2)
+  a +0 leather armour
+(11, -14, D:2)
+  a +0 dagger
+  3 stones
+(17, -14, D:2)
+  a +0 sling
+(19, 11, D:2)
+  a +0 mace
+(19, 18, D:2)
+  a +0 club
+(24, -25, D:2)
+  a +0 dagger
+(31, -31, D:2)
+  a +0 dagger
+(32, 17, D:2)
+  a +0 club
+(43, -31, D:2)
+  a +0 spear
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(6, 4, D:3)
+  a +0 flail
+(19, 16, D:3)
+  a +0 trident
+  2 boomerangs
+  a +0 whip
+(21, 14, D:3)
+  a +0 dagger
+  a +0 robe
+(24, 14, D:3)
+  5 stones
+(28, -3, D:3)
+  a +0 club
+  a +0 dagger
+(29, -2, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(31, 24, D:3)
+  a +0 leather armour
+(32, -7, D:3)
+  a +0 dagger
+(36, -8, D:3)
+  5 stones
+(38, 17, D:3)
+  a +0 club
+(55, 4, D:3)
+  5 poisoned darts
+
+Level 4 of the Dungeon
+[Shop] Yfuxarie's Antique Armour Shop
+  a +0 scale mail (112 gold)
+  a +0 pair of gloves (126 gold)
+  the +0 plate armour of the Devil's Team {rElec Int+3 Dex-3} (1036 gold)
+    Int:       It affects your intelligence (+3).
+    Dex:       It affects your dexterity (-3).
+    rElec:     It insulates you from electricity.
+  a +1 chain mail of fire resistance (462 gold)
+  a +2 robe of fire resistance (495 gold)
+(0, 0, D:4)
+  6 poisoned darts
+(13, -10, D:4)
+  a +0 robe
+(20, -8, D:4)
+  a +0 hand axe
+(26, 14, D:4)
+  a +0 dagger
+(29, -16, D:4)
+  a +0 club
+(31, -15, D:4)
+  a +0 trident
+  a +0 leather armour
+(32, -16, D:4)
+  a +0 dagger
+  a +0 robe
+(32, -15, D:4)
+  a +0 club
+  a +0 leather armour
+(32, 12, D:4)
+  6 stones
+(34, -14, D:4)
+  3 stones
+(38, -2, D:4)
+  a +0 short sword
+(42, -11, D:4)
+  a +0 dagger
+(43, -6, D:4)
+  7 stones
+  a +0 club
+(43, 3, D:4)
+  a +0 whip
+(45, -3, D:4)
+  3 poisoned darts
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  3 poisoned darts
+(3, -15, D:5)
+  a +0 hand axe
+  a +0 ring mail
+(18, -5, D:5)
+  a rat corpse (skeletalised by now)
+(19, -17, D:5)
+  a +0 short sword
+(21, -34, D:5)
+  a +0 dagger
+(21, -12, D:5)
+  a +0 robe
+  a +0 dagger
+  an orc skeleton
+(21, -2, D:5)
+  a +0 dagger
+  a +0 robe
+  a potion of flight
+(22, -12, D:5)
+  a +0 short sword
+  a +2 leather armour of cold resistance
+  a +0 dagger
+  an orc skeleton
+(23, -10, D:5)
+  a +0 mace
+  an orc skeleton
+(31, -11, D:5)
+  a +0 dagger
+(42, 0, D:5)
+  a +0 club
+(49, -22, D:5)
+  a +0 short sword
+

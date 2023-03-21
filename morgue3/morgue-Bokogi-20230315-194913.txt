@@ -1,0 +1,393 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 4943594385362028837
+
+6021 Bokogi the Cleaver (level 10, -3/94 HPs)
+             Began as a Minotaur Fighter on Mar 15, 2023.
+             Was a High Priest of Okawaru.
+             Slain by a tengu warrior
+             ... wielding a +0 war axe
+              (6 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:17:54 (7839 turns).
+
+Bokogi the Cleaver (Minotaur Fighter)               Turns: 7839, Time: 00:17:54
+
+Health: -3/94      AC: 18    Str: 25    XL:     10   Next: 56%
+Magic:  13/14      EV:  8    Int:  5    God:    Okawaru [*****.]
+Gold:   448        SH:  6    Dex: 10    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis .    a - +1 war axe (elec)
+rCold   . . .      Faith    .    c - +0 buckler
+rNeg    . . .      Spirit   .    B - +0 plate armour
+rPois   +          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    w - +0 cloak
+rCorr   .                        (no gloves)
+Will    .....                    x - +2 pair of boots
+Stlth                            (no amulet)
+HPRegen 0.35/turn                q - ring of poison resistance
+MPRegen 0.14/turn                (no ring)
+
+@: mighty, heroic
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Heroism, Finesse, Duel
+
+
+You were on level 9 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+You collected 448 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 war axe of electrocution (weapon)
+Armour
+ c - a +0 buckler (worn)
+ w - a +0 cloak (worn)
+ x - a +2 pair of boots (worn)
+ B - a +0 plate armour (worn)
+Jewellery
+ q - a ring of poison resistance (left hand)
+Wands
+ y - a wand of roots (22)
+ C - a wand of flame (6)
+Scrolls
+ b - a scroll of noise
+ f - a scroll of enchant armour
+ h - a scroll of identify
+ k - 2 scrolls of summoning
+ m - a scroll of fear
+ o - a scroll of amnesia
+ u - a scroll of immolation {unknown}
+ v - 2 scrolls of poison
+ z - a scroll of vulnerability {unknown}
+ A - a scroll of magic mapping {unknown}
+Potions
+ e - 3 potions of heal wounds {unknown}
+ g - 4 potions of curing {unknown}
+ i - a potion of magic {unknown}
+ j - 3 potions of attraction {unknown}
+ l - a potion of resistance {unknown}
+ n - 2 potions of haste {unknown}
+ r - 2 potions of flight {unknown}
+ s - a potion of cancellation {unknown}
+ t - a potion of degeneration {unknown}
+
+
+   Skills:
+ + Level 10.5(15.5) Fighting
+ * Level 13.9(18.9) Axes
+ - Level 3.6(8.6) Armour
+ - Level 3.9(8.9) Shields
+ + Level 7.1 Invocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      0%         N/A       100%        2
+ Petrify                  Tmut/Erth      0%         N/A       100%        4
+ Borgnjor's Vile Clutch   Necr/Erth      0%         N/A       100%        5
+ Conjure Ball Lightning   Conj/Air       0%         3x3d6     100%        6
+ Animate Armour           Summ/Erth      Unusable   N/A       N/A         4
+ Animate Dead             Necr           Unusable   N/A       N/A         4
+ Death Channel            Necr           Unusable   N/A       N/A         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:4         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:8 2 transporters, Kuzon's ghost, novice HuFE
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You gain the combat prowess of a mighty hero.
+You can no longer enter into single combat with a foe.
+Okawaru will no longer gift you equipment.
+The boulder beetle bites you.
+You fail to use your ability. The boulder beetle barely misses you.
+You hit the boulder beetle but do no damage.
+The boulder beetle is heavily wounded.
+The boulder beetle barely misses you. You furiously retaliate! You headbutt the
+boulder beetle!
+You slash the boulder beetle!
+Lightning courses through the boulder beetle!
+You kill the boulder beetle!
+Okawaru is honoured by your kill.
+You can now enter into single combat with a foe.
+Okawaru will now gift you equipment as you gain piety.
+Your Invocations skill increases to level 7!
+The tengu warrior blocks your attack. Your headbutt misses the tengu warrior.
+The tengu warrior hits you with a +0 war axe!
+The tengu warrior pecks you.
+* * * LOW HITPOINT WARNING * * *
+The tengu warrior claws you but does no damage.
+You hit the tengu warrior. The tengu warrior blocks your attack.
+The tengu warrior is lightly wounded.
+You block the tengu warrior's attack.
+The tengu warrior pecks you but does no damage.
+The tengu warrior claws you but does no damage.
+The tengu warrior blocks your attack.
+The tengu warrior is lightly wounded.
+Press: ? - help, v - describe, . - travel
+The floor, spattered with blood.
+You feel very mighty all of a sudden.
+The tengu warrior hits you with a +0 war axe!
+* * * LOW HITPOINT WARNING * * *
+The tengu warrior closely misses you.
+The tengu warrior claws you but does no damage.
+You slice the tengu warrior!!
+The tengu warrior is heavily wounded.
+The tengu warrior hits you with a +0 war axe!
+* * * LOW HITPOINT WARNING * * *
+The tengu warrior closely misses you. The tengu warrior claws you.
+You die...
+
+    #.#.##.##..#      ...# ....# ...
+    #...##.##..#      ...#.....#....
+ ####....#.#...#      #..#..#..#..#.
+ #.........#..##      #o.#..#..#..#.
+ #.##......#..#       #..D..#.oz..#.
+ #.##......#..##      #oW...#oyl..#.
+ #.##.....##...####################.
+ #.##..<..###....†..................
+ #.###..............................
+ #.# #....##...####################.
+ #.# #....##...#......#.....#.....#.
+ #.# #....###.##@.....#.....#..†..#.
+ #.# #....#...##Q###..#..#..#..#..#.
+ #.# #....#.####?[ #..#..#..#..#..#.
+##'####...÷÷#  #.:.#.....#.....#..†.
+#.........###  #)()#.....#.....#....
+#.........#    #####################
+#.........#
+#.........#
+#.........#
+#.........#
+#.........#
+###########
+
+
+You could see a tengu warrior.
+
+Vanquished Creatures
+  A boulder beetle (D:9)
+  An unseen horror (D:9)
+  A komodo dragon (shapeshifter) (D:9)
+  A troll (D:9)
+  A hornet (D:9)
+  A shadow (D:9)
+  6 yaks
+  A wyvern (D:9)
+  2 steam dragons (D:8)
+  An acid dragon (D:9)
+  3 water moccasins
+  An ice beast (D:5)
+  2 orc warriors
+  3 black bears
+  2 sky beasts
+  A centaur (D:8)
+  A phantom (D:7)
+  3 kobold brigands
+  3 bullfrogs
+  2 gnoll sergeants (D:8)
+  3 scorpions
+  An electric eel (D:8)
+  5 howler monkeys
+  8 hounds
+  2 jellies
+  6 orc priests
+  A gnoll bouda (D:7)
+  A sleepcap (D:5)
+  4 orc wizards
+  14 gnolls
+  7 adders
+  2 white imps
+  A worm (D:2)
+  16 orcs
+  4 ball pythons
+  2 bats
+  5 endoplasms
+  6 goblins
+  4 hobgoblins (D:1)
+  3 jackals (D:3)
+  A quokka (D:1)
+  2 frilled lizards
+  13 kobolds
+  A rat (D:3)
+149 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   157 | D:1      | Reached skill level 3 in Axes
+   157 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+  1073 | D:2      | Found a hide-covered altar of Uskayaw.
+  1370 | D:2      | Found a faded altar of an unknown god.
+  1615 | D:3      | Reached XP level 3. HP: 33/33 MP: 2/2
+  1837 | D:3      | Reached skill level 4 in Axes
+  2410 | D:4      | Found a bloodstained altar of Trog.
+  2568 | D:4      | Reached XP level 4. HP: 15/41 MP: 3/3
+  2737 | D:4      | Found a staircase to the Ecumenical Temple.
+  2756 | Temple   | Entered the Ecumenical Temple
+  2896 | Temple   | Became a worshipper of Warmaster Okawaru
+  3170 | D:4      | Got the Meditations on the Grey Tempest
+  3487 | D:5      | Entered Level 5 of the Dungeon
+  3521 | D:5      | Reached skill level 5 in Axes
+  3541 | D:5      | Reached XP level 5. HP: 47/47 MP: 4/4
+  3557 | D:5      | Reached skill level 5 in Fighting
+  3621 | D:5      | Reached skill level 6 in Axes
+  3742 | D:5      | Reached XP level 6. HP: 52/56 MP: 5/5
+  3821 | D:5      | Reached * piety under Okawaru
+  4057 | D:5      | Noticed an ice beast
+  4067 | D:5      | Killed an ice beast
+  4068 | D:5      | Reached skill level 7 in Axes
+  4297 | D:6      | Reached XP level 7. HP: 57/63 MP: 6/6
+  4330 | D:6      | Found a sacrificial altar of Ru.
+  4332 | D:6      | Found a shimmering blue altar of Sif Muna.
+  4332 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+  4333 | D:6      | Found a radiant altar of Vehumet.
+  4355 | D:6      | Reached skill level 1 in Invocations
+  4406 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  4455 | D:6      | Reached skill level 8 in Axes
+  4594 | D:6      | Reached ** piety under Okawaru
+  4750 | D:6      | Reached XP level 8. HP: 58/73 MP: 7/9
+  4813 | D:6      | Identified the +1 leather armour of the Sun {rN++}
+  4850 | D:6      | Identified the +0 scale mail "Dutaub" {rPois rC+ Str-2
+                  | SInv}
+  5096 | D:6      | Reached skill level 9 in Axes
+  5496 | D:7      | Reached skill level 10 in Axes
+  5537 | D:7      | Reached *** piety under Okawaru
+  5997 | D:8      | Reached XP level 9. HP: 80/81 MP: 11/11
+  6013 | D:8      | Reached skill level 11 in Axes
+  6048 | D:7      | Reached skill level 5 in Invocations
+  6356 | D:8      | Found a transporter.
+  6361 | D:8      | Noticed Kuzon's ghost (novice HuFE)
+  6587 | D:8      | Found a transporter.
+  6590 | D:8      | Noticed a moth of wrath
+  6597 | D:8      | Found a bloodstained altar of Trog.
+  6671 | D:8      | Reached **** piety under Okawaru
+  6904 | D:9      | Reached skill level 12 in Axes
+  7187 | D:9      | Noticed a troll
+  7200 | D:9      | Killed a troll
+  7317 | D:9      | a shapeshifter changed into a komodo dragon
+  7317 | D:9      | Noticed a komodo dragon (shapeshifter)
+  7325 | D:9      | Killed a komodo dragon
+  7326 | D:9      | Reached XP level 10. HP: 46/92 MP: 11/13
+  7334 | D:9      | Reached skill level 13 in Axes
+  7735 | D:9      | Reached skill level 10 in Fighting
+  7768 | D:9      | Reached ***** piety under Okawaru
+  7824 | D:9      | Noticed a boulder beetle
+  7825 | D:9      | Noticed a tengu warrior
+  7834 | D:9      | Killed a boulder beetle
+  7839 | D:9      | HP: 3/94 [tengu warrior/+0 war axe (14)]
+  7839 | D:9      | Slain by a tengu warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_radial02, layout_basic, minmay_strange_pillars
+D:2:      layout_loops_corners, basic_altar, basic_ecumenical_altar
+D:3:      layout_loops_ring, grunt_ministairs_5, hangedman_glass_teeth, hex_tiny
+D:4:      layout_loops_ring, trog_three_pillars_becter,
+          minmay_temple_entry_waves
+D:5:      layout_basic
+D:6:      layout_loops_ring, chequers_temple_overflow_statue_of_worship,
+          overflow_temple_1_default, serial_glass, glass_columns_a,
+          glass_columns_b, glass_columns_a, glass_columns_a,
+          wad_floor_pattern_untrapped
+D:7:      layout_basic
+D:8:      cheibrodos_helix_gallery, layout_rooms,
+          gammafunk_ghost_wrathful_warriors
+D:9:      kennysheep_windowed_halls, layout_basic,
+          mainiacjoe_overflow_big_doors, minmay_protected_statue
+Temple:   nicolae_temple_superstar
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3     4  5  6  7  8 10 12 13 | 13.9
+Fighting       |     4        5  6  7  8  9 10 | 10.5
+Invocations    |                    2  4  6  7 |  7.1
+Armour         |                               |  3.6
+Shields        |                               |  3.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: War axe           |    65 |    70 |   218 |    40 ||   393
+         Headbutt          |    10 |    14 |    37 |    13 ||    74
+ Invoke: Heroism           |       |     1 |     5 |     1 ||     7
+         Finesse           |       |       |     1 |       ||     1
+    Use: Scroll            |       |     6 |     4 |     2 ||    12
+         Potion            |       |       |       |     1 ||     1
+ Armour: Scale mail        |    10 |       |       |       ||    10
+         Chain mail        |    13 |    50 |    36 |       ||    99
+         Plate armour      |       |       |    91 |    29 ||   120
+  Dodge: Dodged            |    27 |    20 |    56 |    12 ||   115
+  Block: Buckler           |    17 |    13 |    49 |     8 ||    87
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7867 |   7192 |    675 |      0 |   5928 |  10 |  786.7 |
+       Dungeon |   7708 |   7077 |    631 |      0 |   5828 |   9 |  856.4 |
+        Temple |    159 |    115 |     44 |      0 |    100 |   1 |  159.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 1047 daAuts
+     D:6: 1000 daAuts
+     D:1: 969 daAuts
+     D:9: 944 daAuts
+     D:4: 853 daAuts
+     D:3: 782 daAuts
+     D:5: 756 daAuts
+     D:2: 748 daAuts
+     D:8: 604 daAuts
+  Temple: 159 daAuts
+

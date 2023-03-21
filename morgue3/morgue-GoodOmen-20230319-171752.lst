@@ -1,0 +1,498 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  8 stones
+(1, 14, D:1)
+  a +0 club
+(2, 24, D:1)
+  6 stones
+(5, -2, D:1)
+  a +0 leather armour
+(6, -6, D:1)
+  a +0 dagger
+(21, -11, D:1)
+  a +0 robe
+(39, -10, D:1)
+  a +0 club
+(42, 23, D:1)
+  a +0 robe
+(46, 6, D:1)
+  a +0 club
+(47, 15, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(0, 3, D:2)
+  a +0 whip
+(7, 27, D:2)
+  a +0 flail
+(31, -2, D:2)
+  a +0 scale mail
+(51, -11, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 mace
+(7, 7, D:3)
+  a +0 plate armour
+(8, -9, D:3)
+  a +0 ring mail
+(21, -1, D:3)
+  6 stones
+(22, 10, D:3)
+  a +0 dagger
+(28, -7, D:3)
+  a +0 dagger
+(37, 12, D:3)
+  a +0 robe
+(49, 3, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  3 poisoned darts
+(5, -10, D:4)
+  2 boomerangs
+(14, 17, D:4)
+  a +1 dagger of holy wrath
+  a +0 leather armour
+(15, -9, D:4)
+  a +0 ring mail
+(16, 15, D:4)
+  a +0 mace
+  a +0 leather armour
+(17, 17, D:4)
+  a +0 trident
+  a +0 leather armour
+(18, -4, D:4)
+  3 stones
+(22, -2, D:4)
+  a +0 club
+(25, -14, D:4)
+  a +0 arbalest
+(30, 13, D:4)
+  a +0 hand axe
+(41, -4, D:4)
+  a stone
+(41, 0, D:4)
+  a stone
+(41, 10, D:4)
+  8 stones
+(42, -11, D:4)
+  a staff of conjuration
+(43, -4, D:4)
+  a stone
+(44, -1, D:4)
+  a stone
+(44, 2, D:4)
+  7 stones
+(45, -3, D:4)
+  a stone
+(46, -3, D:4)
+  a stone
+(46, 0, D:4)
+  3 large rocks
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +2 spear of flaming
+(7, -16, D:5)
+  a +0 broad axe
+(11, 5, D:5)
+  3 curare-tipped darts
+(18, -30, D:5)
+  a +0 flail
+(18, -4, D:5)
+  6 stones
+(19, -8, D:5)
+  a +0 flail
+(20, -8, D:5)
+  a +0 sling
+  a +0 halberd
+(24, -24, D:5)
+  a +0 flail
+(24, -23, D:5)
+  a +0 flail
+(25, -23, D:5)
+  a +0 flail
+(30, -22, D:5)
+  a +0 flail
+(40, 10, D:5)
+  a +0 giant club
+(40, 11, D:5)
+  a +0 flail
+(41, 11, D:5)
+  a +0 robe
+  a +1 whip of freezing
+(43, 11, D:5)
+  a +0 short sword
+(50, -24, D:5)
+  a +0 giant spiked club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 dagger of venom
+  a +0 robe
+(1, 1, D:6)
+  a +0 dagger
+  a +0 robe
+(2, 1, D:6)
+  a +1 whip of freezing
+  a +0 ring mail
+(3, 1, D:6)
+  a +0 flail
+  a +0 ring mail
+(4, 13, D:6)
+  a +0 giant club
+(5, -17, D:6)
+  a +0 leather armour
+  a +0 flail
+  a +0 club
+(7, -16, D:6)
+  a +0 tower shield
+  a +0 whip
+  a +0 leather armour
+  a +0 whip
+(7, -6, D:6)
+  a +0 club
+(8, -15, D:6)
+  a +0 quarterstaff
+(9, -14, D:6)
+  a +0 halberd of distortion
+(12, 10, D:6)
+  3 stones
+(13, -12, D:6)
+  a +0 scale mail
+(16, -21, D:6)
+  a +0 plate armour
+(20, -21, D:6)
+  a +0 falchion
+(24, -6, D:6)
+  a +0 war axe
+
+Level 7 of the Dungeon
+[Shop] Tuunou's Book Boutique
+  a book of Vapours (320 gold)
+  a book of Blasting (640 gold)
+  a Fen Folio (672 gold)
+  a book of Dreams (384 gold)
+  a book of Scorching (480 gold)
+  a book of the Senses (512 gold)
+  the Catalogue of the Gestalt and the Syncline (672 gold)
+    Spells                            Type                      Level
+     a - Borgnjor's Vile Clutch        Necromancy/Earth              5
+     b - Eringya's Noxious Bog         Transmutation/Poison          6
+     c - Dragon Form                   Transmutation                 7
+  a book of Cantrips (192 gold)
+  a book of Maledictions (416 gold)
+  a book of the Spheres (864 gold)
+  a book of Air (352 gold)
+  a book of Conjurations (320 gold)
+(0, 0, D:7)
+  a +0 plate armour
+(7, 3, D:7)
+  a +0 heavy hammer
+(10, 4, D:7)
+  a +4 quarterstaff of chaos
+  a +0 cloak
+(21, -22, D:7)
+  a +0 flail
+(22, -29, D:7)
+  a +0 dagger
+(22, -21, D:7)
+  a +0 sling
+  a +0 robe
+  a +0 dagger
+  a +0 dagger
+(22, -20, D:7)
+  a +0 scale mail
+  a +0 club
+(25, -21, D:7)
+  a +0 trident
+(31, -13, D:7)
+  a +3 whip
+  3 poisoned darts
+  a +0 short sword
+  a curare-tipped dart
+(33, -13, D:7)
+  a +0 dagger
+(34, -13, D:7)
+  a +0 club
+  4 stones
+(36, -10, D:7)
+  a +0 whip
+  a stone
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 spear
+(9, 16, D:8)
+  a +0 mace
+  a +0 club
+  a +0 ring mail
+  a +0 club
+  a +0 dagger
+  a +0 chain mail
+(10, 33, D:8)
+  a +0 sling
+  a +0 quarterstaff
+  a +0 ring mail
+(36, 21, D:8)
+  a +0 chain mail
+(44, -7, D:8)
+  a +0 spear
+  a +0 ring mail
+(44, 7, D:8)
+  a +0 dagger
+  a +0 ring mail
+(46, -12, D:8)
+  a +0 dagger
+  a +0 robe
+(47, -12, D:8)
+  a +0 short sword
+  a +0 flail
+  a +0 chain mail
+(47, -7, D:8)
+  a +0 flail
+(52, 3, D:8)
+  a +0 whip
+(54, 3, D:8)
+  a +0 shortbow
+(55, 2, D:8)
+  a +0 flail
+(55, 3, D:8)
+  a +0 halberd
+(55, 4, D:8)
+  a +0 flail
+  a +0 shortbow
+  a +0 club
+  a +0 ring mail
+  a +0 short sword
+(55, 6, D:8)
+  a +0 mace
+  a +0 chain mail
+  a +0 trident
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 flail
+  a boomerang
+(0, 1, D:9)
+  a +0 dagger
+  a +0 robe
+(5, -8, D:9)
+  7 stones
+(6, -9, D:9)
+  a +0 scale mail
+(6, -5, D:9)
+  a +0 robe
+  a +0 shortbow
+(8, -10, D:9)
+  a +0 dire flail
+  3 boomerangs
+  a +0 plate armour
+(9, -11, D:9)
+  a +2 dagger of electrocution
+(11, 8, D:9)
+  a +0 leather armour
+  a +0 hand axe
+(11, 9, D:9)
+  a +1 trident of venom
+(12, 10, D:9)
+  a +0 whip
+(13, -14, D:9)
+  a +0 leather armour
+  a +0 trident
+  a +0 robe
+  a +0 dagger
+(13, 10, D:9)
+  a +0 scale mail
+  a +0 club
+  a +0 chain mail
+  a +0 flail
+(13, 11, D:9)
+  a +0 plate armour
+  a +0 hand axe
+(16, -4, D:9)
+  4 stones
+  a +0 shortbow
+(18, -15, D:9)
+  a +0 short sword
+(23, -4, D:9)
+  a +0 shortbow
+(24, -19, D:9)
+  a +0 leather armour
+  a +0 flail
+(25, -26, D:9)
+  Sif Muna's Octavo of the Whammy
+    Spells                            Type                      Level
+     a - Slow                          Hexes                         1
+  (unseen)
+(26, -26, D:9)
+  Sif Muna's Almanac of Momentum
+    Spells                            Type                      Level
+     a - Shock                         Conjuration/Air               1
+  (unseen)
+(26, -19, D:9)
+  2 boomerangs
+  a +0 hand axe
+(27, -26, D:9)
+  Sif Muna's Folio of the Mantle
+    Spells                            Type                      Level
+     a - Sandblast                     Earth                         1
+(32, -11, D:9)
+  4 potions of mutation
+(34, 13, D:9)
+  a +0 leather armour
+  a +0 trident
+(36, 12, D:9)
+  a +0 giant club
+  a +0 giant club
+(37, 14, D:9)
+  a +0 leather armour
+  a +0 hand axe
+(38, 14, D:9)
+  a +0 chain mail
+  a +0 glaive
+  a +2 robe of resistance
+  a +0 dagger of distortion
+(39, -7, D:9)
+  a +0 flail
+(39, 14, D:9)
+  a +3 leather armour
+(41, 20, D:9)
+  a +0 shortbow
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 giant spiked club
+  a +0 giant spiked club
+(27, -24, D:10)
+  a +0 robe
+(44, -25, D:10)
+  a +0 leather armour
+  a +0 trident
+(46, -30, D:10)
+  a +0 club
+(46, -24, D:10)
+  a +0 robe
+  a +0 dagger
+(47, -24, D:10)
+  a +0 club
+(48, -24, D:10)
+  a +0 ring mail
+  a +0 flail
+  a +0 ring mail
+  a +0 hand axe
+(49, -24, D:10)
+  2 large rocks
+(50, -12, D:10)
+  8 stones
+
+Level 11 of the Dungeon
+(3, -8, D:11)
+  2 poisoned darts
+(3, -6, D:11)
+  a +0 whip
+  a +0 ring mail
+  a +0 club
+(4, -8, D:11)
+  a +0 dagger
+  a +0 robe
+(6, 7, D:11)
+  4 potions of attraction
+  a +6 ring of intelligence
+  a +6 ring of dexterity
+  a +6 ring of dexterity
+(8, -2, D:11)
+  a +0 giant club
+  a +0 robe
+(21, -20, D:11)
+  a +0 dire flail
+  a +0 plate armour
+(23, -30, D:11)
+  9 stones
+(25, -25, D:11)
+  a +0 mace
+(34, -22, D:11)
+  a +0 rapier
+(35, 1, D:11)
+  a +0 war axe
+(38, -38, D:11)
+  a +0 dagger
+  a +2 robe of willpower
+(40, -29, D:11)
+  9 stones
+(41, -28, D:11)
+  a +2 dagger of draining
+  2 curare-tipped darts
+(49, -24, D:11)
+  a +0 dagger
+  a +0 robe
+(50, -24, D:11)
+  a +0 hand axe
+(50, -23, D:11)
+  a +0 hand axe
+(51, -24, D:11)
+  a +0 club
+(52, -21, D:11)
+  a +0 arbalest
+  a +0 broad axe
+  a +0 plate armour
+(54, 9, D:11)
+  a +0 club
+  a +2 whip of flaming
+  an orc skeleton
+  an orc skeleton
+(55, -18, D:11)
+  a +0 dagger
+  a +0 robe
+  a potion of degeneration
+(55, -15, D:11)
+  a +0 club
+(56, -19, D:11)
+  a +0 dagger
+(58, -15, D:11)
+  a +0 dagger
+  a +0 robe
+(64, -15, D:11)
+  +0 swamp dragon scales
+  the +5 short sword of Conformity {pain, rElec rPois Dex+3 Stlth+}
+    Dex:       It affects your dexterity (+3).
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    Stlth:     It makes you more stealthy.
+  a +0 demon trident
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  6 stones
+(2, 1, D:12)
+  a +0 dagger
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  4 stones
+(9, -9, Lair:1)
+  a scroll of enchant armour
+(13, -12, Lair:1)
+  4 stones
+(17, -38, Lair:1)
+  a +0 leather armour
+(26, -11, Lair:1)
+  8 stones
+(28, -28, Lair:1)
+  a +0 scale mail
+(33, -25, Lair:1)
+  a +0 plate armour
+(47, -9, Lair:1)
+  4 stones
+(63, -37, Lair:1)
+  a +0 leather armour
+

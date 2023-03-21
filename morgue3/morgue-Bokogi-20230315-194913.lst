@@ -1,0 +1,306 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(4, 19, D:1)
+  a +0 dagger
+(11, 21, D:1)
+  a +0 club
+(24, 17, D:1)
+  5 stones
+(43, -4, D:1)
+  a +0 dagger
+(48, -14, D:1)
+  4 atropa-tipped darts
+(50, 0, D:1)
+  a +0 club
+(53, 10, D:1)
+  3 stones
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 scale mail
+(7, 26, D:2)
+  a +0 mace
+(12, 28, D:2)
+  6 boomerangs
+(14, 45, D:2)
+  a +0 dagger
+(15, 24, D:2)
+  a +0 club
+(15, 47, D:2)
+  a +0 dagger
+(16, 46, D:2)
+  4 stones
+(20, 57, D:2)
+  4 stones
+(32, 51, D:2)
+  a +0 trident
+(35, 14, D:2)
+  a staff of fire
+(44, 48, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(14, 16, D:3)
+  a +0 club
+(24, -4, D:3)
+  a +0 short sword
+(36, 27, D:3)
+  a +0 dagger
+(42, 5, D:3)
+  a +0 war axe
+(49, 20, D:3)
+  2 stones
+(56, 9, D:3)
+  a +0 club
+(59, 19, D:3)
+  a +1 short sword of protection
+(61, 10, D:3)
+  4 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 leather armour
+  a +0 flail
+  a +0 leather armour
+  a +0 flail
+  a +0 club
+  a +0 flail
+(1, -2, D:4)
+  a +0 dagger
+(12, 29, D:4)
+  a +0 chain mail
+(24, 29, D:4)
+  5 boomerangs
+(34, 8, D:4)
+  a +0 hand axe
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  7 stones
+(5, -9, D:5)
+  a +0 club
+(8, 15, D:5)
+  a +0 ring mail
+(25, 20, D:5)
+  a +0 ring mail
+(28, 22, D:5)
+  a +0 robe
+(39, 2, D:5)
+  a +0 scale mail
+  a +3 leather armour
+(46, 0, D:5)
+  a +0 dagger of speed
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  4 stones
+(11, -32, D:6)
+  6 stones
+(13, -17, D:6)
+  a +0 leather armour
+(19, -37, D:6)
+  2 stones
+(25, -43, D:6)
+  a +0 scale mail
+(26, 4, D:6)
+  a potion of lignification
+(30, -6, D:6)
+  the +0 scale mail "Dutaub" {rPois rC+ Str-2 SInv}
+    Str:       It affects your strength (-2).
+    rC:        It protects you from cold.
+    rPois:     It protects you from poison.
+    SInv:      It lets you see invisible.
+(32, -35, D:6)
+  a book of Callings
+(32, -6, D:6)
+  a scroll of teleportation
+(33, -34, D:6)
+  a +0 club
+(34, -34, D:6)
+  a +0 flail
+  a +0 chain mail
+  a +0 hand axe
+  a +0 ring mail
+  a +0 club
+  a +0 halberd
+(35, -34, D:6)
+  a +0 short sword
+  a +0 scale mail
+  a +0 spear
+(35, -33, D:6)
+  the +1 leather armour of the Sun {rN++}
+    rN:        It greatly protects you from negative energy.
+  a +0 chain mail
+  a +0 short sword
+(39, -40, D:6)
+  a +0 club
+(39, -10, D:6)
+  a +0 leather armour
+(40, -40, D:6)
+  a +0 dagger
+  a +0 short sword
+  a curare-tipped dart
+(41, -40, D:6)
+  a +0 club
+  5 stones
+(41, -13, D:6)
+  a +0 whip
+(46, -13, D:6)
+  a +0 short sword
+(46, -7, D:6)
+  a +0 dagger
+  a +0 robe
+(47, -6, D:6)
+  a +0 dagger (still there?)
+  a +0 robe (still there?)
+  a +1 trident of protection (still there?)
+(48, -13, D:6)
+  a +0 war axe
+(48, -9, D:6)
+  a scroll of noise
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 lajatang
+(5, 1, D:7)
+  a staff of death
+(15, -10, D:7)
+  a +0 dagger
+  7 poisoned darts
+(15, -9, D:7)
+  a +0 short sword
+(16, -10, D:7)
+  a +0 dagger
+  a +0 short sword
+  a +0 club
+  a +0 short sword
+  2 stones
+  a +0 whip
+(18, -10, D:7)
+  4 stones
+(27, 14, D:7)
+  a +0 flail
+(28, 14, D:7)
+  a +0 spear
+  a +0 robe
+  a +0 club
+(28, 15, D:7)
+  a +0 spear
+(29, -10, D:7)
+  a +0 flail
+(30, -25, D:7)
+  a +0 whip
+  a +0 scale mail
+(30, -10, D:7)
+  a +0 whip
+  a +1 vampiric whip
+(32, -25, D:7)
+  a +0 flail
+(35, -25, D:7)
+  a +2 falchion of venom
+  5 stones
+(50, 5, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  5 stones
+(9, 3, D:8)
+  a +0 halberd
+(9, 4, D:8)
+  a +0 spear
+(10, 4, D:8)
+  a +0 spear
+(11, 4, D:8)
+  a +0 spear
+  a +0 scale mail
+(28, 0, D:8)
+  a +0 short sword
+(28, 2, D:8)
+  a +0 flail
+  a +0 dagger
+  a +0 robe
+(38, -8, D:8)
+  a +0 leather armour
+(40, -3, D:8)
+  a +0 ring mail
+  a +0 short sword
+(41, -4, D:8)
+  a +0 whip
+(41, -3, D:8)
+  a +0 buckler
+  a +0 ring mail
+  a +2 spear of venom
+(42, -3, D:8)
+  a +0 spear
+  a +0 club
+(44, -2, D:8)
+  a +0 whip
+  a +0 shortbow
+  a +0 robe
+  a +0 dagger
+(45, -2, D:8)
+  a +0 leather armour
+  a +0 hand axe
+  a +0 plate armour
+  a +0 hand axe
+(45, -1, D:8)
+  a +0 ring mail
+  a +2 heavy hand axe
+(46, -1, D:8)
+  a +0 leather armour
+  a +0 short sword
+
+Level 9 of the Dungeon
+(6, -2, D:9)
+  a boulder beetle corpse
+(6, -1, D:9)
+  a scroll of teleportation
+(6, 1, D:9)
+  a +0 mace
+(7, -26, D:9)
+  6 stones
+(7, -7, D:9)
+  a hornet corpse
+(7, -1, D:9)
+  a +0 plate armour
+(7, 0, D:9)
+  Vehumet's Discourse on Confrontation
+    Spells                            Type                      Level
+     a - Kiss of Death                 Conjuration/Necromancy        1
+     b - Magic Dart                    Conjuration                   1
+     c - Fireball                      Conjuration/Fire              5
+     d - Conjure Ball Lightning        Conjuration/Air               6
+  (unseen)
+(7, 1, D:9)
+  a throwing net
+(8, 1, D:9)
+  a +0 broad axe
+(14, -25, D:9)
+  a +0 troll leather armour
+(19, -28, D:9)
+  +0 acid dragon scales
+(21, -3, D:9)
+  a howler monkey corpse
+(24, 0, D:9)
+  a howler monkey corpse
+(25, -30, D:9)
+  a +0 robe
+(26, -20, D:9)
+  a +0 spear
+(44, 5, D:9)
+  a +0 scale mail
+(46, 7, D:9)
+  a +0 club
+  a +0 dagger
+  12 poisoned darts
+  a +0 club
+
+the Ecumenical Temple
+

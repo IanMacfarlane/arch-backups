@@ -1,0 +1,390 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5268534616387212079
+
+2375 Kuzon the Arsonist (level 9, 0/45 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Was a Believer of Sif Muna.
+             Slain by Pikel
+             ... wielding a +0 whip of freezing
+              (1 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:24:54 (8865 turns).
+
+Kuzon the Arsonist (Deep Elf Fire Elementalist)     Turns: 8865, Time: 00:24:54
+
+Health: 0/45       AC:  7    Str:  5    XL:     9   Next: 21%
+Magic:  18/22      EV: 13    Int: 25    God:    Sif Muna [**....]
+Gold:   347        SH:  0    Dex: 15    Spells: 16/23 levels left
+
+rFire   + + +      SeeInvis +    m - +1 quarterstaff (speed)
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    z - +2 robe {rF+}
+rPois   +          Reflect  .    (no helmet)
+rElec   +          Rampage  .    k - +1 cloak
+rCorr   +                        n - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.27/turn                e - ring of see invisible
+MPRegen 0.18/turn                p - ring of fire
+
+@: resistant, weak-willed
+A: no striking features
+a: Renounce Religion, Channel Magic
+
+
+You were on level 7 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was pleased with you.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 347 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ m - a +1 quarterstaff of speed (weapon)
+Armour
+ k - a +1 cloak (worn)
+ n - a +0 pair of gloves (worn)
+ z - a +2 robe of fire resistance (worn)
+Jewellery
+ e - a ring of see invisible (left hand)
+ i - a ring of willpower
+ p - a ring of fire (right hand)
+Wands
+ f - a wand of roots (19)
+ q - a wand of paralysis (12)
+Scrolls
+ a - 2 scrolls of vulnerability
+ y - a scroll of amnesia
+Potions
+ b - a potion of magic
+ c - 4 potions of flight
+ d - 2 potions of might
+ g - 2 potions of brilliance
+ h - a potion of resistance
+ j - a potion of berserk rage {unknown}
+ l - 2 potions of haste {unknown}
+ o - a potion of degeneration {unknown}
+ r - a potion of cancellation {unknown}
+ t - 6 potions of curing {unknown}
+ v - a potion of attraction {unknown}
+ x - a potion of heal wounds {unknown}
+ B - a potion of ambrosia {unknown}
+
+
+   Skills:
+ - Level 2.8 Dodging
+ - Level 3.0 Stealth
+ + Level 7.5 Spellcasting
+ * Level 8.1 Conjurations
+ * Level 8.8 Fire Magic
+ + Level 3.3 Invocations
+
+
+You had 16 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Flame Wave            Conj/Fire      67%        2d15      1%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Dazzling Flash           Conj/Hex       58%        N/A       3%          3
+ Inner Flame              Hex/Fire       47%        N/A       3%          3
+ Kindle Blastsparks       Fire/Tloc/Air  72%        2d16      5%          3
+ Iskenderun's Mystic Bla  Conj/Tloc      29%        2d7       12%         4
+ Starburst                Conj/Fire      33%        6d10      28%         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 *
+
+Annotations:
+D:3 2 transporters, Bokogi's ghost, amateur MeRe
+D:7 Pikel
+
+Message History
+
+As you read the scroll labelled FUCWOFUKHLU, it crumbles to dust.
+Magic quickly surges around you. It was a scroll of vulnerability. The lemure
+hits you.
+* * * LOW HITPOINT WARNING * * *
+The lemure misses you. Pikel closely misses you.
+Unknown command.
+As you read the scroll labelled VIYHOA YCYUNK, it crumbles to dust.
+You feel aware of your surroundings. It was a scroll of magic mapping. The
+lemure hits you.
+* * * LOW HITPOINT WARNING * * *
+The lemure closely misses you. Pikel hits you but does no damage.
+Unknown command.
+It was a potion of resistance.
+You feel protected.
+The lemure closely misses you. The lemure hits you.
+* * * LOW HITPOINT WARNING * * *
+Pikel barely misses you.
+The lemure attacks as you move away! The lemure hits you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! You conjure some foxfire! The lemure hits you.
+* * * LOW HITPOINT WARNING * * *
+The lemure barely misses you. Pikel closely misses you.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! Flames lash Pikel.
+Pikel is moderately wounded.
+Pikel's fire resistance burns away. The foxfire hits Pikel. Pikel is burned
+terribly!
+Pikel is heavily wounded.
+The foxfire hits Pikel but does no damage.
+Pikel is heavily wounded.
+The lemure closely misses you. The lemure barely misses you. Pikel closely
+misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! You conjure some foxfire! The lemure closely misses
+you.
+The lemure barely misses you. Pikel misses you.
+The lemure attacks as you move away! The lemure misses you. Pikel attacks as
+you move away!
+Pikel hits you with a +0 whip of freezing.
+* * * LOW HITPOINT WARNING * * *
+Pikel freezes you.
+You die...
+
+    *,*,,,,,,,*#........#   *,,*****,
+*****,*********,........#   *,,,,,,,,
+*,,,,,,,,,^,,,,,,.......*   *,*,,,,,,
+*,,,,,*********,,,.....,*   ***,,,,,,
+*,,,,,*       *,,,,...,,******#,,,,,,
+*,,,,,*       *,***#.#****,,...,,,,,,
+*,,,,,*       ***###.#####.....,,,,,,
+*,,,,,***        #.............,,,,,,
+*,,,,,,,*        #.....###.....,,.,,,
+*,,,,,,,**########.....# *,,...,,..,,
+*,,,,,,,**......vK5..).# *,,,,.,,...,
+*,,,,,,,**......v@5))).# *,,,,,,,....
+*,,,,,,,**.......))...## *,,,,,,,....
+**********........)..[#  *,,,,,,,....
+         *........)...#  *,,,,,,,....
+         *............#  *,,,,,,,...#
+         *............#  *********,#.
+         *............#          *,#.
+         *#############          *,#.
+                                **.~#
+                                *...~
+                                *..,~
+                                *,,~#
+
+
+You could see Pikel (weak-willed, combustible, ally target) and 2 lemures.
+
+Vanquished Creatures
+  Menkaure (D:4)
+  A water moccasin (D:6)
+  2 sky beasts
+  An ogre (D:4)
+  2 phantoms (D:4)
+  2 centaurs
+  2 lemures (D:7)
+  A necrophage (D:6)
+  2 wyvern zombies (D:6)
+  A scorpion (D:6)
+  4 wights (D:6)
+  An electric eel (D:6)
+  2 bullfrog zombies (D:6)
+  2 quasits (D:4)
+  2 jellies
+  A human zombie (D:6)
+  4 orc priests
+  4 hounds
+  4 iguanas
+  A sleepcap (D:6)
+  Ijyb (D:3)
+  4 orc wizards
+  A mummy (D:6)
+  A howler monkey zombie (D:6)
+  6 gnolls
+  8 adders
+  6 shadow imps
+  6 white imps
+  2 ufetubi
+  3 worms
+  4 dart slugs
+  30 orcs
+  2 ball pythons
+  6 bats
+  4 endoplasms
+  4 giant cockroaches
+  10 goblins
+  10 hobgoblins
+  4 jackals (D:3)
+  10 kobolds
+  3 quokkas
+  4 frilled lizards
+  6 rats
+175 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 foxfires (D:6)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  7 demonic plants (D:4)
+  787 foxfires
+  A plant (D:6)
+795 creatures vanquished.
+
+Grand Total: 973 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   241 | D:1      | Reached XP level 2. HP: 8/15 MP: 5/8
+   247 | D:1      | Learned a level 2 spell: Scorch
+  1052 | D:1      | Found a faded altar of an unknown god.
+  1071 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/9
+  2007 | D:2      | Reached XP level 4. HP: 23/24 MP: 7/11
+  3523 | D:3      | Noticed Ijyb
+  3531 | D:3      | Killed Ijyb
+  3532 | D:3      | Reached XP level 5. HP: 28/28 MP: 4/13
+  3602 | D:3      | Found a transporter.
+  3619 | D:3      | Found a transporter.
+  3619 | D:3      | Noticed an ogre
+  3621 | D:3      | Noticed Bokogi's ghost (amateur MeRe)
+  3622 | D:3      | Noticed an ogre
+  3781 | D:3      | Found an iron altar of Okawaru.
+  3846 | D:3      | Found a faded altar of an unknown god.
+  3846 | D:3      | Found a radiant altar of Vehumet.
+  3854 | D:3      | Found a faded altar of an unknown god.
+  3860 | D:3      | Found a shadowy altar of Dithmenos.
+  3862 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  4033 | D:4      | Noticed a centaur
+  4039 | D:4      | Killed a centaur
+  4040 | D:4      | Reached skill level 5 in Fire Magic
+  4054 | D:4      | Reached XP level 6. HP: 15/32 MP: 0/14
+  4057 | D:4      | Noticed Menkaure
+  4161 | D:4      | Killed Menkaure
+  4283 | D:4      | Found a glowing silver altar of Zin.
+  4325 | D:4      | Found an ornate altar of the Wu Jian Council.
+  4345 | D:4      | Reached skill level 5 in Spellcasting
+  4434 | D:4      | Reached XP level 7. HP: 31/36 MP: 1/16
+  4435 | D:4      | Reached skill level 5 in Conjurations
+  4675 | D:4      | Found a staircase to the Ecumenical Temple.
+  4794 | Temple   | Entered the Ecumenical Temple
+  4956 | Temple   | Became a worshipper of Sif Muna the Loreminder
+  4990 | D:4      | Learned a level 4 spell: Flame Wave
+  5425 | D:5      | Entered Level 5 of the Dungeon
+  5700 | D:5      | Found an opulent altar of Gozag.
+  6143 | D:5      | Reached * piety under Sif Muna
+  6393 | D:4      | Reached XP level 8. HP: 32/41 MP: 15/19
+  6842 | D:6      | Reached skill level 1 in Invocations
+  6955 | D:6      | Found Acwuacya's Assorted Antiques.
+  7684 | D:6      | Reached ** piety under Sif Muna
+  7892 | D:6      | Reached XP level 9. HP: 14/45 MP: 17/21
+  8028 | D:6      | Found a basalt altar of Yredelemnul.
+  8190 | D:6      | Found a white marble altar of Elyvilon.
+  8663 | D:7      | Noticed Pikel
+  8862 | D:7      | HP: 1/45 [lemure[Pikel] (2)]
+  8865 | D:7      | Slain by Pikel
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      wander_arrival_chamber, layout_basic,
+          chequers_ecumenical_altar_island, minmay_strange_pillars
+D:2:      layout_basic, kennysheep_boxes
+D:3:      layout_loops_cross, okawaru_altar_gauntlet_db,
+          chequers_temple_overflow_minitemple, gammafunk_ghost_smash, uniq_ijyb
+D:4:      layout_basic, mainiacjoe_overflow_24_doors,
+          nicolae_wu_jian_wuxing_cycle, minmay_temple_entry_junction_2,
+          serial_demonic, serial_demonic_c, serial_demonic_d, serial_demonic_b,
+          serial_demonic_c, uniq_menkaure
+D:5:      layout_basic, general_overflow_altar, feat_on_display
+D:6:      layout_cave_pools, nicolae_elyvilon_temple_path,
+          lemuel_mausoleum_altar_yredelemnul, kennysheep_windowed_goal
+D:7:      layout_basic, fountainhead, dk_rats_in_the_wall, uniq_pikel
+Temple:   hellmonk_temple_flake
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |     3                      |  3.0
+Conjurations   |        2  3  4     6  7  8 |  8.1
+Fire Magic     |        4     5     7  8    |  8.8
+Spellcasting   |           4     5  6  7    |  7.5
+Invocations    |                       2  3 |  3.3
+Dodging        |                            |  2.8
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Unarmed           |     7 |       |     2 ||     9
+         Punch             |       |       |     1 ||     1
+   Cast: Foxfire           |   128 |   141 |   192 ||   461
+         Scorch            |     4 |     4 |    74 ||    82
+ Invoke: Channel Magic     |       |       |     2 ||     2
+    Use: Scroll            |     3 |     3 |     9 ||    15
+         Potion            |       |       |     1 ||     1
+ Armour: Robe              |     4 |    11 |    22 ||    37
+  Dodge: Dodged            |    21 |    20 |    52 ||    93
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   8865 |   8721 |    144 |      0 |   7481 |   8 | 1108.1 |
+       Dungeon |   8692 |   8548 |    144 |      0 |   7350 |   7 | 1241.7 |
+        Temple |    172 |    172 |      0 |      0 |    131 |   1 |  172.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1694 daAuts
+     D:6: 1547 daAuts
+     D:3: 1433 daAuts
+     D:1: 1420 daAuts
+     D:2: 1270 daAuts
+     D:5: 835 daAuts
+     D:7: 490 daAuts
+  Temple: 172 daAuts
+

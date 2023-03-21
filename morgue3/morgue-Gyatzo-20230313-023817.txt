@@ -1,0 +1,279 @@
+ Dungeon Crawl Stone Soup version 0.29.1 (tiles) character file.
+
+Game seed: 18212470027550506090
+
+477 Gyatzo the Conjurer (level 6, -2/45 HPs)
+             Began as a Demigod Conjurer on Mar 13, 2023.
+             Slain by Pikel
+             ... wielding a +2 whip of flaming
+              (3 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:23:22 (4466 turns).
+
+Gyatzo the Conjurer (Demigod Conjurer)              Turns: 4466, Time: 00:23:23
+
+Health: -2/45      AC:  4    Str:  8    XL:     6   Next: 54%
+Magic:  0/15       EV: 12    Int: 28    God:    
+Gold:   141        SH:  0    Dex: 12    Spells: 3/13 levels left
+
+rFire   . . .      SeeInvis .   j - +1 quarterstaff (vamp)
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   o - +0 cloak
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   f - +0 pair of boots
+Stlth   ++........              (no amulet)
+HPRegen 0.15/turn               u - ring of wizardry
+MPRegen 0.14/turn               (no ring)
+
+@: no status effects
+A: high MP 1, forlorn, divine attributes
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 141 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ j - a +1 vampiric quarterstaff (weapon)
+ v - a +0 great sword
+Armour
+ a - a +0 robe (worn)
+ f - a +0 pair of boots (worn)
+ o - a +0 cloak (worn)
+Jewellery
+ u - a ring of wizardry (left hand)
+Scrolls
+ c - 2 scrolls of silence
+ d - a scroll of torment {unknown}
+ h - 5 scrolls of teleportation
+ i - 3 scrolls of amnesia {unknown}
+ l - a scroll of vulnerability {unknown}
+ q - a scroll of identify
+ r - a scroll of noise {unknown}
+Potions
+ b - a potion of mutation {unknown}
+ e - a potion of might {unknown}
+ g - a potion of brilliance {unknown}
+ k - a potion of flight {unknown}
+ m - a potion of attraction {unknown}
+ n - 2 potions of curing {unknown}
+ p - a potion of heal wounds {unknown}
+ s - a potion of magic
+ t - a potion of lignification {unknown}
+
+
+   Skills:
+ - Level 1.0 Staves
+ - Level 1.8 Dodging
+ - Level 1.8 Stealth
+ + Level 4.2 Spellcasting
+ + Level 6.0 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           100%       1d8       1%          1
+b - Searing Ray           Conj           78%        2d7       1%          2
+c - Dazzling Flash        Conj/Hex       44%        N/A       2%          3
+d - Fulminant Prism       Conj/Hex       11%        3d9       9%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           10%        N/A       3%          1
+ Sting                    Tmut/Pois      20%        1d4       3%          1
+ Poisonous Vapours        Pois/Air       10%        N/A       4%          2
+ Wereblood                Tmut           5%         N/A       4%          2
+ Gell's Gravitas          Tloc           5%         N/A       9%          3
+ Spider Form              Tmut/Pois      5%         N/A       9%          3
+ Teleport Other           Tloc           5%         N/A       9%          3
+ Iskenderun's Mystic Bla  Conj/Tloc      22%        2d6       9%          4
+ Olgreb's Toxic Radiance  Pois           5%         N/A       28%         4
+ Dispersal                Tloc           2%         N/A       98%         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Annotations:
+D:4 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+You shall have no god before yourself.
+Your divine heritage dramatically boosts your attributes as you level up.
+
+Message History
+
+Okay, then.
+Casting: Dazzling Flash (dangerous; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (9% risk of failure)! Continue anyway? 
+Aiming: Fulminant Prism (quite dangerous; 9% risk of failure)
+Press: ? - help, Dir - move target, p - Pikel
+You conjure a prism of explosive energy!
+A fulminant prism comes into view.
+The lemure misses you.
+You strike the helpless lemure from behind!
+You hit the lemure.
+You kill the lemure!
+That felt strangely unrewarding.
+Your fulminant prism crackles loudly.
+You hit Pikel but do no damage.
+Pikel is heavily wounded.
+Pikel is no longer blind.
+Pikel hits you with a +2 whip of flaming!
+Pikel burns you.
+Your fulminant prism explodes!
+The blast of energy engulfs you! The blast of energy engulfs Pikel!
+Pikel is severely wounded.
+Pikel barely misses you.
+You hear a shout! x2
+You hit Pikel but do no damage.
+Pikel is severely wounded.
+Pikel hits you with a +2 whip of flaming.
+Pikel burns you.
+* * * LOW HITPOINT WARNING * * *
+A lemure comes into view.
+Casting: Fulminant Prism (quite dangerous; 9% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Casting: Dazzling Flash (dangerous; 2% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+Look: Pikel, wielding a +2 whip of flaming and wearing a +0 robe (severely
+wounded, chance to dazzle: 55%)
+The lemure is dazzled.
+Pikel hits you with a +2 whip of flaming!
+* * * LOW HITPOINT WARNING * * *
+Pikel burns you.
+You die...
+
+#  #.#
+#  #.#
+####.#######
+......>>...#
+.###.#####.#
+.# #.#         ##
+.###.#         5.
+.....####      #.
+.....)..#      #.#
+..#####.#      #5#
+#.##  #.########K##
+...#  #.(....##..@#####
+...#  #.####..........#
+...####.###...#...###.#
+........##.#.#.#.## #.#
+.....####........#  #.#
+...###  #..#.#.###  #.#
+..<#    #.#...##    #.#
+...#    #.##.##     #.#
+.###    #.##.#      #.#
+##     ##.##.########.##
+#     ##...#...........#
+#     #.....##########.#
+
+
+You could see Pikel and 2 lemures.
+
+Vanquished Creatures
+  Menkaure (D:4)
+  An ogre (D:4)
+  A phantom (D:4)
+  A lemure (D:4)
+  Natasha (twice) (D:3)
+  A gnoll (D:1)
+  5 adders
+  A worm (D:3)
+  2 dart slugs
+  3 orcs
+  3 ball pythons (D:1)
+  4 endoplasms
+  6 giant cockroaches
+  3 goblins (D:2)
+  2 hobgoblins (D:1)
+  9 jackals
+  5 quokkas
+  5 bats (D:1)
+  6 frilled lizards
+  11 kobolds
+  7 rats
+79 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fulminant prism (D:4)
+1 creature vanquished.
+
+Grand Total: 80 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gyatzo the Demigod Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 5/5
+   335 | D:1      | Reached skill level 4 in Conjurations
+   407 | D:1      | Reached XP level 2. HP: 20/20 MP: 5/7
+   410 | D:1      | Learned a level 2 spell: Searing Ray
+   953 | D:1      | Reached XP level 3. HP: 26/26 MP: 1/8
+   957 | D:1      | Learned a level 3 spell: Dazzling Flash
+  2312 | D:3      | Identified the +3 scale mail of the Garden {rElec rN++
+                  | Str-4 Int-2}
+  2919 | D:3      | Noticed Natasha
+  2923 | D:3      | Killed Natasha
+  2924 | D:3      | Reached skill level 1 in Staves
+  2924 | D:3      | Reached XP level 4. HP: 33/33 MP: 4/10
+  3056 | D:3      | Noticed Natasha
+  3077 | D:3      | Killed Natasha
+  3622 | D:4      | Noticed Menkaure
+  3626 | D:4      | Killed Menkaure
+  3627 | D:4      | Reached skill level 5 in Conjurations
+  3627 | D:4      | Reached XP level 5. HP: 14/38 MP: 6/13
+  3978 | D:4      | Reached XP level 6. HP: 45/45 MP: 2/15
+  4164 | D:4      | Learned a level 4 spell: Fulminant Prism
+  4268 | D:4      | Reached skill level 6 in Conjurations
+  4455 | D:4      | Noticed Pikel
+  4466 | D:4      | HP: 1/45 [Pikel/+2 whip of flaming (12)]
+  4466 | D:4      | Slain by Pikel
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      moated_graveyard_arrival, layout_rooms, amethyst_killhole,
+          minmay_tromino_i2
+D:2:      layout_basic, basic_altar, hellmonk_ecumenical_altar_zigzags
+D:3:      layout_loops_corners, uniq_natasha
+D:4:      layout_loops_ring, uniq_eustachio, uniq_pikel, uniq_menkaure
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |  4        5     6 |  6.0
+Spellcasting   |     2     3  4    |  4.2
+Staves         |        1          |  1.0
+Dodging        |                   |  1.8
+Stealth        |                   |  1.8
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Club              |     7 |       ||     7
+       Quarterstaff      |     2 |    16 ||    18
+ Cast: Magic Dart        |    83 |    35 ||   118
+       Searing Ray       |    20 |     7 ||    27
+       Dazzling Flash    |       |     2 ||     2
+       Fulminant Prism   |       |     1 ||     1
+  Use: Potion            |     1 |       ||     1
+       Scroll            |     7 |       ||     7
+ Stab: Invisible         |       |     1 ||     1
+Armor: Robe              |     9 |     7 ||    16
+Dodge: Dodged            |    23 |    11 ||    34
+

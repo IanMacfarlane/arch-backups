@@ -1,0 +1,271 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  9 stones
+(8, 6, D:1)
+  a +0 club
+(12, -16, D:1)
+  8 stones
+(12, 5, D:1)
+  a +0 dagger
+(25, -16, D:1)
+  2 stones
+(27, 25, D:1)
+  a +0 short sword
+(29, -16, D:1)
+  a +0 club
+(34, -18, D:1)
+  a +0 whip
+(41, 15, D:1)
+  a +0 leather armour
+(45, -5, D:1)
+  7 stones
+(47, 22, D:1)
+  a +0 whip
+(55, 14, D:1)
+  a +0 club
+(56, 19, D:1)
+  4 poisoned darts
+
+Level 2 of the Dungeon
+[Shop] Cass's Weapon Boutique
+  a +1 mace of venom (137 gold)
+  a +0 short sword (39 gold)
+  the +6 flail of Slime {heavy, SInv} (617 gold)
+    SInv:      It lets you see invisible.
+  a +0 spear (39 gold)
+  7 stones (9 gold)
+  a +0 short sword (39 gold)
+  4 stones (5 gold)
+  a stone (1 gold)
+  5 stones (6 gold)
+(0, 0, D:2)
+  a +0 club
+(11, 14, D:2)
+  a +0 ring mail
+(17, 7, D:2)
+  a +0 club
+(18, 38, D:2)
+  a +0 whip
+(20, 23, D:2)
+  a +0 helmet
+(24, 7, D:2)
+  3 stones
+(27, 4, D:2)
+  a +0 club
+(34, -1, D:2)
+  6 atropa-tipped darts
+(37, 34, D:2)
+  a +0 ring mail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(5, -24, D:3)
+  a +4 dire flail
+(6, -21, D:3)
+  a +0 dagger
+(16, -22, D:3)
+  a +0 mace
+(18, -28, D:3)
+  a +0 robe
+(25, -36, D:3)
+  6 stones
+(26, -31, D:3)
+  4 stones
+(29, -24, D:3)
+  a +1 club
+(29, -7, D:3)
+  a stone
+(32, -28, D:3)
+  a +0 leather armour
+  a +0 dagger
+(32, -27, D:3)
+  a +0 leather armour
+  a +0 flail
+(32, -26, D:3)
+  a +0 broad axe
+  a +0 ring mail
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Vomuit's Jewellery Emporium
+  a ring of ice (300 gold)
+  the ring "Xoufuhum" {Fly Str+3} (369 gold)
+    [ring of flight]
+    
+    Str:       It affects your strength (+3).
+    Fly:       It grants you flight.
+  a +5 ring of evasion (432 gold)
+  the ring "Qutross" {*Corrode Will++ EV+5 Dex+4} (717 gold)
+    [ring of evasion]
+    
+    EV:        It affects your evasion (+5).
+    Dex:       It affects your dexterity (+4).
+    *Corrode:  It may corrode you when you take damage.
+    Will:      It greatly increases your willpower.
+  a ring of positive energy (240 gold)
+  a +6 ring of intelligence (432 gold)
+  the ring of Pride {Fly rPois rN+} (399 gold)
+    [ring of poison resistance]
+    
+    rPois:     It protects you from poison.
+    rN:        It protects you from negative energy.
+    Fly:       It grants you flight.
+  an amulet of guardian spirit (360 gold)
+  an amulet of magic regeneration (360 gold)
+  a +6 ring of intelligence (432 gold)
+  a ring of see invisible (180 gold)
+(0, 0, D:4)
+  a +0 halberd
+(2, -6, D:4)
+  a +0 flail
+(3, -26, D:4)
+  a +0 dagger
+(3, -5, D:4)
+  a +0 whip
+(4, -18, D:4)
+  6 stones
+(4, -13, D:4)
+  a +0 spear
+(12, -10, D:4)
+  a +0 dagger
+(46, -19, D:4)
+  a +0 dagger
+(47, -10, D:4)
+  a +0 whip of pain
+  a +0 scale mail
+(47, -9, D:4)
+  a +0 flail
+  a +0 dagger
+  a +0 robe
+  a +0 club
+  a +0 ring mail
+  a +0 mace
+(52, -28, D:4)
+  a +0 giant spiked club
+(54, -9, D:4)
+  a +4 whip
+(58, -28, D:4)
+  a +0 pair of gloves
+(61, 5, D:4)
+  a +0 spear
+(61, 7, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 dagger
+  a +0 scale mail
+(1, -1, D:5)
+  a +0 club
+(2, -7, D:5)
+  a +0 scale mail
+(2, 0, D:5)
+  a +0 whip
+  a +0 scale mail
+(7, 15, D:5)
+  a +0 ring mail
+(10, 16, D:5)
+  a +0 robe
+(10, 18, D:5)
+  a +0 whip
+  a +0 robe
+(12, 16, D:5)
+  a +0 club
+(13, 16, D:5)
+  a +0 spear
+(16, 22, D:5)
+  a +0 spear
+(18, 9, D:5)
+  a staff of air
+(19, 11, D:5)
+  the +8 spear of the Lamprey {flame, Contam rElec rPois Int-4}
+    Int:       It affects your intelligence (-4).
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+    Contam:    It causes magical contamination when unequipped.
+(19, 19, D:5)
+  a +0 club
+(19, 21, D:5)
+  a +0 spear
+(20, -8, D:5)
+  6 stones
+(26, 16, D:5)
+  a +0 whip
+  a +0 flail
+(45, 7, D:5)
+  a +0 morningstar
+(46, 8, D:5)
+  a +0 hand axe
+(46, 9, D:5)
+  a +0 dagger
+  a +0 robe
+(46, 10, D:5)
+  a +0 war axe
+  a +0 morningstar
+  a boomerang
+(49, 2, D:5)
+  a +0 flail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 dagger
+(1, -28, D:6)
+  a +0 dagger
+(1, 5, D:6)
+  a +2 heavy hand axe
+(4, 5, D:6)
+  a +0 hand axe
+  a +0 robe
+(5, 5, D:6)
+  a +0 whip
+  a +0 ring mail
+(9, -9, D:6)
+  a +0 whip
+(23, -34, D:6)
+  a +0 ring mail
+(33, -39, D:6)
+  a +0 cloak
+(40, -32, D:6)
+  a +0 dagger
+  a +0 robe
+(40, -29, D:6)
+  a +0 flail
+  a +0 leather armour
+  a +0 mace
+  a +0 ring mail
+(41, -29, D:6)
+  a +0 flail
+  a +0 dagger
+  a +0 robe
+(47, -29, D:6)
+  a +0 mace
+(55, -2, D:6)
+  a +0 club
+  a +0 hand axe
+  a +0 mace
+  a +0 dagger
+  a +0 robe
+(56, -3, D:6)
+  a +0 falchion
+  a +0 scale mail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +4 great sword (still there?)
+  a +0 robe (still there?)
+(1, 2, D:7)
+  a +4 trident (still there?)
+  a +0 robe (still there?)
+  a +4 dagger of freezing (still there?)
+  a +0 robe (still there?)
+(6, 9, D:7)
+  8 stones
+(9, 8, D:7)
+  7 gold pieces
+(28, -19, D:7)
+  a +0 rapier
+  a +0 chain mail
+

@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 4206537220184810371
+
+59 Z the Grave Robber (level 4, -1/33 HPs)
+             Began as a Ghoul Necromancer on Mar 10, 2023.
+             Slain by a gnoll (6 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:17:33 (1257 turns).
+
+Z the Grave Robber (Ghoul Necromancer)              Turns: 1257, Time: 00:17:33
+
+Health: -1/33      AC:  2    Str: 13    XL:     4   Next: 3%
+Magic:  1/6        EV: 12    Int: 10    God:    
+Gold:   70         SH:  0    Dex:  9    Spells: 2/7 levels left
+
+rFire   . . .      SeeInvis .     - Unarmed
+rCold   + . .      Faith    .   (no shield)
+rNeg    + + +      Spirit   .   a - +0 robe
+rPois   ?           Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.00/turn               (no ring)
+MPRegen 0.10/turn               (no ring)
+
+@: inhibited regen
+A: claws 1, cold resistance 1, negative energy resistance 3, inhibited
+regeneration, torment resistance 2
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 70 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ b - 2 scrolls of teleportation
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.6 Stealth
+ * Level 1.0 Unarmed Combat
+ + Level 2.2 Spellcasting
+ + Level 4.7 Necromancy
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Pain                  Necr           40%        1d6       4%          1
+b - Animate Skeleton      Necr           20%        N/A       4%          1
+c - Vampiric Draining     Necr           10%        2d6       13%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Corpse Rot               Necr/Air       10%        N/A       17%         2
+ Poisonous Vapours        Pois/Air       2%         N/A       43%         2
+ Animate Dead             Necr           5%         N/A       38%         4
+ Agony                    Necr           10%        N/A       75%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You thrive by killing the living.
+You are immune to poison.
+You have sharp fingernails.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+
+Message History
+
+The jackal is moderately wounded.
+The jackal closely misses you. The jackal barely misses you.
+You scratch the jackal.
+The jackal is severely wounded.
+The jackal bites your rat skeleton. The jackal misses you. The jackal closely
+misses you.
+Your rat skeleton barely misses the jackal.
+The jackal bites your rat skeleton.
+You scratch the jackal.
+The jackal is almost dead.
+The jackal closely misses you. x2
+The jackal barely misses your rat skeleton.
+Your rat skeleton bites the jackal but does no damage.
+The jackal misses you. The jackal bites you.
+You closely miss the jackal.
+The jackal is almost dead.
+The jackal bites your rat skeleton.
+Your rat skeleton is destroyed!
+The jackal bites you but does no damage.
+The jackal closely misses you.
+You barely miss the gnoll. The jackal closely misses you. The jackal completely
+misses you.
+A gnoll comes into view. It is wielding a +0 whip.
+The gnoll barely misses you.
+You barely miss the gnoll.
+The jackal bites you but does no damage. x2
+The jackal closely misses you. x2; The gnoll closely misses you.
+The gnoll shouts! You hear a shout!
+The jackal bites you but does no damage.
+The jackal bites you.
+A gnoll comes into view. It is wielding a +0 whip.
+The gnoll hits you with a +0 whip.
+You closely miss the jackal. The jackal bites you. The jackal misses you. The
+jackal bites you.
+The gnoll closely misses you.
+The jackal misses you. The jackal barely misses you. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The gnoll barely misses you.
+The jackal bites you but does no damage.
+The gnoll hits you with a +0 whip.
+* * * LOW HITPOINT WARNING * * *
+The gnoll hits you with a +0 whip.
+You die...
+
+        #.    ..$...
+         .####......
+          .>.+......
+          #..#......
+          #.......
+  #.#######.#...
+  #.........#%########
+#######..............#
+.......hh##.##.#####.#
+......hhg##.##..#  #.#
+.......@.##.###h####.###
+########g##.............
+       #g#######.###.#.#
+       #.#     #.# #.# #
+       #.#     #.# #.#
+       #.#     #.###.#
+       #.#     #..##.#
+       #.#     ##.##.#
+       #.#      #.##.#
+       #.#      #..#.#
+       #'#   #####.#.#
+
+
+You could see 3 gnolls and 4 jackals.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  2 dart slugs (D:1)
+  5 ball pythons
+  An endoplasm (D:1)
+  6 giant cockroaches
+  7 goblins (D:1)
+  3 hobgoblins
+  A quokka (D:1)
+  5 bats
+  A frilled lizard (D:2)
+  3 kobolds (D:1)
+  5 rats
+40 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An endoplasm (D:1)
+1 creature vanquished.
+
+Grand Total: 41 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Learned a level 1 spell: Pain
+     0 | D:1      | Z the Ghoul Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 2/2
+   166 | D:1      | Reached XP level 2. HP: 20/20 MP: 1/3
+   240 | D:1      | Learned a level 1 spell: Animate Skeleton
+   409 | D:1      | Reached XP level 3. HP: 20/26 MP: 0/4
+   423 | D:1      | Learned a level 3 spell: Vampiric Draining
+   876 | D:1      | Reached skill level 1 in Unarmed Combat
+  1209 | D:2      | Reached XP level 4. HP: 33/33 MP: 1/6
+  1257 | D:2      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_court, layout_loops_cross, grunt_decor_one_mirror,
+          minmay_pentomino_z4
+D:2:      layout_basic, shapermc_ecumenical_altar_flowoftime
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Spellcasting   |        2 |  2.2
+Unarmed Combat |        1 |  1.0
+Dodging        |        2 |  2.0
+Stealth        |          |  2.6
+Necromancy     |          |  4.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    67 |     8 ||    75
+ Cast: Pain              |    33 |     3 ||    36
+       Animate Skeleton  |     8 |     2 ||    10
+       Vampiric Draining |     3 |       ||     3
+  Use: Scroll            |     2 |       ||     2
+       Potion            |     1 |       ||     1
+ Stab: Sleeping          |     2 |       ||     2
+Armor: Robe              |    21 |    10 ||    31
+Dodge: Dodged            |    41 |    27 ||    68
+

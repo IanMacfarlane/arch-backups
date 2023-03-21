@@ -1,0 +1,631 @@
+Kuzon
+
+Level 1 of the Dungeon
+(1, 24, D:1)
+  a +0 dagger
+(2, 17, D:1)
+  a +0 chain mail
+(11, 14, D:1)
+  a +0 club
+(12, -2, D:1)
+  a +0 dagger
+  a +0 dagger
+  a +0 scale mail
+(13, -3, D:1)
+  a +0 club
+(17, -3, D:1)
+  a +0 spear
+(28, 46, D:1)
+  a +0 short sword
+(29, 14, D:1)
+  a +0 dagger
+(30, 45, D:1)
+  a +0 whip
+(43, 9, D:1)
+  a +0 sling
+(56, 20, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+[Shop] Ikho's General Store
+  5 curare-tipped darts (78 gold)
+  6 poisoned darts (46 gold)
+  a +4 chain mail of cold resistance (409 gold)
+  4 stones (5 gold)
+  a scroll of enchant weapon (97 gold)
+  a lightning rod (4/4) (390 gold)
+  9 stones (11 gold)
+  6 stones (7 gold)
+  5 stones (6 gold)
+  a book of the Moon (520 gold)
+(0, 0, D:2)
+  a +0 club
+(18, -1, D:2)
+  a +0 mace
+(26, 3, D:2)
+  3 stones
+(29, 8, D:2)
+  a +0 club
+(31, -28, D:2)
+  a +3 mace
+(37, -29, D:2)
+  6 stones
+(39, -9, D:2)
+  a +0 ring mail
+(39, 2, D:2)
+  a +0 short sword
+(41, 6, D:2)
+  a +0 ring mail
+(45, 1, D:2)
+  a +0 robe
+
+Level 3 of the Dungeon
+(1, 19, D:3)
+  4 stones
+(16, 26, D:3)
+  a +0 dagger
+(19, 13, D:3)
+  a +0 scale mail
+(20, 35, D:3)
+  a +0 club
+(20, 36, D:3)
+  a +0 halberd
+(21, 37, D:3)
+  a +0 flail
+(26, -5, D:3)
+  a +0 dagger
+(27, 12, D:3)
+  a +0 hand axe
+(28, 42, D:3)
+  a book of Geomancy
+(35, 29, D:3)
+  a +0 flail
+  a +0 club
+  a +0 ring mail
+(36, 4, D:3)
+  a +0 short sword
+  2 stones
+(38, 4, D:3)
+  a +0 club
+(47, 36, D:3)
+  a +0 chain mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 flail
+(2, 0, D:4)
+  a +0 whip
+  a +0 whip
+(6, -1, D:4)
+  5 stones
+  a +0 short sword
+(6, 2, D:4)
+  4 stones
+(7, 0, D:4)
+  a staff of death
+(15, -21, D:4)
+  a +0 club
+(28, 11, D:4)
+  a +0 ring mail
+(33, -9, D:4)
+  a +0 dagger
+(33, 13, D:4)
+  5 stones
+(34, -19, D:4)
+  a +0 dagger
+(44, -14, D:4)
+  a +0 club
+  5 stones
+  a +0 ring mail
+(45, -3, D:4)
+  the +5 short sword of Dissent {freeze, rElec rC+ Dex-2}
+    Dex:       It affects your dexterity (-2).
+    rC:        It protects you from cold.
+    rElec:     It insulates you from electricity.
+(45, 2, D:4)
+  a +0 whip
+(54, -8, D:4)
+  a +0 leather armour
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 club
+(0, 1, D:5)
+  a +0 hand axe
+(2, -2, D:5)
+  a +0 dagger
+  a +0 robe
+(3, -2, D:5)
+  a +2 short sword of venom
+  a +0 ring mail
+  a +0 dagger
+  a +0 leather armour
+(3, 0, D:5)
+  a +0 chain mail
+(11, -6, D:5)
+  a +0 dagger
+  a +0 robe
+(18, -22, D:5)
+  a +0 club
+  a +0 leather armour
+(19, -21, D:5)
+  a +0 dagger
+  a +0 robe
+(20, -23, D:5)
+  a +0 whip
+(27, -9, D:5)
+  a +0 cloak
+(28, 3, D:5)
+  a +0 falchion
+  a +0 chain mail
+(29, 1, D:5)
+  a +0 whip
+  a +0 club
+(29, 3, D:5)
+  a +0 flail
+  a +0 leather armour
+(30, -26, D:5)
+  5 stones
+(30, -22, D:5)
+  a +0 club
+(30, 1, D:5)
+  a +0 whip
+  a +0 leather armour
+  a +0 spear
+(31, -19, D:5)
+  a +0 club
+(31, -2, D:5)
+  5 stones
+  a +0 ring mail
+(31, 0, D:5)
+  a +0 whip
+(32, -20, D:5)
+  a +0 robe
+  a +0 dagger
+(33, -18, D:5)
+  a +0 robe
+  a +0 dagger
+(34, -24, D:5)
+  a +0 spear
+(35, -21, D:5)
+  a +0 spear
+(36, -22, D:5)
+  a +0 flail
+(38, -10, D:5)
+  a +0 hammer
+(39, 8, D:5)
+  a +0 shortbow
+(44, -11, D:5)
+  a +0 leather armour
+(45, -10, D:5)
+  a +0 giant spiked club
+(46, 4, D:5)
+  a +0 spear
+(55, -19, D:5)
+  2 curare-tipped darts
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 quarterstaff
+(11, 2, D:6)
+  a +0 short sword
+(13, 9, D:6)
+  a +0 dagger
+(14, 2, D:6)
+  3 stones
+  a +0 flail
+  a +0 club
+(14, 12, D:6)
+  a +0 war axe
+(15, 3, D:6)
+  6 poisoned darts
+  a +0 spear
+  a +0 halberd
+(15, 22, D:6)
+  a +0 trident
+(15, 24, D:6)
+  a +0 dagger
+  a +0 robe
+(16, 4, D:6)
+  a +4 heavy spear
+  a +0 halberd
+(16, 18, D:6)
+  a +0 whip
+(17, 29, D:6)
+  a +0 dagger
+(18, 2, D:6)
+  2 javelins
+  a +0 club
+(18, 3, D:6)
+  a +0 leather armour
+  a +0 club
+(18, 22, D:6)
+  a +3 flail
+  a +0 chain mail
+(20, 20, D:6)
+  a +0 flail
+  a boomerang
+(21, -15, D:6)
+  a +2 whip of freezing
+  a +0 robe
+(21, -13, D:6)
+  a +2 long sword of flaming
+  +0 steam dragon scales
+(21, 21, D:6)
+  4 poisoned darts
+(29, 13, D:6)
+  a +0 hand axe
+(37, 20, D:6)
+  a +0 club
+(39, 19, D:6)
+  8 stones
+(39, 23, D:6)
+  a +0 ring mail
+(42, 0, D:6)
+  a +0 long sword
+  a +0 robe
+(44, 9, D:6)
+  a +0 scale mail
+  a +0 flail
+  a +0 robe
+  a +0 dagger
+  a +0 plate armour
+  a +0 scimitar
+(44, 10, D:6)
+  a +0 mace
+  a +0 dagger
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 leather armour
+  a +0 whip
+(1, 0, D:7)
+  a +0 whip
+(6, 1, D:7)
+  a +0 club
+  a +0 scale mail
+(10, -10, D:7)
+  a +0 shortbow
+(12, -21, D:7)
+  a +0 mace
+(13, -20, D:7)
+  a +0 trident
+  a +0 ring mail
+(15, -19, D:7)
+  a +0 short sword
+(15, -3, D:7)
+  a +0 dire flail
+  a +0 chain mail
+(16, -18, D:7)
+  a +0 dagger
+  a +0 robe
+  a +0 morningstar
+  a +0 chain mail
+(18, -5, D:7)
+  a +0 scale mail
+  a +0 club
+(21, -1, D:7)
+  a +0 club
+  3 boomerangs
+  a +0 robe
+(22, 1, D:7)
+  a +0 spear
+  a +0 robe
+  a +2 spear of freezing
+  a +0 leather armour
+(23, 2, D:7)
+  a +4 falchion
+  a +0 robe
+(23, 3, D:7)
+  a +7 great sword
+  a +0 robe
+(24, 2, D:7)
+  a +0 falchion
+  a +0 robe
+(29, -5, D:7)
+  a +0 dagger
+(30, -32, D:7)
+  a +0 dagger
+  a +0 robe
+(34, -5, D:7)
+  a +0 robe
+(38, -22, D:7)
+  a +0 club
+  3 poisoned darts
+  a +0 dagger
+(38, -21, D:7)
+  a +0 dagger
+  3 stones
+(39, -21, D:7)
+  a +0 giant spiked club
+(41, -8, D:7)
+  a +0 dagger
+  a +0 leather armour
+(43, -24, D:7)
+  a +0 dagger
+  6 poisoned darts
+(43, 3, D:7)
+  a +0 war axe
+(44, -23, D:7)
+  a +0 whip
+(44, -16, D:7)
+  a +0 hand axe
+  5 stones
+  a +0 leather armour
+(45, -24, D:7)
+  a +0 short sword
+  5 stones
+
+Level 8 of the Dungeon
+(14, -35, D:8)
+  a +0 giant club
+  a +0 giant spiked club
+(16, -35, D:8)
+  a +0 short sword
+  a +0 leather armour
+(23, -9, D:8)
+  a +0 falchion
+(26, -38, D:8)
+  a +0 mace
+  a +0 robe
+(27, -38, D:8)
+  a +0 falchion
+  a +0 robe
+(28, -38, D:8)
+  a +0 dire flail
+  a +0 robe
+  a +0 hand axe
+  a +0 robe
+(31, -24, D:8)
+  6 curare-tipped darts
+(31, 2, D:8)
+  a +0 hand axe
+  a +0 dagger
+  a +0 robe
+(32, 1, D:8)
+  a +0 shortbow
+(32, 2, D:8)
+  a +0 short sword
+  a +0 club
+  a +0 leather armour
+(36, -19, D:8)
+  a +0 trident
+(37, -17, D:8)
+  a +0 robe
+(41, -27, D:8)
+  a +0 mace
+(53, -24, D:8)
+  a stone
+(53, -15, D:8)
+  a +0 flail
+(55, -26, D:8)
+  a stone
+(56, -41, D:8)
+  a +0 pair of boots
+(56, -34, D:8)
+  a stone
+
+Level 9 of the Dungeon
+(13, 35, D:9)
+  a +1 spear
+  a +0 animal skin
+(21, -8, D:9)
+  a +0 leather armour
+(31, 25, D:9)
+  a +0 troll leather armour
+  a +0 dagger
+  an orb of guile
+  a +0 robe
+(34, 22, D:9)
+  a +0 giant club
+  a +0 giant club
+(35, 29, D:9)
+  a +0 robe
+  a +0 mace
+(39, 23, D:9)
+  a +0 ring mail
+(39, 33, D:9)
+  a +0 robe
+(41, 30, D:9)
+  a +0 chain mail
+(42, 15, D:9)
+  a +0 club
+(42, 16, D:9)
+  a +0 club
+(43, 16, D:9)
+  a +0 mace
+  a +0 scale mail
+(45, -7, D:9)
+  a +0 ring mail
+(45, 39, D:9)
+  a +0 shortbow
+(48, 18, D:9)
+  a +0 giant club
+  a +0 robe
+(54, -9, D:9)
+  a +0 war axe
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 chain mail
+(7, -24, D:10)
+  a +0 flail
+(8, -26, D:10)
+  a +0 mace
+(8, -25, D:10)
+  a +0 spear
+  a +0 halberd
+  a +0 spear
+  a +0 ring mail
+(8, -24, D:10)
+  a +0 whip
+(9, -36, D:10)
+  a +0 flail
+(9, -4, D:10)
+  3 stones
+(13, -4, D:10)
+  a +0 arbalest
+  a +0 battleaxe
+  a +0 chain mail
+(18, -55, D:10)
+  7 stones
+(19, -6, D:10)
+  a +0 dagger
+(21, -23, D:10)
+  a +1 heavy flail
+  a +0 animal skin
+  a +0 dagger
+  a +0 robe
+  a +0 mace
+  a +0 chain mail
+(21, -22, D:10)
+  a +0 dagger
+(22, -24, D:10)
+  a +0 club
+  a +0 scale mail
+(22, -23, D:10)
+  a +0 club
+  a +0 robe
+  a +0 club
+  a +0 dagger
+  a +0 leather armour
+(23, -24, D:10)
+  a +0 mace
+(23, -23, D:10)
+  a +0 mace
+  a +0 animal skin
+  a +0 club
+  a +3 flail
+(26, -24, D:10)
+  a +0 club
+(27, -24, D:10)
+  a +0 dagger
+  a +0 robe
+(37, -24, D:10)
+  a +0 dagger
+(37, -23, D:10)
+  a +0 short sword
+  a +1 scale mail of cold resistance
+(38, -23, D:10)
+  a +0 club
+(38, -22, D:10)
+  a +0 hand axe
+  a +0 ring mail
+(39, -21, D:10)
+  a +0 club
+  a +0 chain mail
+(41, -24, D:10)
+  a +0 flail
+(43, -25, D:10)
+  a +0 animal skin
+(47, -12, D:10)
+  a +0 giant club
+  a +0 giant club
+(51, -32, D:10)
+  a +0 robe
+(54, -14, D:10)
+  a +0 arbalest
+(58, -12, D:10)
+  a +0 shortbow
+
+Level 11 of the Dungeon
+[Shop] Zidet's General Store
+  a +0 ring mail (44 gold)
+  3 poisoned darts (19 gold)
+  5 stones (5 gold)
+  a potion of curing (33 gold)
+  a +0 bardiche (99 gold)
+  a potion of lignification (33 gold)
+  a +1 vampiric scimitar (209 gold)
+[Shop] Ziesubb's General Store
+  a +0 morningstar (68 gold)
+  a +0 leather armour (34 gold)
+  a +0 cloak (76 gold)
+  a lightning rod (4/4) (510 gold)
+  4 stones (6 gold)
+  a +0 falchion (51 gold)
+(8, 8, D:11)
+  a +0 mace
+(8, 9, D:11)
+  a +0 dagger
+  a +0 robe
+(25, 12, D:11)
+  a +0 shortbow
+(35, -2, D:11)
+  2 boomerangs
+  a +0 leather armour
+(35, 30, D:11)
+  4 stones
+(39, 35, D:11)
+  a +0 tower shield
+(42, 7, D:11)
+  a +0 pair of gloves
+(45, 12, D:11)
+  a +3 quarterstaff of chaos
+(47, -10, D:11)
+  a +0 robe
+(47, 16, D:11)
+  a +0 mace
+(55, -8, D:11)
+  a +0 sling
+(57, 31, D:11)
+  a +0 flail
+(57, 32, D:11)
+  a +0 club
+  a +0 halberd
+  a +0 halberd
+  a +0 halberd
+(57, 33, D:11)
+  a +1 spear of pain
+  a +0 ring mail
+(61, 6, D:11)
+  a +0 rapier
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 scimitar
+  a +0 chain mail
+(1, 1, D:12)
+  a +0 club
+(2, 2, D:12)
+  a +0 whip
+  a +0 ring mail
+(7, -5, D:12)
+  a +0 robe
+(16, -2, D:12)
+  a +0 hand axe
+(16, 5, D:12)
+  a +0 ring mail
+(18, 15, D:12)
+  a +0 cloak
+(24, -9, D:12)
+  a +0 ring mail
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  a +0 dagger
+(3, 15, D:13)
+  25 gold pieces
+(6, 12, D:13)
+  a +0 longbow
+(8, 11, D:13)
+  a +0 hand axe
+(11, -8, D:13)
+  a +0 shortbow
+  a centaur corpse
+(11, -5, D:13)
+  a howler monkey corpse
+  a howler monkey corpse
+(12, 16, D:13)
+  a +0 dagger
+  a +0 robe
+(13, 15, D:13)
+  a +0 robe
+(13, 17, D:13)
+  a +0 short sword
+(19, -17, D:13)
+  a +1 shortbow of electrocution
+  (unseen)
+(40, 1, D:13)
+  2 stones
+

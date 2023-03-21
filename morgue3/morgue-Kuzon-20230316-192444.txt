@@ -1,0 +1,294 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17902798679338649241
+
+261 Kuzon the Firebug (level 5, 0/28 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Was an Initiate of Sif Muna.
+             Killed from afar by an orc wizard (9 damage)
+             ... with a puff of flame
+             ... on level 4 of the Dungeon.
+             The game lasted 00:09:02 (4080 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 4080, Time: 00:09:04
+
+Health: 0/28       AC:  6    Str:  5    XL:     5   Next: 96%
+Magic:  8/13       EV: 12    Int: 22    God:    Sif Muna [......]
+Gold:   158        SH:  0    Dex: 15    Spells: 9/12 levels left
+
+rFire   . . .      SeeInvis .    g - +2 dagger (holy)
+rCold   . . .      Faith    .    (no shield)
+rNeg    + . .      Spirit   .    q - +0 robe
+rPois   .          Reflect  .    p - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        f - +0 pair of gloves
+Will    .....                    e - +1 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                a - ring of positive energy
+MPRegen 0.13/turn                (no ring)
+
+@: about to teleport
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was noncommittal.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 158 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +2 dagger of holy wrath (weapon)
+Armour
+ e - a +1 pair of boots (worn)
+ f - a +0 pair of gloves (worn)
+ p - a +0 helmet (worn)
+ q - a +0 robe (worn)
+Jewellery
+ a - a ring of positive energy (left hand)
+ s - the amulet of Elemental Vulnerability {rPois rF-- rC-- AC+8}
+   (You took it off an orc on level 4 of the Dungeon)   
+   
+   [amulet of nothing]
+   
+   AC:        It affects your AC (+8).
+   rF:        It makes you very vulnerable to fire.
+   rC:        It makes you very vulnerable to cold.
+   rPois:     It protects you from poison.
+Scrolls
+ d - a scroll of identify
+ h - a scroll of noise
+ i - a scroll of torment
+ k - 3 scrolls of amnesia
+ l - 2 scrolls of teleportation
+ n - a scroll of fear
+ r - a scroll of vulnerability
+Potions
+ b - a potion of magic
+ c - a potion of attraction
+ j - 2 potions of degeneration
+ m - a potion of might {unknown}
+ o - a potion of lignification {unknown}
+ t - a potion of berserk rage {unknown}
+ u - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 4.4 Spellcasting
+ * Level 4.0 Conjurations
+ * Level 5.1 Fire Magic
+ + Level 1.3 Invocations
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           54%        2d7       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       16%        N/A       11%         3
+ Sublimation of Blood     Necr           4%         N/A       16%         2
+ Kindle Blastsparks       Fire/Tloc/Air  24%        2d12      16%         3
+ Flame Wave               Conj/Fire      25%        2d8       16%         4
+ Petrify                  Tmut/Erth      4%         N/A       71%         4
+ Irradiate                Conj/Tmut      6%         3d13      78%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ru
+Sif Muna
+
+Annotations:
+D:4 Blork the orc
+
+Message History
+
+The ball python misses you. The ball python closely misses you. The gnoll moves
+out of view.
+You conjure some foxfire! The ball python misses you. The ball python closely
+misses you.
+The goblin hits you with a +0 club.
+The foxfire hits the goblin.
+You kill the goblin!
+Sif Muna accepts your kill.
+The ball python closely misses you. The ball python barely misses you.
+Something hits you but does no damage.
+Something hits you.
+The ball python attacks as you move away!
+The ball python bites you but does no damage.
+The foxfire hits the ball python!
+You kill the ball python!
+Sif Muna accepts your kill.
+Found a stone staircase leading up.
+A gnoll bouda comes into view. It is wielding a +0 whip.
+A magic dart appears from out of thin air!
+The magic dart hits you. The kobold throws a stone. The stone barely misses
+you.
+Something tries to affect you, but you resist.
+The gnoll bouda shouts! You hear a shout! x3
+A gnoll comes into view. It is wielding a +0 flail.
+The orc wizard hits you with a +2 dagger of protection.
+The orc wizard attacks as you move away!
+The orc wizard misses you. The gnoll misses you.
+A gnoll comes into view. It is wielding a +0 spear.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+The orc wizard casts a spell at you.
+The puff of flame hits you! The gnoll hits you but does no damage.
+Okay, then.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc wizard.
+The orc wizard is almost dead.
+The orc wizard's fire resistance burns away.
+The gnoll bouda barks out a call to the hunt!
+The gnoll picks up the pace!
+The orc wizard gestures at you while chanting.
+The puff of flame hits you!
+You die...
+
+.#
+.#
+.#
+.#
+.#
+.#
+.##       #########
+..#########oK{....#
+.....g.o..#.#####K####
+...).####†.......go@.#
+...#.#  ###)#####.##g####
+...#.#    ..#   #...g<...
+#..#o###.####   ####.#...
+.......g...#        g#.....
+..#####..#.#        .. ....
+..#     .#          .#  ...
+..#      #          .#  ...
+..#####.
+........
+.......#
+.######.
+
+
+You could see a gnoll bouda, an orc wizard (combustible), 3 gnolls and a kobold.
+
+Vanquished Creatures
+  A howler monkey (D:4)
+  A jelly (D:4)
+  Terence (D:3)
+  Robin (D:2)
+  4 adders
+  A gnoll (D:1)
+  2 worms
+  10 orcs (D:4)
+  3 ball pythons
+  3 bats (D:1)
+  3 endoplasms
+  5 giant cockroaches
+  19 goblins
+  13 hobgoblins
+  8 kobolds
+  6 quokkas
+  2 frilled lizards (D:1)
+  5 rats
+88 creatures vanquished.
+
+Vanquished Creatures (others)
+  229 foxfires
+229 creatures vanquished.
+
+Grand Total: 317 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+     6 | D:1      | Noticed a snapping turtle
+     6 | D:1      | Noticed a lindwurm
+     7 | D:1      | Noticed a salamander
+     7 | D:1      | Noticed a rime drake
+   324 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   327 | D:1      | Learned a level 2 spell: Scorch
+   901 | D:1      | Reached XP level 3. HP: 19/19 MP: 6/9
+   904 | D:1      | Reached skill level 4 in Fire Magic
+  1606 | D:2      | Found a faded altar of an unknown god.
+  1606 | D:2      | Noticed Robin
+  1636 | D:2      | Killed Robin
+  1637 | D:2      | Reached XP level 4. HP: 24/24 MP: 0/11
+  2780 | D:3      | Found a sacrificial altar of Ru.
+  2890 | D:3      | Noticed Terence
+  2892 | D:3      | Found a shimmering blue altar of Sif Muna.
+  2930 | D:3      | Became a worshipper of Sif Muna the Loreminder
+  3370 | D:3      | Killed Terence
+  3371 | D:3      | Reached XP level 5. HP: 28/28 MP: 5/13
+  3594 | D:4      | Reached skill level 1 in Invocations
+  3606 | D:4      | Reached skill level 5 in Fire Magic
+  3953 | D:4      | Noticed Blork the orc
+  4080 | D:4      | Killed from afar by an orc wizard
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      onia_arrival_zoo_common, layout_basic, minmay_worlds_worst_comb
+D:2:      layout_loops_ring, ebering_ecumenical_altar_mist, grunt_ministairs_6,
+          hangedman_abyss_or_decor_stabs, uniq_robin
+D:3:      layout_loops_ring, nicolae_ru_path_of_blood, lemuel_tele_altar,
+          chequers_serial_rivers_micro_d, chequers_decorated_corner,
+          minmay_statues_item, chequers_serial_rivers_small_b, uniq_terence
+D:4:      minmay_thinvault, layout_loops_ring, uniq_ijyb, uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Conjurations   |     2     3  4 |  4.0
+Fire Magic     |        4     5 |  5.1
+Spellcasting   |           4    |  4.4
+Invocations    |              1 |  1.3
+Dodging        |                |  2.4
+Stealth        |                |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Cast: Foxfire           |    54 |    79 ||   133
+         Scorch            |    17 |    18 ||    35
+    Use: Scroll            |     2 |     7 ||     9
+ Armour: Robe              |     1 |     8 ||     9
+  Dodge: Dodged            |     3 |    34 ||    37
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4081 |   3929 |    152 |      0 |   3190 |   4 | 1020.2 |
+       Dungeon |   4081 |   3929 |    152 |      0 |   3190 |   4 | 1020.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1270 daAuts
+     D:3: 1136 daAuts
+     D:2: 1114 daAuts
+     D:4: 559 daAuts
+

@@ -1,0 +1,569 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16457353699767844620
+
+19182 Kuzon the Destroyer (level 12, 0/59 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 17, 2023.
+             Was an Elder of Vehumet.
+             Shot with an arrow by a centaur warrior (3 damage)
+             ... on level 13 of the Dungeon.
+             The game lasted 01:13:38 (13940 turns).
+
+Kuzon the Destroyer (Deep Elf Fire Elementalist)   Turns: 13940, Time: 01:13:39
+
+Health: 0/59       AC: 19    Str:  5    XL:     12   Next: 34%
+Magic:  25/30      EV: 11    Int: 32    God:    Vehumet [****..]
+Gold:   458        SH:  0    Dex: 15    Spells: 7/35 levels left
+
+rFire   + . .      SeeInvis .    N - staff of fire
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    D - +0 acid dragon scales
+rPois   .          Reflect  .    B - +2 hat
+rElec   .          Rampage  .    m - scarf {harm}
+rCorr   +          Harm     + .  J - +1 pair of gloves
+Will    +....                    h - +2 pair of boots
+Stlth   ++                       q - amulet of magic regeneration
+HPRegen 0.29/turn                p - +4 ring of protection
+MPRegen 0.62/turn                c - +6 ring of intelligence
+
+@: hasted, very quick
+A: iridescent scales 1, MP-powered wands
+a: Renounce Religion
+
+
+You were on level 13 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You visited 1 branch of the dungeon, and saw 13 of its levels.
+You visited 1 bazaar.
+You also visited: Ossuary.
+
+You collected 1090 gold pieces.
+You spent 632 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ R - the +12 short sword "Degauj" {elec, Fly Dex+2}
+   (You found it on level 11 of the Dungeon)   
+   
+   Dex:       It affects your dexterity (+2).
+   Fly:       It grants you flight.
+Missiles
+ g - 5 throwing nets
+Armour
+ h - a +2 pair of boots (worn)
+ m - a scarf of harm (worn)
+ B - a +2 hat (worn)
+ D - +0 acid dragon scales (worn)
+ J - a +1 pair of gloves (worn)
+ L - a +2 robe of willpower
+Magical Staves
+ N - a staff of fire (weapon)
+Jewellery
+ c - a +6 ring of intelligence (right hand)
+ p - a +4 ring of protection (left hand)
+ q - an amulet of magic regeneration (around neck)
+ E - an amulet of regeneration
+ Q - a +6 ring of dexterity
+Wands
+ n - a wand of flame (31)
+ H - a wand of charming (7)
+ M - a wand of mindburst (6)
+ P - a wand of roots (7)
+Scrolls
+ e - 2 scrolls of vulnerability
+ f - 2 scrolls of torment
+ k - a scroll of fog
+ o - 2 scrolls of fear
+ t - 4 scrolls of enchant weapon
+ u - 3 scrolls of noise
+ w - 4 scrolls of identify
+ y - 3 scrolls of poison
+ A - a scroll of summoning
+ G - a scroll of blinking
+ I - 2 scrolls of amnesia
+ K - 2 scrolls of immolation
+Potions
+ a - 2 potions of might
+ b - 3 potions of magic
+ d - 3 potions of attraction
+ i - 5 potions of curing
+ j - 2 potions of brilliance
+ r - 11 potions of degeneration
+ s - 2 potions of mutation
+ z - a potion of invisibility
+ C - 3 potions of ambrosia
+ F - 2 potions of flight
+ O - a potion of cancellation
+ T - 2 potions of lignification {unknown}
+Miscellaneous
+ v - a phantom mirror
+ S - a lightning rod (4/4)
+
+
+   Skills:
+ + Level 1.1 Armour
+ + Level 3.3 Dodging
+ - Level 2.7 Stealth
+ + Level 12.2 Spellcasting
+ + Level 13.8 Conjurations
+ + Level 13.7 Fire Magic
+ + Level 5.4 Earth Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     0%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Flame Wave            Conj/Fire      100%       2d21      1%          4
+d - Passwall              Tmut/Erth      30%        N/A       2%          2
+e - Frozen Ramparts       Ice            38%        1d6       4%          3
+f - Arcjolt               Conj/Air       29%        1d39      2%          5
+g - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+h - Starburst             Conj/Fire      51%        6d14      1%          6
+i - Poisonous Vapours     Pois/Air       38%        N/A       2%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       0%          1
+ Sandblast                Erth           100%       2d20      1%          1
+ Inner Flame              Hex/Fire       76%        N/A       1%          3
+ Kindle Blastsparks       Fire/Tloc/Air  100%       2d18      1%          3
+ Mephitic Cloud           Conj/Pois/Air  49%        N/A       1%          3
+ Irradiate                Conj/Tmut      29%        3d21      2%          5
+ Apportation              Tloc           38%        N/A       5%          1
+ Necrotise                Necr           76%        1d7       5%          1
+ Sting                    Tmut/Pois      76%        1d6       5%          1
+ Summon Small Mammal      Summ           76%        N/A       5%          1
+ Call Imp                 Summ           19%        N/A       8%          2
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  38%        N/A       8%          2
+ Olgreb's Toxic Radiance  Pois           19%        N/A       13%         4
+ Portal Projectile        Hex/Tloc       38%        N/A       16%         3
+ Tukima's Dance           Hex            19%        N/A       16%         3
+ Blade Hands              Tmut           9%         N/A       82%         5
+ Dragon Form              Tmut           9%         N/A       100%        7
+ Ozocubu's Refrigeration  Ice            9%         4d9       100%        7
+ Ignition                 Fire           51%        3d14      30%         8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (13/15)            Temple (0/1) D:4            Lair (0/5) D:11        
+    Orc (0/2) D:10        Ossuary (visited)         
+Vaults: D:13-14     
+
+Altars:
+Cheibriados
+Gozag
+Nemelex Xobeh
+Ru
+Uskayaw
+Vehumet
+Yredelemnul
+
+Shops:
+D:2 *   D:11 **
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are partially covered in iridescent scales. (AC +2)
+You expend magic power (3 MP) to strengthen your wands.
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f - centaur
+Aim: a centaur, wielding a +0 shortbow (87% to hit)
+The stone arrow hits the centaur!!
+You kill the centaur!
+Vehumet accepts your kill.
+You feel your power returning.
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - centaur warrior
+Aim: a centaur warrior, wielding a +0 shortbow (84% to hit)
+The stone arrow misses the centaur warrior.
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - centaur warrior
+Aim: a centaur warrior, wielding a +0 shortbow (84% to hit)
+The stone arrow hits the centaur warrior!!
+The centaur warrior is heavily wounded.
+The centaur warrior shoots an arrow. The arrow hits you!!
+* * * LOW HITPOINT WARNING * * *
+The centaur zaps a wand. The roots erupt in riotous growth!
+The grasping roots grab you!
+The grasping roots constrict you.
+* * * LOW HITPOINT WARNING * * *
+You hear a shout!
+Blink to where?
+Press: ? - help, Dir - move target, p - centaur warrior
+There's something in the way.
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Okay, then.
+Blink to where?
+Press: ? - help, Dir - move target, p - centaur warrior
+You escape the roots grasp.
+As you read the scroll of blinking, it crumbles to dust.
+The centaur warrior shoots an arrow. The arrow hits you.
+You die...
+
+                ......{cc......#...
+              .###.....c.#.#.#.#...
+              .# #.#..#c#..........
+             ..##.....#....#.#.#...
+        #####..##..#..#.........###
+         ......c....c.#...#.#..##..
+         ##..#....... ..........#.#
+##########....##...# ###.#...#.##.#
+.........#...§##...#   #.##.##.##.#
+.#######.#.....c)..#   #.##.......#
+.#  #.##.#....#....#   #.......##.#
+.#  #.##.########@.#   ###...#.##..
+.#  #.##.......#†..######......cc..
+.#  #.########..............<..##..
+.#  #.# #......................##..
+.#  #.# ##..................c..###.
+.#  #.#  #######...######...§.## #.
+.#  #)#        #...#    ##...##  #.
+##  #.#        #...#     ##.##   ##
+    #.#        #...#     ##.#
+#####.#        #...#     #..#
+#.....#  #######...#     #.##    ##
+..#####  #........##     #.#     #.
+
+
+You could see a centaur warrior and a centaur.
+
+Vanquished Creatures
+  Erolcha (D:9)
+  A centaur warrior (D:13)
+  3 two-headed ogres
+  The ghost of Kuzon the Arsonist, a journeyman DEFE of Qazlal (D:11)
+  A fire crab (shapeshifter) (D:13)
+  Pikel (D:6)
+  An ugly thing (D:12)
+  A manticore (D:12)
+  3 gargoyles
+  Maggie (D:6)
+  An unseen horror (D:11)
+  5 trolls
+  5 shadows
+  A vampire (D:11)
+  2 wraiths
+  13 yaks
+  Grum (D:9)
+  2 basilisks
+  6 vampire mosquitoes (D:11)
+  2 acid dragons
+  The ghost of Kuzon the Firebug, an amateur DEFE (D:4)
+  A water moccasin (D:7)
+  7 orc warriors
+  3 black bears
+  A swamp drake (D:10)
+  An ice beast (D:7)
+  3 sky beasts (D:7)
+  7 centaurs
+  4 wolves (D:9)
+  2 ogres
+  2 phantoms
+  A kobold brigand (D:7)
+  Blork the orc (D:6)
+  2 gnoll sergeants
+  5 bullfrogs
+  2 scorpions
+  10 wights
+  31 killer bees
+  4 howler monkeys
+  2 jellies (D:6)
+  10 orc priests
+  9 hounds
+  Crazy Yiuf (D:5)
+  2 gnoll boudas
+  14 orc wizards
+  3 iguanas
+  2 mummies
+  32 gnolls
+  5 adders
+  2 shadow imps
+  2 white imps (D:5)
+  A worm (D:12)
+  4 dart slugs
+  48 orcs
+  3 spectral bats (Ossuary)
+  5 ball pythons
+  8 bats
+  8 endoplasms
+  6 giant cockroaches
+  12 gnoll zombies (Ossuary)
+  9 goblins
+  9 hobgoblins
+  4 quokkas
+  5 bat simulacra (Ossuary)
+  4 frilled lizards
+  4 goblin simulacra (Ossuary)
+  4 goblin zombies (Ossuary)
+  6 hobgoblin zombies (Ossuary)
+  11 kobolds
+  4 kobold simulacra (Ossuary)
+  2 kobold zombies (Ossuary)
+  6 orc zombies (Ossuary)
+  4 rats (D:1)
+  6 spectral goblins (Ossuary)
+  2 spectral kobolds (Ossuary)
+  2 spectral rats (Ossuary)
+401 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  5 foxfires
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:11)
+  1232 foxfires
+  A plant (D:7)
+1234 creatures vanquished.
+
+Grand Total: 1640 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   166 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   221 | D:1      | Learned a level 2 spell: Scorch
+   560 | D:1      | Reached XP level 3. HP: 19/19 MP: 6/9
+  1174 | D:2      | Found Ikho's General Store.
+  1502 | D:2      | Found a faded altar of an unknown god.
+  2295 | D:3      | Reached XP level 4. HP: 24/24 MP: 8/11
+  2928 | D:4      | Found an opulent altar of Gozag.
+  2956 | D:4      | Found a transporter.
+  2956 | D:4      | Noticed Kuzon's ghost (amateur DEFE)
+  2957 | D:4      | Found a transporter.
+  2975 | D:4      | Noticed a scorpion
+  2976 | D:4      | You fall into a shaft and drop 3 floors!
+  3065 | D:7      | Noticed a sky beast
+  3071 | D:7      | Killed a sky beast
+  3072 | D:7      | Reached XP level 5. HP: 20/28 MP: 9/13
+  3114 | D:7      | Reached skill level 5 in Fire Magic
+  3117 | D:7      | Reached XP level 6. HP: 15/32 MP: 8/14
+  3183 | D:7      | Found a radiant altar of Vehumet.
+  3190 | D:7      | Noticed a water moccasin
+  3197 | D:7      | Killed a water moccasin
+  3225 | D:7      | Became a worshipper of Vehumet
+  3236 | D:7      | Learned a level 4 spell: Flame Wave
+  3239 | D:7      | Learned a level 2 spell: Passwall
+  3242 | D:7      | Noticed an orc warrior
+  3250 | D:6      | Noticed an orc warrior
+  3257 | D:6      | Killed an orc warrior
+  3258 | D:6      | Reached skill level 5 in Spellcasting
+  3258 | D:6      | Reached skill level 5 in Conjurations
+  3258 | D:6      | Reached XP level 7. HP: 36/36 MP: 10/16
+  3351 | D:6      | Noticed Blork the orc
+  3357 | D:6      | Killed Blork the orc
+  3462 | D:5      | Entered Level 5 of the Dungeon
+  3592 | D:5      | Reached * piety under Vehumet
+  3592 | D:5      | Offered knowledge of Kiss of Death by Vehumet.
+  3593 | D:5      | Reached XP level 8. HP: 41/41 MP: 15/19
+  3767 | D:5      | Found a sand-covered staircase.
+  3777 | Ossuary  | Entered an ossuary
+  3791 | Ossuary  | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  3791 | Ossuary  | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  3939 | Ossuary  | Reached ** piety under Vehumet
+  3948 | Ossuary  | Offered knowledge of Searing Ray by Vehumet.
+  4225 | Ossuary  | Offered knowledge of Momentum Strike by Vehumet.
+  4272 | D:5      | Found a runed translucent door.
+  4501 | D:4      | Found a staircase to the Ecumenical Temple.
+  4517 | D:4      | Reached *** piety under Vehumet
+  4530 | D:4      | Identified the +5 short sword of Dissent {freeze, rElec rC+
+                  | Dex-2}
+  4966 | D:4      | Killed Kuzon's ghost
+  5331 | D:5      | Offered knowledge of Frozen Ramparts by Vehumet.
+  5340 | D:5      | Learned a level 3 spell: Frozen Ramparts
+  5565 | D:5      | Reached XP level 9. HP: 45/45 MP: 19/22
+  5666 | D:5      | Noticed Crazy Yiuf
+  5842 | D:5      | Killed Crazy Yiuf
+  5919 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  5961 | D:6      | Reached **** piety under Vehumet
+  6136 | D:6      | Noticed Maggie
+  6152 | D:6      | Killed Maggie
+  6152 | D:6      | Offered knowledge of Arcjolt by Vehumet.
+  6404 | D:6      | Noticed Pikel
+  6421 | D:6      | Killed Pikel
+  6575 | D:7      | Learned a level 5 spell: Arcjolt
+  6617 | D:7      | Reached skill level 10 in Fire Magic
+  6746 | D:7      | Learned a level 3 spell: Stone Arrow
+  6851 | D:7      | Reached skill level 10 in Conjurations
+  6887 | D:7      | Reached XP level 10. HP: 40/50 MP: 19/24
+  7110 | D:7      | Found a sacrificial altar of Ru.
+  7124 | D:7      | Found a basalt altar of Yredelemnul.
+  7474 | D:8      | Noticed a two-headed ogre
+  7477 | D:8      | Killed a two-headed ogre
+  7507 | D:8      | Reached ***** piety under Vehumet
+  7512 | D:8      | Offered knowledge of Sticky Flame by Vehumet.
+  8040 | D:8      | Found a flagged portal.
+  8218 | D:9      | Reached skill level 1 in Earth Magic
+  8437 | D:9      | Noticed Erolcha
+  8470 | D:9      | Killed Erolcha
+  8471 | D:9      | Reached skill level 10 in Spellcasting
+  8526 | D:9      | Noticed a two-headed ogre
+  8537 | D:9      | Killed a two-headed ogre
+  8684 | D:9      | Reached XP level 11. HP: 54/54 MP: 19/27
+  8766 | D:9      | Noticed Grum
+  8892 | D:9      | Killed Grum
+  9206 | D:10     | Entered Level 10 of the Dungeon
+  9207 | D:10     | Found a snail-covered altar of Cheibriados.
+  9271 | D:10     | Found a staircase to the Orcish Mines.
+  9698 | D:10     | Noticed a two-headed ogre
+  9709 | D:10     | Killed a two-headed ogre
+  9812 | D:10     | Found a hide-covered altar of Uskayaw.
+ 10672 | D:11     | Noticed Kuzon's ghost (journeyman DEFE)
+ 10675 | D:11     | Found a transporter.
+ 10758 | D:11     | Offered knowledge of Starburst by Vehumet.
+ 10893 | D:11     | Found a staircase to the Lair.
+ 10983 | D:11     | Found a flickering gateway to a bazaar.
+ 10992 | Bazaar   | Entered a bazaar
+ 10992 | Bazaar   | Found Letaqaumu's Antique Weapon Shoppe.
+ 10992 | Bazaar   | Found Duucex's Book Shoppe.
+ 11010 | Bazaar   | Found Ocheudop's Antique Armour Boutique.
+ 11021 | Bazaar   | Found Suphon's Magic Scroll Emporium.
+ 11029 | Bazaar   | Found Poqiugh's General Store.
+ 11063 | Bazaar   | Bought a scroll of teleportation for 36 gold pieces
+ 11063 | Bazaar   | Bought a scroll of identify for 24 gold pieces
+ 11073 | Bazaar   | Bought a scroll of blinking for 90 gold pieces
+ 11073 | Bazaar   | Bought 2 scrolls of identify for 48 gold pieces
+ 11224 | D:11     | Identified the +12 short sword "Degauj" {elec, Fly Dex+2}
+ 11265 | D:11     | Found Zidet's General Store.
+ 11273 | D:11     | Bought a scroll of fear for 44 gold pieces
+ 11273 | D:11     | Bought a scroll of identify for 22 gold pieces
+ 11273 | D:11     | Bought a scroll of blinking for 82 gold pieces
+ 11273 | D:11     | Bought a scroll of enchant armour for 82 gold pieces
+ 11284 | D:11     | Noticed a boulder beetle
+ 11556 | D:11     | Learned a level 6 spell: Starburst
+ 11649 | D:11     | Found a transporter.
+ 11720 | D:11     | Found Ziesubb's General Store.
+ 11724 | D:11     | Bought a scroll of identify for 34 gold pieces
+ 11724 | D:11     | Bought a scroll of identify for 34 gold pieces
+ 11724 | D:11     | Bought a potion of brilliance for 68 gold pieces
+ 11900 | D:11     | Learned a level 2 spell: Poisonous Vapours
+ 12148 | D:11     | Killed Kuzon's ghost
+ 12149 | D:11     | Reached XP level 12. HP: 45/59 MP: 21/29
+ 12405 | D:12     | Reached skill level 5 in Earth Magic
+ 12726 | D:12     | Found a snail-covered altar of Cheibriados.
+ 13056 | D:13     | Noticed a centaur warrior
+ 13059 | D:13     | Killed a centaur warrior
+ 13313 | D:13     | Noticed a centaur warrior
+ 13320 | D:13     | Noticed a centaur warrior
+ 13604 | D:13     | Reached skill level 1 in Armour
+ 13804 | D:11     | Bought a scroll of fog for 68 gold pieces
+ 13940 | D:13     | Shot with an arrow by a centaur warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_chessboard, layout_basic
+D:2:      layout_rooms, serial_shops, nicolae_shop_trees,
+          shapermc_ecumenical_altar_ellora
+D:3:      layout_loops_ring
+D:4:      layout_loops_ring, grunt_gozag_breadcrumbs, temple_statues,
+          gammafunk_ghost_arena, kennysheep_generic_room_11
+D:5:      layout_basic, gup_ossuary_entry_pyramid,
+          ebering_dispersal_statue_hall, grunt_ministairs_2,
+          uniq_crazy_yiuf_cottage
+D:6:      layout_rooms, lemuel_tele_altar, uniq_blork_the_orc, uniq_maggie,
+          uniq_pikel
+D:7:      layout_cave_pools, mainiacjoe_overflow_swirl, serial_park,
+          serial_park_tiny_1, serial_park_square3 [serial_park_minivault_5x5_4],
+          serial_park_square3 [serial_park_minivault_5x5_8], serial_park_gazebo
+          [serial_park_minivault_5x5_7], st_stairs_9, chequers_big_river
+D:8:      nicolae_cairo_tiling_large_dashed, layout_loops_ring, enter_bailey_6,
+          nicolae_zen_rock_garden
+D:9:      layout_long_grid, uniq_grum, uniq_erolcha
+D:10:     layout_irregular_city, mainiacjoe_overflow_catwalk_spiral, erik_orc_1,
+          minmay_strange_pillars, serial_bayou_pond_e,
+          eino_small_chamber_without_monster, minmay_misc_feat_cross
+D:11:     layout_basic, erik_lair_island, serial_shops, bzr_entry_gold, shop,
+          shop_fountains, gammafunk_ghost_arena
+D:12:     layout_long_grid, cheibrodos_worm_habitat
+D:13:     layout_loops_cross, serial_co_window_serial, co_window_corner_a,
+          co_window_paths_b, co_window_paths_b, co_window_of_opportunity_a,
+          co_window_corner_a, co_window_corner_b, co_window_of_opportunity_b,
+          co_window_corner_ca, co_window_unsneaky_path_e, co_window_corner_b,
+          co_window_2corner, co_window_4corner_b, co_window_paths_d,
+          glass_columns_a, glass_columns_a
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Conjurations   |        2  3  4  5  6  8 10 11 13    | 13.8
+Fire Magic     |        4     5  6  7  8 10 11 13    | 13.7
+Spellcasting   |           4     5  6  7  8 10 11 12 | 12.2
+Earth Magic    |                             4     5 |  5.4
+Dodging        |                                   3 |  3.3
+Armour         |                                   1 |  1.1
+Stealth        |                                     |  2.7
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Dagger            |     1 |       |       |       ||     1
+         Staff             |       |       |       |     1 ||     1
+   Cast: Foxfire           |    82 |    51 |   348 |   215 ||   696
+         Scorch            |    14 |     5 |    58 |    21 ||    98
+         Flame Wave        |       |       |     5 |       ||     5
+         Stone Arrow       |       |       |     2 |   212 ||   214
+         Passwall          |       |       |     1 |     1 ||     2
+         Arcjolt           |       |       |       |     4 ||     4
+         Poisonous Vapours |       |       |       |     1 ||     1
+    Use: Scroll            |     2 |     1 |     4 |    20 ||    27
+         Potion            |       |     3 |     2 |    13 ||    18
+ Armour: Robe              |     8 |     7 |    34 |    31 ||    80
+         Troll leather arm |       |       |       |     5 ||     5
+         Acid dragon scale |       |       |       |    10 ||    10
+  Dodge: Dodged            |    11 |    12 |    43 |    45 ||   111
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  13949 |  13258 |    691 |    792 |   9343 |  15 |  929.9 |
+       Dungeon |  13349 |  12658 |    691 |    780 |   9047 |  13 | 1026.8 |
+        Bazaar |    119 |    119 |      0 |      0 |     52 |   1 |  119.0 |
+       Ossuary |    479 |    479 |      0 |     12 |    244 |   1 |  479.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+    D:11: 1702 daAuts
+    D:10: 1242 daAuts
+     D:5: 1203 daAuts
+     D:1: 1124 daAuts
+     D:7: 1097 daAuts
+     D:3: 1061 daAuts
+    D:12: 1055 daAuts
+     D:4: 951 daAuts
+     D:6: 913 daAuts
+     D:9: 907 daAuts
+     D:8: 882 daAuts
+    D:13: 616 daAuts
+     D:2: 589 daAuts
+ Ossuary: 479 daAuts
+  Bazaar: 119 daAuts
+

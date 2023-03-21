@@ -1,0 +1,123 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 3993051026252165851
+
+0 Kuzon the Firebug (level 1, 10/10 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:08 (0 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)         Turns: 0, Time: 00:00:09
+
+Health: 10/10      AC:  2    Str:  5    XL:     1   Next: 0%
+Magic:  6/6        EV: 12    Int: 19    God:    
+Gold:   0          SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.21/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.4 Stealth
+ + Level 3.0 Spellcasting
+ + Level 1.1 Conjurations
+ + Level 3.2 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      44%        2x1d6     6%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           30%        2d7       6%          2
+ Inner Flame              Hex/Fire       9%         N/A       24%         3
+ Kindle Blastsparks       Fire/Tloc/Air  14%        2d11      28%         3
+ Flame Wave               Conj/Fire      11%        2d6       52%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Kuzon the Deep Elf Fire Elementalist.
+They say the Orb of Zot lies within this dungeon, but they say a lot of things.
+Press ? for a list of commands and other information.
+Found 8 gold pieces.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+~~~~~...#
+........#
+........#
+........#
+........#
+.$......#
+........#
+.......@#
+#########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+     0 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_river_ford, layout_rooms
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+       Dungeon |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+

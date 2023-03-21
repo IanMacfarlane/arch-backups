@@ -1,0 +1,356 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6626849623159469030
+
+695 Kuzon the Firebug (level 7, -4/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 17, 2023.
+             Was an Initiate of Vehumet.
+             Slain by an ice beast (14 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:14:08 (6030 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 6030, Time: 00:14:08
+
+Health: -4/36      AC:  2    Str:  5    XL:     7   Next: 37%
+Magic:  13/17      EV: 12    Int: 22    God:    Vehumet [......]
+Gold:   24         SH:  0    Dex: 15    Spells: 0/17 levels left
+
+rFire   . . .      SeeInvis .    c - +1 dagger (protect)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   +          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                q - ring of poison resistance
+MPRegen 0.15/turn                j - ring of wizardry
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+You also visited: Ossuary.
+
+You collected 276 gold pieces.
+You spent 252 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ c - a +1 dagger of protection (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ f - a ring of positive energy
+ j - a ring of wizardry (right hand)
+ m - a ring of resist corrosion
+ q - a ring of poison resistance (left hand)
+Wands
+ o - a wand of flame (17)
+Scrolls
+ g - 2 scrolls of blinking
+ h - 3 scrolls of teleportation
+ k - a scroll of noise
+ r - a scroll of magic mapping
+ t - 3 scrolls of brand weapon
+Potions
+ b - a potion of magic
+ d - a potion of brilliance
+ e - 4 potions of curing
+ i - a potion of haste
+ l - a potion of heal wounds {unknown}
+ n - a potion of mutation {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 5.7 Spellcasting
+ - Level 4.4 Conjurations
+ * Level 6.7 Fire Magic
+ * Level 2.1 Air Magic
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           72%        2d8       1%          2
+c - Inner Flame           Hex/Fire       21%        N/A       2%          3
+d - Airstrike             Air            7%         2d(2-18)  16%         4
+e - Swiftness             Air            15%        N/A       4%          3
+f - Flame Wave            Conj/Fire      31%        2d9       4%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Shock                    Conj/Air       80%        1d8       1%          1
+ Kindle Blastsparks       Fire/Tloc/Air  38%        2d13      3%          3
+ Dazzling Flash           Conj/Hex       32%        N/A       4%          3
+ Ensorcelled Hibernation  Hex/Ice        12%        N/A       6%          2
+ Passwall                 Tmut/Erth      5%         N/A       6%          2
+ Sublimation of Blood     Necr           6%         N/A       6%          2
+ Wereblood                Tmut           6%         N/A       6%          2
+ Gell's Gravitas          Tloc           6%         N/A       12%         3
+ Teleport Other           Tloc           6%         N/A       12%         3
+ Leda's Liquefaction      Hex/Erth       3%         N/A       34%         4
+ Silence                  Hex/Air        5%         N/A       52%         5
+ Agony                    Necr           6%         N/A       67%         5
+ Lee's Rapid Deconstruct  Erth           3%         3d5*      67%         5
+ Dispersal                Tloc           3%         N/A       99%         6
+ Statue Form              Tmut/Erth      4%         N/A       99%         6
+ Summon Hydra             Summ           3%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:4         Ossuary (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Zin
+The Shining One
+
+Shops:
+D:1 (*   D:5 :
+
+Message History
+
+An ice beast comes into view.
+A wave of flame ripples out! The flame wave engulfs the orc priest.
+You kill the orc priest!
+Vehumet accepts your kill.
+The flame wave engulfs the orc.
+The orc is heavily wounded.
+You finish channelling waves of flame.
+You hear a shout!
+The orc barely misses you.
+The orc hits you but does no damage.
+You climb upwards.
+There is a stone staircase leading down here.
+Okay, then.
+Casting: Flame Wave (quite dangerous; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc.
+You kill the orc!
+Vehumet accepts your kill.
+HP restored.
+Magic restored.
+Done exploring.
+You climb downwards. The ice beast hits you. The ice beast freezes you!
+There is a stone staircase leading up here.
+The ice beast hits you. The ice beast freezes you!
+You climb upwards.
+There is a stone staircase leading down here.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the ice beast. The ice beast melts!
+The ice beast is moderately wounded.
+The ice beast's fire resistance burns away.
+The ice beast closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the ice beast. The ice beast melts!
+The ice beast is almost dead.
+The ice beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The ice beast freezes you!
+You die...
+
+.........######.#####.########....#
+...................##.#      #.##.#
+.........######.##.##.#      #..#.#
+.........#    #.##.##.#      ##<#.#
+.........#    #.##.##.###########.#
+.##############.##..........(.....#
+.#        #.....#####.#..##########
+.#        #.......# #######
+.#        #.......### ##_##
+.#        #....##...# 8...8#
+.#        #....##[Y###[....#
+.#        #......@.##_....._
+##        #.........##.....##
+          #.........##8...8#
+          #.........##..$..##
+          ####......#8.....8
+             ######.##.....#
+                  #.# 8...8#
+                  #.# ##>## ###
+       ########   #.# ##### #.#
+       #......#####.# #..#  #.#
+       #.####.#.....###.##  #.#
+       #.#  #.#.####....#   #.#
+
+
+You could see an ice beast (combustible).
+
+Vanquished Creatures
+  An ice beast (D:5)
+  An ogre (D:5)
+  A phantom (D:4)
+  3 hounds
+  2 jellies (D:5)
+  2 orc priests
+  An iguana (D:5)
+  An orc wizard (D:5)
+  3 gnolls (D:4)
+  5 adders
+  A white imp (D:5)
+  An ufetubus (D:5)
+  A worm (D:3)
+  4 dart slugs
+  8 orcs
+  5 endoplasms
+  A giant cockroach (D:3)
+  6 goblins
+  7 hobgoblins
+  3 jackals (D:3)
+  6 kobolds
+  3 quokkas
+  7 ball pythons
+  6 bats
+  2 frilled lizards (D:1)
+  2 quokka zombies (D:5)
+83 creatures vanquished.
+
+Vanquished Creatures (others)
+  282 foxfires
+282 creatures vanquished.
+
+Grand Total: 365 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   399 | D:1      | Found Zeiruyhi's Assorted Antiques.
+   602 | D:1      | Reached XP level 2. HP: 10/15 MP: 5/8
+   607 | D:1      | Learned a level 2 spell: Scorch
+   632 | D:1      | Found Kuidghuo's Weapon Emporium.
+  1411 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/9
+  1543 | D:2      | Reached skill level 4 in Fire Magic
+  1858 | D:2      | Learned a level 3 spell: Inner Flame
+  1862 | D:2      | Learned a level 3 spell: Kindle Blastsparks
+  1966 | D:2      | Reached XP level 4. HP: 24/24 MP: 8/11
+  3113 | D:4      | Noticed a phantom
+  3117 | D:4      | Killed a phantom
+  3118 | D:4      | Reached XP level 5. HP: 28/28 MP: 7/13
+  3262 | D:4      | Reached skill level 5 in Fire Magic
+  3798 | D:4      | Found a staircase to the Ecumenical Temple.
+  3802 | D:4      | Reached XP level 6. HP: 32/32 MP: 10/14
+  3810 | Temple   | Entered the Ecumenical Temple
+  3974 | Temple   | Became a worshipper of Vehumet
+  4175 | D:5      | Entered Level 5 of the Dungeon
+  4209 | D:5      | Found a stormy altar of Qazlal.
+  4210 | D:5      | Found an ornate altar of the Wu Jian Council.
+  4214 | D:5      | Found a snail-covered altar of Cheibriados.
+  4298 | D:5      | Noticed an ice beast
+  4435 | D:5      | Found Huthueqaeg's Book Boutique.
+  4454 | D:5      | Found a sand-covered staircase.
+  4468 | D:5      | Learned a level 3 spell: Swiftness
+  4550 | Ossuary  | Entered an ossuary
+  4683 | D:5      | Reached skill level 5 in Spellcasting
+  4754 | D:5      | Reached skill level 6 in Fire Magic
+  4754 | D:5      | Reached skill level 1 in Air Magic
+  4760 | D:5      | Reached XP level 7. HP: 36/36 MP: 5/16
+  5690 | D:1      | Bought a scroll of identify for 56 gold pieces
+  5690 | D:1      | Bought a scroll labelled NOEMPI LUIXARE for 28 gold pieces
+  5690 | D:1      | Bought a scroll labelled XOMMAJISAH for 28 gold pieces
+  5690 | D:1      | Bought a scroll of identify for 56 gold pieces
+  5690 | D:1      | Bought 3 scrolls labelled GUITUBL FICK for 84 gold pieces
+  5929 | D:6      | Learned a level 4 spell: Flame Wave
+  5935 | D:6      | Learned a level 4 spell: Airstrike
+  6030 | D:5      | Slain by an ice beast
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_boxes_within_box, layout_basic, serial_co_window_serial,
+          co_window_of_opportunity_a, co_window_of_opportunity_a,
+          co_window_paths_a, co_window_corner_a, co_window_of_opportunity_a,
+          co_window_of_opportunity_a, co_window_corner_ca, co_window_corner_b,
+          co_window_cross_3, co_window_of_opportunity_c,
+          co_window_of_opportunity_c, co_window_paths_e, co_window_4corner_b,
+          glass_columns_b, glass_columns_c, glass_columns_a, glass_columns_c,
+          serial_shops, nicolae_shop_statue_plus,
+          nicolae_shop_bloodbath_and_beyond, st_stairs_2
+D:2:      layout_basic
+D:3:      layout_rooms
+D:4:      layout_cave_pods, minmay_temple_entry_proselytizer
+D:5:      layout_basic, nicolae_overflow_hidden_temple, enter_ossuary_4,
+          serial_shops, shop
+D:6:      layout_gridville, lemuel_doored_altar, dk_yredelemnul_ordeal,
+          nicolae_dithmenos_shadow_blocks, feat_on_display, uniq_maggie,
+          uniq_blork_the_orc
+Temple:   nicolae_temple_two_arcs
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     2     3  4       |  4.4
+Fire Magic     |        4     5  6    |  6.7
+Spellcasting   |           4     5    |  5.7
+Air Magic      |                 1  2 |  2.1
+Dodging        |                      |  2.4
+Stealth        |                      |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Dagger            |     1 |       |       ||     1
+   Cast: Foxfire           |    74 |    84 |    13 ||   171
+         Scorch            |     3 |    21 |     8 ||    32
+         Inner Flame       |       |     1 |       ||     1
+         Flame Wave        |       |       |     1 ||     1
+    Use: Scroll            |     2 |     8 |     5 ||    15
+ Armour: Robe              |     3 |     3 |     1 ||     7
+  Dodge: Dodged            |     4 |    12 |     3 ||    19
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6032 |   5419 |    613 |     62 |   4534 |   8 |  754.0 |
+       Dungeon |   5850 |   5245 |    605 |     62 |   4411 |   6 |  975.0 |
+        Temple |    173 |    165 |      8 |      0 |    123 |   1 |  173.0 |
+       Ossuary |      8 |      8 |      0 |      0 |      0 |   1 |    8.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1612 daAuts
+     D:5: 1420 daAuts
+     D:4: 1022 daAuts
+     D:2: 1022 daAuts
+     D:3: 746 daAuts
+  Temple: 173 daAuts
+     D:6: 25 daAuts
+ Ossuary: 8 daAuts
+

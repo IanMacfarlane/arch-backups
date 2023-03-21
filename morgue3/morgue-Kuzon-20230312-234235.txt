@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 8565441697951787818
+
+826 Kuzon the Thaumaturge (level 7, -20/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 12, 2023.
+             Killed by an exploding centaur (38 damage)
+             ... ignited by their inner flame
+             ... on level 5 of the Dungeon.
+             The game lasted 00:30:10 (3864 turns).
+
+Kuzon the Thaumaturge (Deep Elf Fire Elementalist)  Turns: 3864, Time: 00:30:11
+
+Health: -20/36     AC:  3    Str:  5    XL:     7   Next: 64%
+Magic:  10/20      EV: 13    Int: 22    God:    
+Gold:   230        SH:  0    Dex: 15    Spells: 12/22 levels left
+
+rFire   . . .      SeeInvis .    o - +1 short sword
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +1 robe
+rPois   +          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       h - amulet of magic regeneration
+HPRegen 0.26/turn                (no ring)
+MPRegen 0.57/turn                (no ring)
+
+@: no status effects
+A: mutation resistance 1, poison resistance
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 230 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ o - a +1 short sword (weapon)
+Armour
+ a - a +1 robe (worn)
+Jewellery
+ h - an amulet of magic regeneration (around neck)
+ q - an amulet of guardian spirit
+Scrolls
+ g - 2 scrolls of vulnerability
+ m - 2 scrolls of identify
+Potions
+ b - a potion of magic
+ e - a potion of ambrosia
+ f - 2 potions of might
+ i - a potion of flight
+
+
+   Skills:
+ - Level 2.8 Dodging
+ - Level 2.9 Stealth
+ + Level 8.3 Spellcasting
+ + Level 2.0 Conjurations
+ + Level 0.4 Hexes
+ + Level 7.0 Fire Magic
+
+
+You had 12 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           80%        2d9       1%          2
+c - Inner Flame           Hex/Fire       25%        N/A       4%          3
+d - Flame Wave            Conj/Fire      29%        2d9       11%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Kindle Blastsparks       Fire/Tloc/Air  38%        2d13      9%          3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are somewhat resistant to further mutation.
+Your system is resistant to poisons. (rPois)
+
+Message History
+
+The orc's fire resistance burns away.
+A centaur comes into view.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc. The orc is burned terribly!
+You kill the orc!
+The centaur wields a +0 shortbow. The centaur shoots an arrow. The arrow hits
+you.
+There is an open door here.
+The centaur shoots an arrow. The arrow hits you. The centaur shoots an arrow.
+The arrow hits you.
+There is an open door here.
+The centaur shoots an arrow. The arrow closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (dangerous; 4% risk of failure)
+Press: ? - help, Dir - move target, f - centaur
+Aim: a centaur, wielding a +0 shortbow (chance to affect: 80%)
+The centaur barely resists. The centaur shoots an arrow. The arrow closely
+misses you.
+Casting: Inner Flame (dangerous; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (dangerous; 4% risk of failure)
+Press: ? - help, Dir - move target, f/p - centaur
+Aim: a centaur, wielding a +0 shortbow (chance to affect: 80%)
+The centaur is filled with an inner flame.
+The centaur shoots an arrow. The arrow hits you!
+Casting: Inner Flame (dangerous; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the centaur. Flame seeps out of the centaur.
+The centaur is moderately wounded.
+The centaur's fire resistance burns away.
+The centaur is engulfed in blazing flames.
+Flame seeps out of the centaur. The centaur unwields a +0 shortbow. The centaur
+closely misses you.
+The centaur kicks you but does no damage.
+Unknown command.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the centaur. The centaur is burned terribly!
+The centaur explodes!
+The fiery explosion engulfs you!!!
+Ouch! That really hurt!
+You die...
+
+                           .
+                           .
+#                          .
+#.## #####    ########## #+#
+#....#...#    #........# #.#
+#....#...#    #........# #.#
++...c.... #####........###>#
+#.......###...#............#
+'.)..)).'.000.'............(
+#.).....###00.#.........#..#
+#.......# #@..#.........#..#
+#...../.# #...########..#..#
+........# #####      ##.#..#
+........#             #.#..#
+........#             #.#..#
+........#               ...
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Eustachio (D:5)
+  An ice beast (D:5)
+  A black bear (D:3)
+  A centaur (D:5)
+  A phantom (D:4)
+  A jelly (D:5)
+  An orc priest (D:5)
+  2 hounds
+  Ijyb (D:5)
+  3 iguanas
+  An orc wizard (D:5)
+  9 adders
+  A worm (D:2)
+  4 dart slugs
+  14 orcs
+  10 endoplasms
+  2 goblins
+  12 hobgoblins
+  4 jackals
+  4 kobolds
+  3 quokkas
+  10 ball pythons
+  8 bats
+  7 frilled lizards
+  5 rats
+107 creatures vanquished.
+
+Vanquished Creatures (others)
+  72 foxfires
+72 creatures vanquished.
+
+Grand Total: 179 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Learned a level 1 spell: Foxfire
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   140 | D:1      | Reached XP level 2. HP: 12/15 MP: 2/8
+   157 | D:1      | Learned a level 2 spell: Scorch
+   669 | D:1      | Reached XP level 3. HP: 19/19 MP: 6/9
+  1126 | D:2      | Reached skill level 4 in Spellcasting
+  1193 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/12
+  1593 | D:3      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [potion of mutation]
+  1593 | D:3      | Gained mutation: You are somewhat resistant to further
+                  | mutation. [potion of mutation]
+  1748 | D:3      | Learned a level 3 spell: Inner Flame
+  1753 | D:3      | Learned a level 4 spell: Flame Wave
+  1816 | D:3      | Noticed a black bear
+  1828 | D:3      | Killed a black bear
+  1829 | D:3      | Reached skill level 5 in Spellcasting
+  1829 | D:3      | Reached XP level 5. HP: 28/28 MP: 9/15
+  2369 | D:4      | Reached skill level 5 in Fire Magic
+  2442 | D:4      | Noticed a phantom
+  2447 | D:4      | Killed a phantom
+  2448 | D:4      | Reached skill level 6 in Spellcasting
+  2448 | D:4      | Reached XP level 6. HP: 32/32 MP: 12/17
+  3134 | D:4      | Identified the +3 ring mail "Waunysku" {Will+ Int-4 Dex+4}
+  3628 | D:5      | Entered Level 5 of the Dungeon
+  3636 | D:5      | Noticed an ice beast
+  3657 | D:5      | Killed an ice beast
+  3658 | D:5      | Reached skill level 7 in Spellcasting
+  3658 | D:5      | Reached XP level 7. HP: 21/36 MP: 1/19
+  3665 | D:5      | Noticed Eustachio
+  3666 | D:5      | Noticed Ijyb
+  3673 | D:5      | Killed Ijyb
+  3676 | D:5      | Killed Eustachio
+  3677 | D:5      | Reached skill level 8 in Spellcasting
+  3864 | D:5      | Killed by an exploding centaur... ignited by their inner
+                  | flame
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_checkered_box, layout_loops_ring, minmay_pentomino_x4
+D:2:      layout_loops_cross, chequers_serial_rivers_small_b
+D:3:      layout_loops_ring, supply_closet_lemuel, minmay_misc_feat_five,
+          skrybe_limestone_x
+D:4:      layout_layer_cave, grunt_ministairs_15
+D:5:      layout_basic, old_standard_altar, minmay_temple_entry_gardened_gates,
+          uniq_eustachio, uniq_blork_the_orc, uniq_ijyb
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Spellcasting   |        4  5  6  7  8 |  8.3
+Fire Magic     |        4     5  6  7 |  7.0
+Conjurations   |                 2    |  2.0
+Dodging        |                      |  2.8
+Stealth        |                      |  2.9
+Hexes          |                      |  0.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Unarmed           |     8 |       |       ||     8
+         Club              |     2 |       |       ||     2
+         Mace              |     1 |       |       ||     1
+   Cast: Foxfire           |    22 |    19 |       ||    41
+         Scorch            |    28 |    50 |    13 ||    91
+         Inner Flame       |       |     3 |     2 ||     5
+         Flame Wave        |       |     1 |     1 ||     2
+    Use: Scroll            |       |    10 |     1 ||    11
+         Potion            |       |     6 |     1 ||     7
+ Armour: Robe              |     4 |     3 |     4 ||    11
+  Dodge: Dodged            |    21 |    12 |    14 ||    47
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3865 |   3683 |    182 |      0 |   2821 |   5 |  773.0 |
+       Dungeon |   3865 |   3683 |    182 |      0 |   2821 |   5 |  773.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1289 daAuts
+     D:1: 893 daAuts
+     D:3: 812 daAuts
+     D:2: 688 daAuts
+     D:5: 181 daAuts
+

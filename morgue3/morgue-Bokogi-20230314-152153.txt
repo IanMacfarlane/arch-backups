@@ -1,0 +1,245 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 15172530782445924324
+
+91 Bokogi the Shooter (level 4, -1/38 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Slain by Sigmund
+             ... wielding a +0 scythe
+              (8 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:13 (1761 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 1761, Time: 00:05:13
+
+Health: -1/38      AC:  3    Str: 15    XL:     4   Next: 34%
+Magic:  3/3        EV: 12    Int:  6    God:    
+Gold:   69         SH:  0    Dex: 16    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.26/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 69 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ o - the +0 mace of Risk Management {venom, rF+}
+   (You found it on level 2 of the Dungeon)   
+   
+   rF:        It protects you from fire.
+Armour
+ c - a +0 leather armour (worn)
+ k - a +0 ring mail
+ n - a +0 scale mail
+Jewellery
+ l - a ring of ice
+Scrolls
+ b - 2 scrolls of immolation
+ d - a scroll of enchant weapon {unknown}
+ f - a scroll of identify {unknown}
+ g - 2 scrolls of fog {unknown}
+ h - 3 scrolls of teleportation {unknown}
+ p - a scroll of fear {unknown}
+Potions
+ e - a potion of brilliance {unknown}
+ i - a potion of ambrosia {unknown}
+ j - a potion of degeneration {unknown}
+ m - a potion of lignification {unknown}
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 5.9 Ranged Weapons
+ + Level 0.9 Armour
+ + Level 2.3 Dodging
+ + Level 0.7 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Shock                    Conj/Air       0%         1d3       52%         1
+ Scorch                   Fire           0%         2d5       67%         2
+ Swiftness                Air            0%         N/A       88%         3
+ Airstrike                Air            0%         2d(0-16)  99%         4
+ Flame Wave               Conj/Fire      0%         2d4       99%         4
+ Summon Cactus Giant      Summ           0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Xom
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Sigmund is moderately wounded.
+There is an open door here.
+Found a stone staircase leading down.
+You shoot an arrow. The arrow hits Sigmund!
+Sigmund is heavily wounded.
+You shoot an arrow. The arrow hits Sigmund.
+Sigmund is severely wounded.
+Sigmund points at you and mumbles some strange words.
+The magic dart hits you.
+You shoot an arrow. The arrow barely misses Sigmund.
+Sigmund points at you and mumbles some strange words.
+The magic dart hits you!
+You shoot an arrow.
+The arrow hits Sigmund but does no damage.
+Sigmund is severely wounded.
+Sigmund breathes a few words.
+Sigmund's hands start flickering wildly.
+Sigmund casts a spell.
+Sigmund flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+Something hits you but does no damage.
+There is an open door here.
+You shoot an arrow.
+You hear some strange, mumbled words.
+A puff of flame appears from out of thin air!
+The puff of flame hits you!
+You shoot an arrow. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+You shoot an arrow. Something hits you but does no damage.
+You shoot an arrow. Something barely misses you.
+You shoot an arrow.
+You shoot an arrow.
+You hear some strange, mumbled words.
+A puff of flame appears from out of thin air!
+The puff of flame hits you.
+* * * LOW HITPOINT WARNING * * *
+You hear some strange, mumbled words.
+Something tries to affect you, but you resist.
+You shoot an arrow. Something hits you!
+You die...
+
+........######.####...#....###.###.#
+###.###.#  ##...###.........#.## #.#
+###.# #.# ##.)...##...#..(##.##  #.##
+....# #.###.......######.#####   #..#
+#######.##.)...>...#   #.#       ##.#
+).<.....###.>.....##   #.#        #.#
+######### #......##    #+##       #.#
+#         #.#...##    #...##      #.#
+##        #.##.##   ##.....##   ###.###
+.##       #.##.##  ##.......#   #......
+..#########.#...####.........####...###
+..................{@.......>.+.......##
+..#########.#...####..÷......####.....#
+.###      #....##  ##.......#   #..##.#
+...#      ###.##    ##.....##   #.###.#
+##.#        #.#       #...##    #......
+##.##       #.#        #'##     #####.#
+....#       #.#        #.#          #.#
+##..#       #.#        #.#          #.#
+....#   #####.#####   ##.##         #.#
+###.#   #.........#  ##...######### #.#
+  #.#   #.###.###.#  #............# #.#
+  #.#   #.# #.###.#####...#######.# #.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  3 gnolls
+  An adder (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  4 endoplasms
+  A giant cockroach (D:1)
+  5 goblins
+  4 hobgoblins
+  4 jackals (D:2)
+  3 quokkas (D:1)
+  4 ball pythons
+  8 bats
+  3 frilled lizards
+  A kobold (D:2)
+  5 rats
+48 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    89 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   196 | D:1      | Reached skill level 5 in Ranged Weapons
+   896 | D:2      | Reached XP level 3. HP: 30/30 MP: 2/2
+  1120 | D:2      | Found a shimmering altar of Xom.
+  1145 | D:2      | Identified the +0 mace of Risk Management {venom, rF+}
+  1482 | D:2      | Noticed Sigmund
+  1544 | D:1      | Reached XP level 4. HP: 16/37 MP: 3/3
+  1761 | D:2      | Slain by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      grunt_arrival_lava_bath, layout_loops_cross
+D:2:      layout_loops_corners, basic_altar, uniq_sigmund
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Ranged Weapons |     5       |  5.9
+Fighting       |           3 |  3.2
+Armour         |             |  0.9
+Dodging        |             |  2.3
+Stealth        |             |  0.7
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |   140 |    26 ||   166
+ Armour: Leather armour    |    18 |     4 ||    22
+  Dodge: Dodged            |    47 |    10 ||    57
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1808 |   1780 |     28 |      0 |   1360 |   2 |  904.0 |
+       Dungeon |   1808 |   1780 |     28 |      0 |   1360 |   2 |  904.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 983 daAuts
+     D:2: 824 daAuts
+

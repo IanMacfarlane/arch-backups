@@ -1,0 +1,266 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 11235242705025729062
+
+137 Bokogi the Shooter (level 5, 0/42 HPs)
+             Began as a Barachi Hunter on Mar 15, 2023.
+             Slain by Natasha (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:55 (1875 turns).
+
+Bokogi the Shooter (Barachi Hunter)                 Turns: 1875, Time: 00:07:55
+
+Health: 0/42       AC:  4    Str: 12      XL:     5   Next: 20%
+Magic:  5/5        EV: 12    Int:  8 (10) God:    
+Gold:   142        SH:  0    Dex: 17      Spells: 4/4 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    +    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +1 leather armour
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       g - amulet of faith
+HPRegen 0.27/turn                (no ring)
+MPRegen 0.09/turn                (no ring)
+
+@: unable to drink, slow
+A: amphibious, slowness 1, strong legs 1, +LOS, high MP 1, inability to drink
+after injury 1
+a: Hop
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 142 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +1 leather armour (worn)
+Jewellery
+ g - an amulet of faith (around neck)
+Scrolls
+ b - a scroll of immolation
+ h - a scroll of blinking
+ i - a scroll of teleportation {unknown}
+ j - a scroll of magic mapping
+ k - a scroll of fear
+Potions
+ d - 2 potions of curing
+ e - 2 potions of flight
+ f - a potion of degeneration
+
+
+   Skills:
+ + Level 4.0 Fighting
+ * Level 5.7 Ranged Weapons
+ - Level 2.1 Dodging
+ - Level 0.8 Stealth
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Call Canine Familiar     Summ           0%         N/A       86%         3
+ Portal Projectile        Hex/Tloc       0%         N/A       86%         3
+ Leda's Liquefaction      Hex/Erth       0%         N/A       99%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Shops:
+D:1 (
+
+Annotations:
+D:2 Sigmund
+D:3 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are amphibious.
+You cover ground slowly.
+You can hop short distances.
+You have an extended range of vision and can be seen from far away.
+You have an increased reservoir of magic. (+10% MP)
+You occasionally lose the ability to drink potions when taking damage.
+
+Message History
+
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Natasha
+Aim: Natasha, carrying a wand of flame (18) (58% to hit)
+You shoot an arrow. The arrow barely misses Natasha.
+Natasha stares at you and mumbles some strange words.
+You resist with some effort.
+Natasha stares at you and mumbles some strange words.
+The magic dart hits you!
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Natasha
+Aim: Natasha, carrying a wand of flame (18) (58% to hit)
+You shoot an arrow. The arrow barely misses Natasha.
+Fire: a) +0 shortbow
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - Natasha
+Aim: Natasha, carrying a wand of flame (18) (58% to hit)
+You shoot an arrow. The arrow hits Natasha.
+Natasha is moderately wounded.
+Natasha casts a spell at you.
+The magic dart hits you!
+The endoplasm freezes you.
+You are frozen.
+You shoot an arrow. The arrow closely misses Natasha. The arrow hits the
+endoplasm!
+You kill the endoplasm!
+Natasha howls an incantation.
+Natasha glows brightly for a moment.
+Natasha closely misses you. Natasha claws you!
+You feel threatened and lose the ability to drink potions!
+You shoot an arrow. The arrow barely misses Natasha. The arrow barely misses
+the endoplasm.
+Natasha closely misses you.
+You shoot an arrow. The arrow completely misses Natasha. The arrow barely
+misses the endoplasm.
+Natasha claws you.
+* * * LOW HITPOINT WARNING * * *
+You shoot an arrow. The arrow closely misses Natasha. The arrow hits the
+endoplasm.
+The endoplasm is moderately wounded.
+Natasha closely misses you.
+You shoot an arrow. The arrow hits Natasha.
+Natasha is severely wounded.
+Natasha claws you.
+* * * LOW HITPOINT WARNING * * *
+Natasha claws you.
+You die...
+
+.#.......#..........................#
+.........#................###...#####
+#####..#.#.......#..............#
+..........................†.....#
+###....#..#.####.#...........######
+  ##########.......................>
+           #...#....................
+           #.............#########..
+           #.....#.........#
+           #.#...#.........#######
+           #.....†................
+           #.....#.@.......#######
+           ########h####.........#
+               #...J...#.#.#.....#
+               #....##.#.#.#.....#
+              ......#  #.#.. .....
+            ........#  #.##...####
+           #........#  ... ...#
+           #.....##.#  ..# ...
+           #..### #.#  #.  ....
+           #..    ...
+
+
+You could see Natasha and an endoplasm.
+
+Vanquished Creatures
+  Jessica (D:3)
+  Natasha (twice) (D:3)
+  2 adders
+  6 endoplasms
+  2 giant cockroaches
+  6 goblins
+  4 hobgoblins
+  A quokka (D:1)
+  5 ball pythons
+  6 bats
+  5 frilled lizards
+  2 kobolds
+  2 rats
+44 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Barachi Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+    67 | D:1      | Reached XP level 2. HP: 23/23 MP: 2/2
+    88 | D:1      | Found Kunlagedi's Weapon Shop.
+   619 | D:2      | Reached XP level 3. HP: 26/29 MP: 3/3
+   719 | D:2      | Noticed Sigmund
+   924 | D:2      | Gained mutation: You do not regenerate when monsters are
+                  | visible. [potion of mutation]
+   924 | D:2      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+   965 | D:2      | Lost mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+   965 | D:2      | Lost mutation: You do not regenerate when monsters are
+                  | visible. [potion of mutation]
+   965 | D:2      | Gained mutation: You occasionally lose the ability to drink
+                  | potions when taking damage. [potion of mutation]
+   965 | D:2      | Gained mutation: You have an increased reservoir of magic.
+                  | (+10% MP) [potion of mutation]
+  1537 | D:3      | Noticed Jessica
+  1544 | D:3      | Killed Jessica
+  1545 | D:3      | Reached skill level 5 in Ranged Weapons
+  1545 | D:3      | Reached XP level 4. HP: 17/35 MP: 4/4
+  1636 | D:3      | Noticed Natasha
+  1651 | D:3      | Killed Natasha
+  1699 | D:3      | Noticed Natasha
+  1703 | D:3      | Killed Natasha
+  1704 | D:3      | Reached XP level 5. HP: 42/42 MP: 5/5
+  1865 | D:3      | Noticed Natasha
+  1875 | D:3      | Slain by Natasha
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_rooms_with_view, layout_rooms, serial_shops, shop,
+          minmay_tetromino_o4
+D:2:      layout_basic, uniq_sigmund
+D:3:      layout_basic, tgw_fedhas, uniq_natasha, uniq_jessica
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |     3     4 |  4.0
+Ranged Weapons |        5    |  5.7
+Dodging        |             |  2.1
+Stealth        |             |  0.8
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |    91 |    37 ||   128
+Ability: Hop               |     1 |       ||     1
+    Use: Scroll            |     4 |     3 ||     7
+         Potion            |     4 |       ||     4
+ Armour: Leather armour    |    12 |     6 ||    18
+  Dodge: Dodged            |    29 |    13 ||    42
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2189 |   2087 |    102 |      0 |   1682 |   3 |  729.7 |
+       Dungeon |   2189 |   2087 |    102 |      0 |   1682 |   3 |  729.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 884 daAuts
+     D:1: 839 daAuts
+     D:3: 465 daAuts
+

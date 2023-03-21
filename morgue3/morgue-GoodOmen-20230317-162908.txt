@@ -1,0 +1,281 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 18103817270037374080
+
+341 GoodOmen the Poker (level 6, -2/56 HPs)
+             Began as a Minotaur Berserker on Mar 17, 2023.
+             Was a Priest of Trog.
+             Slain by a killer bee (6 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:07:48 (2574 turns).
+
+GoodOmen the Poker (Minotaur Berserker)             Turns: 2574, Time: 00:07:48
+
+Health: -2/56      AC: 11    Str: 23    XL:     6   Next: 30%
+Magic:  5/5        EV:  8    Int:  4    God:    Trog [***...]
+Gold:   50         SH:  0    Dex: 10    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .    q - +1 trident (flame)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 chain mail
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        e - +1 pair of gloves
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.29/turn                v - +4 ring of slaying
+MPRegen 0.09/turn                (no ring)
+
+@: lethally poisoned (-2 -> -10)
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was most pleased with you.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 222 gold pieces.
+You spent 172 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ q - a +1 trident of flaming (weapon)
+Missiles
+ j - 3 throwing nets (quivered)
+Armour
+ a - a +0 chain mail (worn)
+ e - a +1 pair of gloves (worn)
+Jewellery
+ v - a +4 ring of slaying (left hand)
+Wands
+ b - a wand of roots (8)
+ p - a wand of paralysis (6)
+Scrolls
+ i - 2 scrolls of vulnerability
+ l - a scroll of brand weapon
+ m - a scroll of noise
+ n - a scroll of teleportation
+ t - a scroll of blinking
+ u - a scroll of enchant weapon
+Potions
+ d - 3 potions of lignification
+ f - a potion of curing
+ g - 2 potions of ambrosia
+ h - 3 potions of heal wounds {unknown}
+ k - a potion of brilliance {unknown}
+ o - a potion of cancellation {unknown}
+ r - a potion of degeneration {unknown}
+ s - 2 potions of haste {unknown}
+
+
+   Skills:
+ + Level 5.5 Fighting
+ * Level 7.1 Polearms
+ + Level 3.3 Armour
+ - Level 2.1 Dodging
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4         
+
+Altars:
+Dithmenos
+Fedhas
+Makhleb
+Qazlal
+Ru
+Zin
+
+Shops:
+D:1 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Trog accepts your kill.
+The killer bee closely misses you.
+Your Polearms skill increases to level 7!
+You feel better. The killer bee stings you. x2
+The killer bee stings you but does no damage.
+The killer bee stings you!
+The killer bee stings you but does no damage.
+The killer bee closely misses you.
+The killer bee attacks as you move away!
+The killer bee stings you but does no damage.
+The killer bee attacks as you move away!
+The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+You are poisoned.
+The killer bee poisons you!
+The killer bee attacks as you move away!
+The killer bee stings you but does no damage.
+You feel sick.
+The killer bee stings you but does no damage.
+The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee closely misses you.
+You feel sick.
+The killer bee stings you but does no damage. x3
+The killer bee attacks as you move away!
+The killer bee closely misses you. You feel sick.
+The killer bee stings you but does no damage.
+The killer bee closely misses you. x2
+The killer bee attacks as you move away!
+The killer bee barely misses you. You feel sick. The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The killer bee poisons you! The killer bee closely misses you.
+The killer bee stings you but does no damage.
+The killer bee completely misses you.
+There is a stone staircase leading up here.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The killer bee stings you.
+You die...
+
+   ...   .........
+  ....####........
+  ................
+ ................
+ ..............#
+ ..............#
+  .............###
+   #......@.......
+   #.....yyy......
+   #..............
+   #.....†........
+   #..............
+ #..!..†..........
+..................
+..................
+>.................
+.................
+................
+..............#
+
+
+You could see 3 killer bees.
+
+Vanquished Creatures
+  A killer bee (D:5)
+  A hound (D:5)
+  2 orc priests (D:3)
+  An orc wizard (D:4)
+  4 gnolls (D:4)
+  3 adders
+  A worm (D:3)
+  14 orcs
+  9 ball pythons
+  2 bats
+  14 endoplasms
+  5 giant cockroaches
+  7 goblins
+  10 hobgoblins
+  2 jackals (D:4)
+  8 kobolds
+  3 quokkas
+  4 frilled lizards
+  5 rats
+96 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   154 | D:1      | Reached skill level 4 in Polearms
+   167 | D:1      | Reached XP level 2. HP: 25/27 MP: 1/1
+   273 | D:1      | Found Jiraad's General Store.
+   343 | D:1      | Reached ** piety under Trog
+   420 | D:1      | Reached XP level 3. HP: 27/33 MP: 2/2
+   605 | D:2      | Reached skill level 5 in Polearms
+  1045 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1344 | D:1      | Bought a +1 trident of flaming for 172 gold pieces
+  1442 | D:3      | Reached skill level 5 in Fighting
+  1442 | D:3      | Reached skill level 6 in Polearms
+  1442 | D:3      | Reached XP level 5. HP: 48/48 MP: 4/4
+  1625 | D:3      | Reached *** piety under Trog
+  1638 | D:3      | Found a faded altar of an unknown god.
+  1771 | D:3      | Found a burning altar of Makhleb.
+  1820 | D:3      | Found a shadowy altar of Dithmenos.
+  1956 | D:3      | Found a stormy altar of Qazlal.
+  2396 | D:4      | Found a staircase to the Ecumenical Temple.
+  2420 | D:4      | Found a sacrificial altar of Ru.
+  2420 | D:4      | Found a glowing silver altar of Zin.
+  2429 | D:4      | Found a faded altar of an unknown god.
+  2431 | D:4      | Found a blossoming altar of Fedhas.
+  2433 | D:4      | Found a faded altar of an unknown god.
+  2555 | D:5      | Entered Level 5 of the Dungeon
+  2559 | D:5      | Reached XP level 6. HP: 54/56 MP: 5/5
+  2569 | D:5      | Reached skill level 7 in Polearms
+  2574 | D:5      | Slain by a killer bee
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_whirlpool, layout_rooms, serial_shops,
+          nicolae_shop_crystal, hex_large, minmay_hedge_maze, item_on_display_a
+D:2:      layout_loops_ring, minmay_vboxes
+D:3:      layout_basic, lightli_temple_of_fire, nicolae_qazlal_eye_of_the_storm,
+          mainiacjoe_overflow_alcove_4, hellmonk_ecumenical_altar_crossroads
+D:4:      layout_rooms, chequers_temple_overflow_minitemple,
+          minmay_temple_entry_hall
+D:5:      layout_rooms, gammafunk_temple_overflow_statue, serial_park_tiny_2,
+          minmay_misc_feat_pillars, uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Polearms       |  4     5  6     7 |  7.1
+Fighting       |     4     5       |  5.5
+Armour         |              3    |  3.3
+Dodging        |                   |  2.1
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Spear             |   113 |    23 ||   136
+         Headbutt          |    11 |    19 ||    30
+         Trident           |       |   100 ||   100
+         Punch             |       |     1 ||     1
+    Use: Scroll            |       |    11 ||    11
+         Potion            |       |     1 ||     1
+   Stab: Sleeping          |     1 |       ||     1
+ Armour: Animal skin       |    25 |     2 ||    27
+         Chain mail        |       |    47 ||    47
+  Dodge: Dodged            |    26 |    44 ||    70
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2554 |   2275 |    279 |      0 |   1732 |   5 |  510.8 |
+       Dungeon |   2554 |   2275 |    279 |      0 |   1732 |   5 |  510.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 802 daAuts
+     D:3: 612 daAuts
+     D:1: 602 daAuts
+     D:4: 518 daAuts
+     D:5: 18 daAuts
+

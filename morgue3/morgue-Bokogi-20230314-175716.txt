@@ -1,0 +1,277 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14902428725881591220
+
+429 Bokogi the Chopper (level 6, -8/57 HPs)
+             Began as a Minotaur Fighter on Mar 14, 2023.
+             Was a Follower of Trog.
+             Mangled by Pikel
+             ... wielding a +1 whip of electrocution
+              (18 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:11:04 (2638 turns).
+
+Bokogi the Chopper (Minotaur Fighter)               Turns: 2638, Time: 00:11:05
+
+Health: -8/57      AC: 10    Str: 23    XL:     6   Next: 66%
+Magic:  5/5        EV:  8    Int:  5    God:    Trog [*.....]
+Gold:   135        SH:  0    Dex:  9    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .    a - +0 war axe
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    l - +0 chain mail
+rPois   +          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    b - +0 cloak
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.29/turn                s - ring of poison resistance
+MPRegen 0.09/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk
+
+
+You were on level 4 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 157 gold pieces.
+You spent 22 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 cloak (worn)
+ l - a +0 chain mail (worn)
+Jewellery
+ s - a ring of poison resistance (left hand)
+Scrolls
+ e - a scroll of fear
+ f - a scroll of amnesia
+ g - a scroll of poison
+ i - 3 scrolls of teleportation
+ j - a scroll of brand weapon {unknown}
+ p - 3 scrolls of fog
+ q - 2 scrolls of immolation {unknown}
+ r - a scroll of magic mapping {unknown}
+Potions
+ c - a potion of berserk rage {unknown}
+ d - 3 potions of might
+ h - 2 potions of attraction {unknown}
+ m - a potion of heal wounds {unknown}
+ n - a potion of lignification {unknown}
+ o - 3 potions of mutation {unknown}
+ t - a potion of flight {unknown}
+ u - a potion of curing {unknown}
+
+
+   Skills:
+ + Level 5.8 Fighting
+ * Level 6.9 Axes
+ + Level 4.4 Armour
+ - Level 3.6 Shields
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Apportation              Tloc           0%         N/A       99%         1
+ Necrotise                Necr           0%         1d4       99%         1
+ Summon Small Mammal      Summ           0%         N/A       99%         1
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Trog
+Vehumet
+
+Shops:
+D:3 ?
+
+Annotations:
+D:4 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The ball python hisses angrily.
+Your headbutt misses the lemure.
+The lemure is heavily wounded.
+You hit the goblin but do no damage. The goblin hits you but does no damage.
+The lemure closely misses you.
+You hit the lemure.
+The lemure is heavily wounded.
+You slash the goblin!
+You kill the goblin!
+Trog accepts your kill.
+The lemure completely misses you.
+You hit the lemure but do no damage.
+The lemure is heavily wounded.
+You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+The lemure hits you.
+You hit the lemure. You headbutt the lemure. You punch the lemure, but do no
+damage.
+The lemure is almost dead.
+The lemure hits you.
+You closely miss Pikel. You closely miss the lemure. The lemure hits you but
+does no damage.
+Pikel hits you but does no damage.
+You miss Pikel. You headbutt Pikel, but do no damage. You hit the lemure.
+Pikel hits you with a +1 whip of electrocution.
+You are electrocuted! The lemure hits you but does no damage.
+You hit Pikel.
+Pikel is lightly wounded.
+You barely miss the lemure. Pikel hits you but does no damage. The lemure hits
+you!
+You hit Pikel.
+Pikel is lightly wounded.
+You hit the lemure but do no damage.
+Pikel hits you with a +1 whip of electrocution.
+You are electrocuted!
+* * * LOW HITPOINT WARNING * * *
+The lemure completely misses you.
+The lemure barely misses you. You furiously retaliate! You headbutt the lemure!
+Pikel hits you with a +1 whip of electrocution.
+* * * LOW HITPOINT WARNING * * *
+You are electrocuted!!
+You die...
+
+          ###..)...[....<..
+          #................
+         ....#.######......
+         .   #      ##.###.
+   #.                ##..##
+  ##.       #         ####
+   ..#     .#
+    ..# ###.#
+    #.. ....#
+    #.. ....#
+     #.#....#.#
+     #K@.....#
+....555#....#..
+....J5# #...#
+.....S   #..#
+.....     .##
+....#      .
+##..        #
+ ..
+
+
+You could see Pikel, 4 lemures, an endoplasm and a ball python.
+
+Vanquished Creatures
+  Edmund (D:4)
+  A hound (D:3)
+  A jelly (D:4)
+  An orc priest (D:3)
+  3 orc wizards
+  6 adders
+  2 worms (D:3)
+  2 dart slugs
+  7 orcs
+  9 bats
+  3 endoplasms
+  4 giant cockroaches
+  6 goblins
+  7 hobgoblins
+  4 jackals (D:2)
+  2 kobolds
+  4 quokkas
+  6 ball pythons
+  5 frilled lizards
+  6 rats
+80 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   297 | D:1      | Reached skill level 3 in Axes
+   341 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   937 | D:2      | Reached XP level 3. HP: 23/33 MP: 2/2
+   940 | D:2      | Reached skill level 4 in Axes
+   945 | D:2      | Reached XP level 4. HP: 20/41 MP: 3/3
+  1032 | D:2      | Found a bloodstained altar of Trog.
+  1045 | D:2      | Became a worshipper of Trog the Wrathful
+  1115 | D:2      | Reached skill level 5 in Axes
+  1463 | D:3      | Reached skill level 5 in Fighting
+  1463 | D:3      | Reached XP level 5. HP: 48/48 MP: 4/4
+  1492 | D:3      | Found Jaoqin's Magic Scroll Emporium.
+  1500 | D:3      | Bought a scroll of identify for 22 gold pieces
+  1587 | D:3      | Reached * piety under Trog
+  1917 | D:3      | Reached skill level 6 in Axes
+  1928 | D:3      | Reached XP level 6. HP: 31/54 MP: 5/5
+  2177 | D:3      | Found a radiant altar of Vehumet.
+  2430 | D:4      | Noticed Edmund
+  2444 | D:4      | Killed Edmund
+  2626 | D:4      | Noticed Pikel
+  2638 | D:4      | Mangled by Pikel
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      tekkud_arrival_beachfront_property, layout_loops_corners, st_stairs_6,
+          minmay_pentomino_v4
+D:2:      layout_rooms, basic_altar, minmay_bisected
+D:3:      layout_basic, lemuel_coloured_pillars_altar, serial_shops, shop,
+          st_stairs_10, minmay_increasing_density
+D:4:      layout_cave_pools, old_standard_altar, tgw_xom, uniq_pikel, uniq_ijyb,
+          uniq_edmund
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Axes           |  3     4  5  6 |  6.9
+Fighting       |     4     5    |  5.8
+Armour         |              4 |  4.4
+Shields        |                |  3.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: War axe           |    65 |   132 ||   197
+         Headbutt          |     4 |    23 ||    27
+         Punch             |       |     2 ||     2
+    Use: Scroll            |       |     5 ||     5
+ Armour: Scale mail        |    16 |       ||    16
+         Chain mail        |    29 |    85 ||   114
+  Dodge: Dodged            |    37 |    69 ||   106
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2690 |   2533 |    157 |      0 |   2027 |   4 |  672.5 |
+       Dungeon |   2690 |   2533 |    157 |      0 |   2027 |   4 |  672.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1140 daAuts
+     D:1: 911 daAuts
+     D:2: 578 daAuts
+     D:4: 59 daAuts
+

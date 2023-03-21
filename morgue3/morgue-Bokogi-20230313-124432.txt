@@ -1,0 +1,592 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16384579181509432082
+
+37067 Bokogi the Brawler (level 13, -2/141 HPs)
+             Began as a Troll Berserker on Mar 12, 2023.
+             Was a High Priest of Trog.
+             Slain by a skyshark (5 damage)
+             ... on level 4 of the Lair of Beasts on Mar 13, 2023.
+             The game lasted 02:41:13 (12846 turns).
+
+Bokogi the Brawler (Troll Berserker)               Turns: 12846, Time: 02:41:13
+
+Health: -2/141     AC:  9    Str: 38    XL:     13   Next: 56%
+Magic:  12/12      EV:  9    Int:  3    God:    Trog [*****.]
+Gold:   901        SH: 10    Dex:  9    Spells: 12/12 levels left
+
+rFire   . . .      SeeInvis .      - Unarmed
+rCold   . . .      Faith    .    e - +0 kite shield
+rNeg    + . .      Spirit   .    J - +0 acid dragon scales
+rPois   +          Reflect  .    L - +0 hat
+rElec   .          Rampage  .    t - +0 cloak
+rCorr   +                        (gloves unavailable)
+Will    +++..                    (boots unavailable)
+Stlth   +                        k - amulet of regeneration
+HPRegen 3.03/turn                w - ring "Kogoich" {rPois rN+ Will+}
+MPRegen 0.13/turn                C - +6 ring of strength
+
+@: strong-willed (expiring), regenerating (expiring)
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 4 of the Lair of Beasts.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 2 branches of the dungeon, and saw 15 of its levels.
+
+You collected 1153 gold pieces.
+You spent 252 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ a - 12 boomerangs
+ A - a throwing net
+ M - 14 poisoned darts (quivered)
+Armour
+ e - a +0 kite shield (worn)
+ t - a +0 cloak (worn)
+ u - a +2 robe of willpower
+ J - +0 acid dragon scales (worn)
+ L - a +0 hat (worn)
+Jewellery
+ k - an amulet of regeneration (around neck)
+ w - the ring "Kogoich" (left claw) {rPois rN+ Will+}
+   (You found it on level 4 of the Dungeon)   
+   
+   [ring of positive energy]
+   
+   rPois:     It protects you from poison.
+   rN:        It protects you from negative energy.
+   Will:      It increases your willpower.
+ B - a ring of see invisible
+ C - a +6 ring of strength (right claw)
+Wands
+ b - a wand of polymorph (23)
+ q - a wand of iceblast (21)
+ y - a wand of mindburst (22)
+ G - a wand of flame (12)
+ I - a wand of paralysis (6)
+Scrolls
+ d - 7 scrolls of teleportation
+ h - 6 scrolls of fog
+ i - 5 scrolls of magic mapping
+ j - 2 scrolls of blinking
+ m - 3 scrolls of fear
+Potions
+ c - 2 potions of berserk rage
+ f - 12 potions of curing
+ l - a potion of resistance {unknown}
+ n - 4 potions of attraction
+ p - a potion of magic {unknown}
+ r - a potion of degeneration {unknown}
+ s - 4 potions of flight
+ v - 2 potions of cancellation
+ x - 2 potions of might {unknown}
+ z - 2 potions of ambrosia {unknown}
+ D - 2 potions of lignification {unknown}
+ E - a potion of haste {unknown}
+Miscellaneous
+ K - a phantom mirror
+
+
+   Skills:
+ + Level 12.5 Fighting
+ + Level 3.0 Throwing
+ - Level 2.8 Dodging
+ - Level 10.0 Shields
+ + Level 15.1 Unarmed Combat
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:6            Lair (5/5) D:10        
+  Swamp (0/4) Lair:2        Snake (0/4) Lair:2          Orc (0/2) D:9         
+ Slime: Lair:4-5    
+
+Altars:
+Dithmenos
+Fedhas
+Ru
+Vehumet
+Wu Jian
+Zin
+The Shining One
+
+Shops:
+D:8 ?!   D:9 (   D:10 (
+
+Annotations:
+Lair:1 2 transporters
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You mangle the skyshark!!
+The skyshark is heavily wounded.
+The skyshark bites you.
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you.
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you.
+* * * LOW HITPOINT WARNING * * *
+You block the dream sheep's attack.
+Being near the torpor snail leaves you feeling lethargic.
+You feel much better. The skyshark bites you!
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you but does no damage.
+You block the skyshark's attack.
+The dream sheep bites you but does no damage.
+The skyshark bites you!
+* * * LOW HITPOINT WARNING * * *
+You block the skyshark's attack.
+The skyshark tail-slaps you but does no damage.
+The dream sheep barely misses you. The skyshark bites you.
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you but does no damage. x2
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. The dream sheep looks frightened!
+A frightened dream sheep leaps away.
+The dream sheep looks frightened!
+The dream sheep panics and turns to flee.
+The skyshark is unaffected. The dream sheep looks frightened!
+A frightened dream sheep leaps away.
+You feel yourself speed up.
+You feel the effects of Trog's Hand fading.
+The skyshark bites you.
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you!
+* * * LOW HITPOINT WARNING * * *
+The skyshark tail-slaps you!
+* * * LOW HITPOINT WARNING * * *
+The skyshark bites you but does no damage.
+You block the skyshark's attack. The skyshark tail-slaps you.
+You die...
+
+                      ###
+                 ######.##
+             #####P.......
+             #.......#####
+         #####...#####   #
+.   # ####.P....##       #
+....#.#l@.....###        #
+....Y.Y%#...##.#
+....#Y##########
+#.  #
+
+
+You could see a skyshark (berserk) and 3 dream sheep.
+
+Vanquished Creatures
+  Gastronok (Lair:2)
+  2 hydras
+  A centaur warrior (D:8)
+  A catoblepas (Lair:5)
+  2 skysharks (Lair:3)
+  Amaemon (Lair:3)
+  Pikel (D:8)
+  An ugly thing (D:8)
+  5 black mambas
+  9 elephants
+  A gargoyle (D:8)
+  4 cane toads
+  An orange demon (Lair:3)
+  Psyche (D:8)
+  A komodo dragon (Lair:1)
+  3 rime drakes
+  A troll (D:10)
+  2 polar bears
+  A hornet (Lair:4)
+  8 dream sheep
+  15 blink frogs
+  A shadow (D:7)
+  Eustachio (D:6)
+  Sigmund (D:3)
+  40 yaks
+  7 wyverns
+  A human (D:7)
+  5 basilisks
+  4 hogs (D:7)
+  2 steam dragons
+  3 vampire mosquitoes (D:9)
+  Menkaure (D:7)
+  3 nagas (Lair:2)
+  2 acid dragons (D:10)
+  11 water moccasins
+  2 orc warriors (D:9)
+  3 black bears
+  4 ice beasts (D:10)
+  An ogre (D:6)
+  18 wolves
+  2 phantoms
+  2 centaurs
+  3 kobold brigands
+  4 gnoll sergeants
+  8 bullfrogs
+  A cane toad simulacrum (Lair:2)
+  5 scorpions
+  4 wights (D:7)
+  An elephant simulacrum (Lair:2)
+  4 killer bees (D:10)
+  3 electric eels (Lair:2)
+  4 howler monkeys
+  5 crimson imps (D:10)
+  2 jellies
+  2 orc priests (D:9)
+  2 hounds
+  2 gnoll boudas
+  Terence (D:3)
+  2 iguanas
+  3 orc wizards
+  6 hell rats (Lair:3)
+  A wolf simulacrum (Lair:2)
+  Robin (D:3)
+  32 gnolls
+  11 adders
+  4 shadow imps
+  6 white imps
+  4 worms
+  7 dart slugs
+  12 orcs
+  9 endoplasms
+  A giant cockroach (D:2)
+  13 goblins
+  12 hobgoblins
+  4 jackals
+  8 quokkas
+  7 ball pythons
+  4 bats
+  6 frilled lizards
+  22 kobolds
+  4 rats
+  A butterfly (Lair:2)
+407 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hydra (Lair:2)
+  A cane toad (Lair:1)
+  4 dream sheep (Lair:1)
+6 creatures vanquished.
+
+Vanquished Creatures (others)
+  A bullfrog (D:9)
+  A kobold (D:9)
+  13 fungi
+  40 plants
+55 creatures vanquished.
+
+Grand Total: 468 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   120 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+   329 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+  1090 | D:2      | Reached ** piety under Trog
+  1105 | D:2      | Reached skill level 4 in Unarmed Combat
+  1121 | D:2      | Reached XP level 4. HP: 45/45 MP: 3/3
+  1819 | D:3      | Found a blossoming altar of Fedhas.
+  1866 | D:3      | Noticed Sigmund
+  1897 | D:3      | Killed Sigmund
+  1898 | D:3      | Reached skill level 5 in Unarmed Combat
+  1898 | D:3      | Reached XP level 5. HP: 53/53 MP: 4/4
+  1932 | D:3      | Noticed Robin
+  1961 | D:3      | Killed Robin
+  1962 | D:3      | Reached skill level 6 in Unarmed Combat
+  1962 | D:3      | Reached XP level 6. HP: 60/60 MP: 5/5
+  2431 | D:3      | Found a glowing golden altar of the Shining One.
+  2531 | D:3      | Noticed Terence
+  2544 | D:3      | Killed Terence
+  2835 | D:4      | Reached *** piety under Trog
+  2887 | D:4      | Identified the ring "Kogoich" {rPois rN+ Will+}
+  3121 | D:4      | Found a glowing silver altar of Zin.
+  3232 | D:4      | Reached skill level 7 in Unarmed Combat
+  3553 | D:5      | Entered Level 5 of the Dungeon
+  3558 | D:5      | Reached XP level 7. HP: 68/68 MP: 6/6
+  3695 | D:5      | Found a sacrificial altar of Ru.
+  4497 | D:6      | Noticed Eustachio
+  4508 | D:6      | Killed Eustachio
+  4509 | D:6      | Reached skill level 5 in Fighting
+  4509 | D:6      | Reached skill level 8 in Unarmed Combat
+  4509 | D:6      | Reached XP level 8. HP: 78/80 MP: 7/7
+  4706 | D:6      | Found a staircase to the Ecumenical Temple.
+  4785 | D:6      | Found an ornate altar of the Wu Jian Council.
+  5052 | D:7      | Reached **** piety under Trog
+  5053 | D:7      | Reached skill level 9 in Unarmed Combat
+  5187 | D:7      | Reached XP level 9. HP: 76/92 MP: 8/8
+  5332 | D:7      | Reached skill level 10 in Unarmed Combat
+  5477 | D:7      | Noticed Menkaure
+  5482 | D:7      | Killed Menkaure
+  5981 | D:8      | Noticed Pikel
+  5981 | D:8      | Found Itasabb's Distillery.
+  5987 | D:8      | Killed Pikel
+  5988 | D:8      | Reached skill level 1 in Throwing
+  5998 | D:8      | Bought a potion of flight for 33 gold pieces
+  5998 | D:8      | Bought a potion of curing for 33 gold pieces
+  6018 | D:8      | Noticed a purple ugly thing
+  6045 | D:8      | Reached XP level 10. HP: 107/107 MP: 9/9
+  6063 | D:8      | Killed a purple ugly thing
+  6066 | D:8      | Reached skill level 10 in Fighting
+  6248 | D:8      | Found Ysoviadgh's Magic Scroll Shop.
+  6257 | D:8      | Bought a scroll of blinking for 90 gold pieces
+  6257 | D:8      | Bought a scroll of fear for 48 gold pieces
+  6257 | D:8      | Bought a scroll of fear for 48 gold pieces
+  6341 | D:8      | Noticed a centaur warrior
+  6357 | D:8      | Killed a centaur warrior
+  6358 | D:8      | Reached skill level 1 in Shields
+  6394 | D:8      | Noticed a gargoyle
+  6400 | D:8      | Killed a gargoyle
+  6526 | D:8      | Noticed Psyche
+  6536 | D:8      | Killed Psyche
+  7170 | D:9      | Found Aseteg's Weapon Shop.
+  7170 | D:9      | Found a staircase to the Orcish Mines.
+  7230 | D:9      | Reached ***** piety under Trog
+  7418 | D:9      | Reached XP level 11. HP: 101/119 MP: 10/10
+  7490 | D:9      | Found a radiant altar of Vehumet.
+  7669 | D:9      | Received a gift from Trog
+  8033 | D:10     | Entered Level 10 of the Dungeon
+  8081 | D:10     | Found Gatunoen's Weapon Emporium.
+  8101 | D:10     | Reached skill level 5 in Shields
+  8337 | D:10     | Found a shadowy altar of Dithmenos.
+  8676 | D:10     | Found a staircase to the Lair.
+  8847 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  9181 | Lair:1   | Found a transporter.
+  9466 | Lair:1   | Found a transporter.
+  9731 | Lair:1   | Reached skill level 10 in Shields
+  9764 | Lair:2   | Reached skill level 11 in Unarmed Combat
+  9778 | Lair:2   | Reached XP level 12. HP: 118/128 MP: 11/11
+  9809 | Lair:2   | Found a frozen archway.
+  9841 | Lair:2   | Noticed a five-headed hydra
+  9843 | Lair:2   | Found a staircase to the Swamp.
+ 10147 | Lair:2   | Killed a five-headed hydra
+ 10342 | Lair:2   | Found a staircase to the Snake Pit.
+ 10488 | Lair:2   | Reached skill level 12 in Unarmed Combat
+ 10620 | Lair:2   | Noticed Gastronok
+ 10735 | Lair:2   | Killed Gastronok
+ 11416 | Lair:2   | q
+ 11416 | Lair:2   | q
+ 11459 | Lair:2   | q
+ 11497 | Lair:2   | q
+ 11624 | Lair:3   | Reached skill level 13 in Unarmed Combat
+ 11775 | Lair:3   | Noticed a five-headed hydra
+ 11793 | Lair:3   | Killed an 11-headed hydra
+ 11810 | Lair:3   | Reached XP level 13. HP: 39/140 MP: 12/12
+ 12123 | Lair:3   | Noticed Amaemon
+ 12135 | Lair:3   | Killed Amaemon
+ 12167 | Lair:3   | Reached skill level 14 in Unarmed Combat
+ 12176 | Lair:3   | Received a gift from Trog
+ 12474 | Lair:4   | You fall into a shaft and drop 1 floor!
+ 12474 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 12525 | Lair:4   | Paralysed by a hornet for 1 turns
+ 12819 | Lair:4   | Reached skill level 15 in Unarmed Combat
+ 12846 | Lair:4   | HP: 3/141 [skyshark (9)]
+ 12846 | Lair:4   | Slain by a skyshark
+
+Illustrated notes
+
+......#      ###........#
+>.....##  ####.....%%..##
+.......####P.......%...#
+.77....##..!...........#
+~~7~..###..#...........#
+~~~7..###.###..........#
+~~~~7..##.####........##
+~~~~~......# ##.....#.#
+~>~~~.....####......###
+~~~~~...### #P....####          #
+~~~~7.....###...@.##.##   ##### #
+7~77..............#...## ##...###
+777..................).###..}...#
+7~..................#..)#.....>.#
+...................###).....}...#
+...........#<.....## ##...#...###
+..............[...#   ##.###### #
+...P..............###############
+..........................<......
+...............##..##.......##...
+..............########..##.######
+
+Turn 11416 on Lair:2: q
+
+......#      ###........#
+>.....##  ####.....%%..##
+.......####P.......%...#
+.77....##..!...........#
+~~7~..###..#...........#
+~~~7..###.###..........#
+~~~~7..##.####........##
+~~~~~......# ##.....#.#
+~>~~~.....####......###
+~~~~~...### #P....####          #
+~~~~7.....###...@.##.##   ##### #
+7~77..............#...## ##...###
+777..................).###..}...#
+7~..................#..)#.....>.#
+...................###).....}...#
+...........#<.....## ##...#...###
+..............[...#   ##.###### #
+...P..............###############
+..........................<......
+...............##..##.......##...
+..............########..##.######
+
+Turn 11416 on Lair:2: q
+
+.77....##..!...........#
+~~7~..###..#...........#
+0~~7..###.###..........#
+0~~~7..##.####........##
+0~00~......# ##.....#.#
+0000~.....####......###
+~00~~...### #P....####          #
+~~0~7.....###...>.##.##   ##### #
+7~77..............#...## ##...###
+777..................).###..}...#
+7~..............@...#..)#.....>.#
+...................###).....}...#
+...........#<.....## ##...#...###
+..............[...#   ##.###### #
+...P..............###############
+..........................<......
+...............##..##.......##...
+..............########..##.######
+..........(.###      ###.###
+...........##          ###
+...........##
+
+Turn 11459 on Lair:2: q
+
+.77....##..!...........#
+~~7~..###..#...........#
+0~~7..###.###..........#
+0~~~7..##.####........##
+0~00~......# ##.....#.#
+0000~.....####......###
+~00~~...### #P....####          #
+~~0~7.....###...>.##.##   ##### #
+7~77..............#...## ##...###
+777..................).###..}...#
+7~..............@...#..)#.....>.#
+...................###).....}...#
+...........#<.....## ##...#...###
+..............[...#   ##.###### #
+...P..............###############
+..........................<......
+...............##..##.......##...
+..............########..##.######
+..........(.###      ###.###
+...........##          ###
+...........##
+
+Turn 11497 on Lair:2: q
+
+Levels and vault maps discovered:
+D:1:      lordsloth_arrival_two_stooges, layout_loops_ring,
+          chequers_hall_statues_wall_a, minmay_shallow_snake_nest
+D:2:      layout_basic, chequers_serial_rivers_small_b, chequers_mini_garden,
+          minmay_statues_item, skrybe_limestone_x, minmay_joined_circles
+D:3:      layout_basic, tso_oasis_becter, fedhas_altar_2, solitary_fountain,
+          nicolae_eternal_life, minmay_strange_pillars, uniq_sigmund,
+          uniq_terence, uniq_robin
+D:4:      layout_loops_ring, zin_scriptorium
+D:5:      layout_loops_corners, general_overflow_altar, wad_floor_pattern_2,
+          supply_closet_lemuel
+D:6:      layout_rooms, mainiacjoe_overflow_six_doors_small,
+          minmay_temple_entry_grid, uniq_eustachio
+D:7:      cheibrodos_quashed, layout_cave_pods, grunt_livestock, uniq_menkaure
+D:8:      kennysheep_blocky_room, layout_cave_pods, serial_shops,
+          nicolae_shop_crystal, shop_scrolls, grunt_decor_junction,
+          minivault_27, eino_small_chamber_without_monster, uniq_psyche,
+          uniq_pikel
+D:9:      layout_rooms, overflow_temple_1_default, orc_david_3, serial_curves,
+          eino_curves_01, eino_curves_03
+D:10:     layout_long_grid, kennysheep_mini, hellmonk_lair_entry_icy,
+          serial_shops, nicolae_shop_waterfront, minmay_nine_imps
+Lair:1:   gammafunk_worm_tunnel, layout_regular_city
+Lair:2:   layout_hall_layers, swamp_mist_pool, nicolae_snake_entry_squirm,
+          portal_ice_cave_entry_ice_simulacra, lemuel_fruit_fields,
+          infiniplex_staircase_pool_2, serial_bayou_shore_a,
+          lemuel_fruit_fields, uniq_gastronok
+Lair:3:   layout_concentric_octagons, special_room [special_room_mythical_zoo],
+          grunt_megastairs_3, uniq_amaemon
+Lair:4:   layout_roguey, slime_entry_1, grunt_megastairs_1, uniq_josephine,
+          uniq_nessos
+Lair:5:   minmay_lair_end_enchanted_forest, layout_gridlike,
+          infiniplex_staircase_pool
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Unarmed Combat |        4  5  6  7  8  9 10    11 13 15 | 15.1
+Fighting       |        3           5  6  9 10    12    | 12.5
+Throwing       |                          1  2        3 |  3.0
+Shields        |                             4 10       | 10.0
+Dodging        |                                        |  2.8
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+---------------------------+-------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |   100 |   144 |   209 |   589 |   175 ||  1217
+         Punch             |     3 |     3 |    13 |    13 |       ||    32
+  Throw: Boomerang         |       |       |       |     2 |       ||     2
+         Dart              |       |       |       |     6 |       ||     6
+ Invoke: Berserk           |     2 |     2 |     2 |     5 |     2 ||    13
+         Trog's Hand       |       |     1 |     1 |     3 |     2 ||     7
+         Brothers in Arms  |       |       |       |     3 |       ||     3
+  Evoke: Wand              |       |       |       |     1 |       ||     1
+    Use: Scroll            |     3 |     6 |     6 |     9 |     2 ||    26
+         Potion            |       |       |     1 |     3 |     1 ||     5
+   Stab: Sleeping          |     1 |       |       |       |       ||     1
+ Armour: Animal skin       |    22 |    20 |       |       |       ||    42
+         Robe              |       |    15 |    55 |    69 |       ||   139
+         Acid dragon scale |       |       |       |    81 |    74 ||   155
+  Dodge: Dodged            |    53 |    36 |    91 |   224 |    70 ||   474
+  Block: Kite shield       |       |       |       |   218 |   112 ||   330
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12778 |  11704 |   1074 |      0 |   7871 |  15 |  851.9 |
+       Dungeon |   9140 |   8268 |    872 |      0 |   6105 |  10 |  914.0 |
+          Lair |   3638 |   3437 |    201 |      0 |   1765 |   5 |  727.6 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+  Lair:2: 1444 daAuts
+     D:8: 1283 daAuts
+     D:3: 1026 daAuts
+  Lair:3: 959 daAuts
+    D:10: 958 daAuts
+     D:7: 949 daAuts
+     D:2: 944 daAuts
+     D:9: 938 daAuts
+     D:5: 906 daAuts
+  Lair:1: 860 daAuts
+     D:1: 814 daAuts
+     D:4: 770 daAuts
+     D:6: 548 daAuts
+  Lair:4: 342 daAuts
+  Lair:5: 32 daAuts
+

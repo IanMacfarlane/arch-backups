@@ -1,0 +1,236 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8221694574827257862
+
+64 Bokogi the Conjurer (level 3, 8/19 HPs)
+             Began as a Deep Elf Conjurer on Mar 19, 2023.
+             Quit the game on level 2 of the Dungeon on Mar 20, 2023.
+             The game lasted 00:03:48 (1782 turns).
+
+Bokogi the Conjurer (Deep Elf Conjurer)             Turns: 1782, Time: 00:03:48
+
+Health: 8/19       AC:  3    Str:  4    XL:     3   Next: 91%
+Magic:  0/10       EV: 12    Int: 24    God:    
+Gold:   87         SH:  0    Dex: 13    Spells: 7/10 levels left
+
+rFire   . . .      SeeInvis .    j - +3 hand axe (elec)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   +          Reflect  .    d - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                c - ring of poison resistance
+MPRegen 0.12/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 87 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ j - a +3 hand axe of electrocution (weapon)
+Armour
+ a - a +0 robe (worn)
+ d - a +0 helmet (worn)
+Jewellery
+ c - a ring of poison resistance (left hand)
+ h - a ring of magical power
+Scrolls
+ e - a scroll of brand weapon {unknown}
+ g - a scroll of acquirement {unknown}
+ m - a scroll of amnesia {unknown}
+Potions
+ b - a potion of magic
+ f - a potion of curing
+ i - a potion of attraction
+ k - a potion of flight {unknown}
+ l - a potion of might
+ n - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 4.0 Spellcasting
+ * Level 5.4 Conjurations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           100%       1d8       1%          1
+b - Searing Ray           Conj           62%        2d6       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Dazzling Flash           Conj/Hex       34%        N/A       10%         3
+ Frozen Ramparts          Ice            8%         1d2       28%         3
+ Ignite Poison            Fire/Tmut/Pois 4%         N/A       28%         3
+ Fulminant Prism          Conj/Hex       8%         3d7       32%         4
+ Iskenderun's Mystic Bla  Conj/Tloc      17%        2d5       32%         4
+ Sticky Flame             Conj/Fire      17%        2d4       32%         4
+ Animate Dead             Necr           4%         N/A       67%         4
+ Ice Form                 Ice/Tmut       4%         N/A       67%         4
+ Summon Ice Beast         Ice/Summ       4%         N/A       67%         4
+ Haunt                    Necr/Summ      2%         N/A       100%        7
+ Ignition                 Fire           2%         3d3       100%        8
+ Infestation              Necr           2%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Robin
+
+Message History
+
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+A goblin comes into view. It is wielding a +0 club.
+The magic dart hits the goblin.
+The goblin is moderately wounded.
+The goblin shouts! You hear a shout!
+Robin of the Strong Arm comes into view. They are wielding a +2 dagger of
+protection.
+The magic dart hits the goblin!
+You kill the goblin!
+Robin shouts!
+The magic dart hits Robin.
+Robin is lightly wounded.
+The magic dart hits Robin but does no damage.
+Robin is lightly wounded.
+The magic dart hits Robin but does no damage.
+Robin is lightly wounded.
+Casting: Magic Dart (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Robin
+Aim: Robin, wielding a +2 dagger of protection, wearing a +0 animal skin and
+wearing a +0 helmet (lightly wounded, 85% to hit)
+The searing ray hits Robin.
+Robin is moderately wounded.
+(Press . to maintain the ray.)
+The magic dart hits Robin but does no damage.
+Robin is moderately wounded.
+A goblin comes into view. It is wielding a +0 club.
+You barely miss Robin.
+Robin is moderately wounded.
+Robin hits you with a +2 dagger of protection.
+You completely miss Robin.
+Robin is moderately wounded.
+A goblin comes into view. It is wielding a +0 club.
+Robin drinks a potion. Robin seems to grow stronger.
+Robin hits you with a +2 dagger of protection!
+You barely miss Robin.
+Robin is moderately wounded.
+Robin hits you with a +2 dagger of protection.
+A goblin comes into view. It is wielding a +0 club.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         g..
+##########)#
+........##g#
+#######.##.#
+      #.##g#
+      #.##.#
+      #.##g#
+      #.##@#
+      #.##.#
+      #.##.#
+      #.##.#
+      #.##.##
+      #.#...#
+####  #.#.###
+...#  #.#.#
+##.#  #.#.#
+ #.####)#.#
+ #.#<...#.#
+ #.####.#.#
+
+
+You could see Robin (strong) and 3 goblins.
+
+Vanquished Creatures
+  A gnoll (D:1)
+  A worm (D:2)
+  2 dart slugs (D:2)
+  A ball python (D:2)
+  2 bats
+  4 endoplasms
+  4 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  2 quokkas (D:1)
+  3 frilled lizards
+  3 kobolds (D:1)
+  2 rats
+40 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   231 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   314 | D:1      | Learned a level 2 spell: Searing Ray
+   776 | D:1      | Reached skill level 5 in Conjurations
+   776 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/10
+  1772 | D:2      | Noticed Robin
+  1782 | D:2      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ncdulo_halloftheorcs, layout_basic, nicolae_hexahallways
+D:2:      layout_basic, uniq_sigmund, uniq_robin
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Conjurations   |     5    |  5.4
+Spellcasting   |        4 |  4.0
+Dodging        |          |  2.6
+Stealth        |          |  2.6
+
+Action                     || total
+---------------------------++-------
+  Melee: Hand axe          ||     5
+   Cast: Magic Dart        ||    73
+         Searing Ray       ||     2
+    Use: Scroll            ||     4
+  Dodge: Dodged            ||     4
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1782 |   1763 |     19 |      0 |   1576 |   2 |  891.0 |
+       Dungeon |   1782 |   1763 |     19 |      0 |   1576 |   2 |  891.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1086 daAuts
+     D:2: 696 daAuts
+

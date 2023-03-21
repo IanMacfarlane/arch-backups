@@ -1,0 +1,127 @@
+Xikchaka
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(4, -26, D:1)
+  a +0 dagger
+(9, -6, D:1)
+  a +0 dagger
+  3 stones
+  a +0 whip
+(14, -11, D:1)
+  a +0 robe
+(28, -24, D:1)
+  a +0 club
+  a +0 dagger
+(29, -16, D:1)
+  a +0 robe
+(33, -6, D:1)
+  a +0 dagger
+(37, 1, D:1)
+  4 poisoned darts
+(40, 10, D:1)
+  a +2 pair of gloves
+(45, -15, D:1)
+  3 stones
+(47, -30, D:1)
+  a +0 leather armour of fire resistance
+(58, -6, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(20, -15, D:2)
+  a +0 mace
+(25, 3, D:2)
+  2 stones
+(33, -16, D:2)
+  a +0 buckler
+(35, -13, D:2)
+  6 stones
+(36, -12, D:2)
+  a +0 dagger
+(38, 10, D:2)
+  a +0 ring mail
+(48, -5, D:2)
+  a +0 trident
+(51, -6, D:2)
+  a +0 spear
+(55, 2, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(1, 0, D:3)
+  a +0 club
+(6, 1, D:3)
+  a +0 dagger
+(7, -37, D:3)
+  the +1 sling "Grim" {drain, Int+4}
+    Int:       It affects your intelligence (+4).
+(9, -27, D:3)
+  a +1 vampiric dagger
+(9, -26, D:3)
+  a +0 scale mail
+  a +0 dagger
+  a +0 dagger
+(10, -26, D:3)
+  a +0 dagger
+(10, 22, D:3)
+  a +0 chain mail
+(14, 12, D:3)
+  a +0 club
+(17, -30, D:3)
+  a +0 dagger
+(19, -18, D:3)
+  a +0 sling
+(26, -28, D:3)
+  a +0 dagger
+(39, -30, D:3)
+  a +0 short sword
+(40, 14, D:3)
+  a +0 short sword
+(51, 6, D:3)
+  a +0 ring mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 flail
+  an orc corpse
+(0, 1, D:4)
+  a +0 dagger
+  a +0 robe
+(0, 2, D:4)
+  a +0 war axe
+  a +0 leather armour
+(6, 28, D:4)
+  a +0 club
+  a goblin corpse
+(6, 30, D:4)
+  a +0 dagger
+  a +0 leather armour
+  a +0 dagger
+  a +0 club
+  a +0 club
+  a +0 sling
+  a +0 dagger
+  a +0 club
+  a goblin corpse
+  a goblin corpse
+  a goblin corpse
+  a goblin corpse
+(6, 31, D:4)
+  a +0 club
+  a +0 club
+  a +0 animal skin
+  a +0 helmet
+  a +0 dagger
+  a +0 dagger
+  a hobgoblin corpse
+  a goblin corpse
+(10, 26, D:4)
+  a +0 short sword
+  a kobold corpse
+(12, 35, D:4)
+  an adder corpse (skeletalised by now)
+

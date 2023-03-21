@@ -1,0 +1,215 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 4873473260796952141
+
+49 Bokogi the Shooter (level 4, -1/27 HPs)
+             Began as a Kobold Hunter on Mar 14, 2023.
+             Slain by a worm (5 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:49 (1103 turns).
+
+Bokogi the Shooter (Kobold Hunter)                  Turns: 1103, Time: 00:04:49
+
+Health: -1/27      AC:  3    Str:  8    XL:     4   Next: 1%
+Magic:  4/4        EV: 14    Int: 16    God:    
+Gold:   42         SH:  0    Dex: 20    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +++                      (no amulet)
+HPRegen 0.24/turn                f - +6 ring of intelligence
+MPRegen 0.09/turn                (no ring)
+
+@: no status effects
+A: small, no large weapons, nightstalker 3
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 42 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ j - a +0 sling
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ f - a +6 ring of intelligence (left hand)
+Scrolls
+ b - a scroll of immolation
+ d - a scroll of identify
+ g - a scroll of enchant armour
+ i - a scroll of fear
+ n - a scroll of teleportation
+Potions
+ e - a potion of flight {unknown}
+ h - a potion of haste {unknown}
+ k - a potion of curing {unknown}
+ l - a potion of attraction {unknown}
+ m - a potion of magic {unknown}
+
+
+   Skills:
+ + Level 2.9 Fighting
+ * Level 6.2 Ranged Weapons
+ - Level 2.4 Dodging
+ + Level 2.6 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are completely attuned to the shadows.
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Unknown command.
+You shoot an arrow. The arrow hits the hobgoblin!
+You kill the hobgoblin!
+A ball python comes into view.
+You shoot an arrow.
+The arrow closely misses the ball python.
+You shoot an arrow. The arrow hits the ball python.
+You kill the ball python!
+You shoot an arrow. The arrow hits the ball python.
+You kill the ball python!
+A bat comes into view.
+You shoot an arrow. The arrow barely misses the bat.
+You shoot an arrow. The arrow closely misses the bat. The bat misses you.
+A worm comes into view.
+You shoot an arrow. The arrow hits the bat.
+The bat is moderately wounded.
+The bat hits you but does no damage. The bat closely misses you.
+You shoot an arrow. The arrow misses the bat. The bat hits you but does no
+damage.
+You shoot an arrow. The arrow hits the bat!
+You kill the bat!
+You have reached level 4!
+You shoot an arrow.
+The arrow hits the worm but does no damage.
+You shoot an arrow. The arrow barely misses the worm. The worm bites you!
+You shoot an arrow. The arrow hits the worm.
+The worm is moderately wounded.
+The worm bites you.
+You shoot an arrow. The arrow hits the worm.
+The worm is heavily wounded.
+You shoot an arrow. The arrow barely misses the worm. The worm bites you!
+* * * LOW HITPOINT WARNING * * *
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You shoot an arrow. The arrow hits the worm.
+The worm is severely wounded.
+The worm bites you.
+You die...
+
+...?.. .
+.....#.#
+.....#.##
+...†$...#
+†..w@$...
+....##...
+....   #.
+####
+
+
+You could see a worm.
+
+Vanquished Creatures
+  2 dart slugs
+  4 ball pythons
+  8 bats
+  4 endoplasms
+  A giant cockroach (D:1)
+  2 hobgoblins
+  4 jackals (D:1)
+  3 kobolds (D:1)
+  3 quokkas (D:1)
+  2 frilled lizards (D:1)
+  A goblin (D:1)
+  7 rats
+41 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Kobold Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 1/1
+    76 | D:1      | Reached XP level 2. HP: 18/18 MP: 2/2
+   190 | D:1      | Reached XP level 3. HP: 22/22 MP: 3/3
+   250 | D:1      | Reached skill level 6 in Ranged Weapons
+  1050 | D:2      | You fall into a shaft and drop 2 floors!
+  1098 | D:3      | Reached XP level 4. HP: 27/27 MP: 4/4
+  1103 | D:3      | Slain by a worm
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      roderic_chinese_lattice_arrival, layout_basic
+D:2:      minmay_evil_eye, layout_loops_ring, minmay_split_cup_large,
+          uniq_natasha
+D:3:      layout_rooms, lightli_sewer_entry_pipes, basic_ecumenical_altar
+D:4:      layout_rooms, ashenzari_altar_1, mainiacjoe_overflow_swirl,
+          serial_shops, nicolae_inconvenience_store, serial_rivers,
+          chequers_serial_rivers_small_3, chequers_serial_rivers_micro_c,
+          chequers_serial_rivers_micro_d, chequers_serial_rivers_micro_c,
+          chequers_serial_rivers_marsh, chequers_serial_rivers_micro_e
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |     2    |  2.6
+Ranged Weapons |        6 |  6.2
+Fighting       |          |  2.9
+Dodging        |          |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |    91 |     6 ||    97
+    Use: Scroll            |     3 |       ||     3
+ Armour: Leather armour    |    13 |       ||    13
+  Dodge: Dodged            |    49 |       ||    49
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1125 |   1100 |     25 |      0 |    871 |   4 |  281.2 |
+       Dungeon |   1125 |   1100 |     25 |      0 |    871 |   4 |  281.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1006 daAuts
+     D:2: 62 daAuts
+     D:4: 38 daAuts
+     D:3: 18 daAuts
+

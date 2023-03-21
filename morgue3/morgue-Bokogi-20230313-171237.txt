@@ -1,0 +1,553 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 12072454977663697928
+
+33994 Bokogi the Severer (level 13, -5/184 HPs)
+             Began as a Minotaur Berserker on Mar 13, 2023.
+             Was an Elder of Trog.
+             Slain by a ten-headed hydra (6 damage)
+             ... on level 3 of the Lair of Beasts.
+             The game lasted 01:25:33 (18500 turns).
+
+Bokogi the Severer (Minotaur Berserker)            Turns: 18500, Time: 01:25:33
+
+Health: -5/184     AC: 17    Str: 26    XL:     13   Next: 39%
+Magic:  12/12      EV:  8    Int:  4    God:    Trog [****..]
+Gold:   295        SH:  0    Dex: 11    Spells: 12/12 levels left
+
+rFire   + + .      SeeInvis .    C - +5 broad axe (elec)
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    l - +2 plate armour {rF+}
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    n - scarf {repulsion}
+rCorr   +                        (no gloves)
+Will    ++...                    (no boots)
+Stlth                            (no amulet)
+HPRegen 1.50/turn                s - ring of fire
+MPRegen 0.13/turn                B - ring of resist corrosion
+
+@: berserking (expiring), lethally poisoned (-5 -> -11), strong-willed,
+regenerating, repel missiles, very quick
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 3 of the Lair of Beasts.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 4 branches of the dungeon, and saw 16 of its levels.
+
+You collected 1520 gold pieces.
+You spent 1225 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ v - a +5 battleaxe of draining
+ C - a +5 broad axe of electrocution (weapon)
+Missiles
+ d - 4 javelins
+ e - 6 curare-tipped darts (quivered)
+ t - 28 poisoned darts
+ G - 2 boomerangs of dispersal
+Armour
+ f - a +0 cloak
+ l - a +2 plate armour of fire resistance (worn)
+ n - a scarf of repulsion (worn)
+Jewellery
+ s - a ring of fire (left hand)
+ B - a ring of resist corrosion (right hand)
+ H - a ring of magical power
+Wands
+ c - a wand of polymorph (9)
+ j - a wand of paralysis (10)
+ m - a wand of roots (20)
+ A - a wand of quicksilver (5)
+Scrolls
+ a - a scroll of immolation
+ k - 4 scrolls of blinking
+ p - 3 scrolls of fear
+ q - 4 scrolls of teleportation
+ y - 2 scrolls of fog
+ z - 4 scrolls of identify
+ D - a scroll of enchant armour {unknown}
+Potions
+ b - 2 potions of ambrosia
+ g - a potion of magic
+ h - a potion of flight
+ i - 5 potions of curing
+ r - 3 potions of invisibility
+ w - a potion of cancellation
+ x - 2 potions of resistance
+ F - a potion of berserk rage {unknown}
+Miscellaneous
+ u - a phial of floods
+ E - a phantom mirror
+
+
+   Skills:
+ + Level 13.8 Fighting
+ + Level 18.6 Axes
+ - Level 6.0 Throwing
+ + Level 13.1 Armour
+ - Level 2.2 Dodging
+ - Level 4.7 Shields
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:4            Lair (3/5) D:8         
+ Spider (0/4) Lair:2          Orc (2/2) D:10            Elf (0/3) Orc:2       
+ Swamp: Lair:2-3    Shoals: Lair:2-3    
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:7 =([?:   Orc:2 [?:[**
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You slice one of the seven-headed hydra's heads off!
+The six-headed hydra grows two more! You hit the eight-headed hydra.
+Lightning courses through the eight-headed hydra!!
+You feel very sick.
+Nessos stands on their hind legs for a moment.
+Nessos zaps a wand. The bolt of dispelling energy hits you.
+* * * LOW HITPOINT WARNING * * *
+You slice Nessos!! You headbutt Nessos!
+You kill Nessos!
+Trog accepts your kill.
+Trog appreciates your killing of a magic user.
+You chop one of the eight-headed hydra's heads off!
+The seven-headed hydra grows two more! You hit the nine-headed hydra.
+Lightning courses through the nine-headed hydra!
+You feel very sick.
+The nine-headed hydra bites you.
+* * * LOW HITPOINT WARNING * * *
+The nine-headed hydra closely misses you.
+The nine-headed hydra bites you but does no damage.
+The nine-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The nine-headed hydra barely misses you.
+The nine-headed hydra closely misses you.
+The nine-headed hydra bites you but does no damage. x2
+The nine-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+You are too berserk!
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+You slash the plant! The plant begins to die.
+The plant is lightly damaged.
+You hack one of the nine-headed hydra's heads off!
+The eight-headed hydra grows two more! You slice the ten-headed hydra!!
+Lightning courses through the ten-headed hydra!!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The ten-headed hydra bites you.
+You die...
+
+     ###  ###
+   ###.# ##P##
+   #...###...########
+ ###...#.....#..##...
+##.D.................
+#P@..##P##.#.######..
+##....########   #.##
+ #....#          ###
+ ####....#
+    ........#
+   ##.</.....
+    #........
+    ##c......
+      #....0.
+       #.....
+
+
+You could see a ten-headed hydra.
+
+Vanquished Creatures
+  Donald (Orc:2)
+  An orc warlord (Orc:1)
+  Nessos (Lair:3)
+  The ghost of Dootley the Carver, a journeyman FoFi of Dithmenos (Orc:2)
+  The ghost of Ceckukk the Geomancer, a journeyman GrEE of Sif Muna (Lair:1)
+  Fannar (Lair:1)
+  A boulder beetle (D:8)
+  3 two-headed ogres
+  Sonja (Orc:2)
+  4 orc high priests
+  4 spriggans (Lair:1)
+  2 skysharks
+  The ghost of Bokogi the Poker, a novice DrBe of Trog (D:7)
+  An orc knight (Orc:1)
+  2 orc sorcerers (Orc:1)
+  4 black mambas
+  Joseph (D:7)
+  8 cane toads
+  3 komodo dragons
+  2 rime drakes
+  A polar bear (Lair:1)
+  A troll (D:10)
+  A hornet (Lair:1)
+  2 blink frogs (Lair:3)
+  A slime creature (D:7)
+  Sigmund (D:3)
+  A wyvern (Lair:1)
+  16 yaks
+  4 basilisks
+  5 wargs (Orc:1)
+  Menkaure (D:5)
+  3 vampire mosquitoes (D:10)
+  2 acid dragons
+  4 water moccasins
+  A black bear (Lair:1)
+  22 orc warriors
+  2 ice beasts
+  2 sky beasts (D:7)
+  6 ogres
+  6 centaurs
+  5 wolves (Lair:1)
+  3 phantoms
+  3 kobold brigands
+  6 bullfrogs
+  Blork the orc (D:6)
+  5 scorpions
+  6 wights
+  2 electric eels (Lair:2)
+  2 howler monkeys (D:9)
+  4 crimson imps (D:9)
+  A jelly (D:7)
+  4 hounds
+  22 orc priests
+  Crazy Yiuf (D:3)
+  4 sleepcaps
+  3 gnoll boudas
+  Jessica (D:2)
+  Ijyb (D:3)
+  5 iguanas
+  32 orc wizards
+  8 hell rats
+  18 gnolls
+  6 adders
+  5 river rats (D:8)
+  A white imp (D:5)
+  2 ufetubi (D:6)
+  A worm (D:4)
+  4 dart slugs
+  72 orcs
+  A bat (D:3)
+  8 endoplasms
+  A giant cockroach (D:2)
+  8 goblins
+  7 hobgoblins
+  11 jackals
+  7 quokkas
+  6 ball pythons
+  18 kobolds
+  21 rats
+  A butterfly (Lair:2)
+442 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hydra (Lair:2)
+  2 yaks (Lair:3)
+  An orc warrior (D:7)
+  2 ogres (D:7)
+  A centaur (D:7)
+  A kobold brigand (D:7)
+  A bullfrog (D:7)
+9 creatures vanquished.
+
+Vanquished Creatures (others)
+  12 fungi
+  12 plants
+24 creatures vanquished.
+
+Grand Total: 475 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   278 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   316 | D:1      | Reached skill level 4 in Axes
+   333 | D:1      | Found a faded altar of an unknown god.
+   890 | D:2      | Reached XP level 3. HP: 28/33 MP: 2/2
+  1019 | D:2      | Noticed Jessica
+  1024 | D:2      | Killed Jessica
+  1025 | D:2      | Reached skill level 1 in Throwing
+  1248 | D:2      | Reached ** piety under Trog
+  1275 | D:2      | Reached XP level 4. HP: 35/41 MP: 3/3
+  1612 | D:3      | Found a runed translucent door.
+  1613 | D:3      | Noticed Crazy Yiuf
+  1621 | D:3      | Killed Crazy Yiuf
+  1622 | D:3      | Reached skill level 5 in Axes
+  1944 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2003 | D:3      | Noticed Sigmund
+  2008 | D:3      | Killed Sigmund
+  2009 | D:3      | Reached skill level 6 in Axes
+  2009 | D:3      | Reached XP level 5. HP: 38/47 MP: 4/4
+  2057 | D:3      | Reached skill level 5 in Fighting
+  2057 | D:3      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2294 | D:3      | Noticed Ijyb
+  2304 | D:3      | Killed Ijyb
+  2701 | D:4      | Reached skill level 7 in Axes
+  2917 | D:4      | Found a staircase to the Ecumenical Temple.
+  3054 | D:5      | Entered Level 5 of the Dungeon
+  3082 | D:5      | Reached XP level 7. HP: 56/61 MP: 6/6
+  3117 | D:5      | Reached *** piety under Trog
+  3192 | D:5      | Reached skill level 8 in Axes
+  3635 | D:6      | Noticed Blork the orc
+  3761 | D:6      | Reached skill level 9 in Axes
+  3869 | D:6      | Reached XP level 8. HP: 70/70 MP: 7/7
+  4030 | D:6      | Reached skill level 10 in Axes
+  4136 | D:5      | Noticed Menkaure
+  4152 | D:5      | Killed Menkaure
+  4229 | D:5      | Found a white marble altar of Elyvilon.
+  4590 | D:6      | Killed Blork the orc
+  4591 | D:6      | Reached XP level 9. HP: 79/79 MP: 8/8
+  4629 | D:6      | Reached skill level 11 in Axes
+  4819 | D:6      | Reached skill level 5 in Armour
+  4910 | D:6      | Reached **** piety under Trog
+  5324 | Temple   | Entered the Ecumenical Temple
+  5693 | D:7      | Found Pityt's Magic Scroll Boutique.
+  5705 | D:7      | Noticed Joseph
+  5841 | D:7      | Killed Joseph
+  5842 | D:7      | Reached skill level 12 in Axes
+  6030 | D:7      | Bought 2 scrolls of identify for 52 gold pieces
+  6030 | D:7      | Bought a scroll of identify for 26 gold pieces
+  6046 | D:7      | Found Huox's Book Shop.
+  6062 | D:7      | Noticed Bokogi's ghost (novice DrBe)
+  6069 | D:7      | Found a transporter.
+  6089 | D:7      | Found a transporter.
+  6329 | D:7      | Found Huostoim's Jewellery Boutique.
+  6329 | D:7      | Found Maukit's Weapon Boutique.
+  6642 | D:7      | Found Nytalis's Antique Armour Boutique.
+  6680 | D:7      | Found a runed translucent door.
+  7077 | D:8      | Noticed a boulder beetle
+  7077 | D:8      | Found the ring of the Mage {Wiz Archmagi}
+  7090 | D:8      | Killed a boulder beetle
+  7091 | D:8      | Reached skill level 13 in Axes
+  7091 | D:8      | Reached XP level 10. HP: 43/90 MP: 9/9
+  7327 | D:8      | Found a staircase to the Lair.
+  7622 | D:8      | Found a shadowy altar of Dithmenos.
+  7972 | D:8      | Reached ***** piety under Trog
+  7975 | D:8      | Reached skill level 14 in Axes
+  7987 | D:8      | HP: 5/124 [wight/+5 halberd (13)]
+  8422 | D:9      | Found a snail-covered altar of Cheibriados.
+  8423 | D:9      | Noticed a two-headed ogre
+  8427 | D:9      | Killed a two-headed ogre
+  8833 | D:9      | Found a shimmering altar of Xom.
+  8951 | D:9      | Found a hide-covered altar of Uskayaw.
+  9031 | D:9      | Noticed a two-headed ogre
+  9052 | D:9      | Killed a two-headed ogre
+  9053 | D:9      | Reached skill level 10 in Fighting
+  9091 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+  9101 | D:9      | Reached skill level 15 in Axes
+  9191 | D:10     | Entered Level 10 of the Dungeon
+  9275 | D:10     | Found a staircase to the Orcish Mines.
+  9288 | D:10     | Found a sacrificial altar of Ru.
+  9432 | D:10     | Noticed a two-headed ogre
+  9439 | D:10     | Killed a two-headed ogre
+  9440 | D:10     | Reached XP level 11. HP: 82/101 MP: 10/10
+  9645 | D:10     | Found a blossoming altar of Fedhas.
+  9993 | D:10     | Identified the +6 quarterstaff "Kehidum" {venom, *Rage
+                  | Will++}
+ 10152 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 10615 | Lair:1   | Found a runed translucent door.
+ 10620 | Lair:1   | Noticed Ceckukk's ghost (journeyman GrEE)
+ 10620 | Lair:1   | Noticed a spriggan rider
+ 10674 | Lair:1   | Noticed Fannar
+ 10692 | Lair:1   | Killed Fannar
+ 11368 | Lair:1   | Reached skill level 16 in Axes
+ 11616 | Lair:1   | Identified the +4 trident "Aputhrint" {flame, rPois Will-
+                  | Str+2 Int+4}
+ 11646 | Lair:1   | Killed Ceckukk's ghost
+ 11654 | Lair:1   | Killed a spriggan rider
+ 12122 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 12122 | Orc:1    | Noticed an orc knight
+ 12633 | Orc:1    | Reached skill level 10 in Armour
+ 12643 | Orc:1    | Killed an orc knight
+ 12644 | Orc:1    | Reached skill level 5 in Throwing
+ 12644 | Orc:1    | Reached XP level 12. HP: 85/110 MP: 11/11
+ 12998 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 13299 | Orc:2    | Noticed Dootley's ghost (journeyman FoFi)
+ 13343 | Orc:2    | Noticed Donald
+ 13357 | Orc:2    | Killed Donald
+ 13363 | Orc:2    | HP: 1/112 [orc priest/divine providence (12)]
+ 13666 | Orc:2    | Noticed an orc high priest
+ 13803 | Orc:1    | Killed an orc high priest
+ 13808 | Orc:2    | Noticed an orc high priest
+ 14075 | Orc:2    | Noticed an orc high priest
+ 14080 | Orc:1    | Reached skill level 17 in Axes
+ 14168 | Orc:1    | Killed an orc high priest
+ 14175 | Orc:1    | Killed an orc high priest
+ 14259 | Orc:2    | Noticed an orc high priest
+ 14427 | Orc:2    | Killed an orc high priest
+ 14428 | Orc:2    | Noticed an orc warlord
+ 14448 | Orc:1    | Killed an orc warlord
+ 14767 | Orc:2    | Found a runed translucent door.
+ 14800 | Orc:2    | Noticed Sonja
+ 14838 | Orc:2    | Killed Sonja
+ 14842 | Orc:2    | Found a staircase to the Elven Halls.
+ 15124 | Orc:2    | Found Sakif's Antique Armour Boutique.
+ 15396 | Orc:2    | Found Qesuen's Overcharged Wands.
+ 15479 | Orc:2    | Found Defiyjes's Antique Armour Shop.
+ 15479 | Orc:2    | Found Kynt's Magic Scroll Boutique.
+ 15480 | Orc:2    | Found Qeklir's Book Boutique.
+ 15484 | Orc:2    | Found Xiatt's Assorted Antiques.
+ 15591 | Orc:2    | Killed Dootley's ghost
+ 15888 | Orc:2    | Bought the +3 pair of mountain boots {steadfast, rC+} for
+                  | 1005 gold pieces
+ 15888 | Orc:2    | Found the +3 pair of mountain boots {steadfast, rC+}
+ 16098 | D:7      | Received a gift from Trog
+ 16105 | D:7      | Reached skill level 18 in Axes
+ 16115 | D:7      | Killed Bokogi's ghost
+ 16473 | Orc:2    | Bought a scroll of brand weapon for 142 gold pieces
+ 16757 | Lair:2   | Reached XP level 13. HP: 102/116 MP: 12/12
+ 17486 | Lair:2   | Found a hole to the Spider Nest.
+ 18482 | Lair:3   | Noticed Nessos
+ 18497 | Lair:3   | Killed Nessos
+ 18497 | Lair:3   | HP: 7/184 [nine-headed hydra (7)]
+ 18499 | Lair:3   | HP: 3/184 [poisoned by Nessos]
+ 18500 | Lair:3   | HP: 1/184 [poisoned by Nessos]
+ 18500 | Lair:3   | Slain by a ten-headed hydra
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      tarquinn_simple_flora_water_b, layout_loops_ring,
+          ebering_ecumenical_altar_ruins
+D:2:      layout_basic, kennysheep_jessica_study
+D:3:      layout_loops_ring, mainiacjoe_overflow_tiny_flanked,
+          minmay_strange_pillars, uniq_crazy_yiuf_cottage, uniq_sigmund,
+          uniq_jessica, uniq_ijyb
+D:4:      layout_rooms, minmay_temple_entry_antechambers, st_stairs_3
+D:5:      layout_basic, kennysheep_little_box, uniq_menkaure
+D:6:      minmay_flawed_box, layout_loops_ring, uniq_blork_the_orc
+D:7:      layout_rooms, nzn_ghost_randoct, serial_shops,
+          nicolae_shop_advertising_works [nicolae_subvault_shop_adworks],
+          nicolae_shop_behind_doors, shop, nicolae_shop_trees,
+          nicolae_shop_temple_entry_statues_fountains,
+          nicolae_concentric_dashed_squares_wild, lightli_church_of_beogh,
+          uniq_joseph
+D:8:      lemuel_ratsnest, layout_loops_ring,
+          mainiacjoe_overflow_surrounded_room, small_chamber_with_monster
+D:9:      layout_loops_ring, led_xom_imps, nicolae_kikubaaqudgha_miasma_corner,
+          mainiacjoe_overflow_big_doors, enter_bailey_4
+D:10:     layout_irregular_city, nicolae_ru_awakened_eye, lemuel_crystal_altar,
+          orc_0_dummy, hangedman_decor_peaks_small
+Temple:   oiseaux_autumnal_temple
+Lair:1:   layout_concentric_octagons, ebering_ghost_funeral_grove,
+          lemuel_fruit_tree, grunt_megastairs_2, uniq_fannar
+Lair:2:   layout_gridlike, spider_nest_entry_web_field,
+          portal_ice_cave_entry_pillars_2, minivault_19,
+          amcnicky_mini_pool_medium, lemuel_fruit_fields, serial_bayou_shore_b,
+          lemuel_fruit_fields, infiniplex_staircase_pool
+Lair:3:   layout_misc_corridors, swamp_mist, basic_altar, uniq_nessos
+Orc:1:    layout_caves, basic_altar
+Orc:2:    st_orc_mages, layout_caves, hellmonk_ghost_happy_afterlife,
+          serial_shops, shop, nicolae_shop_overcharged_wands, uniq_donald,
+          uniq_sonja
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Fighting       |     4        5     6  7  8 10 11 13    | 13.8
+Axes           |     4     6     7  9 10 13 15 16 18    | 18.6
+Throwing       |        1  2                    5  6    |  6.0
+Shields        |           2        3  4                |  4.7
+Armour         |                    3  4  6  8 10 12 13 | 13.1
+Dodging        |                                        |  2.2
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+---------------------------+-------+-------+-------+-------+-------++-------
+  Melee: Hand axe          |    22 |       |       |       |       ||    22
+         Headbutt          |     3 |    13 |    39 |    71 |    22 ||   148
+         War axe           |    28 |    95 |   146 |       |       ||   269
+         Battleaxe         |       |       |   126 |   449 |       ||   575
+         Broad axe         |       |       |       |    14 |    84 ||    98
+         Punch             |       |       |       |       |     1 ||     1
+  Throw: Javelin           |       |       |     2 |       |       ||     2
+         Dart              |       |       |     7 |    17 |     7 ||    31
+ Invoke: Trog's Hand       |       |       |     4 |     5 |     3 ||    12
+         Berserk           |       |       |     2 |    15 |     1 ||    18
+         Brothers in Arms  |       |       |       |     3 |     3 ||     6
+    Use: Scroll            |       |    10 |     9 |    10 |       ||    29
+         Potion            |       |       |     4 |     8 |     3 ||    15
+   Stab: Sleeping          |     2 |       |       |       |       ||     2
+         Invisible         |       |       |     1 |       |       ||     1
+ Armour: Animal skin       |     6 |     1 |       |       |       ||     7
+         Plate armour      |       |    38 |   185 |   281 |    65 ||   569
+  Dodge: Dodged            |    26 |    28 |    58 |   210 |    36 ||   358
+  Block: Kite shield       |       |    35 |    50 |       |       ||    85
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  18690 |  17302 |   1388 |      0 |  13558 |  16 | 1168.1 |
+       Dungeon |  11181 |  10072 |   1109 |      0 |   8038 |  10 | 1118.1 |
+        Temple |    313 |    264 |     49 |      0 |    253 |   1 |  313.0 |
+          Lair |   3681 |   3597 |     84 |      0 |   2741 |   3 | 1227.0 |
+  Orcish Mines |   3514 |   3369 |    145 |      0 |   2525 |   2 | 1757.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+  Lair:1: 2115 daAuts
+   Orc:1: 1823 daAuts
+   Orc:2: 1690 daAuts
+     D:7: 1538 daAuts
+    D:10: 1514 daAuts
+     D:8: 1443 daAuts
+     D:6: 1365 daAuts
+  Lair:2: 1207 daAuts
+     D:3: 1113 daAuts
+     D:9: 1110 daAuts
+     D:5: 1029 daAuts
+     D:1: 746 daAuts
+     D:2: 744 daAuts
+     D:4: 574 daAuts
+  Lair:3: 358 daAuts
+

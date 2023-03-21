@@ -1,0 +1,575 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 scale mail
+(2, -2, D:1)
+  a +0 leather armour
+(5, -27, D:1)
+  a +0 dagger
+(5, -5, D:1)
+  a +0 quarterstaff
+(10, -24, D:1)
+  a +0 short sword
+(10, -12, D:1)
+  a staff of conjuration
+(16, -8, D:1)
+  a +0 club
+  4 stones
+(16, -7, D:1)
+  a +0 short sword
+  a +0 club
+  a +0 club
+(18, -23, D:1)
+  a +0 dagger
+(18, 3, D:1)
+  6 poisoned darts
+(21, 2, D:1)
+  a +0 helmet
+(22, 10, D:1)
+  a +0 club
+(23, -21, D:1)
+  a +0 short sword
+(30, -30, D:1)
+  2 large rocks
+(38, -7, D:1)
+  6 stones
+(41, 6, D:1)
+  5 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(0, 6, D:2)
+  a +0 dagger
+(4, 24, D:2)
+  the +1 whip of Qihyvaf {drain, Drain +Blink rPois Str+5}
+    Str:       It affects your strength (+5).
+    rPois:     It protects you from poison.
+    +Blink:    It lets you blink.
+    Drain:     It drains your maximum health when unequipped.
+(11, 19, D:2)
+  a +0 club
+(17, 14, D:2)
+  a +0 robe
+(21, 28, D:2)
+  a +0 short sword
+  a stone
+(23, 27, D:2)
+  a +0 whip
+(25, 31, D:2)
+  a +0 mace
+(31, 3, D:2)
+  2 boomerangs
+(32, 31, D:2)
+  a +0 mace
+(38, 1, D:2)
+  a +0 dagger
+(58, 8, D:2)
+  a +0 ring mail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +3 dagger
+(1, -1, D:3)
+  a +0 ring mail
+(6, -27, D:3)
+  a +0 club
+(7, -26, D:3)
+  a +0 club
+(7, -8, D:3)
+  a +0 club
+(10, -21, D:3)
+  4 stones
+(16, -23, D:3)
+  a +0 dagger
+  a boomerang
+(17, -31, D:3)
+  7 stones
+(19, 16, D:3)
+  a stone
+(19, 19, D:3)
+  3 large rocks
+(20, 19, D:3)
+  a stone
+(21, 17, D:3)
+  a stone
+(23, 18, D:3)
+  a stone
+(24, 16, D:3)
+  a stone
+(24, 20, D:3)
+  a stone
+(25, 4, D:3)
+  a +0 long sword
+(27, -3, D:3)
+  3 javelins
+(28, -30, D:3)
+  a +0 club
+  a +0 robe
+(34, -15, D:3)
+  a +0 sling
+(35, -6, D:3)
+  a +0 club
+  a +0 dagger
+(35, -4, D:3)
+  a +0 mace
+  a +0 animal skin
+  a +2 helmet
+  a +0 sling
+  a +0 club
+  a +0 dagger
+  a +0 whip
+  a +0 dagger
+  a +0 club
+  a +0 club
+  a +0 club
+  a +0 dagger
+  a +1 whip of electrocution
+(36, -3, D:3)
+  a +0 halberd
+(43, -3, D:3)
+  2 boomerangs
+(57, -2, D:3)
+  a +0 short sword
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a staff of air
+(22, 32, D:4)
+  a +0 club
+(35, 5, D:4)
+  a +0 hand axe
+(37, 33, D:4)
+  a +0 club
+  a +0 leather armour
+  a +0 ring mail
+  a +0 dagger
+  a +0 ring mail
+  a +0 short sword
+(37, 34, D:4)
+  a +0 club
+(38, 20, D:4)
+  a +0 shortbow
+(38, 31, D:4)
+  a staff of poison
+  5 poisoned darts
+  a +0 dagger
+  a +0 robe
+(38, 32, D:4)
+  a +0 club
+  a +0 hand axe
+(38, 33, D:4)
+  a +0 flail
+(47, 1, D:4)
+  5 stones
+(50, 21, D:4)
+  a +0 whip
+(59, 37, D:4)
+  a +0 short sword
+(64, 36, D:4)
+  a +0 pair of boots
+(65, 28, D:4)
+  a +0 scale mail
+
+Level 5 of the Dungeon
+[Shop] Paose's Assorted Antiques
+  a +0 scimitar (108 gold)
+  a wand of mindburst (3) (113 gold)
+  a ring of resist corrosion (540 gold)
+  a ring of see invisible (405 gold)
+  a +1 pair of gloves (310 gold)
+  a box of beasts (1080 gold)
+  a potion of might (108 gold)
+  a potion of mutation (216 gold)
+  a potion of lignification (81 gold)
+[Shop] Raoklun's Armour Shoppe
+  a +0 leather armour (20 gold)
+  a +0 chain mail (45 gold)
+  a +0 robe (7 gold)
+  a +0 leather armour (20 gold)
+  a +0 leather armour (20 gold)
+  a +0 leather armour (20 gold)
+  a +1 plate armour of cold resistance (350 gold)
+[Shop] Gonyuproaly's General Store
+  a scroll of amnesia (60 gold)
+  a potion of curing (45 gold)
+  a scroll of identify (30 gold)
+  a potion of degeneration (15 gold)
+  a scroll of identify (30 gold)
+  2 stones (3 gold)
+  a +0 glaive of venom (147 gold)
+  a piece from Xom's chessboard (15/15) (300 gold)
+  a scroll of torment (142 gold)
+  a +0 ring mail (60 gold)
+[Shop] Jurhul's Book Shoppe
+  Fiwk's Tome of Scintillating Feathers (650 gold)
+    Spells                            Type                      Level
+     a - Shock                         Conjuration/Air               1
+     b - Poisonous Vapours             Poison/Air                    2
+     c - Kindle Blastsparks            Fire/Translocation/Air        3
+     d - Spellforged Servitor          Conjuration/Summoning         7
+     e - Orb of Destruction            Conjuration                   7
+  a book of Flames (364 gold)
+  a book of Callings (260 gold)
+  a book of Blood (364 gold)
+  a book of Misfortune (364 gold)
+  a book of Minor Magic (234 gold)
+  a book of Winter (442 gold)
+  a book of Fire (390 gold)
+  a There-And-Back Book (390 gold)
+  a book of Storms (416 gold)
+(0, 0, D:5)
+  a +0 chain mail
+(14, 19, D:5)
+  10 gold pieces
+(15, 19, D:5)
+  5 poisoned darts
+(18, 9, D:5)
+  a +0 flail
+(18, 20, D:5)
+  18 gold pieces
+(20, -10, D:5)
+  a +0 mace
+  a +0 leather armour
+(22, -3, D:5)
+  a +0 dagger
+(29, 21, D:5)
+  a +0 dagger
+  a +0 short sword
+(30, 21, D:5)
+  a +0 club
+  a +0 ring mail
+  a +0 leather armour
+(36, 20, D:5)
+  a +0 dagger
+(45, -8, D:5)
+  a +0 club
+  a +0 leather armour
+(54, 35, D:5)
+  a +0 club
+(58, 12, D:5)
+  a +0 robe
+(60, 23, D:5)
+  2 stones
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 ring mail
+(0, 22, D:6)
+  a +0 leather armour
+(4, 13, D:6)
+  a +1 hand axe of flaming
+  a +0 battleaxe
+(6, 12, D:6)
+  5 stones
+(24, 1, D:6)
+  a +0 ring mail
+  a +0 dagger
+(27, -6, D:6)
+  a +0 short sword
+(41, 29, D:6)
+  a +0 spear
+(42, 28, D:6)
+  a +0 flail
+(42, 29, D:6)
+  a +0 spear
+(43, 29, D:6)
+  a +0 spear
+(46, 13, D:6)
+  a +0 dagger
+  a +0 robe
+(46, 14, D:6)
+  a +0 hand axe
+  a +0 dagger
+  a +0 robe
+(47, 14, D:6)
+  a +0 flail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 dagger
+(3, 5, D:7)
+  a +0 flail
+  a +0 ring mail
+  a +0 hand axe
+(4, 5, D:7)
+  a +2 mace of protection
+  a +0 arbalest
+  a +0 chain mail
+(5, 0, D:7)
+  a +0 helmet
+(8, -1, D:7)
+  a +2 heavy mace
+  a +0 leather armour
+(10, -38, D:7)
+  +0 steam dragon scales
+(14, -38, D:7)
+  a +0 leather armour
+(14, -35, D:7)
+  a +0 robe
+(19, -26, D:7)
+  a +0 morningstar
+(20, -26, D:7)
+  a +0 trident
+  a +0 chain mail
+(21, -25, D:7)
+  a +0 dagger
+(23, 5, D:7)
+  a +0 long sword
+(39, 22, D:7)
+  a +0 hand axe
+  a +0 club
+(40, 21, D:7)
+  a +0 short sword
+  a +0 leather armour
+  a +0 short sword
+  a +0 plate armour
+(40, 22, D:7)
+  a +0 flail
+  a +0 leather armour
+(43, -20, D:7)
+  a +3 short sword of draining
+  a +0 ring mail
+(45, -19, D:7)
+  a +0 dagger
+  a +0 robe
+(50, -29, D:7)
+  a scroll of fear
+(50, -4, D:7)
+  a +0 giant spiked club
+(54, -21, D:7)
+  a +0 club
+(54, 10, D:7)
+  a +0 quarterstaff
+(63, -16, D:7)
+  a +0 dagger
+
+Level 8 of the Dungeon
+[Shop] Fapnyetu's General Store
+  a +0 spear (45 gold)
+  a potion of brilliance (60 gold)
+  a potion of cancellation (120 gold)
+  a +0 chain mail (67 gold)
+  a +0 dagger (30 gold)
+  the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3} (1212 gold)
+    AC:        It affects your AC (+3).
+    rF:        It protects you from fire.
+    rC:        It protects you from cold.
+    rPois:     It protects you from poison.
+  a +1 antimagic war axe (262 gold)
+  a +0 scale mail (60 gold)
+(0, 0, D:8)
+  6 poisoned darts
+(2, -8, D:8)
+  a +0 ring mail
+(6, -1, D:8)
+  a +0 giant club
+  a +0 giant club
+(9, -9, D:8)
+  a +0 club
+(10, 26, D:8)
+  a +3 short sword of freezing
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +1 falchion of protection
+  a +0 robe
+  a +3 scimitar
+  a +0 robe
+(11, 21, D:8)
+  6 stones
+(12, -15, D:8)
+  6 stones
+(16, 14, D:8)
+  a +0 falchion
+(17, 2, D:8)
+  a +0 short sword
+  a +2 dagger of flaming
+  a +2 falchion of holy wrath
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+(17, 3, D:8)
+  a +0 whip
+  a stone
+  a +3 short sword
+  6 poisoned darts
+  a +0 dagger
+  a +0 dagger
+  a +0 scale mail
+  a +0 vampiric dagger
+  a +0 robe
+  a +0 whip
+(18, 3, D:8)
+  a +0 club
+(19, 4, D:8)
+  a +0 dagger
+  4 stones
+(21, -2, D:8)
+  a +0 troll leather armour
+(26, 13, D:8)
+  a +0 morningstar
+  a +0 robe
+  a +3 long sword
+  a +0 robe
+(27, 13, D:8)
+  a +3 short sword
+  a +0 robe
+(29, 11, D:8)
+  a +0 war axe
+(30, 27, D:8)
+  a +0 club
+(31, 27, D:8)
+  a +0 short sword
+  6 poisoned darts
+(31, 28, D:8)
+  a +0 short sword
+  4 stones
+(37, -13, D:8)
+  a +0 ring mail
+(37, -5, D:8)
+  2 large rocks
+(37, 13, D:8)
+  a +0 short sword
+  3 stones
+(39, -12, D:8)
+  a scroll of vulnerability
+(39, -6, D:8)
+  a +0 mace
+(39, -5, D:8)
+  a +0 hand axe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +0 short sword
+  a curare-tipped dart
+(39, 13, D:8)
+  a +0 dagger
+(40, 13, D:8)
+  a +0 short sword
+  5 stones
+(40, 15, D:8)
+  a +0 quarterstaff
+(42, -10, D:8)
+  a +0 leather armour
+(42, -8, D:8)
+  a +0 spear
+(42, 13, D:8)
+  a +0 short sword
+  a +0 short sword
+  a +0 whip
+  9 stones
+  a +0 whip
+  7 poisoned darts
+(43, 1, D:8)
+  5 stones
+(43, 12, D:8)
+  a +0 dagger
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 hand axe
+(0, 1, D:9)
+  a +0 dagger
+(0, 2, D:9)
+  a +0 whip
+(3, 19, D:9)
+  a +0 dagger
+(12, -12, D:9)
+  a +0 giant club
+  a +0 giant club
+(12, 21, D:9)
+  a +0 short sword
+(12, 22, D:9)
+  a +0 club
+(12, 23, D:9)
+  a +0 dagger
+(12, 24, D:9)
+  a +0 quarterstaff
+  a +0 short sword
+(13, 23, D:9)
+  a +0 club
+  4 poisoned darts
+(14, 22, D:9)
+  a +0 giant club
+  a +0 giant club
+(38, 22, D:9)
+  4 potions of attraction
+(52, -2, D:9)
+  a +0 giant club
+  a +0 giant spiked club
+(62, -13, D:9)
+  a +2 heavy hand axe
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 spear
+  a gnoll corpse
+(0, 1, D:10)
+  a +0 club
+(1, 0, D:10)
+  a +0 spear
+  a +0 scale mail
+  a gnoll corpse
+(2, 2, D:10)
+  a +0 whip
+  a +0 halberd
+  a gnoll corpse
+  a gnoll corpse
+(6, -17, D:10)
+  a hog corpse (skeletalised by now)
+(7, -16, D:10)
+  a +0 hand axe
+  a +0 animal skin
+  a human corpse (skeletalised by now)
+(7, -15, D:10)
+  a +0 rapier
+(16, -18, D:10)
+  a +2 shortbow of freezing
+(17, -16, D:10)
+  a +0 long sword
+(22, -18, D:10)
+  a +0 giant spiked club
+  a +0 giant club
+(22, 27, D:10)
+  a scroll of vulnerability
+(25, 27, D:10)
+  a +0 trident
+(33, 24, D:10)
+  a +0 pair of boots
+(37, 19, D:10)
+  a +0 shortbow
+  a centaur corpse
+(38, 17, D:10)
+  a +0 great sword
+  a +0 ring mail
+  a scroll of amnesia
+  a +0 mace
+  a tengu corpse
+(39, 17, D:10)
+  a +0 dire flail
+  a +0 giant club
+  a two-headed ogre corpse
+  a yak corpse
+(40, 17, D:10)
+  a +0 giant club
+  a +0 dire flail
+  a two-headed ogre corpse
+(40, 18, D:10)
+  a +0 shortbow
+  19 gold pieces
+  a centaur corpse
+(41, 17, D:10)
+  a +0 shortbow
+  a wand of iceblast (5)
+  a scroll of identify
+  a centaur corpse
+(42, 21, D:10)
+  a Trismegistus Codex
+(46, 15, D:10)
+  a piece from Xom's chessboard (15/15)
+
+the Ecumenical Temple
+

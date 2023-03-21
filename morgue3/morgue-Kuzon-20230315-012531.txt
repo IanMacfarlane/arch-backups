@@ -1,0 +1,414 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14516382624766369293
+
+6384 Kuzon the Arsonist (level 10, -6/45 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Was a Priest of Hepliaklqana.
+             Shot with an arrow by a centaur warrior (15 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 00:33:53 (9133 turns).
+
+Kuzon the Arsonist (Deep Elf Fire Elementalist)     Turns: 9133, Time: 00:33:54
+
+Health: -6/45      AC:  9    Str:  5    XL:     10   Next: 65%
+Magic:  23/26      EV: 13    Int: 31    God:    Hepliaklqana [***...]
+Gold:   731        SH:  0    Dex: 21    Spells: 22/29 levels left
+
+rFire   + + .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    v - +1 robe "Zeudeh" {*Corrode rElec rPois rF++}
+rPois   +          Reflect  .    s - +2 helmet
+rElec   +          Rampage  .    k - scarf {harm}
+rCorr   .          Harm     + .  j - +1 pair of gloves
+Will    +....                    i - +0 pair of boots
+Stlth   +++                      (no amulet)
+HPRegen 0.27/turn                f - +6 ring of dexterity
+MPRegen 0.20/turn                p - +6 ring of intelligence
+
+@: no status effects
+A: reduced essence
+a: Renounce Religion, Recall Ancestor, Ancestor Identity, Transference
+
+
+You were on level 10 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was most pleased with you.
+You visited 1 branch of the dungeon, and saw 10 of its levels.
+
+You collected 731 gold pieces.
+
+Inventory:
+
+Armour
+ i - a +0 pair of boots (worn)
+ j - a +1 pair of gloves (worn)
+ k - a scarf of harm (worn)
+ s - a +2 helmet (worn)
+ v - the +1 robe "Zeudeh" (worn) {*Corrode rElec rPois rF++}
+   (You found it on level 6 of the Dungeon)   
+   
+   rF:        It greatly protects you from fire.
+   rElec:     It insulates you from electricity.
+   rPois:     It protects you from poison.
+   *Corrode:  It may corrode you when you take damage.
+Jewellery
+ f - a +6 ring of dexterity (left hand)
+ p - a +6 ring of intelligence (right hand)
+ D - a +6 ring of dexterity
+Wands
+ l - a wand of roots (10)
+ t - a wand of digging (13)
+Scrolls
+ a - a scroll of blinking
+ e - 4 scrolls of immolation
+ m - 3 scrolls of brand weapon
+ r - a scroll of noise
+ x - a scroll of enchant weapon
+ y - 2 scrolls of fog
+ A - 4 scrolls of teleportation
+ C - a scroll of enchant armour
+Potions
+ b - 4 potions of magic
+ c - a potion of might
+ d - 3 potions of berserk rage {unknown}
+ g - 3 potions of flight {unknown}
+ h - 2 potions of lignification {unknown}
+ n - 2 potions of brilliance {unknown}
+ o - 4 potions of haste {unknown}
+ q - 4 potions of curing {unknown}
+ u - a potion of heal wounds {unknown}
+ w - 3 potions of mutation {unknown}
+ z - a potion of ambrosia {unknown}
+ B - 2 potions of attraction {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.7 Stealth
+ + Level 10.0 Spellcasting
+ * Level 11.2 Conjurations
+ * Level 11.7 Fire Magic
+
+
+You had 22 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Flame Wave            Conj/Fire      72%        2d16      1%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       1%          1
+ Searing Ray              Conj           100%       2d8       1%          2
+ Inner Flame              Hex/Fire       51%        N/A       1%          3
+ Kindle Blastsparks       Fire/Tloc/Air  78%        2d16      1%          3
+ Fulminant Prism          Conj/Hex       25%        3d14      3%          4
+ Summon Lightning Spire   Summ/Air       15%        N/A       32%         4
+ Storm Form               Tmut/Air       7%         N/A       100%        7
+ Maxwell's Capacitive Co  Air            7%         ∞         100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:7         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Cheibriados
+Hepliaklqana
+Makhleb
+Ru
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Zin
+
+Shops:
+D:1 *
+
+Message History
+
+You swap places.
+A centaur warrior and an orc warrior come into view.
+Found a long glowing staff.
+A shadow and an eight-headed hydra come into view.
+You swap places.
+Found a coral ring.
+The centaur warrior shouts! You hear a shout!
+You conjure some foxfire!
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the shadow.
+The shadow is heavily damaged.
+The shadow's fire resistance burns away.
+The eight-headed hydra roars!
+The foxfire hits the shadow.
+The shadow is heavily damaged.
+The foxfire hits the shadow! The shadow is burned terribly!
+You destroy the shadow!
+The centaur warrior wields a +0 shortbow.
+The centaur warrior shoots an arrow. The arrow hits you.
+Your Spellcasting skill increases to level 10!
+You conjure some foxfire!
+A troll comes into view.
+You swap places. The foxfire hits the centaur warrior.
+The centaur warrior is lightly wounded.
+The centaur warrior shoots an arrow. The arrow hits you!!
+Ouch! That really hurt!
+You hear a shout!
+You hear a bellow!
+The centaur warrior shoots an arrow. The arrow misses you.
+Kheti hits the centaur warrior with a +0 quarterstaff!
+The centaur warrior shoots an arrow. The arrow misses you.
+Kheti closely misses the centaur warrior.
+The centaur warrior shoots an arrow. The arrow completely misses you.
+The centaur warrior shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+Kheti points at the centaur warrior and mumbles some strange words.
+The stone arrow hits the centaur warrior.
+The centaur warrior shoots an arrow. The arrow hits you!
+You die...
+
+           #.# ##..####
+           #.# ...##...#
+           #.# .#.#.#.#.#
+           #.##§c.D.#|#..
+           #..R§#.#.#.#.#
+           ###c##.##...
+             ##.#..#####.
+              ##c#.......
+               ##.#
+                #.#.#...h#
+                #.#......#
+                #@##.....#
+#######         #.##....O
+#.....#         #.##....
+#####.#         #.# ...
+    #.#         #.# #.#
+    #.#         #.# #.#
+    #.#         #.# #.#
+    #.#         #.# #.#
+  ###.###       #.# #.#
+  #....<#########.###.#
+  #.#.#.##............#
+  #.#.............#####
+
+
+You could see a centaur warrior.
+
+Vanquished Creatures
+  Pikel (D:4)
+  A kobold demonologist (D:9)
+  Grinder (D:3)
+  2 shadows
+  5 yaks (D:9)
+  A wyvern (D:7)
+  The ghost of Bokogi the Firebug, an amateur HuFE (D:5)
+  2 water moccasins
+  An ice beast (D:5)
+  2 sky beasts
+  A black bear (D:8)
+  2 orc warriors
+  An ogre (D:6)
+  2 lemures (D:4)
+  A phantom (D:6)
+  4 bullfrogs
+  2 scorpions (D:5)
+  A wight (D:7)
+  An electric eel (D:8)
+  A howler monkey (D:9)
+  A bullfrog zombie (D:5)
+  4 hounds
+  A centaur skeleton (D:5)
+  A gnoll bouda (D:5)
+  3 orc priests
+  3 iguanas
+  3 sleepcaps
+  4 orc wizards
+  Robin (D:4)
+  5 gnolls
+  4 adders
+  An ufetubus (D:5)
+  2 worms
+  5 dart slugs
+  11 orcs
+  6 endoplasms
+  A giant cockroach (D:4)
+  12 goblins
+  10 hobgoblins
+  4 quokkas
+  10 ball pythons
+  6 bats
+  A frilled lizard (D:2)
+  10 kobolds
+  7 rats
+  A butterfly (D:7)
+150 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  7 yaks (D:9)
+  An ice beast (D:7)
+  A sky beast (D:7)
+  A phantom (D:6)
+  A kobold brigand (D:9)
+  4 bullfrogs
+  A gnoll sergeant (D:6)
+  A scorpion (D:6)
+  2 wights (D:7)
+  A howler monkey (D:8)
+  A bullfrog zombie (D:5)
+  A hound (D:7)
+  An iguana (D:6)
+  Natasha (D:4)
+  2 orc wizards
+  3 gnolls (D:6)
+  2 orcs (D:7)
+  A kobold (D:9)
+  A butterfly (D:7)
+33 creatures vanquished.
+
+Vanquished Creatures (others)
+  A battlemage (D:5)
+  An orc (D:8)
+  545 foxfires
+547 creatures vanquished.
+
+Grand Total: 730 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    36 | D:1      | Reached XP level 2. HP: 8/15 MP: 4/8
+    74 | D:1      | Found a faded altar of an unknown god.
+   283 | D:1      | Found Leotraos's General Store.
+   287 | D:1      | Learned a level 2 spell: Scorch
+   495 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/9
+  1014 | D:2      | Reached XP level 4. HP: 24/24 MP: 1/11
+  1864 | D:3      | Noticed Grinder
+  1869 | D:3      | Killed Grinder
+  1870 | D:3      | Reached skill level 5 in Fire Magic
+  1870 | D:3      | Reached XP level 5. HP: 28/28 MP: 4/14
+  1870 | D:3      | Reached XP level 6. HP: 32/32 MP: 4/15
+  2279 | D:3      | Found a hazy altar of Hepliaklqana.
+  2284 | D:3      | Became a worshipper of Hepliaklqana the Forgotten
+  2534 | D:3      | Found a burning altar of Makhleb.
+  2534 | D:3      | Noticed a green death
+  2645 | D:4      | Noticed Robin
+  2724 | D:4      | Noticed Pikel
+  3078 | D:4      | Killed Pikel
+  3079 | D:4      | Reached skill level 5 in Spellcasting
+  3079 | D:4      | Reached skill level 5 in Conjurations
+  3079 | D:4      | Reached XP level 7. HP: 36/36 MP: 5/17
+  3222 | D:4      | Learned a level 4 spell: Flame Wave
+  3235 | D:4      | You fall into a shaft and drop 2 floors!
+  3269 | D:6      | Reached XP level 8. HP: 41/41 MP: 6/19
+  3419 | D:5      | Entered Level 5 of the Dungeon
+  3437 | D:4      | Reached * piety under Hepliaklqana
+  3458 | D:4      | Killed Robin
+  3708 | D:4      | Noticed Natasha
+  3715 | D:4      | Killed Natasha
+  3993 | D:5      | Found an ornate altar of the Wu Jian Council.
+  3995 | D:5      | Found a shimmering blue altar of Sif Muna.
+  4100 | D:5      | Found a runed translucent gate.
+  4101 | D:5      | Found a runed translucent gate.
+  4102 | D:5      | Found a runed translucent gate.
+  4107 | D:5      | Noticed Bokogi's ghost (amateur HuFE)
+  4245 | D:5      | Found a glowing silver altar of Zin.
+  4528 | D:5      | Reached ** piety under Hepliaklqana
+  4529 | D:5      | Remembered your ancestor Kheti as a battlemage
+  4685 | D:5      | Killed Bokogi's ghost
+  4940 | D:6      | Identified the +1 robe "Zeudeh" {*Corrode rElec rPois rF++}
+  4967 | D:6      | Found a radiant altar of Vehumet.
+  5090 | D:6      | Reached XP level 9. HP: 40/40 MP: 22/22
+  5693 | D:7      | Found a sand-covered staircase.
+  5777 | D:7      | Found a staircase to the Ecumenical Temple.
+  5960 | D:7      | Found a hide-covered altar of Uskayaw.
+  6198 | D:7      | Found a sacrificial altar of Ru.
+  6293 | D:7      | Reached skill level 10 in Fire Magic
+  7097 | D:8      | Reached *** piety under Hepliaklqana
+  7216 | D:8      | Reached skill level 10 in Conjurations
+  7216 | D:8      | Reached XP level 10. HP: 4/45 MP: 9/25
+  8416 | D:9      | Found a snail-covered altar of Cheibriados.
+  9024 | D:10     | Entered Level 10 of the Dungeon
+  9094 | D:10     | Noticed a two-headed ogre
+  9116 | D:10     | Noticed a centaur warrior
+  9117 | D:10     | Noticed an eight-headed hydra
+  9126 | D:10     | Reached skill level 10 in Spellcasting
+  9133 | D:10     | Shot with an arrow by a centaur warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_connections, layout_basic,
+          hellmonk_ecumenical_altar_heavens_door, serial_shops, shop
+D:2:      layout_rooms
+D:3:      layout_loops_ring, mainiacjoe_overflow_brackets,
+          makhleb_altar_promises_db, item_on_display_a, uniq_grinder
+D:4:      layout_cave_pools, uniq_pikel, uniq_natasha, uniq_robin
+D:5:      layout_loops_ring, amcnicky_altar_gilded, jmf_multi_god_temple,
+          gammafunk_ghost_necromancy, nicolae_sextant
+D:6:      layout_basic, nicolae_vehumet_radiance, supply_closet_lemuel
+D:7:      layout_basic, mainiacjoe_overflow_chevrons,
+          mainiacjoe_overflow_tiny_flanked, minmay_temple_entry_butterflies,
+          enter_ossuary_1
+D:8:      layout_basic
+D:9:      hellmonk_destroyed_diamonds, layout_basic,
+          mainiacjoe_overflow_24_doors
+D:10:     kennysheep_six_static_rooms, layout_loops_ring, lemuel_round_altar,
+          minmay_checkerbox, uniq_maggie
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Conjurations   |     2     4     5  6  8 10 11 | 11.2
+Fire Magic     |        4  5     6  7  8 10 11 | 11.7
+Spellcasting   |           4     5  6  7  9 10 | 10.0
+Dodging        |                               |  2.6
+Stealth        |                               |  2.7
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |       |       |     1 |       ||     1
+   Cast: Foxfire           |    54 |    87 |   146 |    35 ||   322
+         Scorch            |     1 |    12 |    39 |    17 ||    69
+ Invoke: Ancestor Identity |       |       |     3 |       ||     3
+         Ancestor Life: Ba |       |       |     1 |       ||     1
+    Use: Scroll            |     2 |     8 |     8 |     1 ||    19
+ Armour: Robe              |     3 |     5 |     3 |     2 ||    13
+         Animal skin       |       |       |     1 |       ||     1
+  Dodge: Dodged            |     4 |    18 |    10 |     4 ||    36
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   9130 |   8848 |    282 |    124 |   7355 |  10 |  913.0 |
+       Dungeon |   9130 |   8848 |    282 |    124 |   7355 |  10 |  913.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 1321 daAuts
+     D:7: 1094 daAuts
+     D:3: 1065 daAuts
+     D:8: 1015 daAuts
+     D:6: 979 daAuts
+     D:4: 930 daAuts
+     D:1: 928 daAuts
+     D:5: 853 daAuts
+     D:2: 831 daAuts
+    D:10: 108 daAuts
+

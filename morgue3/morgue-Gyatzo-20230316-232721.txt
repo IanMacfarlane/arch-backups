@@ -1,0 +1,303 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6681196347854643534
+
+959 Gyatzo the Destroyer (level 7, -5/36 HPs)
+             Began as a Deep Elf Conjurer on Mar 16, 2023.
+             Was a Believer of Sif Muna.
+             Slain by an iguana (12 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:13:05 (5346 turns).
+
+Gyatzo the Destroyer (Deep Elf Conjurer)            Turns: 5346, Time: 00:13:05
+
+Health: -5/36      AC:  7    Str:  4    XL:     7   Next: 91%
+Magic:  2/19       EV: 12    Int: 25    God:    Sif Muna [**....]
+Gold:   147        SH:  0    Dex: 13    Spells: 10/20 levels left
+
+rFire   . . .      SeeInvis .    s - +6 battleaxe "Poakecax" {spect, +Blink}
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    a - +1 robe
+rPois   +          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       e - amulet of regeneration
+HPRegen 1.06/turn                x - +4 ring of protection
+MPRegen 0.16/turn                t - ring of poison resistance
+
+@: mighty
+A: no striking features
+a: Renounce Religion, Evoke Blink, Channel Magic
+
+
+You were on level 5 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was pleased with you.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You also visited: Sewer.
+
+You collected 147 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ s - the +6 battleaxe "Poakecax" (weapon) {spect, +Blink}
+   (You found it on level 5 of the Dungeon)   
+   
+   +Blink:    It lets you blink.
+ u - a +3 short sword of electrocution
+Armour
+ a - a +1 robe (worn)
+Jewellery
+ e - an amulet of regeneration (around neck)
+ i - a +6 ring of dexterity
+ l - a ring of protection from cold
+ t - a ring of poison resistance (right hand)
+ x - a +4 ring of protection (left hand)
+Scrolls
+ c - a scroll of fog
+ j - 2 scrolls of teleportation
+ k - 3 scrolls of enchant armour
+ m - a scroll of blinking
+ r - a scroll of poison
+ v - 2 scrolls of magic mapping
+ w - 2 scrolls of amnesia
+Potions
+ b - 2 potions of magic
+ d - 4 potions of might
+ f - 3 potions of mutation {unknown}
+ g - 2 potions of flight {unknown}
+ h - a potion of curing {unknown}
+ n - 3 potions of lignification {unknown}
+ o - 2 potions of brilliance {unknown}
+ p - a potion of haste {unknown}
+ q - a potion of heal wounds {unknown}
+ z - a potion of experience {unknown}
+ A - a potion of invisibility {unknown}
+ B - a potion of attraction {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 7.1 Spellcasting
+ * Level 9.1 Conjurations
+ + Level 2.3 Invocations
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           100%       1d8       1%          1
+b - Searing Ray           Conj           100%       2d8       1%          2
+c - Dazzling Flash        Conj/Hex       62%        N/A       3%          3
+d - Fulminant Prism       Conj/Hex       15%        3d10      10%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Iskenderun's Mystic Bla  Conj/Tloc      31%        2d8       10%         4
+ Anguish                  Hex/Necr       4%         N/A       54%         4
+ Enfeeble                 Hex            4%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4           Sewer (visited)         
+
+Altars:
+Nemelex Xobeh
+Sif Muna
+
+Shops:
+D:3 (
+
+Annotations:
+D:5 3 runed translucent doors
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast this spell.
+Unknown command.
+Unknown command.
+You hit the killer bee but do no damage.
+The killer bee is heavily wounded.
+The killer bee stings you but does no damage.
+The killer bee stings you. x2; The killer bee barely misses you.
+You hit the killer bee.
+The killer bee is severely wounded.
+The killer bee barely misses you. The killer bee closely misses you.
+The killer bee stings you but does no damage.
+You closely miss the killer bee.
+The killer bee is severely wounded.
+The killer bee stings you but does no damage. x2
+The killer bee stings you!
+You are poisoned.
+The killer bee poisons you!
+You closely miss the killer bee.
+The killer bee is heavily wounded.
+You feel sick. The killer bee stings you.
+The killer bee stings you but does no damage.
+The killer bee barely misses you. The killer bee closely misses you.
+You slash the killer bee!
+You kill the killer bee!
+Sif Muna accepts your kill.
+You feel sick.
+It was a potion of might.
+You feel very mighty all of a sudden.
+You feel sick. The iguana bites you!
+* * * LOW HITPOINT WARNING * * *
+You slash the iguana!
+The iguana is severely wounded.
+You feel sick.
+You are no longer poisoned.
+The iguana barely misses you. x2
+You barely miss the iguana.
+The iguana is severely wounded.
+The iguana bites you!
+You die...
+
+            ##    ###
+            ...   ..#
+            ....  #.#
+            .....##.#
+            ....y)).#
+            ..y..##.#
+            l..   #l#
+            .     #@#
+                  #.#
+  ..#             #.#
+ #..###           #.#
+##....            #.#
+....#     #.#     #.#
+....#     #.#######.#
+)...#   #.#.#.......#
+.#..#   #.#.#.####.##
+....##  #.#.#.#  #.#
+.#...#  #.#.#.#  #.#
+.###.####.#)#.#  #.#
+
+
+You could see an iguana.
+
+Vanquished Creatures
+  A black bear (D:5)
+  A kobold brigand (Sewer)
+  3 scorpions
+  4 killer bees (D:5)
+  2 howler monkeys
+  A hound (D:4)
+  3 orc wizards
+  3 gnolls (D:3)
+  6 river rats
+  5 adders
+  7 worms
+  2 dart slugs
+  4 orcs
+  12 endoplasms
+  5 giant cockroaches
+  11 goblins
+  4 hobgoblins
+  3 jackals
+  8 kobolds
+  3 quokkas
+  9 ball pythons
+  7 bats
+  6 frilled lizards
+  14 rats
+124 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gyatzo the Deep Elf Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   163 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   168 | D:1      | Learned a level 2 spell: Searing Ray
+   434 | D:1      | Reached skill level 5 in Conjurations
+   798 | D:1      | Reached XP level 3. HP: 17/19 MP: 6/10
+  1699 | D:2      | Reached XP level 4. HP: 24/24 MP: 10/12
+  2069 | D:3      | Found a shimmering blue altar of Sif Muna.
+  2073 | D:3      | Became a worshipper of Sif Muna the Loreminder
+  2086 | D:3      | Reached skill level 6 in Conjurations
+  2259 | D:3      | Reached XP level 5. HP: 27/28 MP: 9/13
+  2263 | D:3      | Learned a level 3 spell: Dazzling Flash
+  2298 | D:3      | Found Ukyoh's Weapon Shop.
+  2412 | D:3      | Found a glowing drain.
+  2423 | Sewer    | Entered a sewer
+  2925 | Sewer    | Reached skill level 5 in Spellcasting
+  3053 | Sewer    | Reached * piety under Sif Muna
+  3095 | Sewer    | Reached skill level 7 in Conjurations
+  3095 | Sewer    | Reached XP level 6. HP: 32/32 MP: 4/16
+  3489 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  4512 | D:4      | Reached skill level 8 in Conjurations
+  4512 | D:4      | Reached XP level 7. HP: 36/36 MP: 14/18
+  4638 | D:4      | Found a staircase to the Ecumenical Temple.
+  5075 | D:4      | Learned a level 4 spell: Fulminant Prism
+  5092 | D:5      | Entered Level 5 of the Dungeon
+  5102 | D:5      | Identified the +6 battleaxe "Poakecax" {spect, +Blink}
+  5108 | D:5      | Found a runed translucent gate.
+  5108 | D:5      | Found a runed translucent gate.
+  5108 | D:5      | Found a runed translucent gate.
+  5236 | D:5      | Reached skill level 1 in Invocations
+  5326 | D:5      | Reached ** piety under Sif Muna
+  5338 | D:5      | Reached skill level 9 in Conjurations
+  5346 | D:5      | Slain by an iguana
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      shiori_shiawase, layout_basic
+D:2:      layout_loops_ring, kennysheep_decorative_pillar
+D:3:      layout_basic, lemuel_doored_altar, led_sif_book, portal_sewer_entry_b,
+          serial_shops, nicolae_shop_hallway_plus, kennysheep_generic_room_15
+D:4:      layout_loops_cross, temple_pool_b, kennysheep_generic_room_13
+D:5:      layout_loops_ring, kennysheep_mini, gammafunk_ghost_icy,
+          chequers_serial_rivers_small_b
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     5     6  7  8  9 |  9.1
+Spellcasting   |        4     5  6  7 |  7.1
+Invocations    |                    2 |  2.3
+Dodging        |                      |  2.4
+Stealth        |                      |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Falchion          |     1 |       |       ||     1
+         Battleaxe         |       |       |    11 ||    11
+   Cast: Magic Dart        |    63 |   134 |    15 ||   212
+         Searing Ray       |     7 |    21 |    11 ||    39
+    Use: Scroll            |       |    10 |     1 ||    11
+         Potion            |       |       |     1 ||     1
+ Armour: Robe              |       |     3 |    16 ||    19
+  Dodge: Dodged            |     6 |    14 |    17 ||    37
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5496 |   5432 |     64 |      9 |   4672 |   6 |  916.0 |
+       Dungeon |   4321 |   4257 |     64 |      9 |   3636 |   5 |  864.2 |
+         Sewer |   1174 |   1174 |      0 |      0 |   1036 |   1 | 1174.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1187 daAuts
+   Sewer: 1174 daAuts
+     D:1: 1126 daAuts
+     D:4: 878 daAuts
+     D:2: 869 daAuts
+     D:5: 260 daAuts
+

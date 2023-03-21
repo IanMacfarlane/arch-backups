@@ -1,0 +1,247 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5365063349986731854
+
+119 Bokogi the Shooter (level 4, 0/40 HPs)
+             Began as a Minotaur Hunter on Mar 15, 2023.
+             Succumbed to an orc priest's poison
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:53 (1823 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 1823, Time: 00:04:53
+
+Health: 0/40       AC:  7    Str: 15    XL:     4   Next: 74%
+Magic:  3/3        EV: 12    Int:  6    God:    
+Gold:   122        SH:  0    Dex: 16    Spells: 3/3 levels left
+
+rFire   + . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                f - ring of protection from fire
+MPRegen 0.08/turn                l - +4 ring of protection
+
+@: lethally poisoned (0 -> -15), flying
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 122 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ n - a +0 broad axe
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ f - a ring of protection from fire (left hand)
+ j - a ring of ice
+ l - a +4 ring of protection (right hand)
+Scrolls
+ b - a scroll of immolation
+ h - a scroll of fog {unknown}
+ k - 3 scrolls of teleportation
+ m - a scroll of enchant armour {unknown}
+ o - a scroll of blinking {unknown}
+ p - 3 scrolls of poison
+Potions
+ d - a potion of ambrosia {unknown}
+ e - a potion of flight
+ i - a potion of resistance {unknown}
+ q - a potion of haste {unknown}
+ r - a potion of mutation {unknown}
+
+
+   Skills:
+ + Level 3.9 Fighting
+ * Level 5.9 Ranged Weapons
+ - Level 2.4 Dodging
+ - Level 1.1 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:2 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You shoot an arrow. The arrow hits the orc priest.
+The orc priest is severely wounded.
+The orc priest hits you with a +2 mace of venom!
+You are poisoned.
+You shoot an arrow. The arrow barely misses the orc priest.
+You feel very sick.
+The orc priest misses you.
+You feel sick.
+You shoot an arrow. The arrow barely misses the orc priest. You feel sick.
+The orc priest hits you but does no damage.
+You are more poisoned.
+You shoot an arrow.
+The arrow closely misses the orc priest.
+You feel very sick.
+The orc priest hits you but does no damage.
+You are lethally poisoned!
+The orc priest misses you.
+You shoot an arrow.
+The arrow closely misses the orc priest.
+The arrow hits the orc.
+The orc is moderately wounded.
+You feel very sick.
+The orc priest barely misses you.
+You shoot an arrow. The arrow hits the orc priest.
+The orc priest is severely wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The orc priest hits you with a +2 mace of venom.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+It was a potion of flight.
+You feel very buoyant.
+You fly up into the air.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The orc priest calls upon Beogh to heal the orc.
+The orc's wounds heal themselves!
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. The orc looks frightened! The orc priest looks
+frightened!
+You die...
+
+#.#   #.#   #.##...##.#
+#.#   #.#   #)##...##.#
+#.#   #.#   #.)....'...
+#.#####.########...##.#
+#.....................#
+#######.###########.###
+      #.# #......>..#
+      #.# #.#######.#
+##    #.# #.#     #.###
+#.    #.# #.#     #....
+#.#####.###.#     #####
+#oo@..†.....#
+#.#####†#####
+#.    #.#
+#.    #.#
+#)    #.#
+#.    #.#
+#.    #.#
+..    ..#
+
+
+You could see an orc priest (fleeing) and an orc (fleeing).
+
+Vanquished Creatures
+  Ijyb (D:4)
+  A gnoll (D:1)
+  2 adders
+  A worm (D:3)
+  5 orcs (D:3)
+  6 bats
+  2 endoplasms (D:1)
+  2 giant cockroaches
+  2 goblins (D:2)
+  3 hobgoblins
+  10 jackals
+  2 kobolds
+  2 quokkas
+  6 ball pythons
+  2 frilled lizards
+  4 rats
+51 creatures vanquished.
+
+Vanquished Creatures (others)
+  A demonic plant (D:2)
+  A fungus (D:2)
+2 creatures vanquished.
+
+Grand Total: 53 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+   100 | D:1      | Reached skill level 1 in Stealth
+   298 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   500 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   529 | D:1      | Reached skill level 5 in Ranged Weapons
+   964 | D:2      | Found a faded altar of an unknown god.
+  1039 | D:2      | Found Kaeramnytal's Antique Weapon Emporium.
+  1525 | D:3      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1643 | D:3      | You fall into a shaft and drop 1 floor!
+  1674 | D:4      | Noticed Ijyb
+  1685 | D:4      | Killed Ijyb
+  1822 | D:3      | HP: 2/40 [poisoned by an orc priest]
+  1823 | D:3      | Succumbed to an orc priest's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_more_subterranean_lakeside_camping, layout_loops_ring
+D:2:      layout_loops_ring, serial_shops, shop, shapermc_ecumenical_altar_gd,
+          st_stairs_7
+D:3:      layout_basic, roderic_roman_lattice, st_stairs_13, uniq_sigmund
+D:4:      layout_layer_cave, slow_altar_2, minivault_27,
+          minmay_misc_feat_pillars, uniq_blork_the_orc, uniq_ijyb
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  1       |  1.1
+Fighting       |     3    |  3.9
+Ranged Weapons |        5 |  5.9
+Dodging        |          |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |    97 |    49 ||   146
+    Use: Scroll            |       |     4 ||     4
+         Potion            |       |     1 ||     1
+ Armour: Leather armour    |     8 |    11 ||    19
+  Dodge: Dodged            |    26 |    12 ||    38
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1861 |   1745 |    116 |      0 |   1441 |   4 |  465.2 |
+       Dungeon |   1861 |   1745 |    116 |      0 |   1441 |   4 |  465.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 757 daAuts
+     D:2: 736 daAuts
+     D:3: 310 daAuts
+     D:4: 56 daAuts
+

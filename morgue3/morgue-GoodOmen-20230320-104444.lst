@@ -1,0 +1,181 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(10, -5, D:1)
+  a +0 leather armour
+(17, 10, D:1)
+  a +0 leather armour
+(25, 24, D:1)
+  a +0 short sword
+(26, -3, D:1)
+  a +0 dagger
+(26, 3, D:1)
+  a +0 scale mail
+(29, 32, D:1)
+  a +0 club
+(50, 21, D:1)
+  a +0 whip
+(56, 25, D:1)
+  a +0 spear
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  4 stones
+(10, -8, D:2)
+  a +0 club
+(23, -22, D:2)
+  a +0 whip
+(26, -14, D:2)
+  a +0 sling
+(26, -11, D:2)
+  a +0 scale mail
+(26, 38, D:2)
+  a +0 dagger
+(33, -15, D:2)
+  a +0 leather armour
+(38, 12, D:2)
+  a -1 short sword
+
+Level 3 of the Dungeon
+[Shop] Caehiw's Armour Emporium
+  a +0 leather armour of fire resistance (126 gold)
+  a +0 robe (9 gold)
+  a +0 ring mail (56 gold)
+  a +0 ring mail (56 gold)
+  a +0 scale mail (56 gold)
+  a +0 robe (9 gold)
+  a +0 ring mail (56 gold)
+  a +3 scale mail of cold resistance (364 gold)
+[Shop] Qahiah's Magic Scroll Shop
+  a scroll of immolation (40 gold)
+  a scroll of vulnerability (40 gold)
+  a scroll of immolation (40 gold)
+  a scroll of amnesia (40 gold)
+  a scroll of butterflies (40 gold)
+[Shop] Ytimnub's Magic Scroll Shop
+  a scroll of identify (22 gold)
+  a scroll of enchant armour (82 gold)
+  a scroll of identify (22 gold)
+  a scroll of magic mapping (82 gold)
+  a scroll of teleportation (33 gold)
+  a scroll of teleportation (33 gold)
+  a scroll of blinking (82 gold)
+  a scroll of immolation (44 gold)
+  a scroll of blinking (82 gold)
+  a scroll of enchant weapon (82 gold)
+[Shop] Erepsuo Seuc's General Store
+  a +0 robe (7 gold)
+  a scroll of identify (22 gold)
+  a +2 dagger of holy wrath (171 gold)
+  2 stones (2 gold)
+  a wand of light (4) (184 gold)
+  2 potions of lignification (66 gold)
+  a throwing net (33 gold)
+(1, 2, D:3)
+  a +0 club
+  5 stones
+(1, 28, D:3)
+  a +0 ring mail
+(2, 7, D:3)
+  a +0 robe
+(9, 27, D:3)
+  a +0 robe
+(14, 26, D:3)
+  a +1 dagger of holy wrath
+(25, 30, D:3)
+  a +0 short sword
+(31, 25, D:3)
+  a +0 club
+(37, 5, D:3)
+  a +0 club
+  a +1 sling of electrocution
+(38, 2, D:3)
+  a +0 spear
+(39, 0, D:3)
+  a +0 dagger
+  4 stones
+(41, -4, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Quqe's Gadget Gallery
+  a wand of charming (6) (144 gold)
+  a wand of polymorph (7) (98 gold)
+  a phial of floods (400 gold)
+  a phial of floods (400 gold)
+  a wand of light (7) (294 gold)
+  a condenser vane (400 gold)
+  a tin of tremorstones (2/2) (400 gold)
+  a wand of flame (8) (56 gold)
+(0, 0, D:4)
+  4 stones
+(4, 24, D:4)
+  a +0 spear
+(11, 7, D:4)
+  a +0 buckler
+(11, 18, D:4)
+  a +0 leather armour
+  a +0 falchion
+(44, -6, D:4)
+  7 stones
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a scroll of fear
+(2, 12, D:5)
+  a +0 giant club
+(7, 11, D:5)
+  a +0 short sword of electrocution
+  a +0 leather armour
+  a +0 club
+  a +0 club
+  an orc corpse (skeletalised by now)
+  a gnoll corpse (skeletalised by now)
+  a gnoll corpse (skeletalised by now)
+(8, 10, D:5)
+  a +1 dagger of draining (still there?)
+  a +0 robe (still there?)
+  an orc corpse (skeletalised by now) (still there?)
+(26, -2, D:5)
+  a +0 giant spiked club
+(31, -14, D:5)
+  3 stones
+(39, -14, D:5)
+  4 stones
+(42, -8, D:5)
+  a scroll of teleportation
+
+Level 6 of the Dungeon
+[Shop] Zefyp's Magic Scroll Shop
+  a scroll of enchant weapon (112 gold)
+  a scroll of noise (15 gold)
+  a scroll of enchant weapon (112 gold)
+  a scroll of identify (30 gold)
+  a scroll of noise (15 gold)
+  a scroll of enchant weapon (112 gold)
+  a scroll of fog (60 gold)
+  a scroll of identify (30 gold)
+[Shop] Hynar's Weapon Shoppe
+  (Shop contents are unknown)
+(0, 0, D:6)
+  a scroll of blinking
+(8, 7, D:6)
+  a javelin
+(9, 7, D:6)
+  2 javelins
+(22, 17, D:6)
+  a +0 shortbow
+(25, -1, D:6)
+  a +0 club
+(28, -4, D:6)
+  a +0 dagger
+(43, 10, D:6)
+  a +0 halberd
+(44, 4, D:6)
+  a +0 club
+  a +0 scale mail
+  an orc corpse (skeletalised by now)
+(44, 8, D:6)
+  a +0 trident
+

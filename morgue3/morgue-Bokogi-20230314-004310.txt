@@ -1,0 +1,739 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 18427373104073569056
+
+116255 Bokogi the Crack Shot (level 16, -10/144 HPs)
+             Began as a Minotaur Hunter on Mar 13, 2023.
+             Was the Champion of the Shining One.
+             Mangled by a caustic shrike simulacrum (16 damage)
+             ... in an ice cave on Mar 14, 2023.
+             The game lasted 02:08:22 (27389 turns).
+
+Bokogi the Crack Shot (Minotaur Hunter)            Turns: 27389, Time: 02:08:22
+
+Health: -10/144    AC: 24    Str: 18    XL:     16   Next: 20%
+Magic:  11/20      EV: 10    Int: 11    God:    the Shining One [******]
+Gold:   1757       SH: 10    Dex: 20    Spells: 15/15 levels left
+
+rFire   + . .      SeeInvis +    l - +27 heavy crossbow {heavy, Acc+? SInv}
+rCold   + + .      Faith    +    (shield currently unavailable)
+rNeg    + + +      Spirit   .    d - +3 plate armour {rF+}
+rPois   +          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    z - +1 cloak
+rCorr   .                        q - +0 pair of gloves
+Will    +....                    (no boots)
+Stlth                            j - amulet of faith
+HPRegen 0.44/turn                F - ring of protection from cold
+MPRegen 0.17/turn                a - ring of the Burgomaster {*Slow +Blink rPois rC+ Int+5}
+
+@: divinely shielded, glowing
+A: horns 2, retaliatory headbutt, iridescent scales 1, low MP 1, subdued magic
+1, noise suppression
+a: Renounce Religion, Evoke Blink, Divine Shield, Cleansing Flame, Summon Divine
+Warrior, Brand Weapon With Holy Wrath
+
+
+You were in an ice cave.
+You worshipped the Shining One.
+The Shining One was exalted by your worship.
+You visited 6 branches of the dungeon, and saw 26 of its levels.
+You also visited: Bailey, Ice Cave and Volcano.
+
+You collected 2250 gold pieces.
+You spent 493 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ l - the +27 heavy crossbow "Sniper" (weapon) {heavy, Acc+? SInv}
+   (You acquired it on level 9 of the Dungeon)   
+   
+   Acc+?:     It never misses its target.
+   
+   SInv:      It lets you see invisible.
+Missiles
+ M - a throwing net
+Armour
+ d - a +3 plate armour of fire resistance (worn)
+ q - a +0 pair of gloves (worn)
+ s - a +3 chain mail of poison resistance
+ z - a +1 cloak (worn)
+ T - +0 swamp dragon scales
+ U - +0 ice dragon scales
+Jewellery
+ a - the ring of the Burgomaster (right hand) {*Slow +Blink rPois rC+ Int+5}
+   (You acquired it on level 4 of the Lair of Beasts)   
+   
+   [ring of protection from cold]
+   
+   Int:       It affects your intelligence (+5).
+   rC:        It protects you from cold.
+   rPois:     It protects you from poison.
+   +Blink:    It lets you blink.
+   *Slow:     It may slow you when you take damage.
+ h - a +6 ring of strength
+ j - an amulet of faith (around neck)
+ x - a ring of resist corrosion
+ D - an amulet of guardian spirit
+ F - a ring of protection from cold (left hand)
+ P - a ring of ice
+ Q - a +4 ring of protection
+Wands
+ t - a wand of flame (53)
+ y - a wand of acid (20)
+ C - a wand of paralysis (5)
+ H - a wand of roots (14)
+ I - a wand of mindburst (27)
+ O - a wand of digging (8)
+Scrolls
+ b - 2 scrolls of immolation
+ c - 7 scrolls of identify
+ e - 2 scrolls of fog
+ f - 3 scrolls of silence
+ k - a scroll of poison
+ o - 4 scrolls of enchant armour
+ p - 3 scrolls of magic mapping
+ u - 3 scrolls of teleportation
+ E - 5 scrolls of enchant weapon
+ G - a scroll of fear
+ K - 5 scrolls of brand weapon
+ L - a scroll of butterflies
+ R - a scroll of blinking
+Potions
+ g - 10 potions of curing
+ i - 2 potions of brilliance
+ m - a potion of invisibility {unknown}
+ n - 4 potions of resistance
+ r - 3 potions of haste
+ v - 5 potions of magic
+ w - 4 potions of ambrosia
+ A - 4 potions of cancellation
+ B - 2 potions of might
+ J - 2 potions of flight
+ S - 2 potions of berserk rage
+Miscellaneous
+ N - a condenser vane
+
+
+   Skills:
+ + Level 13.5 Fighting
+ * Level 21.5 Ranged Weapons
+ + Level 12.0 Armour
+ + Level 8.3 Dodging
+ - Level 5.9 Stealth
+ + Level 10.4 Invocations
+ + Level 8.1 Evocations
+
+
+You had 15 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       99%         1
+ Shock                    Conj/Air       0%         1d3       99%         1
+ Summon Small Mammal      Summ           0%         N/A       99%         1
+ Blink                    Tloc           0%         N/A       100%        2
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       100%        2
+ Lesser Beckoning         Tloc           0%         N/A       100%        2
+ Momentum Strike          Conj/Tloc      0%         3d8       100%        2
+ Passwall                 Tmut/Erth      0%         N/A       100%        2
+ Wereblood                Tmut           0%         N/A       100%        2
+ Call Canine Familiar     Summ           0%         N/A       100%        3
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       100%        3
+ Portal Projectile        Hex/Tloc       0%         N/A       100%        3
+ Spider Form              Tmut/Pois      0%         N/A       100%        3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       100%        3
+ Swiftness                Air            0%         N/A       100%        3
+ Airstrike                Air            0%         2d(0-16)  100%        4
+ Fulminant Prism          Conj/Hex       0%         3d5       100%        4
+ Iskenderun's Mystic Bla  Conj/Tloc      0%         2d3       100%        4
+ Manifold Assault         Tloc           0%         N/A       100%        4
+ Sticky Flame             Conj/Fire      0%         2d3       100%        4
+ Iskenderun's Battlesphe  Conj           0%         2d6       100%        5
+ Iron Shot                Conj/Erth      0%         9d1       100%        6
+ Spellforged Servitor     Conj/Summ      0%         N/A       100%        7
+ Storm Form               Tmut/Air       0%         N/A       100%        7
+ Ignition                 Fire           0%         3d3       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:6            Lair (5/5) D:10        
+  Swamp (2/4) Lair:2       Spider (1/4) Lair:2        Slime (0/5) Lair:5      
+    Orc (2/2) D:9             Elf (0/3) Orc:2        Vaults (0/5) D:14        
+ Depths (0/4) D:15         Bailey (visited)           IceCv (1/1)             
+Volcano (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+Orc:1 (   Orc:2 :![?*
+
+Annotations:
+D:6 3 runed translucent doors, Bokogi's ghost, novice TrBe; melllvar's ghost,
+novice DsFE
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+You are partially covered in iridescent scales. (AC +2)
+Your magical capacity is low. (-10% MP)
+Your spells are a little easier to cast, but a little less powerful.
+You passively dampen the noise of your surroundings.
+
+Message History
+
+Fire: l) +27 heavy crossbow {heavy, Acc+? SInv}
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - white very ugly thing
+Aim: a white very ugly thing (lightly wounded, haloed, 100% to hit)
+Okay, then.
+You blink.
+Fire: l) +27 heavy crossbow {heavy, Acc+? SInv}
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - white very ugly thing
+Aim: a white very ugly thing (lightly wounded, haloed, 100% to hit)
+You shoot a bolt.
+The bolt hits the white very ugly thing!!!!
+The white very ugly thing is almost dead.
+The caustic shrike simulacrum claws you!
+The caustic shrike simulacrum freezes you!
+You resist.
+You block the caustic shrike simulacrum's attack.
+The caustic shrike simulacrum barely misses you.
+The caustic shrike simulacrum claws you!
+The caustic shrike simulacrum freezes you!
+You resist.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: a freezing wraith (haloed)
+The floor.
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. The lindwurm simulacrum is unaffected.
+The caustic shrike simulacrum is unaffected.
+The white very ugly thing looks frightened!
+The freezing wraith is unaffected.
+You feel stable enough to blink again.
+The caustic shrike simulacrum claws you!
+* * * LOW HITPOINT WARNING * * *
+The caustic shrike simulacrum freezes you!
+You resist.
+* * * LOW HITPOINT WARNING * * *
+The caustic shrike simulacrum claws you!
+* * * LOW HITPOINT WARNING * * *
+The caustic shrike simulacrum freezes you!
+You resist.
+You die...
+
+#######   #######  ##
+#.....## ##..)[.# ...
+#......###.....[#....
+#.......#.......#..
+#.\..\................
+#.......#....uZ.#.....
+#......###..W.Z!#.....
+#.....## ##..@$[# ....
+#######   ####### ####
+
+
+You could see a white very ugly thing (fleeing), a freezing wraith, a lindwurm
+simulacrum and a caustic shrike simulacrum.
+
+Vanquished Creatures
+  Jorgrun (Orc:1)
+  A thorn hunter (Swamp:2)
+  A stone giant (Volcano)
+  Nessos (Lair:4)
+  An eleionoma (Swamp:1)
+  2 bunyips (Swamp:1)
+  Snorg (D:11)
+  Erolcha (D:11)
+  A caustic shrike simulacrum (IceCv)
+  2 vault guards (D:14)
+  7 hydras
+  A ghost crab (Lair:2)
+  An ogre mage (D:15)
+  7 centaur warriors
+  4 catoblepae (Lair:5)
+  5 two-headed ogres
+  4 boulder beetles
+  2 tengu warriors
+  6 alligators
+  6 orc high priests (Orc:2)
+  Urug (Lair:5)
+  15 death yaks
+  2 skysharks (Lair:5)
+  Sonja (Lair:5)
+  A goliath frog (Swamp:1)
+  A bog body (Swamp:1)
+  A wizard (D:15)
+  A swamp dragon (Swamp:2)
+  7 orc knights
+  Pikel (D:6)
+  2 deep elf pyromancers
+  An oklob plant (Lair:4)
+  A will-o-the-wisp (Swamp:1)
+  9 manticores
+  A salamander (D:15)
+  7 ugly things
+  2 black mambas (Lair:5)
+  7 cyclopes
+  Maurice (D:11)
+  9 elephants
+  A demonic crawler (Spider:1)
+  12 cane toads
+  4 kobold demonologists
+  2 freezing wraiths (IceCv)
+  3 rime drakes (Lair:5)
+  2 efreet
+  A queen bee (Lair:1)
+  10 komodo dragons
+  A golden dragon simulacrum (IceCv)
+  A bloated husk (Swamp:1)
+  14 trolls
+  2 meliai (Spider:1)
+  A tarantella (Spider:1)
+  2 hornets (Swamp:2)
+  A tarantella (shapeshifter) (D:15)
+  A tyrant leech (Swamp:1)
+  11 dream sheep
+  11 blink frogs
+  A spectral dream sheep (Lair:2)
+  4 slime creatures (D:13)
+  A spectral black mamba (Lair:2)
+  2 spectral elephants (Lair:2)
+  2 spriggans (Swamp:2)
+  4 wyverns
+  A vampire (D:14)
+  2 basilisks (D:14)
+  2 fire elementals (Volcano)
+  A wraith (D:12)
+  48 yaks
+  9 humans (D:14)
+  9 vampire mosquitoes
+  2 steam dragons
+  3 redbacks (Lair:2)
+  3 wargs
+  Menkaure (D:5)
+  4 swamp worms
+  2 acid dragons (D:11)
+  7 water moccasins
+  Duvessa (D:5)
+  A hydra simulacrum (IceCv)
+  2 alligator simulacra (IceCv)
+  An ice beast (D:7)
+  A swamp drake (Swamp:2)
+  3 sky beasts
+  37 orc warriors
+  2 black bears
+  4 wolves
+  A boggart (D:14)
+  9 ogres
+  13 centaurs
+  A lemure (D:6)
+  A phantom (D:7)
+  6 kobold brigands
+  3 gnoll sergeants
+  5 scorpions
+  10 bullfrogs
+  2 earth elementals (Volcano)
+  5 wights (D:7)
+  Dowan (D:5)
+  24 killer bees
+  4 lindwurm simulacra (IceCv)
+  3 howler monkeys
+  An electric eel (Lair:2)
+  4 hounds
+  A jelly (D:5)
+  32 orc priests
+  2 iguanas
+  21 orc wizards
+  7 hell rats (D:10)
+  Robin (D:4)
+  8 gnolls (D:8)
+  3 adders
+  A river rat (D:6)
+  2 shadow imps
+  A white imp (D:7)
+  An ufetubus (D:5)
+  3 worms
+  2 dart slugs
+  65 orcs
+  5 ball pythons
+  7 bats
+  9 endoplasms
+  2 giant cockroaches
+  40 goblins
+  12 hobgoblins
+  6 jackals
+  A quokka (D:6)
+  24 kobolds
+  6 rats
+  A bush (Lair:4)
+722 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A dire elephant (D:15)
+  An eleionoma (Swamp:2)
+  A fire dragon (D:15)
+  An ice dragon (Swamp:2)
+  5 spriggans (Swamp:2)
+  A goliath frog (Swamp:1)
+  A golden dragon simulacrum (IceCv)
+  5 hornets (Swamp:2)
+  A swamp worm (Swamp:2)
+  A lindwurm simulacrum (IceCv)
+18 creatures vanquished.
+
+Vanquished Creatures (others)
+  A human (D:14)
+  A swamp worm (Swamp:1)
+  An orc warrior (Orc:1)
+  4 foxfires (Swamp:1)
+  26 fungi
+  27 plants
+  6 withered plants (D:6)
+66 creatures vanquished.
+
+Grand Total: 806 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    77 | D:1      | Reached skill level 1 in Stealth
+   225 | D:1      | Reached XP level 2. HP: 18/25 MP: 1/1
+   569 | D:1      | Reached XP level 3. HP: 30/30 MP: 2/2
+  1831 | D:3      | Identified a scroll of acquirement
+  1832 | D:3      | Acquired a +3 arbalest of electrocution
+  1834 | D:3      | Found an opulent altar of Gozag.
+  1861 | D:3      | Found an iron altar of Okawaru.
+  1926 | D:3      | Found a hide-covered altar of Uskayaw.
+  1963 | D:3      | Reached skill level 5 in Ranged Weapons
+  2080 | D:3      | Reached XP level 4. HP: 38/38 MP: 3/3
+  2114 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2425 | D:3      | Found a basalt altar of Yredelemnul.
+  2445 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  2673 | D:4      | Noticed an ogre
+  2680 | D:4      | Killed an ogre
+  2780 | D:4      | Reached skill level 6 in Ranged Weapons
+  2780 | D:4      | Reached XP level 6. HP: 45/52 MP: 5/5
+  2847 | D:4      | Found a white marble altar of Elyvilon.
+  2880 | D:4      | Identified the +5 helmet "Ecrobb" {rElec rN+}
+  2880 | D:4      | Noticed Robin
+  2895 | D:4      | Killed Robin
+  3068 | D:4      | Became a worshipper of Elyvilon the Healer
+  3410 | D:5      | Entered Level 5 of the Dungeon
+  3518 | D:5      | Noticed Duvessa
+  3518 | D:5      | Noticed Dowan
+  3540 | D:5      | Reached XP level 7. HP: 40/60 MP: 6/6
+  3542 | D:5      | Killed Dowan
+  3799 | D:5      | Killed Duvessa
+  3799 | D:5      | Noticed Menkaure
+  3800 | D:5      | Reached skill level 5 in Fighting
+  3800 | D:5      | Reached skill level 7 in Ranged Weapons
+  3800 | D:5      | Killed Menkaure
+  3805 | D:5      | Reached * piety under Elyvilon
+  3986 | D:5      | Reached skill level 5 in Dodging
+  3986 | D:5      | Reached XP level 8. HP: 69/69 MP: 7/7
+  4177 | D:6      | Found a staircase to the Ecumenical Temple.
+  4191 | D:6      | Reached skill level 1 in Armour
+  4430 | Temple   | Entered the Ecumenical Temple
+  4726 | D:6      | Found a runed translucent gate.
+  4727 | D:6      | Found a runed translucent gate.
+  4727 | D:6      | Found a runed translucent gate.
+  4728 | D:6      | Noticed Bokogi's ghost (novice TrBe)
+  4729 | D:6      | Noticed melllvar's ghost (novice DsFE)
+  4738 | D:6      | Reached skill level 8 in Ranged Weapons
+  4973 | D:6      | Found a glowing silver altar of Zin.
+  5035 | D:6      | Noticed Pikel
+  5046 | D:6      | Killed Pikel
+  5047 | D:6      | Reached skill level 9 in Ranged Weapons
+  5229 | D:6      | Reached ** piety under Elyvilon
+  5697 | Temple   | Fell from the grace of Elyvilon
+  5697 | Temple   | Became a worshipper of the Shining One
+  5761 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  5786 | D:7      | Reached * piety under the Shining One
+  5787 | D:7      | Reached XP level 9. HP: 11/78 MP: 8/8
+  6132 | D:7      | Found a shimmering altar of Xom.
+  6257 | D:7      | Reached skill level 5 in Stealth
+  6591 | D:7      | Reached skill level 10 in Ranged Weapons
+  6751 | D:7      | Reached skill level 5 in Armour
+  6790 | D:7      | Noticed a troll
+  6793 | D:7      | Killed a troll
+  6794 | D:7      | Reached skill level 1 in Invocations
+  7260 | D:8      | Reached skill level 11 in Ranged Weapons
+  7320 | D:8      | Found a stormy altar of Qazlal.
+  7784 | D:9      | Noticed a kobold demonologist
+  7784 | D:9      | Reached ** piety under the Shining One
+  7785 | D:9      | Noticed a kobold demonologist
+  7785 | D:9      | Noticed a red devil
+  7841 | D:8      | Reached XP level 10. HP: 85/88 MP: 10/10
+  7907 | D:9      | Noticed an orange demon
+  8130 | D:9      | Found a staircase to the Orcish Mines.
+  8288 | D:9      | Reached skill level 12 in Ranged Weapons
+  8937 | D:10     | Entered Level 10 of the Dungeon
+  8993 | D:10     | Found a flagged portal.
+  9014 | Bailey   | Entered a bailey
+  9303 | D:10     | Found a staircase to the Lair.
+  9304 | D:10     | Noticed a two-headed ogre
+  9329 | D:10     | Reached skill level 13 in Ranged Weapons
+  9533 | D:10     | Gained mutation: You passively dampen the noise of your
+                  | surroundings. [potion of mutation]
+  9533 | D:10     | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  9533 | D:10     | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [potion of mutation]
+  9533 | D:10     | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  9786 | D:8      | Acquired the +27 heavy crossbow "Sniper" {heavy, Acc+? SInv}
+  9786 | D:8      | Found the +27 heavy crossbow "Sniper" {heavy, Acc+? SInv}
+  9795 | D:8      | Killed a two-headed ogre
+  9854 | Orc:1    | Entered Level 1 of the Orcish Mines
+  9979 | D:10     | Reached XP level 11. HP: 97/97 MP: 11/11
+ 10262 | D:10     | Found a sacrificial altar of Ru.
+ 10272 | D:10     | Found a radiant altar of Vehumet.
+ 10328 | D:11     | Reached *** piety under the Shining One
+ 10329 | D:11     | Reached skill level 14 in Ranged Weapons
+ 10404 | D:11     | Noticed Maurice
+ 10405 | D:11     | Killed Maurice
+ 10430 | D:11     | Noticed a boulder beetle
+ 10432 | D:11     | Killed a boulder beetle
+ 10536 | D:11     | Noticed Erolcha
+ 10537 | D:11     | Killed Erolcha
+ 10538 | D:11     | Reached skill level 5 in Invocations
+ 10601 | D:11     | Reached skill level 10 in Fighting
+ 10749 | D:11     | Identified the +1 scale mail of Caustic Lucidity {*Corrode
+                  | rPois Dex+3 Slay+5}
+ 10844 | D:11     | Noticed Snorg
+ 10848 | D:11     | Killed Snorg
+ 11316 | D:12     | Noticed a brown ugly thing
+ 11317 | D:12     | Killed a brown ugly thing
+ 11371 | D:12     | Noticed a deep elf pyromancer
+ 11373 | D:12     | Killed a deep elf pyromancer
+ 11374 | D:12     | Reached skill level 15 in Ranged Weapons
+ 11466 | D:12     | Noticed a centaur warrior
+ 11724 | D:12     | Killed a centaur warrior
+ 11976 | Orc:1    | Noticed an orc knight
+ 11991 | Orc:1    | Killed an orc knight
+ 12281 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12614 | D:10     | Reached XP level 12. HP: 99/100 MP: 14/14
+ 13133 | Lair:1   | Reached **** piety under the Shining One
+ 13235 | Lair:1   | Reached skill level 16 in Ranged Weapons
+ 13771 | Lair:2   | Got the Almanac of Coordinates and Injury
+ 13875 | Lair:2   | Found a hole to the Spider Nest.
+ 14083 | Lair:2   | Found a staircase to the Swamp.
+ 14083 | Lair:2   | Noticed a ghost crab
+ 14085 | Lair:2   | Killed a ghost crab
+ 14524 | Lair:3   | Reached skill level 17 in Ranged Weapons
+ 14530 | Lair:3   | Reached skill level 10 in Armour
+ 14531 | Lair:3   | Noticed an eight-headed hydra
+ 14766 | Lair:3   | Reached XP level 13. HP: 113/113 MP: 16/16
+ 16017 | Lair:4   | Acquired the ring of the Burgomaster {*Slow +Blink rPois
+                  | rC+ Int+5}
+ 16020 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 16075 | Lair:5   | Found a dark tunnel.
+ 16079 | Lair:5   | Identified the +2 scale mail of Stoicism {rF+}
+ 16094 | Volcano  | Entered a volcano
+ 16122 | Volcano  | Noticed a stone giant
+ 16124 | Volcano  | Killed a stone giant
+ 16125 | Volcano  | Reached skill level 1 in Evocations
+ 16547 | Lair:5   | Noticed Urug
+ 16766 | Lair:5   | Noticed Nessos
+ 16771 | Lair:4   | Reached skill level 18 in Ranged Weapons
+ 16960 | Lair:4   | Killed Nessos
+ 17033 | Lair:4   | HP: 1/113 [dream sheep (26)]
+ 18262 | Lair:5   | Killed Urug
+ 18298 | Lair:5   | Reached skill level 10 in Invocations
+ 18323 | Lair:5   | Noticed Sonja
+ 18324 | Lair:5   | Killed Sonja
+ 18498 | Lair:5   | Reached skill level 19 in Ranged Weapons
+ 18498 | Lair:5   | Reached XP level 14. HP: 122/122 MP: 18/18
+ 18975 | Lair:5   | Reached skill level 5 in Evocations
+ 19017 | Lair:5   | Found a staircase to the Slime Pits.
+ 20467 | Orc:1    | Noticed Jorgrun
+ 20673 | Orc:1    | Found Xeavvoy's Antique Weapon Shop.
+ 20834 | Orc:1    | Killed Jorgrun
+ 21345 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 21352 | Orc:2    | Reached skill level 20 in Ranged Weapons
+ 21414 | Orc:2    | Found Dipos's General Store.
+ 21445 | Orc:2    | Reached ***** piety under the Shining One
+ 21578 | Orc:2    | Found a staircase to the Elven Halls.
+ 21942 | Orc:2    | Found Tuskinlawo's Magic Scroll Boutique.
+ 21942 | Orc:2    | Found Idwosief's Armour Boutique.
+ 21943 | Orc:2    | Found Ujacuel's Distillery.
+ 21943 | Orc:2    | Found Qietull's Book Boutique.
+ 21954 | Orc:2    | Bought a +1 cloak for 149 gold pieces
+ 21963 | Orc:2    | Bought a potion of haste for 120 gold pieces
+ 21964 | Orc:2    | Bought a scroll of teleportation for 48 gold pieces
+ 21964 | Orc:2    | Bought a scroll of immolation for 64 gold pieces
+ 21964 | Orc:2    | Bought a scroll of fear for 64 gold pieces
+ 21964 | Orc:2    | Bought a scroll of teleportation for 48 gold pieces
+ 22267 | Spider:1 | Entered Level 1 of the Spider Nest
+ 22271 | Spider:1 | Reached XP level 15. HP: 133/133 MP: 19/19
+ 22283 | Spider:1 | Reached ****** piety under the Shining One
+ 22792 | D:13     | Identified the +7 tower shield "Xutt" {rF+}
+ 23696 | D:14     | Found a bloodstained altar of Trog.
+ 24634 | D:14     | Found a gate to the Vaults.
+ 24689 | D:15     | Entered Level 15 of the Dungeon
+ 24948 | D:15     | Found a broken altar of Ashenzari.
+ 25047 | D:15     | Paralysed by an ogre mage for 5 turns
+ 25081 | D:15     | Paralysed by a great orb of eyes for 2 turns
+ 25773 | D:15     | Found a staircase to the Depths.
+ 25787 | D:15     | Reached skill level 21 in Ranged Weapons
+ 26469 | Swamp:1  | Entered Level 1 of the Swamp
+ 26550 | Swamp:1  | Identified the +1 trident of Harmony {heavy, Str+3}
+ 27007 | Swamp:2  | Noticed a thorn hunter
+ 27010 | Swamp:2  | Killed a thorn hunter
+ 27050 | Swamp:2  | Reached XP level 16. HP: 62/144 MP: 20/20
+ 27335 | Swamp:2  | Found a frozen archway.
+ 27346 | IceCv    | Entered an ice cave
+ 27389 | IceCv    | HP: 6/144 [caustic shrike simulacrum (11)]
+ 27389 | IceCv    | Mangled by a caustic shrike simulacrum
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_morbid_curiosity, layout_basic
+D:2:      layout_basic
+D:3:      kennysheep_the_goblin_king, layout_loops_ring, lemuel_tele_altar,
+          mainiacjoe_overflow_big_doors,
+          chequers_temple_overflow_statue_of_worship
+D:4:      layout_rooms, mainiacjoe_overflow_concentric_impassable,
+          minmay_ogre_servants, uniq_robin
+D:5:      lemuel_ice_spiral_2, layout_basic, uniq_duvessa, uniq_menkaure
+D:6:      layout_rooms, lemuel_crystal_altar, minmay_temple_entry_arrows,
+          gammafunk_ghost_cemetery, gup_sewer_entry_bubbles, uniq_pikel
+D:7:      minmay_opposing_rooms, layout_basic, xom_teletrap_fun,
+          lemuel_zombie_altar_kikubaaqudgha
+D:8:      layout_loops_cross, nicolae_qazlal_scattered_showers,
+          kennysheep_cross_room
+D:9:      layout_irregular_city, david_orc_3
+D:10:     layout_cave_pools, minitemple, lair_entry_dummy, enter_bailey_5
+D:11:     layout_grid_maze, uniq_erolcha, uniq_maurice, uniq_snorg
+D:12:     layout_rooms, serial_park_tiny_pond
+D:13:     layout_rooms
+D:14:     minmay_skewed_foursquare, layout_loops_corners,
+          ximxim_vaults_locker_room, bloody_trog
+D:15:     hangedman_depths_entry_try_elsewhere_first, layout_basic,
+          lemuel_doored_altar, serial_glass, glass_columns_b, glass_columns_b,
+          minmay_strange_pillars, item_on_display_b, item_on_display_a,
+          minmay_strange_pillars, dk_noncrumbling_4
+Temple:   compressed_dpeg_circular_temple
+Lair:1:   layout_roguey [special_room_bee]
+Lair:2:   layout_regular_city, nicolae_swamp_entry_spooky,
+          spider_nest_entry_webs, serial_bayou_shore_a,
+          infiniplex_staircase_pool
+Lair:3:   layout_loops_ring
+Lair:4:   layout_misc_corridors, infiniplex_staircase_pool_2
+Lair:5:   evilmike_catoblepas_cave, layout_gridlike, slime_entry_1,
+          enter_volcano_1, grunt_megastairs_2, lemuel_fruit_tree, uniq_nessos,
+          uniq_sonja, uniq_urug
+Swamp:1:  layout_basic_swamp, nicolae_swamp_ascending_descending_big,
+          swamp_pool1
+Swamp:2:  cheibrodos_swamp_heart_of_darkness, layout_basic_swamp,
+          portal_ice_cave_entry_dragon, serial_swamp_ruin,
+          evilmike_swamp_ruin_house_3, evilmike_swamp_ruin_house_6
+Spider:1: layout_spider_delve, spiders_nest_hornet_nest, uniq_agnes
+Orc:1:    layout_caves, serial_shops, nicolae_shop_overgrown_old_shop,
+          uniq_jorgrun
+Orc:2:    st_orc_pillars, layout_caves, basic_altar, serial_shops,
+          nicolae_shop_waterfront
+IceCv:    ice_cave_statue_garden_chambered
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 |
+---------------+-------------------------------------------------+-----
+Stealth        |  1        2     3     4  5                      |  5.9
+Fighting       |        3     4     5  6  8  9 10       12 13    | 13.5
+Ranged Weapons |        5     6     7  9 11 13 15 17 19 20 21    | 21.5
+Dodging        |           3     4  5                    6  7  8 |  8.3
+Armour         |                       3  5     7 10       11 12 | 12.0
+Invocations    |                          2  4  6  8 10          | 10.4
+Evocations     |                                      4  6  7  8 |  8.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+---------------------------+-------+-------+-------+-------+-------+-------++-------
+  Melee: Arbalest          |       |       |     3 |       |       |       ||     3
+   Fire: Shortbow          |   103 |       |       |       |       |       ||   103
+         Arbalest          |    23 |    86 |   214 |    94 |       |       ||   417
+         Heavy crossbow    |       |       |       |   147 |   487 |    28 ||   662
+ Invoke: Divine Shield     |       |       |       |     6 |    12 |     4 ||    22
+         Cleansing Flame   |       |       |       |     1 |     2 |       ||     3
+         Summon Divine War |       |       |       |       |     3 |     4 ||     7
+Ability: Evoke Blink       |       |       |       |       |    12 |     1 ||    13
+    Use: Scroll            |     5 |       |     8 |    13 |    19 |     1 ||    46
+         Potion            |       |       |     3 |     3 |     5 |     1 ||    12
+ Armour: Leather armour    |     3 |       |       |       |       |       ||     3
+         Ring mail         |    17 |       |       |       |       |       ||    17
+         Scale mail        |     1 |    13 |       |       |       |       ||    14
+         Plate armour      |       |    45 |   119 |   153 |   327 |    12 ||   656
+  Dodge: Dodged            |    30 |    50 |    72 |   110 |   154 |    15 ||   431
+  Block: Other             |       |       |       |    23 |    49 |    10 ||    82
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  29196 |  27158 |   2038 |      0 |  20620 |  29 | 1006.8 |
+       Dungeon |  17454 |  16098 |   1356 |      0 |  12398 |  15 | 1163.6 |
+        Temple |    294 |    294 |      0 |      0 |    234 |   1 |  294.0 |
+          Lair |   7858 |   7305 |    553 |      0 |   5906 |   5 | 1571.6 |
+         Swamp |   1054 |   1030 |     24 |      0 |    555 |   2 |  527.0 |
+   Spider Nest |     33 |     33 |      0 |      0 |      0 |   1 |   33.0 |
+  Orcish Mines |   1872 |   1768 |    104 |      0 |   1139 |   2 |  936.0 |
+        Bailey |    116 |    116 |      0 |      0 |     44 |   1 |  116.0 |
+      Ice Cave |     55 |     55 |      0 |      0 |      5 |   1 |   55.0 |
+       Volcano |    455 |    455 |      0 |      0 |    337 |   1 |  455.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 2533 daAuts
+  Lair:5: 2149 daAuts
+  Lair:4: 1857 daAuts
+    D:14: 1799 daAuts
+    D:11: 1468 daAuts
+  Lair:3: 1463 daAuts
+     D:7: 1356 daAuts
+  Lair:2: 1266 daAuts
+    D:15: 1236 daAuts
+     D:5: 1205 daAuts
+  Lair:1: 1122 daAuts
+     D:1: 1057 daAuts
+     D:8: 1036 daAuts
+   Orc:2: 1022 daAuts
+    D:13: 1008 daAuts
+

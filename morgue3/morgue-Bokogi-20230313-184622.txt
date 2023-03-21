@@ -1,0 +1,223 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17882987543295867202
+
+1 Bokogi the Basher (level 1, 0/13 HPs)
+             Began as a Gnoll Wanderer on Mar 13, 2023.
+             Slain by a gnoll
+             ... wielding a +0 spear
+              (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:28 (41 turns).
+
+Bokogi the Basher (Gnoll Wanderer)                    Turns: 41, Time: 00:00:28
+
+Health: 0/13       AC:  3    Str:  9    XL:     1   Next: 20%
+Magic:  4/4        EV: 13    Int: 11    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 4/5 levels left
+
+rFire   . . .      SeeInvis .    a - +2 mace
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    d - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    b - +0 pair of boots
+Stlth   +                        (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.09/turn                (no ring)
+
+@: no status effects
+A: fangs 1, strong nose, distributed training
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 mace (weapon)
+Armour
+ b - a +0 pair of boots (worn)
+ d - a +0 robe (worn)
+Scrolls
+ f - a scroll of poison {unknown}
+Potions
+ c - a potion of berserk rage
+ e - a potion of might {unknown}
+
+
+   Skills:
+ + Level 0.0 Fighting
+ + Level 0.0 Short Blades
+ + Level 0.0 Long Blades
+ + Level 0.0 Axes
+ + Level 10.3 Maces & Flails
+ + Level 0.0 Polearms
+ + Level 0.0 Staves
+ + Level 0.0 Ranged Weapons
+ + Level 0.0 Throwing
+ + Level 0.0 Armour
+ + Level 4.4 Dodging
+ + Level 0.0 Stealth
+ + Level 0.0 Shields
+ + Level 0.0 Unarmed Combat
+ + Level 2.6 Spellcasting
+ + Level 0.0 Conjurations
+ + Level 0.0 Hexes
+ + Level 0.0 Summonings
+ + Level 0.0 Necromancy
+ + Level 0.0 Translocations
+ + Level 0.0 Transmutations
+ + Level 0.0 Fire Magic
+ + Level 0.0 Ice Magic
+ + Level 0.0 Air Magic
+ + Level 0.0 Earth Magic
+ + Level 3.6 Poison Magic
+ + Level 0.0 Invocations
+ + Level 0.0 Evocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sting                 Tmut/Pois      20%        1d4       13%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Mephitic Cloud           Conj/Pois/Air  4%         N/A       45%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+Your experience applies equally to all skills.
+
+Message History
+
+Welcome, Bokogi the Gnoll Wanderer.
+Below lies the Orb of Zot, rumoured to be powerful enough to resurrect a god...
+Press ? for a list of commands and other information.
+Found nine items. Found an escape hatch in the floor.
+Found a staircase leading out of the dungeon.
+You begin with the following items: a +2 mace, a +0 pair of boots, a potion of
+berserk rage, a +0 robe; and the following spell memorised: Sting; and the
+following spells available to memorise: Mephitic Cloud.
+e - a viscous silvery potion
+A hobgoblin comes into view.
+Found a scroll labelled PUNYTI SEDUC.
+A hobgoblin is nearby!
+The hobgoblin shouts!
+Found a stone staircase leading down. The hobgoblin closely misses you.
+You sock the hobgoblin!
+You kill the hobgoblin!
+No target in view!
+f - a scroll labelled PUNYTI SEDUC
+Found 2 large rocks.
+Found a mace.
+A gnoll comes into view. It is wielding a +0 spear.
+You see here a metallic orange potion.
+A gnoll is nearby!
+Found a cyan potion.
+Found a chain mail.
+The gnoll shouts! You hear a shout!
+A rat comes into view.
+You see here 2 large rocks.
+A goblin comes into view. It is wielding a +0 dagger.
+Found a stone staircase leading down.
+The gnoll hits you from afar with a +0 spear!
+Ouch! That really hurt!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You see here 2 large rocks.
+The gnoll hits you with a +0 spear.
+You die...
+
+ #######          ).
+ #.....#         ..##
+ #.###.#         ...
+##..##.####      #..
+)....#....###    #.#
+#...###...%.###  #.#
+......###.....####.###.#
+~00.~.#..##............#
+0.0.0.##.####..###!###.#
+0...~.##.#  ##...#.###.###
+~.<.~.##.#   ###.@........
+~...~.#.>.     ###g###....
+.%%%..#...       #r#    !.
+.%8%..#..#   #............
+.%%%.}#... ..>........#...
+##>####    .#g.r....#...
+ ###       ..##...........
+           #  .....[......
+             ##....... ...
+              #......^....
+
+
+You could see a gnoll and a rat.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Reached skill level 10 in Maces & Flails
+     0 | D:1      | Bokogi the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Bokogi set off with the following items: a +2 mace, a +0
+                  | pair of boots, a potion of berserk rage, a +0 robe; and the
+                  | following spell memorised: Sting; and the following spells
+                  | available to memorise: Mephitic Cloud.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 4/4
+    41 | D:1      | Slain by a gnoll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dreamdust_arrival_sigmund_warning, layout_rooms
+
+Skill      XL: | |
+---------------+-+-----
+Maces & Flails | | 10.3
+Dodging        | |  4.4
+Spellcasting   | |  2.6
+Poison Magic   | |  3.6
+
+Action                     || total
+---------------------------++-------
+  Melee: Mace              ||     1
+  Dodge: Dodged            ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     40 |     40 |      0 |      0 |     24 |   1 |   40.0 |
+       Dungeon |     40 |     40 |      0 |      0 |     24 |   1 |   40.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 40 daAuts
+

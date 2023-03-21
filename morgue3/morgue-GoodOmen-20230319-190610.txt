@@ -1,0 +1,249 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14387298994212461099
+
+122 GoodOmen the Digger (level 4, -6/24 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 19, 2023.
+             Killed from afar by Natasha (10 damage)
+             ... with a magic dart
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:04 (1884 turns).
+
+GoodOmen the Digger (Deep Elf Earth Elementalist)   Turns: 1884, Time: 00:04:05
+
+Health: -6/24      AC:  2    Str:  5    XL:     4   Next: 78%
+Magic:  9/12       EV: 12    Int: 22    God:    
+Gold:   134        SH:  0    Dex: 15    Spells: 7/11 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    o - scarf {+Inv}
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.13/turn                (no ring)
+
+@: slowed, very slow
+A: no striking features
+a: Evoke Invisibility
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 134 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ o - a scarf of invisibility (worn)
+Scrolls
+ f - 2 scrolls of poison {unknown}
+ g - a scroll of enchant armour {unknown}
+ i - 2 scrolls of noise {unknown}
+ j - a scroll of enchant weapon {unknown}
+ k - a scroll of teleportation {unknown}
+ m - 2 scrolls of identify {unknown}
+Potions
+ b - 3 potions of magic
+ c - a potion of heal wounds {unknown}
+ d - 2 potions of mutation {unknown}
+ e - a potion of invisibility {unknown}
+ h - 2 potions of curing {unknown}
+ l - a potion of lignification {unknown}
+ n - a potion of degeneration {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 4.1 Spellcasting
+ * Level 2.0 Conjurations
+ - Level 1.3 Transmutations
+ * Level 4.7 Earth Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           50%        2d12      1%          1
+b - Stone Arrow           Conj/Erth      38%        3d9       9%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      15%        N/A       4%          2
+ Ignite Poison            Fire/Tmut/Pois 6%         N/A       26%         3
+ Petrify                  Tmut/Erth      18%        N/A       30%         4
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      32%         3
+ Irradiate                Conj/Tmut      6%         3d13      83%         5
+ Blade Hands              Tmut           5%         N/A       86%         5
+ Freezing Cloud           Conj/Ice/Air   3%         6-21      93%         5
+ Dragon Form              Tmut           5%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Dithmenos
+
+Annotations:
+D:3 Ijyb, Natasha
+
+Message History
+
+You continue putting on your scarf of invisibility. x4
+You finish putting on your scarf of invisibility.
+You become transparent for a moment.
+A quokka is nearby!
+The blast of sand hits the quokka!!
+You kill the quokka!
+Your Conjurations skill increases to level 2!
+You now have 134 gold pieces (gained 8).
+Found 5 stones.
+A worm comes into view.
+Found a chain mail.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+The blast of sand hits the worm!!
+You kill the worm!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+As you open the door, it creaks loudly! You hear a shout! x2
+A hobgoblin comes into view.
+There is an open door here.
+A hobgoblin is nearby!
+Ijyb the Twisted Goblin comes into view. She is wielding a +0 club, wearing a
++1 chain mail of poison resistance and carrying a wand of quicksilver (6).
+Natasha, Servant of Life and Death comes into view.
+Ijyb screams, "Get away!"
+The blast of sand hits the hobgoblin!
+You kill the hobgoblin!
+Natasha hisses angrily.
+Natasha mumbles some strange words.
+Natasha shimmers violently.
+Natasha stares at you and mumbles some strange words.
+You feel yourself slow down.
+The blast of sand hits Ijyb but does no damage.
+The blast of sand hits Ijyb but does no damage.
+Ijyb hits you with a +0 club. Ijyb completely misses you.
+The blast of sand hits Ijyb but does no damage.
+Ijyb hits you with a +0 club.
+Natasha stares at you and mumbles some strange words.
+The magic dart hits you! Ijyb hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+Natasha casts a spell at you.
+The magic dart hits you!
+You die...
+
+                       ####
+                      .....
+        ..       #####.....
+        ...      #.........
+        ...###   #.........
+         #....####..gh.....
+         #....#..'.@.......
+        .#....#.##.........
+        ...................
+        +#.............#####
+        ...............#...#
+        ...............#...#
+        ...................+
+ ..     ..................#  ##≈
+#.#     #+#######.........#.....#
+..#             #.........#.....[
+..#             #.##......#.....#
+..#             #.##......#.....##
+
+
+You could see Ijyb and Natasha.
+
+Vanquished Creatures
+  Jessica (D:3)
+  3 adders
+  3 worms
+  2 dart slugs
+  An orc (D:3)
+  2 endoplasms
+  2 giant cockroaches (D:1)
+  4 goblins
+  5 hobgoblins
+  3 jackals (D:3)
+  A kobold (D:2)
+  5 quokkas
+  5 ball pythons
+  6 bats
+  5 frilled lizards
+  7 rats
+55 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   238 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   318 | D:1      | Found a faded altar of an unknown god.
+   660 | D:2      | Reached XP level 3. HP: 9/19 MP: 2/10
+   664 | D:2      | Learned a level 3 spell: Stone Arrow
+   820 | D:2      | Found a shadowy altar of Dithmenos.
+  1517 | D:3      | Noticed Jessica
+  1519 | D:3      | Killed Jessica
+  1520 | D:3      | Reached skill level 1 in Conjurations
+  1520 | D:3      | Reached XP level 4. HP: 24/24 MP: 6/11
+  1879 | D:3      | Noticed Ijyb
+  1880 | D:3      | Noticed Natasha
+  1884 | D:3      | Killed from afar by Natasha
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_boilingwater, layout_basic,
+          ebering_ecumenical_altar_petrified
+D:2:      layout_basic, basic_altar, st_stairs_11
+D:3:      layout_basic, serial_shops, nicolae_shop_hallway_stairs,
+          minmay_door_square, hangedman_decor_lopped, kennysheep_generic_room_2,
+          uniq_natasha, uniq_jessica, uniq_ijyb
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Earth Magic    |     4       |  4.7
+Conjurations   |        1  2 |  2.0
+Spellcasting   |           4 |  4.1
+Dodging        |             |  2.6
+Stealth        |             |  2.6
+Transmutations |             |  1.3
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Cast: Sandblast         |    62 |    24 ||    86
+         Stone Arrow       |     1 |       ||     1
+ Armour: Robe              |     7 |     3 ||    10
+  Dodge: Dodged            |    13 |    24 ||    37
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1929 |   1908 |     21 |     88 |   1503 |   3 |  643.0 |
+       Dungeon |   1929 |   1908 |     21 |     88 |   1503 |   3 |  643.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 916 daAuts
+     D:1: 557 daAuts
+     D:3: 455 daAuts
+

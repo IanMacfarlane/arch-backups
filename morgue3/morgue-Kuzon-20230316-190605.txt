@@ -1,0 +1,281 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5465815963237697425
+
+658 Kuzon the Firebug (level 7, -6/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Shot with an arrow by a centaur (11 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:08:50 (4892 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 4892, Time: 00:08:50
+
+Health: -6/36      AC:  3    Str:  5    XL:     7   Next: 29%
+Magic:  5/17       EV: 12    Int: 22    God:    
+Gold:   175        SH:  0    Dex: 15    Spells: 13/16 levels left
+
+rFire   . . .      SeeInvis .    r - +0 falchion
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    j - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    o - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                (no ring)
+MPRegen 0.15/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 175 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 short sword
+ r - a +0 falchion (weapon)
+Armour
+ j - a +0 robe (worn)
+ o - a +0 pair of boots (worn)
+Jewellery
+ i - a ring of ice
+Wands
+ n - a wand of polymorph (2)
+ w - a wand of mindburst (20)
+Scrolls
+ f - a scroll of immolation {unknown}
+ g - a scroll of torment {unknown}
+ h - a scroll of teleportation
+ l - 2 scrolls of identify {unknown}
+ p - a scroll of enchant weapon {unknown}
+ q - a scroll of fear {unknown}
+ s - a scroll of fog {unknown}
+ v - a scroll of enchant armour {unknown}
+ y - 2 scrolls of amnesia {unknown}
+ z - a scroll of blinking {unknown}
+ A - a scroll of brand weapon {unknown}
+Potions
+ a - a potion of might {unknown}
+ b - a potion of magic
+ c - 2 potions of cancellation {unknown}
+ d - a potion of heal wounds {unknown}
+ k - 2 potions of curing {unknown}
+ m - 2 potions of brilliance {unknown}
+ t - 2 potions of degeneration {unknown}
+ u - a potion of lignification {unknown}
+ x - a potion of mutation {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 5.4 Spellcasting
+ * Level 5.5 Conjurations
+ * Level 6.4 Fire Magic
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           68%        2d8       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       20%        N/A       8%          3
+ Flame Wave               Conj/Fire      32%        2d9       9%          4
+ Kindle Blastsparks       Fire/Tloc/Air  30%        2d12      12%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Okawaru
+Trog
+
+Message History
+
+The adder is heavily wounded.
+A centaur comes into view.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The centaur shouts! You hear an angry growl.
+Unknown command.
+You are too injured to fight recklessly!
+The foxfire hits the adder.
+The adder is almost dead.
+The foxfire hits the adder!
+You kill the adder!
+The centaur wields a +0 shortbow. The centaur shoots an arrow. The arrow
+completely misses you.
+A black bear comes into view.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! The centaur shoots an arrow. The arrow closely misses
+you.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+Your surroundings seem slightly different.
+The foxfire hits the centaur.
+The centaur is moderately wounded.
+The foxfire hits the centaur.
+The centaur is heavily wounded.
+The foxfire hits the centaur.
+The centaur is severely wounded.
+The centaur shoots an arrow. The arrow hits you.
+* * * LOW HITPOINT WARNING * * *
+The centaur shoots an arrow. The arrow hits you!
+You die...
+
+#..                #[#
+#.#                #.#
+#.#                #.#
+#.#####            #.#
+......             #.#
+#...               #.#
+#.#         ########.#####
+..#         ..).........§####
+#.###.#   ##.######....c.....#
+#.....#  #.. ##   #@#.##.###.#
+#.#######.# ..#####.#.##†#
+#........###.# #....#...c.
+##...........#.#.#######h..
+##)###............     .....
+...# #.#..##..##.#.    ..#.#.
+#.÷# #.#.#...# #.#.$
+#.<# #.#.###.# #.# ..
+...###.....# ..... ...
+...##..###.#  ##.h  ###
+...÷÷#.# #.#
+.####..###.#
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A water moccasin (D:5)
+  2 orc priests
+  4 hounds
+  A jelly (D:4)
+  2 iguanas
+  5 orc wizards
+  5 adders
+  An ufetubus (D:5)
+  4 worms
+  3 dart slugs
+  18 orcs
+  An endoplasm (D:2)
+  2 giant cockroaches
+  7 hobgoblins
+  11 jackals
+  9 kobolds
+  A quokka (D:2)
+  5 ball pythons
+  6 bats
+  5 frilled lizards
+  5 goblins
+  6 rats
+104 creatures vanquished.
+
+Vanquished Creatures (others)
+  301 foxfires
+301 creatures vanquished.
+
+Grand Total: 405 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   482 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   490 | D:1      | Learned a level 2 spell: Scorch
+  1566 | D:2      | Reached XP level 3. HP: 19/19 MP: 4/9
+  1977 | D:2      | Reached skill level 4 in Fire Magic
+  2381 | D:3      | Found an iron altar of Okawaru.
+  2621 | D:3      | Reached XP level 4. HP: 24/24 MP: 9/11
+  2781 | D:3      | Found a bloodstained altar of Trog.
+  3276 | D:3      | Found a faded altar of an unknown god.
+  3479 | D:4      | Reached XP level 5. HP: 28/28 MP: 7/13
+  3725 | D:4      | Reached skill level 5 in Fire Magic
+  3853 | D:4      | Reached XP level 6. HP: 32/32 MP: 10/14
+  4409 | D:4      | Reached skill level 5 in Spellcasting
+  4523 | D:5      | Entered Level 5 of the Dungeon
+  4672 | D:5      | Reached skill level 5 in Conjurations
+  4676 | D:5      | Reached skill level 6 in Fire Magic
+  4841 | D:5      | Noticed a water moccasin
+  4844 | D:5      | Reached XP level 7. HP: 30/36 MP: 11/16
+  4892 | D:5      | Shot with an arrow by a centaur
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      psy_arrival_fountain, layout_basic
+D:2:      layout_loops_cross, serial_glass, glass_columns_c, glass_columns_b,
+          glass_columns_a, glass_columns_c, glass_columns_a, glass_columns_b
+D:3:      layout_loops_cross, mainiacjoe_overflow_brackets,
+          mainiacjoe_overflow_small_starburst, ebering_ecumenical_altar_box
+D:4:      layout_loops_ring
+D:5:      layout_loops_ring
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3  4  5 |  5.5
+Fire Magic     |        4     5  6 |  6.4
+Spellcasting   |           4     5 |  5.4
+Dodging        |                   |  2.4
+Stealth        |                   |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+   Cast: Foxfire           |    81 |   101 |     5 ||   187
+         Scorch            |    13 |    18 |     4 ||    35
+    Use: Scroll            |     1 |       |     2 ||     3
+ Armour: Robe              |     5 |     1 |       ||     6
+  Dodge: Dodged            |     7 |     4 |     3 ||    14
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4891 |   4769 |    122 |      0 |   4094 |   5 |  978.2 |
+       Dungeon |   4891 |   4769 |    122 |      0 |   4094 |   5 |  978.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1337 daAuts
+     D:1: 1100 daAuts
+     D:4: 1084 daAuts
+     D:3: 1000 daAuts
+     D:5: 368 daAuts
+

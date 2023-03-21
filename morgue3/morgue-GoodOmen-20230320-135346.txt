@@ -1,0 +1,403 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 12595741861874089341
+
+2089 GoodOmen the Geomancer (level 9, 5/62 HPs)
+             Began as a Pale Draconian Earth Elementalist on Mar 20, 2023.
+             Was an Initiate of Vehumet.
+             Quit the game on level 7 of the Dungeon.
+             The game lasted 00:17:52 (6204 turns).
+
+GoodOmen the Geomancer (DrEE)                       Turns: 6204, Time: 00:17:53
+
+Health: 5/62       AC: 12    Str: 11    XL:     9   Next: 6%
+Magic:  0/17       EV: 12    Int: 19    God:    Vehumet [......]
+Gold:   370        SH:  0    Dex: 12    Spells: 14/18 levels left
+
+rFire   . . .      SeeInvis +    o - staff of earth
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   +    (body armour unavailable)
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    u - +0 pair of boots
+Stlth   ++                       g - amulet of guardian spirit
+HPRegen 0.30/turn                m - +4 ring of protection
+MPRegen 0.15/turn                y - ring of see invisible
+
+@: lethally poisoned (5 -> -1)
+A: breathe steam, AC +7, unfitting armour, cold-blooded, steam resistance
+a: Breathe Steam, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 370 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - the +1 short sword of the Warrior {freeze, rPois rN+ rCorr}
+   (You found it on level 2 of the Dungeon)   
+   
+   rPois:     It protects you from poison.
+   rN:        It protects you from negative energy.
+   rCorr:     It protects you from acid and corrosion.
+Armour
+ u - a +0 pair of boots (worn)
+Magical Staves
+ o - a staff of earth (weapon)
+Jewellery
+ g - an amulet of guardian spirit (around neck)
+ l - a +6 ring of dexterity
+ m - a +4 ring of protection (left hand)
+ y - a ring of see invisible (right hand)
+Scrolls
+ c - 2 scrolls of teleportation
+ d - 3 scrolls of poison
+ q - a scroll of enchant armour
+ r - 2 scrolls of brand weapon
+ s - 3 scrolls of magic mapping
+ x - a scroll of amnesia
+ z - a scroll of butterflies {unknown}
+ B - a scroll of fear
+ C - 2 scrolls of identify
+Potions
+ a - 2 potions of magic
+ b - 3 potions of haste
+ e - a potion of resistance
+ f - a potion of flight
+ h - a potion of heal wounds
+ j - 2 potions of degeneration
+ k - 3 potions of lignification
+ n - a potion of might {unknown}
+ p - a potion of brilliance {unknown}
+ t - a potion of invisibility {unknown}
+ v - a potion of curing {unknown}
+ w - a potion of cancellation
+ A - a potion of attraction {unknown}
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 1.7 Stealth
+ + Level 5.3 Spellcasting
+ * Level 7.0 Conjurations
+ - Level 1.0 Transmutations
+ * Level 8.4 Earth Magic
+
+
+You had 14 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      28%        N/A       2%          2
+ Hailstorm                Conj/Ice       18%        3d6       9%          3
+ Apportation              Tloc           10%        N/A       12%         1
+ Freeze                   Ice            20%        1d4       12%         1
+ Necrotise                Necr           20%        1d5       12%         1
+ Summon Small Mammal      Summ           20%        N/A       12%         1
+ Petrify                  Tmut/Erth      34%        N/A       17%         4
+ Lesser Beckoning         Tloc           10%        N/A       19%         2
+ Iskenderun's Battlesphe  Conj           31%        2d8       19%         5
+ Frozen Ramparts          Ice            10%        1d2       34%         3
+ Gell's Gravitas          Tloc           5%         N/A       34%         3
+ Teleport Other           Tloc           5%         N/A       34%         3
+ Iron Shot                Conj/Erth      25%        9d5       61%         6
+ Spellforged Servitor     Conj/Summ      9%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Zin
+The Shining One
+
+Shops:
+D:6 !
+
+Annotations:
+D:2 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of scalding, opaque steam.
+Your pale cyan-grey scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+You are immune to the effects of steam.
+
+Message History
+
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - killer bee
+Aim: a killer bee (70% to hit)
+You feel a surge of power! The blast of sand hits the killer bee!
+The killer bee is severely wounded.
+You feel sick. The killer bee completely misses you. The killer bee barely
+misses you.
+The killer bee stings you.
+You barely miss the killer bee.
+The killer bee is severely wounded.
+You feel sick. The killer bee stings you.
+You are more poisoned.
+The killer bee poisons you! The killer bee stings you!
+* * * LOW HITPOINT WARNING * * *
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - killer bee
+Aim: a killer bee (severely wounded, 70% to hit)
+You feel a surge of power! The blast of sand hits the killer bee!!
+You kill the killer bee!
+Vehumet accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The killer bee barely misses you.
+The killer bee stings you but does no damage.
+Your Conjurations skill increases to level 7!
+It was a potion of cancellation.
+Your magical effects are unravelling.
+You feel magically purged.
+Your resistance to elements expires.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The killer bee stings you but does no damage. x2
+Okay, then.
+Okay, then.
+Unknown command.
+Unknown command.
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                 #####   #.#....
+          .      #...#   #.#..##
+           ...   #...#   #......
+           #.#####...#   ##....#
+         ###.#...#...#######....
+         .......................
+        ####.#...#...##...##...#
+        #....#...#...##...#<....
+        #....#...#...##...#.....
+        #..yy#...#...##...#.....
+        ####y#...#...######.#...
+     .#.####@#...##########.#...
+     .......................#..#
+     .......................#..#
+     ........#.....##.).....#..#
+ ##############.##.##.####..#..#
+ .....................# #.......
+..######.######.##.#..# #...#.##
+.....(...#  #......#..# #...#.#
+.#######.#  #.#..#.#..###...#.##
+       #.#  #.#....#............
+       #.#  #.#..#.......#..#.##
+       #.#  #.#..#.#...........#
+
+
+You could see 3 killer bees.
+
+Vanquished Creatures
+  A water moccasin (D:6)
+  An ice beast (D:4)
+  3 black bears
+  4 centaurs
+  2 ogres
+  4 phantoms
+  A kobold brigand (D:6)
+  A scorpion (D:5)
+  3 killer bees (D:7)
+  A gnoll bouda (D:6)
+  An orc priest (D:2)
+  3 hounds (D:5)
+  A jelly (D:6)
+  4 iguanas
+  An orc wizard (D:4)
+  A sleepcap (D:5)
+  Natasha (twice) (D:2)
+  4 gnolls (D:3)
+  5 adders
+  A shadow imp (D:7)
+  3 worms
+  2 dart slugs
+  8 orcs
+  11 ball pythons
+  6 endoplasms
+  7 giant cockroaches
+  9 goblins
+  4 hobgoblins
+  8 jackals
+  3 quokkas
+  6 bats
+  A frilled lizard (D:3)
+  9 kobolds
+  3 rats
+124 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:4)
+1 creature vanquished.
+
+Grand Total: 125 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Draconian Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+   333 | D:1      | Reached XP level 2. HP: 20/20 MP: 3/5
+  1026 | D:2      | Identified the +1 short sword of the Warrior {freeze, rPois
+                  | rN+ rCorr}
+  1108 | D:2      | Reached XP level 3. HP: 26/26 MP: 3/6
+  1116 | D:2      | Reached skill level 4 in Earth Magic
+  1120 | D:2      | Learned a level 3 spell: Stone Arrow
+  1251 | D:2      | Reached XP level 4. HP: 33/33 MP: 5/8
+  1386 | D:2      | Noticed Natasha
+  1399 | D:2      | Killed Natasha
+  1400 | D:2      | Reached skill level 1 in Conjurations
+  1424 | D:2      | Noticed Natasha
+  1426 | D:2      | Killed Natasha
+  1740 | D:2      | Noticed Natasha
+  1852 | D:3      | Reached XP level 5. HP: 38/38 MP: 7/9
+  1854 | D:3      | Noticed a phantom
+  1862 | D:3      | Killed a phantom
+  1863 | D:3      | Reached skill level 5 in Earth Magic
+  2273 | D:3      | Reached XP level 6. HP: 45/45 MP: 5/11
+  2549 | D:4      | Found a burning altar of Makhleb.
+  3000 | D:4      | Found a stormy altar of Qazlal.
+  3424 | D:4      | Noticed an ice beast
+  3479 | D:4      | Killed an ice beast
+  3480 | D:4      | Your scales start taking on a pale cyan-grey colour.
+  3480 | D:4      | Reached XP level 7. HP: 50/50 MP: 6/12
+  3480 | D:4      | Gained mutation: You are immune to the effects of steam.
+                  | [Pale Draconian growth]
+  3637 | D:4      | Learned a level 2 spell: Passwall
+  3660 | D:5      | Entered Level 5 of the Dungeon
+  3692 | D:5      | Reached skill level 6 in Earth Magic
+  4026 | D:5      | Reached skill level 5 in Conjurations
+  4056 | D:5      | Reached skill level 7 in Earth Magic
+  4056 | D:5      | Reached XP level 8. HP: 50/57 MP: 6/14
+  4144 | D:5      | Identified the +8 trident of the Orb {elec, Fly rN+ Int-4}
+  4279 | D:5      | Found a sacrificial altar of Ru.
+  5083 | D:6      | Reached skill level 5 in Spellcasting
+  5182 | D:6      | Found a staircase to the Ecumenical Temple.
+  5264 | Temple   | Entered the Ecumenical Temple
+  5264 | Temple   | Noticed a tormentor
+  5264 | Temple   | Noticed an Ice Fiend
+  5264 | Temple   | Noticed a hell beast
+  5265 | Temple   | Noticed Pedov the pandemonium lord
+  5265 | Temple   | Noticed Lywiar the pandemonium lord
+  5266 | Temple   | Noticed an ice devil
+  5294 | Temple   | Noticed Fiqutuw the pandemonium lord
+  5303 | Temple   | Noticed a lorocyproca
+  5314 | Temple   | Noticed a hellion
+  5315 | Temple   | Noticed Medghir the pandemonium lord
+  5323 | Temple   | Noticed a cacodemon
+  5326 | Temple   | Noticed Jutarph the pandemonium lord
+  5342 | Temple   | Noticed a Hell Sentinel
+  5342 | Temple   | Noticed Maobribo the pandemonium lord
+  5342 | Temple   | Noticed a soul eater
+  5342 | Temple   | Noticed a rust devil
+  5342 | Temple   | Noticed a green death
+  5377 | Temple   | Became a worshipper of Vehumet
+  5497 | D:6      | Found Kilergh's Distillery.
+  5502 | D:6      | Reached skill level 8 in Earth Magic
+  5851 | D:7      | Found a snail-covered altar of Cheibriados.
+  6027 | D:7      | Reached XP level 9. HP: 55/62 MP: 10/16
+  6204 | D:7      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_cavern_a, layout_loops_ring
+D:2:      layout_basic, uniq_natasha
+D:3:      layout_basic, minmay_ruptured
+D:4:      minmay_chambers_of_fours, layout_loops_cross,
+          mainiacjoe_overflow_concentric_impassable,
+          mainiacjoe_overflow_boulevard, due_unseen_surprise
+D:5:      minmay_bubble_buster, layout_rooms, mainiacjoe_overflow_cross_hatched,
+          kennysheep_generic_room_4
+D:6:      layout_gridville, minmay_temple_entry_trees, kennysheep_windowed_goal
+D:7:      layout_basic, ashenzari_altar_1, mainiacjoe_overflow_small_starburst,
+          uniq_pikel, uniq_duvessa
+Temple:   nicolae_temple_panitentiary
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Earth Magic    |        4     5     7  8    |  8.4
+Conjurations   |           1  2  3  5  6  7 |  7.0
+Spellcasting   |           3        4  5    |  5.3
+Dodging        |                            |  1.7
+Stealth        |                            |  1.7
+Transmutations |                            |  1.0
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Short sword       |     9 |       |       ||     9
+         Tailslap          |     2 |     1 |       ||     3
+         Staff             |       |     3 |     5 ||     8
+   Cast: Sandblast         |    41 |    67 |    47 ||   155
+         Stone Arrow       |       |     9 |    23 ||    32
+    Use: Scroll            |       |     9 |     6 ||    15
+         Potion            |       |       |     2 ||     2
+ Armour: Skin              |     4 |     7 |    24 ||    35
+  Dodge: Dodged            |    21 |    22 |    27 ||    70
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6280 |   6090 |    190 |      0 |   5217 |   8 |  785.0 |
+       Dungeon |   6129 |   5943 |    186 |      0 |   5128 |   7 |  875.6 |
+        Temple |    151 |    147 |      4 |      0 |     89 |   1 |  151.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1187 daAuts
+     D:6: 1044 daAuts
+     D:5: 1005 daAuts
+     D:1: 999 daAuts
+     D:2: 828 daAuts
+     D:3: 706 daAuts
+     D:7: 358 daAuts
+  Temple: 151 daAuts
+

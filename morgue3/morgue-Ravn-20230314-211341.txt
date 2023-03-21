@@ -1,0 +1,135 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6943600655729065879
+
+0 Ravn the Chopper (level 1, 19/19 HPs)
+             Began as a Minotaur Berserker on Mar 14, 2023.
+             Was a Follower of Trog.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:04 (7 turns).
+
+Ravn the Chopper (Minotaur Berserker)                  Turns: 7, Time: 00:00:05
+
+Health: 19/19      AC:  2    Str: 21    XL:     1   Next: 0%
+Magic:  0/0        EV: 12    Int:  4    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis .    a - +0 hand axe
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    b - +0 animal skin
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.07/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Armour
+ b - a +0 animal skin (worn)
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 3.6 Axes
+ + Level 2.4 Armour
+ + Level 2.1 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Welcome, Ravn the Minotaur Berserker.
+The sublime Orb of Zot lies far below, as if waiting for you to find it.
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Found 6 stones.
+Found a stone staircase leading down.
+A goblin comes into view. It is wielding a +0 dagger.
+The goblin shouts!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ##
+   ..        ###
+    ..      ...
+    ..##   #..
+     #..  ..# ###. #
+   ## ..##..##.....#
+#.##.. #..# .... ..#
+ #....##<.##..  ...#
+     #..##..#  .....
+     #..##..##...###
+......##..##@.....g.
+...... #..##.....##.
+(...#  ##..#>.####
+.#.#    ##.#...
+ #.       .#..#.
+ #        .#..#.#
+          ..#.. .
+          .# #. #.
+
+
+You could see a goblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ravn the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     7 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_iron_boxes, layout_loops_ring
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      7 |      7 |      0 |      0 |      4 |   1 |    7.0 |
+       Dungeon |      7 |      7 |      0 |      0 |      4 |   1 |    7.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 7 daAuts
+

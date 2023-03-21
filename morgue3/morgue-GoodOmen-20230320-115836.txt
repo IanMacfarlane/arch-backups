@@ -1,0 +1,259 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 18027071512341084096
+
+143 GoodOmen the Magician (level 5, 0/28 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 20, 2023.
+             Slain by a goblin
+             ... wielding a +0 club
+             ... led by Robin
+              (2 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:22 (2089 turns).
+
+GoodOmen the Magician (Deep Elf Earth Elementalist) Turns: 2089, Time: 00:04:23
+
+Health: 0/28       AC:  2    Str:  5    XL:     5   Next: 4%
+Magic:  7/13       EV: 12    Int: 22    God:    
+Gold:   192        SH:  0    Dex: 15    Spells: 9/13 levels left
+
+rFire   . . .      SeeInvis .    g - +0 whip (venom)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.13/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 192 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 whip of venom (weapon)
+Armour
+ a - a +0 robe (worn)
+Magical Staves
+ h - a staff of air
+Scrolls
+ c - 2 scrolls of poison {unknown}
+ d - 2 scrolls of identify {unknown}
+ i - a scroll of amnesia {unknown}
+ j - 2 scrolls of immolation {unknown}
+Potions
+ b - a potion of magic
+ e - 3 potions of attraction {unknown}
+ f - 2 potions of lignification {unknown}
+ k - a potion of curing {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 4.5 Spellcasting
+ * Level 2.7 Conjurations
+ - Level 1.4 Transmutations
+ + Level 4.4 Earth Magic
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           48%        2d12      1%          1
+b - Stone Arrow           Conj/Erth      40%        3d9       8%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      14%        N/A       4%          2
+ Ensorcelled Hibernation  Hex/Ice        8%         N/A       16%         2
+ Swiftness                Air            4%         N/A       32%         3
+ Petrify                  Tmut/Erth      17%        N/A       32%         4
+ Summon Ice Beast         Ice/Summ       4%         N/A       71%         4
+ Summon Mana Viper        Hex/Summ       4%         N/A       96%         5
+ Monstrous Menagerie      Summ           2%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Fedhas
+The Shining One
+
+Message History
+
+The goblin no longer looks unusually strong.
+Robin throws the goblin at you! The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you but does no damage.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+Okay, then.
+Casting: Stone Arrow (quite dangerous; 8% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+[Y]es or [N]o only, please.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+Okay, then.
+Casting: Stone Arrow (quite dangerous; 8% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+Aiming: Stone Arrow (quite dangerous; 8% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - Robin
+Aim: Robin, wielding a +0 whip, wearing a +0 animal skin, wearing a +0 helmet
+and carrying a wand of flame (26) (79% to hit)
+The stone arrow hits Robin!
+Robin is almost dead.
+Robin hits you with a +0 whip.
+* * * LOW HITPOINT WARNING * * *
+The goblin closely misses you. The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+Casting: Stone Arrow (quite dangerous; 8% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+Okay, then.
+Casting: Stone Arrow (quite dangerous; 8% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (8% risk of failure)! Continue anyway? 
+Aiming: Stone Arrow (quite dangerous; 8% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Robin
+Aim: Robin, wielding a +0 whip, wearing a +0 animal skin, wearing a +0 helmet
+and carrying a wand of flame (26) (almost dead, 79% to hit)
+The stone arrow hits Robin!
+You kill Robin!
+The goblin hits you with a +0 club.
+You die...
+
+ ##'##       #.#                   ##'#
+##...##      #.#                  ##...
+#.....##    ##.#                 ##....
+.......##  ##..#                ##.....
+........####...#####            #......
+........'............           +......
+........####...######           #......
+.......##  ##.##    #######     ##.....
+#.....##    #.#    ##.....##     ##..†.
+##...##  ####.######.......#      ##...
+ ##'##   .........##g......##.#    ##'#
+  #.#       #.##..g@)..∩...'.[#   ###.#
+###.#       #....###)......#..#   #.<..
+.##.##      ####.# #.......####   #.#.#
+.....## #.######.# ##.....###     #....
+.#....# #........#  #######.#######....
+###..## ########.#  #.##.........##....
+#_##.#  ########.#  #.#####.####.##....
+'##..####........#  #.#   #.#  #.......
+.#........########  #.#####.#  ####.#.#
+....#######         #.......#     #.#.#
+....#               #########     #....
+###.#    ##########               ###.#
+
+
+You could see 2 goblins.
+
+Vanquished Creatures
+  A hound (D:3)
+  Robin (D:3)
+  4 adders
+  A worm (D:2)
+  3 dart slugs (D:1)
+  5 endoplasms
+  4 giant cockroaches
+  8 goblins
+  8 hobgoblins
+  4 jackals (D:2)
+  3 quokkas
+  10 ball pythons
+  3 bats
+  5 frilled lizards
+  2 kobolds
+  3 rats
+65 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:1)
+  4 plants
+5 creatures vanquished.
+
+Grand Total: 70 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    70 | D:1      | Found a faded altar of an unknown god.
+   102 | D:1      | Reached XP level 2. HP: 10/15 MP: 5/8
+   629 | D:1      | Reached XP level 3. HP: 19/19 MP: 8/10
+   634 | D:1      | Learned a level 3 spell: Stone Arrow
+   879 | D:2      | Reached skill level 1 in Conjurations
+  1145 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/12
+  1705 | D:3      | Found a blossoming altar of Fedhas.
+  1840 | D:3      | Found a glowing golden altar of the Shining One.
+  1853 | D:3      | Reached XP level 5. HP: 28/28 MP: 10/13
+  2072 | D:3      | Noticed Robin
+  2089 | D:3      | Killed Robin
+  2089 | D:3      | Slain by a goblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_druids_welcome, layout_basic,
+          shapermc_ecumenical_altar_mp_urbaneastern
+D:2:      layout_basic
+D:3:      layout_loops_corners, tso_oasis_becter,
+          nicolae_overflow_crystal_walls, kennysheep_flooded_box, uniq_robin
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |        1  2 |  2.7
+Spellcasting   |        4    |  4.5
+Earth Magic    |        4    |  4.4
+Dodging        |             |  2.6
+Stealth        |             |  2.6
+Transmutations |             |  1.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Whip              |       |     6 ||     6
+   Cast: Sandblast         |    48 |    26 ||    74
+         Stone Arrow       |       |     2 ||     2
+ Armour: Robe              |       |     7 ||     7
+  Dodge: Dodged            |     3 |    24 ||    27
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2126 |   2091 |     35 |      0 |   1788 |   3 |  708.7 |
+       Dungeon |   2126 |   2091 |     35 |      0 |   1788 |   3 |  708.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 770 daAuts
+     D:2: 714 daAuts
+     D:3: 641 daAuts
+

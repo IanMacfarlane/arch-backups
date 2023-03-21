@@ -1,0 +1,488 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6051612462018741999
+
+16477 Bokogi the Arsonist (level 12, -1/59 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Was a Priest of Sif Muna.
+             Slain by a skyshark (12 damage)
+             ... on level 2 of the Lair of Beasts.
+             The game lasted 01:05:44 (14740 turns).
+
+Bokogi the Arsonist (Deep Elf Fire Elementalist)   Turns: 14740, Time: 01:05:44
+
+Health: -1/59      AC:  9    Str:  4 (5)  XL:     12   Next: 10%
+Magic:  0/29       EV: 10    Int: 26      God:    Sif Muna [***...]
+Gold:   833        SH:  0    Dex: 14 (15) Spells: 11/34 levels left
+
+rFire   + + +      SeeInvis .    b - staff of fire
+rCold   x x .      Faith    .    c - orb {*channel}
+rNeg    . . .      Spirit   +    G - +2 acid dragon scales
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    A - +0 cloak
+rCorr   +                        (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       t - amulet of guardian spirit
+HPRegen 0.29/turn                F - ring of fire
+MPRegen 0.21/turn                E - ring of fire
+
+@: studying Shields
+A: deterioration 1, sense surroundings 1
+a: Renounce Religion, Channel Magic, Forget Spell
+
+
+You were on level 2 of the Lair of Beasts.
+You worshipped Sif Muna.
+Sif Muna was most pleased with you.
+You visited 3 branches of the dungeon, and saw 13 of its levels.
+
+You collected 833 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - the +10 quarterstaff "Ruan" {flame, Fly Will+ rCorr Stlth+}
+   (You found it on level 1 of the Lair of Beasts)   
+   
+   Fly:       It grants you flight.
+   rCorr:     It protects you from acid and corrosion.
+   Will:      It increases your willpower.
+   Stlth:     It makes you more stealthy.
+ y - a +6 short sword of freezing
+Missiles
+ z - a throwing net
+Armour
+ c - an orb of energy (worn)
+ A - a +0 cloak (worn)
+ G - +2 acid dragon scales (worn)
+Magical Staves
+ b - a staff of fire (weapon)
+Jewellery
+ t - an amulet of guardian spirit (around neck)
+ B - a ring of fire
+ C - a ring of protection from fire
+ E - a ring of fire (right hand)
+ F - a ring of fire (left hand)
+Wands
+ j - a wand of iceblast (6)
+ s - a wand of light (10)
+ u - a wand of flame (76)
+ D - a wand of digging (2)
+Scrolls
+ f - 2 scrolls of magic mapping
+ h - a scroll of noise
+ i - 2 scrolls of enchant weapon
+ l - a scroll of torment
+ w - 3 scrolls of amnesia
+ H - a scroll of teleportation
+Potions
+ a - a potion of invisibility {unknown}
+ d - a potion of mutation
+ e - a potion of might
+ g - 2 potions of curing
+ k - a potion of ambrosia {unknown}
+ m - a potion of flight {unknown}
+ n - 2 potions of resistance
+ o - a potion of haste
+ p - 2 potions of degeneration
+ r - 2 potions of attraction
+ v - a potion of brilliance
+ x - 2 potions of heal wounds
+
+
+   Skills:
+ - Level 1.7 Staves
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 11.8 Spellcasting
+ * Level 13.5 Conjurations
+ * Level 13.8 Fire Magic
+ + Level 3.3 Invocations
+
+
+You had 11 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+c - Flame Wave            Conj/Fire      100%       2d21      1%          4
+d - Sticky Flame          Conj/Fire      100%       2d11      1%          4
+e - Poisonous Vapours     Pois/Air       30%        N/A       14%         2
+f - Ignite Poison         Fire/Tmut/Pois 93%        N/A       4%          3
+g - Inner Flame           Hex/Fire       100%       N/A       1%          3
+h - Blink                 Tloc           30%        N/A       14%         2
+i - Passwall              Tmut/Erth      12%        N/A       14%         2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Momentum Strike          Conj/Tloc      100%       3d10      1%          2
+ Hailstorm                Conj/Ice       50%        3d11      1%          3
+ Stone Arrow              Conj/Erth      100%       3d13      1%          3
+ Kindle Blastsparks       Fire/Tloc/Air  100%       2d18      4%          3
+ Sandblast                Erth           30%        2d9       10%         1
+ Sting                    Tmut/Pois      60%        1d6       10%         1
+ Lesser Beckoning         Tloc           30%        N/A       14%         2
+ Frozen Ramparts          Ice            30%        1d5       28%         3
+ Ice Form                 Ice/Tmut       15%        N/A       67%         4
+ Olgreb's Toxic Radiance  Pois           15%        N/A       67%         4
+ Passage of Golubria      Tloc           15%        N/A       67%         4
+ Summon Ice Beast         Ice/Summ       15%        N/A       67%         4
+ Ignition                 Fire           69%        3d18      91%         8
+ Silence                  Hex/Air        7%         N/A       95%         5
+ Simulacrum               Ice/Necr       7%         N/A       100%        6
+ Lehudib's Crystal Spear  Conj/Erth      25%        10d7      100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:5            Lair (2/5) D:8         
+  Swamp (0/4) Lair:2       Spider (0/4) Lair:2      
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:8 =
+
+Annotations:
+D:8 2 transporters, Bokogi's ghost, novice TrGl
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body sometimes deteriorates upon taking damage.
+You passively map a small area around you.
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a huge surge of power! You conjure some foxfire! The skyshark bites
+you.
+The skyshark tastes blood and grows stronger!
+The skyshark tail-slaps you. The skyshark closely misses you.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sticky Flame (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - skyshark
+Aim: a skyshark (heavily wounded, strong, poisoned, more vulnerable to fire,
+ally target)
+You feel a huge surge of power!
+The sticky flame hits the skyshark but does no damage.
+The skyshark is heavily wounded.
+The skyshark is covered in liquid flames!
+The skyshark burns! The foxfire hits the skyshark. The skyshark is burned
+terribly!
+The skyshark is heavily wounded.
+The foxfire hits the skyshark. The skyshark is burned terribly!
+The skyshark is heavily wounded.
+The skyshark bites you!!
+Your body deteriorates! You feel clumsy.
+The skyshark enters a blood-rage! The skyshark barely misses you.
+The skyshark tail-slaps you but does no damage.
+Unknown command.
+Casting: Sticky Flame (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sticky Flame (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - skyshark
+Aim: a skyshark (heavily wounded, berserk, covered in liquid flames, poisoned,
+more vulnerable to fire)
+You feel a huge surge of power! The sticky flame hits the skyshark!
+The skyshark is burned terribly!
+The skyshark is severely wounded.
+The skyshark is covered in liquid flames!
+The skyshark burns!
+The skyshark is no longer more vulnerable to fire.
+The skyshark bites you!
+The skyshark tail-slaps you but does no damage.
+The skyshark tail-slaps you. The skyshark bites you!
+* * * LOW HITPOINT WARNING * * *
+Your body deteriorates! You feel weakened.
+The skyshark tail-slaps you!
+You die...
+
+                             #
+                          ####
+         ##     ###########.#P
+  ########.######.##.##.##....
+  #........l@.................
+  #..........§....##P#.#.#....
+  #..............########....#
+  #.#.#####...>...# ,...#P...#
+ ##.####.###.....P#  ...##....
+ #..#.....##......# .....#....
+ ##..............P#..........#
+##..###.####...†........##...#
+#.#.P.#####......##..#####....
+##...............P#.#.#..P....
+ ##............†..............
+ #............................
+
+
+You could see a skyshark (berserk, burning, poisoned).
+
+Vanquished Creatures
+  Erolcha (D:9)
+  A two-headed ogre (D:7)
+  Nergalle (D:10)
+  A bog body (Lair:2)
+  A black mamba (Lair:1)
+  2 gargoyles (D:9)
+  2 cane toads (Lair:1)
+  A rime drake (Lair:1)
+  3 komodo dragons
+  A troll (D:5)
+  A jumping spider (Lair:2)
+  4 culicivoras (Lair:2)
+  A shadow (D:8)
+  A vampire (D:10)
+  A wyvern (D:8)
+  26 yaks
+  2 basilisks (Lair:2)
+  4 steam dragons
+  3 redbacks (Lair:2)
+  3 acid dragons (D:9)
+  3 water moccasins
+  3 orc warriors
+  3 black bears
+  4 wolves (Lair:2)
+  2 sky beasts
+  2 ogres
+  4 centaurs
+  2 phantoms
+  3 kobold brigands
+  9 bullfrogs
+  2 scorpions
+  4 gnoll sergeants
+  16 wights
+  A killer bee (D:10)
+  2 howler monkeys
+  4 hounds
+  5 jellies
+  A sleepcap (D:4)
+  2 orc priests
+  A gnoll bouda (D:10)
+  5 iguanas
+  8 orc wizards
+  16 gnolls
+  4 adders
+  A white imp (D:7)
+  An ufetubus (D:7)
+  5 dart slugs
+  27 orcs
+  4 endoplasms
+  6 giant cockroaches
+  5 goblins
+  4 hobgoblins
+  11 jackals
+  8 quokkas
+  6 ball pythons
+  5 bats
+  4 frilled lizards
+  16 kobolds
+  3 rats
+272 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 orcs (D:7)
+  768 foxfires
+  25 fungi
+  26 plants
+821 creatures vanquished.
+
+Grand Total: 1093 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   268 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   959 | D:1      | Learned a level 2 spell: Scorch
+  1151 | D:2      | Reached XP level 3. HP: 19/19 MP: 4/9
+  1523 | D:2      | You fall into a shaft and drop 1 floor!
+  1732 | D:3      | Found a faded altar of an unknown god.
+  2402 | D:2      | Reached XP level 4. HP: 24/24 MP: 8/11
+  3374 | D:4      | Reached XP level 5. HP: 28/28 MP: 5/13
+  3529 | D:4      | Reached skill level 5 in Fire Magic
+  3740 | D:4      | Found a hazy altar of Hepliaklqana.
+  4246 | D:5      | Entered Level 5 of the Dungeon
+  4252 | D:5      | Reached XP level 6. HP: 32/32 MP: 11/15
+  4342 | D:5      | Noticed a sky beast
+  4347 | D:5      | Killed a sky beast
+  4443 | D:5      | Reached skill level 5 in Spellcasting
+  4576 | D:5      | Reached skill level 5 in Conjurations
+  4576 | D:5      | Reached XP level 7. HP: 31/36 MP: 6/16
+  4726 | D:5      | Found a staircase to the Ecumenical Temple.
+  4797 | Temple   | Entered the Ecumenical Temple
+  4939 | Temple   | Became a worshipper of Sif Muna the Loreminder
+  5163 | D:5      | Noticed a troll
+  5171 | D:5      | Killed a troll
+  5322 | D:5      | Reached XP level 8. HP: 18/41 MP: 0/19
+  5438 | D:5      | Found a glowing golden altar of the Shining One.
+  6424 | D:6      | Found a shadowy altar of Dithmenos.
+  6915 | D:6      | Found a basalt altar of Yredelemnul.
+  7017 | D:7      | Learned a level 4 spell: Flame Wave
+  7022 | D:7      | Learned a level 4 spell: Sticky Flame
+  7103 | D:7      | Reached * piety under Sif Muna
+  7143 | D:7      | Found an ornate altar of the Wu Jian Council.
+  7302 | D:8      | Noticed a two-headed ogre
+  7310 | D:8      | Found a transporter.
+  7311 | D:8      | Found a transporter.
+  7457 | D:8      | Noticed Bokogi's ghost (novice TrGl)
+  7477 | D:7      | Reached XP level 9. HP: 45/45 MP: 16/22
+  8782 | D:8      | Reached skill level 10 in Fire Magic
+  8907 | D:8      | Found Leekeqas's Jewellery Boutique.
+  8978 | D:7      | Learned a level 2 spell: Poisonous Vapours
+  8982 | D:7      | Learned a level 3 spell: Ignite Poison
+  9112 | D:7      | Killed a two-headed ogre
+  9113 | D:7      | Reached skill level 10 in Conjurations
+  9113 | D:7      | Reached XP level 10. HP: 50/50 MP: 12/25
+  9200 | D:8      | Found a staircase to the Lair.
+  9730 | D:8      | Reached ** piety under Sif Muna
+ 10043 | D:8      | Identified the +2 dire flail "Killer Bee's Curse" {heavy,
+                  | *Noise rElec rN+++ rCorr}
+ 10149 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 10234 | Lair:1   | Noticed a cane toad
+ 10239 | Lair:1   | Killed a cane toad
+ 10552 | Lair:1   | Reached skill level 10 in Spellcasting
+ 10596 | Lair:1   | Noticed a black mamba
+ 10600 | Lair:1   | Killed a black mamba
+ 10954 | Lair:1   | Reached XP level 11. HP: 54/54 MP: 20/27
+ 11116 | Lair:1   | Identified the +10 quarterstaff "Ruan" {flame, Fly Will+
+                  | rCorr Stlth+}
+ 11138 | Lair:1   | Learned a level 3 spell: Inner Flame
+ 11141 | Lair:1   | Learned a level 2 spell: Blink
+ 11144 | Lair:1   | Learned a level 2 spell: Passwall
+ 12107 | D:9      | Reached skill level 1 in Staves
+ 12107 | D:9      | Noticed Erolcha
+ 12114 | D:9      | Killed Erolcha
+ 12284 | D:9      | Reached *** piety under Sif Muna
+ 12616 | D:9      | Gained mutation: You passively map a small area around you.
+                  | [potion of mutation]
+ 12616 | D:9      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [potion of mutation]
+ 12994 | D:10     | Entered Level 10 of the Dungeon
+ 12995 | D:10     | Noticed Nergalle
+ 13000 | D:10     | Noticed a two-headed ogre
+ 13002 | D:10     | Killed Nergalle
+ 13126 | D:10     | Reached skill level 1 in Invocations
+ 13414 | D:10     | Noticed a two-headed ogre
+ 13556 | D:10     | Noticed a two-headed ogre
+ 13820 | Lair:2   | Noticed a bog body
+ 13828 | Lair:2   | Killed a bog body
+ 13836 | Lair:2   | Found a staircase to the Swamp.
+ 13902 | Lair:1   | HP: 2/54 [poisoned by a cane toad]
+ 14195 | Lair:2   | Reached XP level 12. HP: 28/59 MP: 7/29
+ 14334 | Lair:2   | Found a hole to the Spider Nest.
+ 14740 | Lair:2   | Slain by a skyshark
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      elethiomel_arrival_infinity_welcomes_careful_drivers, layout_rooms,
+          chequers_arboretum
+D:2:      layout_loops_corners, uniq_crazy_yiuf_cottage
+D:3:      layout_rooms, basic_ecumenical_altar, chequers_serial_rivers_marsh
+D:4:      layout_cave_pods, worldfamousw_hep_ancestral_shrine,
+          minmay_close_crescents
+D:5:      layout_cave_pods, mainiacjoe_overflow_catwalk,
+          minmay_temple_entry_mini_moons
+D:6:      layout_rooms, general_overflow_altar, amcnicky_altar_gilded,
+          nicolae_underground_beach
+D:7:      layout_gridville, mainiacjoe_overflow_tiny_flanked
+D:8:      layout_rooms, grunt_lair_entry_orc_guard_hut, serial_shops,
+          nicolae_shop_crystal, gammafunk_ghost_smash, chequers_avenue,
+          minmay_manual_moon
+D:9:      layout_roguey, uniq_erolcha
+D:10:     layout_rooms, lemuel_tele_altar, serial_bayou_pond_e,
+          minmay_alternating_orb, uniq_nergalle
+Temple:   nicolae_temple_superstar
+Lair:1:   layout_misc_corridors, lemuel_fruit_tree
+Lair:2:   layout_regular_city, skrybe_swamp_entry_bodies,
+          nicolae_spider_entry_tight_spaces, grunt_megastairs_2
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Conjurations   |     2     3  4  5  6  8 10 11 13 | 13.5
+Fire Magic     |        4     5  6  7  8 10 12 13 | 13.8
+Spellcasting   |           4     5  6  7  9 10 11 | 11.8
+Staves         |                                1 |  1.7
+Invocations    |                                3 |  3.3
+Dodging        |                                  |  2.4
+Stealth        |                                  |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Short sword       |     1 |       |     5 |     2 ||     8
+         Staff             |       |       |       |     1 ||     1
+   Cast: Foxfire           |    64 |    77 |   182 |   103 ||   426
+         Scorch            |    19 |    11 |    46 |    81 ||   157
+         Sticky Flame      |       |       |     6 |    49 ||    55
+         Flame Wave        |       |       |     3 |    17 ||    20
+         Poisonous Vapours |       |       |     1 |     9 ||    10
+         Ignite Poison     |       |       |     1 |     7 ||     8
+         Inner Flame       |       |       |       |     5 ||     5
+ Invoke: Channel Magic     |       |       |     1 |     3 ||     4
+    Use: Scroll            |       |     5 |    10 |     8 ||    23
+         Potion            |       |       |     4 |     7 ||    11
+ Armour: Robe              |     2 |     1 |     1 |       ||     4
+         Steam dragon scal |       |       |     5 |    11 ||    16
+         Acid dragon scale |       |       |       |    26 ||    26
+  Dodge: Dodged            |     7 |     4 |    34 |    68 ||   113
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  14747 |  14208 |    539 |      0 |  11602 |  13 | 1134.4 |
+       Dungeon |  12300 |  11865 |    435 |      0 |   9770 |  10 | 1230.0 |
+        Temple |    154 |    154 |      0 |      0 |     40 |   1 |  154.0 |
+          Lair |   2293 |   2189 |    104 |      0 |   1792 |   2 | 1146.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 2115 daAuts
+     D:7: 1772 daAuts
+  Lair:1: 1530 daAuts
+     D:8: 1433 daAuts
+     D:2: 1369 daAuts
+     D:5: 1361 daAuts
+     D:6: 1261 daAuts
+     D:4: 1229 daAuts
+     D:1: 995 daAuts
+  Lair:2: 762 daAuts
+     D:3: 654 daAuts
+  Temple: 154 daAuts
+    D:10: 106 daAuts
+

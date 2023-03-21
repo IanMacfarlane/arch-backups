@@ -1,0 +1,261 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 11698413049762694437
+
+161 Kuzon the Magician (level 5, 0/35 HPs)
+             Began as a Djinni Fire Elementalist on Mar 13, 2023.
+             Slain by a gnoll bouda
+             ... wielding a +0 club
+              (3 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:16:22 (2788 turns).
+
+Kuzon the Magician (Djinni Fire Elementalist)       Turns: 2788, Time: 00:16:22
+
+Health: 0/35       AC:  2    Str:  7    XL:     5   Next: 70%
+Gold:   154        EV: 13    Int: 19    God:    
+                   SH:  0    Dex: 19
+
+rFire   + + .      SeeInvis .    e - +1 dagger (venom)
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   ?           Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (boots unavailable)
+Stlth   ++                       (no amulet)
+HPRegen 0.25/turn                m - +6 ring of dexterity
+MPRegen 0.00/turn                (no ring)
+
+@: flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 154 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +1 dagger of venom (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ m - a +6 ring of dexterity (left hand)
+Wands
+ c - a wand of flame (17)
+Scrolls
+ g - a scroll of enchant armour
+ h - a scroll of fear {unknown}
+ i - 2 scrolls of poison
+ k - a scroll of silence {unknown}
+ l - a scroll of immolation {unknown}
+Potions
+ b - a potion of heal wounds {unknown}
+ d - a potion of might {unknown}
+ f - a potion of curing
+ j - a potion of ambrosia {unknown}
+
+
+   Skills:
+ - Level 3.0 Dodging
+ - Level 2.2 Stealth
+ + Level 4.1 Spellcasting
+
+
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      76%        2x1d7     2%          1
+b - Scorch                Fire           38%        2d6       3%          2
+c - Kindle Blastsparks    Fire/Tloc/Air  38%        2d13      8%          3
+d - Inner Flame           Hex/Fire       19%        N/A       8%          3
+e - Flame Wave            Conj/Fire      19%        2d7       24%         4
+f - Shock                 Conj/Air       76%        1d7       2%          1
+g - Static Discharge      Conj/Air       38%        2-4/arc   3%          2
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+The gnoll bouda's fire resistance burns away.
+The gnoll shouts!
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the gnoll bouda but do no damage.
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the gnoll bouda but do no damage.
+The gnoll bouda is no longer more vulnerable to fire.
+The gnoll bouda hits you with a +0 club.
+A goblin comes into view. It is wielding a +0 club.
+Press: ? - help, v - describe, . - travel
+Here: a gnoll bouda, wielding a +0 club and wearing a +0 leather armour
+(moderately wounded)
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Unknown command.
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Unknown command.
+The gnoll bouda hits you with a +0 club.
+Your magical contamination has completely faded away.
+The gnoll bouda attacks as you move away!
+The gnoll bouda hits you with a +0 club!
+* * * LOW HITPOINT WARNING * * *
+Things that are here:
+a +0 halberd; a gnoll corpse
+The gnoll bouda attacks as you move away!
+The gnoll bouda hits you with a +0 club!
+* * * LOW HITPOINT WARNING * * *
+Things that are here:
+a +0 club; a +0 club; a gnoll corpse
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+The air fills with toxic fumes!
+As you read the scroll of poison, it crumbles to dust.
+The gnoll bouda hits you with a +0 club.
+You die...
+
+#00000  ###
+#00000  #..   #
+#00000 ##.#  .#
+#00000  ..###.#
+#00000  #.....#
+#00000  #....#
+#00000###..#.###
+#00000@0#.<.)..# ##
+#00000#g#.#..#.%))# ##
+#0###0#g#)#######.#..#
+    00#0#.)..........#
+   #0##g########.#...#
+   #0#.00......#.#####
+#..00.########.#..#
+###00g       #.##.#
+  #..        #....#
+  #..        ######
+  #.
+
+
+You could see a gnoll bouda, a gnoll (swift) and a goblin.
+
+Vanquished Creatures
+  A hound (D:3)
+  Robin (D:4)
+  3 gnolls (D:4)
+  3 worms
+  A dart slug (D:1)
+  5 orcs
+  4 ball pythons
+  4 endoplasms
+  A giant cockroach (D:3)
+  14 goblins
+  11 hobgoblins
+  2 jackals (D:2)
+  5 quokkas
+  5 bats
+  2 frilled lizards (D:1)
+  4 kobolds
+  4 rats
+70 creatures vanquished.
+
+Vanquished Creatures (others)
+  68 foxfires
+68 creatures vanquished.
+
+Grand Total: 138 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Djinni Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Kuzon set off with the following spells memorised: Foxfire,
+                  | Scorch, Kindle Blastsparks, Inner Flame, Flame Wave.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+    82 | D:1      | Reached XP level 2. HP: 15/21 MP: 0/0
+   403 | D:1      | Reached XP level 3. HP: 25/25 MP: 0/0
+   403 | D:1      | Learned a level 1 spell: Shock
+  1725 | D:3      | Reached skill level 3 in Spellcasting
+  1725 | D:3      | Reached XP level 4. HP: 27/31 MP: 0/0
+  2139 | D:3      | Reached XP level 5. HP: 23/35 MP: 0/0
+  2139 | D:3      | Learned a level 2 spell: Static Discharge
+  2647 | D:4      | Noticed Robin
+  2654 | D:4      | Killed Robin
+  2763 | D:4      | Reached skill level 4 in Spellcasting
+  2788 | D:4      | Slain by a gnoll bouda
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_blooded_trapdoor, layout_rooms
+D:2:      layout_basic, minmay_between
+D:3:      layout_basic
+D:4:      layout_basic, corexii_leaking_fountain,
+          chequers_serial_rivers_micro_e, uniq_robin, uniq_pikel
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Stealth        |     2          |  2.2
+Dodging        |        3       |  3.0
+Spellcasting   |        3     4 |  4.1
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     1 |       ||     1
+         Dagger            |     3 |       ||     3
+   Cast: Foxfire           |    31 |     8 ||    39
+         Scorch            |    20 |    17 ||    37
+         Shock             |       |    38 ||    38
+    Use: Scroll            |     3 |     3 ||     6
+         Potion            |     2 |       ||     2
+ Armour: Robe              |     3 |     1 ||     4
+  Dodge: Dodged            |     5 |     4 ||     9
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2786 |   2643 |    143 |      0 |   2199 |   4 |  696.5 |
+       Dungeon |   2786 |   2643 |    143 |      0 |   2199 |   4 |  696.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1178 daAuts
+     D:3: 917 daAuts
+     D:1: 540 daAuts
+     D:4: 149 daAuts
+

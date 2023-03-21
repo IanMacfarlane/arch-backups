@@ -1,0 +1,180 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 2801882801174479915
+
+2 Bokogi the Firebug (level 1, -1/13 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Slain by a jackal (3 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:00:56 (168 turns).
+
+Bokogi the Firebug (Human Fire Elementalist)         Turns: 168, Time: 00:00:57
+
+Health: -1/13      AC:  2    Str:  8    XL:     1   Next: 44%
+Magic:  2/3        EV: 12    Int: 15    God:    
+Gold:   39         SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 39 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ d - a scroll of noise {unknown}
+Potions
+ b - a potion of magic
+ c - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.0 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      41%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+Press: ? - help, v - describe, . - travel
+The floor.
+Unknown command.
+The jackal barks!
+You hit the jackal but do no damage.
+The jackal is almost dead.
+The jackal closely misses you.
+You closely miss the jackal.
+The jackal is almost dead.
+The jackal misses you. The jackal bites you.
+The jackal bites you.
+The jackal bites you.
+The jackal attacks as you move away! The jackal bites you.
+The jackal bites you but does no damage.
+The jackal attacks as you move away! The jackal closely misses you.
+The jackal attacks as you move away! The jackal closely misses you.
+The jackal bites you.
+The jackal bites you.
+The jackal attacks as you move away! The jackal misses you.
+The jackal attacks as you move away! The jackal completely misses you.
+The jackal bites you but does no damage.
+The jackal attacks as you move away! The jackal bites you.
+The jackal bites you.
+The jackal attacks as you move away! The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal closely misses you.
+The jackal attacks as you move away! The jackal misses you.
+There is a stone staircase leading down here.
+The jackal closely misses you.
+The jackal bites you but does no damage.
+The jackal closely misses you.
+You climb downwards.
+There is a stone staircase leading up here.
+You hit the jackal but do no damage. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal completely misses you.
+You closely miss the jackal. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+The jackal bites you.
+You die...
+
+.###########.#
+......h@h....#
+..############
+
+
+You could see 2 jackals.
+
+Vanquished Creatures
+  An endoplasm (D:1)
+  A jackal (D:1)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  10 foxfires (D:1)
+10 creatures vanquished.
+
+Grand Total: 12 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   168 | D:2      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      giann_bridges, layout_basic, shapermc_ecumenical_altar_pompeii,
+          serial_shops, shop, minmay_pentomino_x4
+D:2:      layout_loops_corners, serial_bayou_pond_c, minmay_surrounded,
+          uniq_crazy_yiuf_cottage
+
+Action                     || total
+---------------------------++-------
+  Melee: Unarmed           ||     4
+   Cast: Foxfire           ||     5
+ Armour: Robe              ||     3
+  Dodge: Dodged            ||    12
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    167 |    167 |      0 |      0 |    122 |   2 |   83.5 |
+       Dungeon |    167 |    167 |      0 |      0 |    122 |   2 |   83.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 166 daAuts
+     D:2: 1 daAuts
+

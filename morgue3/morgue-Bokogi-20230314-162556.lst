@@ -1,0 +1,176 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 sling
+(8, 0, D:1)
+  a +0 dagger
+(16, 2, D:1)
+  a +0 dagger
+(16, 13, D:1)
+  6 stones
+(17, 16, D:1)
+  a +0 dagger
+  4 stones
+(27, 7, D:1)
+  a +0 club
+(34, 10, D:1)
+  a +0 short sword
+(36, 18, D:1)
+  a +0 scale mail
+(37, 27, D:1)
+  a +0 club
+(45, 22, D:1)
+  a +0 chain mail
+(46, -7, D:1)
+  5 stones
+(47, 9, D:1)
+  a +0 dagger
+(60, 11, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(4, 18, D:2)
+  a +0 short sword
+(13, 20, D:2)
+  a +0 club
+(30, 20, D:2)
+  a +0 short sword
+(36, -6, D:2)
+  a +0 club
+(38, -7, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+[Shop] Oreri's Jewellery Shoppe
+  a ring of protection from fire (300 gold)
+  a +6 ring of strength (432 gold)
+  a ring of poison resistance (240 gold)
+  a ring of see invisible (180 gold)
+  a +6 ring of dexterity (432 gold)
+  a ring of positive energy (240 gold)
+  a ring of positive energy (240 gold)
+  a ring of fire (300 gold)
+  a ring of flight (210 gold)
+[Shop] Upauwis's Weapon Boutique
+  a +0 dagger (26 gold)
+  the +7 staff of the Meek {protect, meekguard} (608 gold)
+  a +3 mace of holy wrath (291 gold)
+  a +0 club (13 gold)
+  a +0 sling (19 gold)
+  a +0 short sword (39 gold)
+  6 javelins (234 gold)
+  8 stones (10 gold)
+  a +0 trident (45 gold)
+  a +0 quarterstaff (52 gold)
+  the +7 giant club of the Tent {drain, rPois Stlth+} (676 gold)
+    rPois:     It protects you from poison.
+    Stlth:     It makes you more stealthy.
+[Shop] Isoph's Armour Emporium
+  the +6 plate armour of Raoplad {rF+} (670 gold)
+    rF:        It protects you from fire.
+  a +2 scale mail of poison resistance (180 gold)
+  a +0 leather armour (20 gold)
+  a +0 leather armour (20 gold)
+  the +4 robe of Augmentation {Str+4 Int+4 Dex+4} (529 gold)
+    Str:       It affects your strength (+4).
+    Int:       It affects your intelligence (+4).
+    Dex:       It affects your dexterity (+4).
+  a +0 ring mail (40 gold)
+  a +2 plate armour of fire resistance (400 gold)
+  a +0 ring mail (40 gold)
+[Shop] Qalyso's Distillery
+  a potion of berserk rage (65 gold)
+  2 potions of brilliance (104 gold)
+  2 potions of invisibility (208 gold)
+  a potion of curing (39 gold)
+  a potion of mutation (104 gold)
+  a potion of ambrosia (104 gold)
+  2 potions of ambrosia (208 gold)
+  a potion of haste (130 gold)
+  a potion of magic (104 gold)
+[Shop] Umat's Distillery
+  a potion of berserk rage (55 gold)
+  2 potions of haste (220 gold)
+  a potion of heal wounds (55 gold)
+  a potion of lignification (33 gold)
+  a potion of might (44 gold)
+  a potion of curing (33 gold)
+  2 potions of attraction (66 gold)
+  a potion of heal wounds (55 gold)
+  a potion of might (44 gold)
+(0, 0, D:3)
+  a +0 war axe
+(2, 23, D:3)
+  a scroll of noise
+(3, 18, D:3)
+  a +0 leather armour
+(4, 55, D:3)
+  a +0 robe
+(9, 23, D:3)
+  a +0 robe
+(18, 7, D:3)
+  a +0 club
+  a +0 ring mail
+(18, 44, D:3)
+  a +0 short sword
+  2 stones
+(31, 36, D:3)
+  a +0 short sword
+  an orc corpse
+(33, 38, D:3)
+  a +0 plate armour
+(37, 36, D:3)
+  a +0 dagger
+(39, 36, D:3)
+  a +0 dagger
+  a +2 dagger of draining
+  a +0 dagger
+(40, 36, D:3)
+  a +0 club
+(41, 8, D:3)
+  a +0 hand axe
+(41, 36, D:3)
+  a +0 dagger
+  a +0 club
+  a +0 club
+  a +0 sling
+(42, 37, D:3)
+  a +0 spear
+  a +0 animal skin
+  a +0 helmet
+(43, 37, D:3)
+  a +0 club
+(52, 12, D:3)
+  a +0 whip
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 cloak
+(8, 14, D:4)
+  3 stones
+(8, 19, D:4)
+  a +0 spear
+(8, 24, D:4)
+  a giant cockroach corpse
+(11, 8, D:4)
+  a +0 rapier
+(15, 13, D:4)
+  a +0 club
+(19, 5, D:4)
+  a +0 pair of gloves
+(21, 15, D:4)
+  a +2 flail of draining (still there?)
+  a +0 ring mail (still there?)
+  a +0 hand axe (still there?)
+  the human corpse of Edmund (still there?)
+  an adder corpse (still there?)
+(22, 0, D:4)
+  a scroll of magic mapping
+(22, 10, D:4)
+  a potion of heal wounds
+(23, 9, D:4)
+  2 poisoned darts
+(25, 6, D:4)
+  a +0 leather armour
+

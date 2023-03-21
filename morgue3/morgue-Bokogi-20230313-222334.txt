@@ -1,0 +1,280 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 10155374326338653452
+
+121 Bokogi the Trooper (level 4, -1/57 (60) HPs)
+             Began as a Minotaur Wanderer on Mar 13, 2023.
+             Slain by Grinder (6 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:13:28 (2643 turns).
+
+Bokogi the Trooper (Minotaur Wanderer)              Turns: 2643, Time: 00:13:28
+
+HP:   -1/57 (60)    AC:  5    Str: 17    XL:     4   Next: 76%
+MP:   4/4           EV: 10    Int: 11    God:    
+Gold: 243           SH:  0    Dex:  9    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .    q - +0 war axe
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 ring mail
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.29/turn                (no ring)
+MPRegen 0.09/turn                (no ring)
+
+@: berserking, drained, very quick
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 243 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ q - a +0 war axe (weapon)
+Missiles
+ k - 15 poisoned darts (quivered)
+Armour
+ a - a +0 ring mail (worn)
+Wands
+ d - a wand of flame (3)
+ g - a wand of charming (4)
+Scrolls
+ e - a scroll of enchant armour {unknown}
+ f - a scroll of amnesia {unknown}
+ h - a scroll of fog {unknown}
+ i - a scroll of silence {unknown}
+ o - a scroll of immolation {unknown}
+ p - a scroll of poison {unknown}
+Potions
+ c - 3 potions of curing
+ j - a potion of degeneration {unknown}
+ l - a potion of resistance {unknown}
+ m - a potion of ambrosia {unknown}
+ n - 2 potions of flight {unknown}
+
+
+   Skills:
+ * Level 3.8 Fighting
+ * Level 1.7 Axes
+ + Level 2.1 Throwing
+ + Level 0.9 Dodging
+ - Level 1.0 Stealth
+ - Level 1.0 Spellcasting
+ - Level 1.0 Hexes
+ - Level 3.7 Translocations
+ - Level 1.7 Evocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Apportation              Tloc           16%        N/A       13%         1
+ Slow                     Hex            8%         N/A       36%         1
+ Momentum Strike          Conj/Tloc      8%         3d8       38%         2
+ Kiss of Death            Conj/Necr      0%         2d5       52%         1
+ Magic Dart               Conj           0%         1d3       52%         1
+ Summon Small Mammal      Summ           0%         N/A       52%         1
+ Vhi's Electric Charge    Tloc/Air       8%         N/A       63%         3
+ Searing Ray              Conj           0%         2d4       65%         2
+ Confusing Touch          Hex            2%         N/A       75%         3
+ Tukima's Dance           Hex            2%         N/A       75%         3
+ Summon Guardian Golem    Hex/Summ       1%         N/A       82%         3
+ Call Canine Familiar     Summ           0%         N/A       87%         3
+ Dispel Undead            Necr           0%         3d6       99%         4
+ Fulminant Prism          Conj/Hex       0%         3d5       99%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:3 *
+
+Annotations:
+D:3 Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Grinder shouts! You hear a bark!
+Grinder blinks!
+There is a stone staircase leading up here.
+Grinder gestures at you.
+You resist with significant effort.
+You climb upwards.
+There is a stone staircase leading down here.
+Sorry, you're not good enough to have a special ability.
+Unknown command.
+Okay, then.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: Grinder
+The floor.
+You barely miss Grinder.
+Grinder gestures at you.
+You suddenly lose the ability to move!
+Grinder gestures at you.
+Pain shoots through your body!
+Grinder gestures at you.
+Pain shoots through your body!
+Grinder gestures at you.
+You resist with significant effort.
+Grinder says, "My boss said I was rubbish. His entrails said otherwise."
+Grinder hits you!
+You can move again.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty! Grinder hits you.
+You closely miss Grinder. Your headbutt misses Grinder. Grinder hits you!
+* * * LOW HITPOINT WARNING * * *
+You writhe in agony.
+* * * LOW HITPOINT WARNING * * *
+You slash Grinder!
+Grinder is moderately wounded.
+Grinder barely misses you.
+You slash Grinder! Your headbutt misses Grinder.
+Grinder is heavily wounded.
+Grinder says, "DUCK!"
+Grinder hits you.
+You die...
+
+######
+.....###########  ###
+.....+..)......####.#
+.....#.######....##.######
+.....#.#    ####.........#
+.....#.#########.####...##
+...............5@..#8...8#
+...###.#########.####...##
+...###.#       #.#  #...#
+_..<##.#########.# ##...##
+....##...........# #8...8#
+}.}.############.####...#### ####
+.....#####.........##...##8###8#.
+.....##......###.####............
+................+###}............
+......###.#.###...###............
+......# #.#.# #...# #...##8###8#.
+
+
+You could see Grinder.
+
+Vanquished Creatures
+  Robin (D:1)
+  4 adders (D:2)
+  2 dart slugs
+  6 orcs (D:3)
+  4 ball pythons
+  2 bats (D:2)
+  5 endoplasms
+  A giant cockroach (D:1)
+  10 hobgoblins
+  3 jackals (D:3)
+  A quokka (D:1)
+  4 frilled lizards
+  8 goblins
+  3 kobolds
+  6 rats
+60 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Wanderer began the quest for the Orb.
+     0 | D:1      | Bokogi set off with the following items: a +0 club, a
+                  | potion of berserk rage, a +0 leather armour, a wand of
+                  | flame (3); and the following spells available to memorise:
+                  | Apportation, Slow, Momentum Strike, Vhi's Electric Charge,
+                  | Tukima's Dance.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+    67 | D:1      | Reached skill level 1 in Fighting
+   201 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+   914 | D:2      | Reached XP level 3. HP: 31/31 MP: 3/3
+  1219 | D:2      | Reached skill level 1 in Throwing
+  1394 | D:2      | Reached skill level 1 in Axes
+  1394 | D:2      | Reached XP level 4. HP: 35/38 MP: 4/4
+  1417 | D:2      | Noticed Robin
+  1619 | D:1      | Killed Robin
+  2145 | D:3      | Found Rainooqa's Assorted Antiques.
+  2319 | D:3      | Found a faded altar of an unknown god.
+  2629 | D:4      | Noticed a scorpion
+  2630 | D:4      | Noticed Grinder
+  2635 | D:3      | Paralysed by Grinder for 5 turns
+  2643 | D:3      | Slain by Grinder
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      co_arrival_random_square_maze, layout_basic
+D:2:      layout_basic, corexii_leaking_fountain, ebering_dispersal_statue_hall,
+          uniq_robin
+D:3:      layout_basic, serial_corexii_hall, corexii_hall_statues_t,
+          corexii_hall_statues_x, hellmonk_ecumenical_altar_run_dry,
+          serial_shops, shop, minmay_misc_feat_cross, hangedman_glass_teeth
+D:4:      layout_basic, jmf_multi_god_temple2, uniq_grinder
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  2  3       |  3.8
+Throwing       |        1  2 |  2.1
+Axes           |        1    |  1.7
+Dodging        |             |  0.9
+Stealth        |             |  1.0
+Spellcasting   |             |  1.0
+Hexes          |             |  1.0
+Translocations |             |  3.7
+Evocations     |             |  1.7
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Club              |    44 |       ||    44
+         Headbutt          |     9 |    14 ||    23
+         Hand axe          |    25 |    51 ||    76
+         Punch             |     1 |     1 ||     2
+         War axe           |       |    18 ||    18
+  Throw: Dart              |    28 |       ||    28
+    Use: Scroll            |       |     2 ||     2
+         Potion            |       |     2 ||     2
+ Armour: Leather armour    |    10 |       ||    10
+         Ring mail         |    10 |    33 ||    43
+  Dodge: Dodged            |    49 |    47 ||    96
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2694 |   2572 |    122 |      0 |   2052 |   4 |  673.5 |
+       Dungeon |   2694 |   2572 |    122 |      0 |   2052 |   4 |  673.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1092 daAuts
+     D:2: 834 daAuts
+     D:3: 761 daAuts
+     D:4: 4 daAuts
+

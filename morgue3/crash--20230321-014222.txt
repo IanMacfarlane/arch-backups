@@ -1,0 +1,158 @@
+Crash caused by signal #15: Terminated
+
+Version: Dungeon Crawl Stone Soup 0.30-a0-879-ga8ba668304
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Seed: 0, deterministic pregen: 1
+Command line: ./crawl
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #15: Terminated
+
+Obtained 25 stack frames.
+./crawl(_Z17write_stack_traceP8_IO_FILE+0x3a) [0x55d732414d8a]: write_stack_trace(_IO_FILE*)
+./crawl(_Z13do_crash_dumpv+0x40c) [0x55d73241db9c]: do_crash_dump()
+./crawl(_Z20crash_signal_handleri+0x1cc) [0x55d7324151dc]: crash_signal_handler(int)
+/usr/lib/libc.so.6(+0x38f50) [0x7f808a769f50]: 
+/usr/lib/libc.so.6(poll+0x4f) [0x7f808a82b9df]: 
+/usr/lib/libSDL2-2.0.so.0(+0x1014b3) [0x7f808afd24b3]: 
+/usr/lib/libSDL2-2.0.so.0(+0x4e851) [0x7f808af1f851]: 
+./crawl(_ZN10SDLWrapper10wait_eventEP8wm_eventi+0x6d) [0x55d732abf11d]: SDLWrapper::wait_event(wm_event*, int)
+./crawl(_ZN2ui11pump_eventsEi+0x171) [0x55d732a1ce91]: ui::pump_events(int)
+./crawl(_ZN2ui10run_layoutESt10shared_ptrINS_6WidgetEERKbS2_+0xaa) [0x55d732a1d39a]: ui::run_layout(std::shared_ptr<ui::Widget>, bool const&, std::shared_ptr<ui::Widget>)
+./crawl(_Z18show_hiscore_tablev+0x1f0) [0x55d732586f60]: show_hiscore_table()
+./crawl(_ZNSt17_Function_handlerIFbRKN2ui5EventEEZNS0_6Widget17on_activate_eventIZN13UIStartupMenuC4ER11newgame_defRKS8_EUlRKNS0_13ActivateEventEE_EEvOT_EUlS3_E_E9_M_invokeERKSt9_Any_dataS3_+0x91) [0x55d73296bb81]: std::_Function_handler<bool (ui::Event const&), ui::Widget::on_activate_event<UIStartupMenu::UIStartupMenu(newgame_def&, newgame_def const&)::{lambda(ui::ActivateEvent const&)#1}>(UIStartupMenu::UIStartupMenu(newgame_def&, newgame_def const&)::{lambda(ui::ActivateEvent const&)#1}&&)::{lambda(ui::Event const&)#1}>::_M_invoke(std::_Any_data const&, ui::Event const&)
+./crawl(_ZN2ui6Widget8on_eventERKNS_5EventE+0x79) [0x55d732a1adf9]: ui::Widget::on_event(ui::Event const&)
+./crawl(_ZN2ui6UIRoot13deliver_eventERNS_5EventE+0x1f6) [0x55d732a16a56]: ui::UIRoot::deliver_event(ui::Event&)
+./crawl(_ZN10MenuButton8activateEv+0xac) [0x55d7328394cc]: MenuButton::activate()
+./crawl(_ZN2ui6UIRoot13deliver_eventERNS_5EventE+0x2bd) [0x55d732a16b1d]: ui::UIRoot::deliver_event(ui::Event&)
+./crawl(_ZN2ui6UIRoot8on_eventER8wm_event+0x90) [0x55d732a17cf0]: ui::UIRoot::on_event(wm_event&)
+./crawl(_ZN2ui11pump_eventsEi+0x94) [0x55d732a1cdb4]: ui::pump_events(int)
+./crawl(_ZN2ui10run_layoutESt10shared_ptrINS_6WidgetEERKbS2_+0xaa) [0x55d732a1d39a]: ui::run_layout(std::shared_ptr<ui::Widget>, bool const&, std::shared_ptr<ui::Widget>)
+./crawl(_Z12startup_stepv+0x180b) [0x55d73296ad2b]: startup_step()
+./crawl(+0xaf988d) [0x55d732acf88d]: 
+./crawl(main+0x189) [0x55d732366b79]: 
+/usr/lib/libc.so.6(+0x23790) [0x7f808a754790]: 
+/usr/lib/libc.so.6(__libc_start_main+0x8a) [0x7f808a75484a]: 
+./crawl(_start+0x25) [0x55d732367445]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 12.2.1 20230201
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -pthread -D_REENTRANT -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -isystem /usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -isystem /usr/include/SDL2 -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="/usr/share/fonts/TTF/DejaVuSans.ttf" -DMONOSPACED_FONT="/usr/share/fonts/TTF/DejaVuSansMono.ttf" -D_REENTRANT -DCLUA_BINDINGS
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = ABSENT, level layout type  = ABSENT, absdepth0 = 0
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Data directory '/home/ian/crawl/crawl-ref/source/dat/' found.
+Loading databases... Loading spells and features... Loading maps...
+Hello, welcome to Dungeon Crawl Stone Soup 0.30-a0-879-ga8ba668304!
+(c) Copyright 1997-2002 Linley Henzell, 2002-2023 Crawl DevTeam
+Options read from "../settings/init.txt".
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+No version history (current version is 0.30-a0-879-ga8ba668304)
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 0, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    []
+Species: Yak
+Job:     Unemployed
+
+HP: 0/0; mods: 0/0
+MP: 0/0; mod: 0
+Stats: 0 (0) 0 (0) 0 (0)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: auto)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |                     |   0   |     0    |    0  |      0 | 0/14
+Long Blades     |                     |   0   |     0    |    0  |      0 | 0/0
+Axes            |                     |   0   |     0    |    0  |      0 | 0/10
+Polearms        |                     |   0   |     0    |    0  |      0 | 0/0
+Staves          |                     |   0   |     0    |    0  |      0 | 0/50
+Ranged Weapons  |                     |   0   |     0    |    0  |      0 | 0/0
+Throwing        |                     |   0   |     0    |    0  |      0 | 0/50
+Armour          |                     |   0   |     0    |    0  |      0 | 0/0
+Dodging         |                     |   0   |     0    |    0  |      0 | 0/35
+Stealth         |                     |   0   |     0    |    0  |      0 | 0/50
+Shields         |                     |   0   |     0    |    0  |      0 | 0/29
+Unarmed Combat  |                     |   0   |     0    |    0  |      0 | 0/0
+Spellcasting    |                     |   0   |     0    |    0  |      0 | 0/25
+Conjurations    |                     |   0   |     0    |    0  |      0 | 0/50
+Hexes           |                     |   0   |     0    |    0  |      0 | 0/0
+Summonings      |                     |   0   |     0    |    0  |      0 | 0/50
+Necromancy      |                     |   0   |     0    |    0  |      0 | 0/0
+Translocations  |                     |   0   |     0    |    0  |      0 | 0/17
+Transmutations  |                     |   0   |     0    |    0  |      0 | 0/50
+Fire Magic      |                     |   0   |     0    |    0  |      0 | 0/0
+Ice Magic       |                     |   0   |     0    |    0  |      0 | 0/12
+Air Magic       |                     |   0   |     0    |    0  |      0 | 0/50
+Earth Magic     |                     |   0   |     0    |    0  |      0 | 0/0
+Poison Magic    |                     |   0   |     0    |    0  |      0 | 0/8
+Invocations     |                     |   0   |     0    |    0  |      0 | 0/50
+Evocations      |                     |   0   |     0    |    0  |      0 | 0/0
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+
+Mutations:
+
+Inventory bugs:
+
+Equipment:
+
+}}}}}}}}}}}
+
+
+Screenshot:
+@
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

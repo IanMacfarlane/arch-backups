@@ -1,0 +1,217 @@
+Bokogi
+
+Level 1 of the Dungeon
+(5, 44, D:1)
+  3 stones
+(9, 14, D:1)
+  a +0 short sword
+  5 stones
+(9, 56, D:1)
+  a +0 robe
+(20, 49, D:1)
+  a +3 dagger
+(32, 21, D:1)
+  a +0 ring mail
+
+Level 2 of the Dungeon
+[Shop] Lanoxukk's Antique Weapon Shoppe
+  a +4 quarterstaff of speed (782 gold)
+  a +0 sling (34 gold)
+  the +8 great sword "Elotedgh" {freeze, rC+ Int+4} (1704 gold)
+    Int:       It affects your intelligence (+4).
+    rC:        It protects you from cold.
+  a +2 vampiric halberd (552 gold)
+  a +2 mace of holy wrath (400 gold)
+  a +0 war axe (80 gold)
+  a +1 short sword of holy wrath (285 gold)
+(0, 0, D:2)
+  4 stones
+(3, 5, D:2)
+  a +0 ring mail
+(4, 6, D:2)
+  a +0 dagger
+(9, -9, D:2)
+  a +0 dagger
+(9, 0, D:2)
+  a +0 whip
+(11, -11, D:2)
+  a +0 sling
+(11, -3, D:2)
+  a +0 pair of gloves
+(14, -9, D:2)
+  a +0 short sword
+(18, -11, D:2)
+  3 stones
+(20, -7, D:2)
+  3 stones
+(23, -11, D:2)
+  a +0 quarterstaff
+(24, -11, D:2)
+  8 stones
+  a +0 glaive
+(28, 16, D:2)
+  a +0 club
+(39, -11, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 war axe
+(2, 38, D:3)
+  a +0 leather armour
+(5, -10, D:3)
+  a +0 hand axe
+(8, -10, D:3)
+  a +0 falchion
+  a +0 leather armour
+(10, 20, D:3)
+  a +0 leather armour
+  a +0 helmet
+(25, -9, D:3)
+  a +0 ring mail
+(31, -9, D:3)
+  a +0 whip
+(40, 2, D:3)
+  a +0 short sword
+(47, 11, D:3)
+  a +0 ring mail
+
+Level 4 of the Dungeon
+(5, 33, D:4)
+  a +0 ring mail
+(7, 43, D:4)
+  a +0 robe
+  a +0 dagger
+(11, 18, D:4)
+  a +0 leather armour
+  a boomerang
+  a +0 club
+(14, 32, D:4)
+  a +0 short sword
+  a +0 dagger
+  a +0 robe
+(15, 31, D:4)
+  a +0 club
+(18, 25, D:4)
+  a +0 robe
+(19, 26, D:4)
+  a +0 leather armour
+  a +0 dagger
+(19, 48, D:4)
+  a +0 war axe
+(23, 18, D:4)
+  7 stones
+(24, 41, D:4)
+  a +0 hand axe
+(26, 23, D:4)
+  a +0 pair of gloves
+(26, 39, D:4)
+  a +0 robe
+(26, 42, D:4)
+  a +0 mace
+  a +0 ring mail
+(27, 42, D:4)
+  a +0 dagger
+  a +0 club
+(28, 42, D:4)
+  a +0 hand axe
+(30, 48, D:4)
+  a +0 hand axe
+(31, 22, D:4)
+  a +0 club
+(33, 23, D:4)
+  a +0 short sword
+(40, 45, D:4)
+  5 stones
+
+Level 5 of the Dungeon
+[Shop] Qoanul's Specific Store
+  2 stones (2 gold)
+[Shop] Xuepuan's General Store
+  6 atropa-tipped darts (54 gold)
+  6 stones (6 gold)
+  a scroll of brand weapon (95 gold)
+  a scroll of identify (20 gold)
+  a +0 leather armour (20 gold)
+  a scroll of magic mapping (75 gold)
+[Shop] Caenam's Weapon Emporium
+  6 stones (8 gold)
+  a +0 hand axe (42 gold)
+  a +0 halberd (56 gold)
+  a +0 rapier (56 gold)
+  a +0 long sword (49 gold)
+  a +0 falchion (42 gold)
+  a +0 club (14 gold)
+  the +4 short sword "Ostrarer" {freeze, rElec rF- rCorr Int+2} (590 gold)
+    Int:       It affects your intelligence (+2).
+    rF:        It makes you vulnerable to fire.
+    rElec:     It insulates you from electricity.
+    rCorr:     It protects you from acid and corrosion.
+  6 stones (8 gold)
+(3, -1, D:5)
+  a +0 hand axe
+(11, 3, D:5)
+  4 stones
+(11, 15, D:5)
+  a throwing net
+  a +1 short sword
+  a +2 flail of pain
+  a +0 leather armour
+(14, -5, D:5)
+  a staff of cold
+(20, -7, D:5)
+  a +0 club
+  a +0 leather armour
+(23, 22, D:5)
+  a +0 whip
+(24, 22, D:5)
+  a +0 whip
+  a +0 flail
+(28, -16, D:5)
+  a +0 robe
+(48, -1, D:5)
+  a +0 flail
+(55, -25, D:5)
+  8 stones
+(56, -22, D:5)
+  2 potions of mutation
+(61, -8, D:5)
+  5 stones
+(63, -16, D:5)
+  4 stones
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a staff of air
+  (unseen)
+(4, -9, D:6)
+  a sky beast corpse
+(9, -22, D:6)
+  a +0 chain mail
+(13, -16, D:6)
+  a water moccasin corpse
+(20, -16, D:6)
+  a +0 robe
+  a +3 dagger of freezing
+  a +0 robe of positive energy
+(21, -16, D:6)
+  a +4 flail
+  a +0 robe
+(21, -13, D:6)
+  a +2 vampiric great sword
+  a +3 flail
+  a +0 robe
+(22, -19, D:6)
+  a +0 ring mail
+(22, -13, D:6)
+  a +3 flail
+  a +0 robe
+
+the Ecumenical Temple
+
+Level 1 of the Abyss
+(0, 0, Abyss:1)
+  a datura-tipped dart
+(2, -1, Abyss:1)
+  a datura-tipped dart
+

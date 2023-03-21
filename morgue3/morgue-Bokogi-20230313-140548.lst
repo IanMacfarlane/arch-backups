@@ -1,0 +1,246 @@
+Bokogi
+
+Level 1 of the Dungeon
+[Shop] Royj's Magic Scroll Boutique
+  a scroll of teleportation (30 gold)
+  a scroll of magic mapping (75 gold)
+  a scroll of immolation (40 gold)
+  a scroll of noise (10 gold)
+  a scroll of enchant armour (75 gold)
+  a scroll of identify (20 gold)
+  a scroll of silence (95 gold)
+  a scroll of noise (10 gold)
+  a scroll of identify (20 gold)
+  a scroll of identify (20 gold)
+(0, 0, D:1)
+  3 javelins
+(1, -2, D:1)
+  a +0 club
+  4 stones
+(2, 28, D:1)
+  a +0 ring mail
+(3, 9, D:1)
+  a +0 dagger
+(10, 19, D:1)
+  a +0 club
+(11, 15, D:1)
+  a +0 whip
+(12, 7, D:1)
+  a +0 spear
+(21, -6, D:1)
+  7 stones
+(23, 41, D:1)
+  a +0 sling
+(26, 35, D:1)
+  a +0 scimitar
+(34, 13, D:1)
+  a +0 ring mail
+(41, -8, D:1)
+  a +0 short sword
+(43, -2, D:1)
+  a +0 dagger
+(43, 31, D:1)
+  a stone
+(45, 37, D:1)
+  a +0 flail
+  a +2 vampiric dagger
+(52, 35, D:1)
+  a +0 vampiric short sword
+
+Level 2 of the Dungeon
+[Shop] Maiwih's Antique Weapon Emporium
+  a +0 hand axe (57 gold)
+  a +0 dagger (38 gold)
+  a +0 long sword (66 gold)
+  a +0 whip (47 gold)
+  a +0 sling (28 gold)
+  a +0 hand axe (57 gold)
+  a +2 sling of flaming (279 gold)
+  a +0 great sword (123 gold)
+  a +0 hand axe (57 gold)
+  a +0 short sword (57 gold)
+(0, 0, D:2)
+  a +0 robe
+(3, 21, D:2)
+  a +0 chain mail
+(6, 10, D:2)
+  a +0 short sword
+  3 stones
+(7, 13, D:2)
+  7 stones
+(8, -11, D:2)
+  a +0 robe
+(8, 12, D:2)
+  a +0 club
+(10, 12, D:2)
+  a +0 club
+(20, -13, D:2)
+  a +0 club
+(20, -12, D:2)
+  a +0 dagger
+(20, 20, D:2)
+  a +0 dagger
+(32, 4, D:2)
+  a Trismegistus Codex
+(33, 5, D:2)
+  a +0 dagger
+(33, 10, D:2)
+  4 boomerangs
+(39, 15, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(3, -5, D:3)
+  a +0 ring mail
+(21, 23, D:3)
+  6 stones
+(28, 0, D:3)
+  a +0 whip
+(34, -9, D:3)
+  a +0 ring mail
+(36, 11, D:3)
+  a +0 robe
+(38, 12, D:3)
+  a +0 ring mail
+
+Level 4 of the Dungeon
+[Shop] Ezxaguel's Armour Shop
+  a +2 chain mail of fire resistance (215 gold)
+  a +0 robe (7 gold)
+  a +0 robe (7 gold)
+  a +0 robe (7 gold)
+  a +1 helmet of intelligence (165 gold)
+  a +0 ring mail (40 gold)
+  a +0 leather armour (20 gold)
+  a +0 pair of boots (45 gold)
+  a +0 buckler (45 gold)
+  a +2 pair of boots (165 gold)
+  the +3 scale mail of Imuelul {Will- Str+3 Slay+5} (491 gold)
+    Str:       It affects your strength (+3).
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (+5).
+    Will:      It decreases your willpower.
+(0, 0, D:4)
+  a +0 hand axe
+(1, -19, D:4)
+  a +0 hand axe
+(8, -12, D:4)
+  a +0 hand axe
+(20, 12, D:4)
+  6 poisoned darts
+(21, 15, D:4)
+  8 stones
+(37, 2, D:4)
+  a +0 whip
+  a +0 leather armour
+(38, 2, D:4)
+  a +0 hand axe
+  a +0 leather armour
+  a +0 club
+(38, 3, D:4)
+  a +0 whip
+  a +0 leather armour
+(38, 33, D:4)
+  a +0 giant club
+(45, -6, D:4)
+  a +0 club
+  a +0 sling
+(54, -10, D:4)
+  a +0 club
+(65, 10, D:4)
+  2 poisoned darts
+
+Level 5 of the Dungeon
+[Shop] Riel's Antique Armour Boutique
+  a +2 leather armour of positive energy (368 gold)
+  the +1 leather armour "Siesch" {Harm Stlth+} (386 gold)
+    Harm:      It increases damage dealt and taken.
+    Stlth:     It makes you more stealthy.
+  a +0 leather armour (46 gold)
+  a +0 scale mail (92 gold)
+  a +2 scale mail of fire resistance (483 gold)
+  a +0 chain mail (103 gold)
+  the +1 robe of Freezing Leaves {-Tele Dex+4 Archmagi} (646 gold)
+    Dex:       It affects your dexterity (+4).
+    -Tele:     It prevents most forms of teleportation.
+    Archmagi:  It increases the power of your magical spells.
+(15, -14, D:5)
+  a +0 flail
+(16, -14, D:5)
+  a +0 hand axe
+  a +0 chain mail
+  a +0 hand axe
+  a +0 whip
+  a +0 hand axe
+  a +0 leather armour
+(21, -21, D:5)
+  a +0 robe
+(25, 3, D:5)
+  a staff of poison
+(26, 4, D:5)
+  9 stones
+(30, -13, D:5)
+  a +0 helmet
+(42, -13, D:5)
+  a +0 whip
+  a +0 leather armour
+(42, -12, D:5)
+  a +0 war axe
+(43, -13, D:5)
+  a +0 whip
+(44, -11, D:5)
+  a +0 chain mail
+(45, -11, D:5)
+  a +0 mace
+  3 boomerangs
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  4 stones
+(1, -11, D:6)
+  a +0 robe
+(4, -28, D:6)
+  2 stones
+(7, -13, D:6)
+  a +0 chain mail
+(9, -10, D:6)
+  2 scrolls of amnesia
+(15, -23, D:6)
+  a +0 war axe
+(21, -17, D:6)
+  a +0 dagger
+(23, -25, D:6)
+  a +0 shortbow
+  a +0 barding
+(27, -20, D:6)
+  a book of Maledictions
+(31, -17, D:6)
+  a +0 giant club
+
+Level 7 of the Dungeon
+(1, -9, D:7)
+  a +0 battleaxe
+  a +0 robe
+(2, -13, D:7)
+  a +0 whip
+  a +0 leather armour
+(2, -9, D:7)
+  a +3 hand axe of electrocution
+  a +0 robe
+(3, -17, D:7)
+  a +0 robe
+(3, -13, D:7)
+  a +0 dagger
+(4, -10, D:7)
+  6 stones
+(10, -11, D:7)
+  a +0 leather armour
+(13, 3, D:7)
+  4 stones
+(14, 3, D:7)
+  a +0 short sword
+  a +0 ring mail
+  an orc corpse
+

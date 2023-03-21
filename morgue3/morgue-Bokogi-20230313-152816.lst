@@ -1,0 +1,408 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  2 stones
+(1, -1, D:1)
+  a +0 dagger
+(5, -25, D:1)
+  a +0 whip
+(9, 2, D:1)
+  a +0 whip
+  5 stones
+(10, 2, D:1)
+  a +0 dagger
+  a +0 dagger
+(12, -18, D:1)
+  a +0 hand axe
+(15, -20, D:1)
+  a +0 leather armour
+(16, -26, D:1)
+  7 stones
+(18, -22, D:1)
+  a +0 dagger
+(19, -21, D:1)
+  a +0 dagger
+  4 stones
+(19, -20, D:1)
+  a +0 short sword
+(29, -16, D:1)
+  a +0 dagger
+(29, 8, D:1)
+  a +0 short sword
+(36, -29, D:1)
+  a +0 short sword
+  4 stones
+(38, -25, D:1)
+  9 stones
+(39, -19, D:1)
+  a +0 short sword
+  3 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 spear
+(2, 32, D:2)
+  a +0 robe
+(8, -16, D:2)
+  a +0 pair of gloves
+(10, -3, D:2)
+  2 stones
+(14, -13, D:2)
+  2 boomerangs
+(19, -11, D:2)
+  6 stones
+(23, 30, D:2)
+  a +0 long sword
+(25, 29, D:2)
+  a +0 spear
+(35, -17, D:2)
+  a +0 club
+(46, 13, D:2)
+  a +0 leather armour
+(47, 17, D:2)
+  a +4 flail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 leather armour
+(3, -5, D:3)
+  a +0 club
+(3, -4, D:3)
+  a +0 sling
+  a +0 dagger
+(3, 2, D:3)
+  a +0 leather armour
+(4, 1, D:3)
+  a +0 spear
+(17, -16, D:3)
+  a +0 whip
+(21, -17, D:3)
+  a +0 robe
+(27, -5, D:3)
+  a +0 mace
+(31, 10, D:3)
+  a +0 plate armour
+(35, -44, D:3)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
+(35, -41, D:3)
+  a +0 club
+  a +0 leather armour
+(37, -7, D:3)
+  6 stones
+(38, -3, D:3)
+  2 potions of lignification
+(39, 11, D:3)
+  a +0 dagger
+(40, -35, D:3)
+  6 stones
+(40, -26, D:3)
+  a +0 club
+(41, -17, D:3)
+  a +0 dagger
+(59, -23, D:3)
+  a +0 glaive
+
+Level 4 of the Dungeon
+(2, 19, D:4)
+  a scroll of immolation
+(4, 37, D:4)
+  6 boomerangs
+(11, 27, D:4)
+  a scroll of immolation
+(16, 14, D:4)
+  a +1 leather armour of willpower
+(20, 43, D:4)
+  a +0 club
+(22, 26, D:4)
+  3 poisoned darts
+(23, 17, D:4)
+  a +0 club
+(33, 10, D:4)
+  a +0 buckler
+(40, 31, D:4)
+  a +0 mace
+
+Level 5 of the Dungeon
+[Shop] Gozag's Platinum Reserve
+  the +0 ring mail of the Hidden Heavens {+Inv Slay+2} (2640 gold)
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (+2).
+    +Inv:      It lets you turn invisible.
+  the +5 short sword "Jomiyri" {freeze, rElec rC+} (5140 gold)
+    rC:        It protects you from cold.
+    rElec:     It insulates you from electricity.
+  the +0 pair of boots "Don Keqe" {rC+} (1850 gold)
+    rC:        It protects you from cold.
+  the +5 hand axe "Depluil" {freeze, rC- rN++ Str+2 Dex+3} (5140 gold)
+    Str:       It affects your strength (+2).
+    Dex:       It affects your dexterity (+3).
+    rC:        It makes you vulnerable to cold.
+    rN:        It greatly protects you from negative energy.
+(0, 0, D:5)
+  a +0 sling
+(6, 2, D:5)
+  a +0 giant club
+(6, 31, D:5)
+  a +0 leather armour
+(10, -2, D:5)
+  a +0 war axe
+(23, 33, D:5)
+  a +0 whip
+(24, 9, D:5)
+  a +2 heavy battleaxe
+(25, 31, D:5)
+  a +0 dagger of draining
+  a +0 robe
+  a +0 trident
+(25, 32, D:5)
+  a +0 dagger
+  a +0 robe
+(26, 32, D:5)
+  a +0 hand axe
+(29, 4, D:5)
+  a +0 long sword
+(34, -5, D:5)
+  a +0 hand axe
+  a +0 ring mail
+(35, -8, D:5)
+  4 stones
+(37, 28, D:5)
+  a +0 giant spiked club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 dagger
+  a +0 scale mail
+(1, -2, D:6)
+  a +0 falchion
+(2, -22, D:6)
+  a +0 morningstar
+  a +0 chain mail
+(2, -2, D:6)
+  a +0 whip
+  a +0 ring mail
+(3, -2, D:6)
+  a +0 dagger
+  a +0 robe
+(11, 16, D:6)
+  a +0 scale mail
+  a +0 spear
+(16, 4, D:6)
+  a +0 ring mail
+  a +0 club
+(19, 4, D:6)
+  a +0 leather armour
+(20, -18, D:6)
+  a +0 dagger
+  a +0 robe
+  a +0 broad axe
+  a +0 arbalest
+  a +0 plate armour
+(21, -18, D:6)
+  a +0 flail
+(30, -9, D:6)
+  a +0 ring mail
+(30, -3, D:6)
+  6 poisoned darts
+(41, 7, D:6)
+  a +0 club
+(50, -3, D:6)
+  a +2 whip of flaming
+  a +0 robe
+
+Level 7 of the Dungeon
+(3, -7, D:7)
+  a scroll of amnesia
+  a scroll of noise
+  a +3 falchion
+  a +0 robe
+(4, -7, D:7)
+  a +1 hand axe
+  a +0 robe
+(6, -10, D:7)
+  a +0 spear
+  a +0 robe
+(7, -31, D:7)
+  a +2 spear of pain
+  a +0 scale mail
+(7, -30, D:7)
+  a +0 spear
+  a +0 club
+(7, -10, D:7)
+  a +1 battleaxe
+  a +0 robe
+(8, -31, D:7)
+  a +0 whip
+  a +0 ring mail
+(8, -11, D:7)
+  2 scrolls of torment
+(8, -3, D:7)
+  a +0 dagger
+(10, -17, D:7)
+  a book of Storms
+(14, -35, D:7)
+  a ring of magical power
+(15, -30, D:7)
+  a +0 dagger
+  a +0 leather armour
+(15, -11, D:7)
+  a +0 leather armour
+(16, -30, D:7)
+  a +0 dagger
+  a +0 robe
+(17, -30, D:7)
+  a +0 short sword
+(18, -29, D:7)
+  a +0 dagger
+(22, -22, D:7)
+  a +0 sling
+(27, -18, D:7)
+  4 stones
+(29, -44, D:7)
+  a +0 sling
+  a +0 shortbow
+(33, -38, D:7)
+  a +2 falchion
+  a +0 robe
+(33, -35, D:7)
+  a +4 halberd
+  a +0 robe
+(33, -32, D:7)
+  a +0 quarterstaff
+  a +0 robe
+(34, -28, D:7)
+  a +2 hand axe
+(37, -34, D:7)
+  a +0 spear
+(37, -33, D:7)
+  a +0 club
+(38, -34, D:7)
+  a +0 halberd
+(41, -42, D:7)
+  7 stones
+(44, -37, D:7)
+  the +4 short sword "Alla Ogo" {antimagic, Int+6}
+    Int:       It affects your intelligence (+6).
+(45, -38, D:7)
+  a +0 war axe
+(46, -20, D:7)
+  a +0 halberd
+(46, -19, D:7)
+  a +1 whip of venom
+  a +0 spear
+(47, -19, D:7)
+  a +0 whip
+  a +0 robe
+(49, -11, D:7)
+  a +0 club
+(51, -26, D:7)
+  a +2 dagger of venom
+(60, -43, D:7)
+  a +0 war axe
+(61, -50, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a book of Air
+(0, 5, D:8)
+  a +0 dagger
+  a curare-tipped dart
+  a +0 whip
+  a +0 short sword
+  a stone
+  a kobold corpse (skeletalised by now)
+  a kobold corpse (skeletalised by now)
+(0, 6, D:8)
+  a +0 whip
+  a +0 dagger
+  9 poisoned darts
+(0, 15, D:8)
+  a +0 dagger
+  a +0 whip
+  a +0 ring mail
+  a +0 short sword
+  a +0 flail
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+(1, 1, D:8)
+  a +0 short sword
+  7 poisoned darts
+  a +0 whip
+  3 stones
+  a +1 heavy hand axe
+(4, 22, D:8)
+  a +0 long sword
+  a +0 chain mail
+  an orc corpse (skeletalised by now)
+(5, 28, D:8)
+  a +0 halberd
+  a gnoll corpse (skeletalised by now)
+(9, 28, D:8)
+  a +0 short sword
+(11, 9, D:8)
+  a +0 club
+(12, 31, D:8)
+  a book of Armaments
+(13, 9, D:8)
+  a +0 dagger
+  a +0 leather armour
+(13, 10, D:8)
+  a +0 war axe
+  a +0 plate armour
+  a +0 whip
+  a +0 scale mail
+  a +0 flail
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+(13, 11, D:8)
+  a +2 hand axe of draining
+  a +0 plate armour
+  a +0 club
+  an orc corpse (skeletalised by now)
+(14, 13, D:8)
+  a +0 dagger
+  a +0 leather armour
+(37, 32, D:8)
+  2 scrolls of teleportation
+(38, 33, D:8)
+  a potion of attraction
+(39, 32, D:8)
+  a wand of polymorph (3)
+(39, 33, D:8)
+  a scroll of identify
+(39, 46, D:8)
+  a killer bee corpse
+(40, 45, D:8)
+  a killer bee corpse
+(41, 29, D:8)
+  a killer bee corpse
+  a killer bee corpse
+(42, 19, D:8)
+  a +0 scale mail
+(43, 25, D:8)
+  a +0 long sword
+(48, 8, D:8)
+  a scroll of immolation
+(48, 25, D:8)
+  a +0 flail
+  a +0 robe
+(49, 25, D:8)
+  a +0 morningstar
+  a +0 robe
+(49, 30, D:8)
+  a +2 scimitar of freezing
+  a +0 robe
+(52, 47, D:8)
+  a +0 whip
+
+the Ecumenical Temple
+

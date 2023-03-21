@@ -1,0 +1,341 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  7 stones
+(14, -7, D:1)
+  a +0 dagger
+(16, 0, D:1)
+  3 stones
+(27, -9, D:1)
+  a +0 club
+  2 stones
+(29, 7, D:1)
+  a +0 robe
+(48, 14, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a staff of poison
+(1, -1, D:2)
+  a +0 hand axe
+(15, -8, D:2)
+  a +0 dagger
+(30, -18, D:2)
+  a +0 club
+(39, 1, D:2)
+  a leather armour
+(43, -12, D:2)
+  2 poisoned darts
+(50, 36, D:2)
+  a +0 plate armour
+
+Level 3 of the Dungeon
+[Shop] Biluod's Assorted Antiques
+  a piece from Xom's chessboard (15/15) (600 gold)
+  a leather armour (60 gold)
+  a potion of brilliance (120 gold)
+  a potion of degeneration (30 gold)
+  a scroll of vulnerability (120 gold)
+  a forked copper wand (120 gold)
+  a robe (21 gold)
+(0, 0, D:3)
+  2 stones
+(0, 3, D:3)
+  4 stones
+(0, 14, D:3)
+  2 boomerangs
+  a +0 hand axe
+  a +0 robe
+(1, 14, D:3)
+  a +0 leather armour
+  a +0 whip
+(3, 4, D:3)
+  a +0 hand axe
+(7, 32, D:3)
+  a +0 leather armour
+  a +0 club
+(10, 29, D:3)
+  4 poisoned darts
+  a +0 short sword
+(12, 11, D:3)
+  a leather armour
+(14, 10, D:3)
+  3 atropa-tipped darts
+(17, 15, D:3)
+  a ring mail
+(18, 42, D:3)
+  a +0 dagger
+(20, 32, D:3)
+  6 poisoned darts
+(26, -1, D:3)
+  a +0 short sword
+(28, 23, D:3)
+  a +0 short sword
+(36, 18, D:3)
+  a +0 club
+  a +2 robe
+(37, -2, D:3)
+  a +0 robe
+(39, -6, D:3)
+  a +0 dagger
+  a +0 sling
+(40, -5, D:3)
+  a sling
+(40, 13, D:3)
+  a +0 club
+  4 poisoned darts
+(53, 27, D:3)
+  7 stones
+
+Level 4 of the Dungeon
+(8, 27, D:4)
+  a sling
+(15, -10, D:4)
+  a robe
+(16, 4, D:4)
+  a sling
+(37, 28, D:4)
+  a +0 ring mail
+(38, 29, D:4)
+  the +4 dagger "Fihinkeh" {holy, Fragile rC++ Int+3}
+    Int:       It affects your intelligence (+3).
+    rC:        It greatly protects you from cold.
+    Fragile:   It will be destroyed if unequipped.
+(50, 4, D:4)
+  a +0 whip
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 robe
+(8, 26, D:5)
+  8 stones
+(31, 4, D:5)
+  a trident
+(36, -4, D:5)
+  a +0 club
+  a +0 leather armour
+(38, -4, D:5)
+  a +0 short sword
+  a +0 leather armour
+(39, -4, D:5)
+  a +0 dagger
+  a +0 club
+(40, 5, D:5)
+  a book of Geomancy
+(40, 16, D:5)
+  a +0 flail
+(44, 30, D:5)
+  a club
+
+Level 6 of the Dungeon
+[Shop] Majes's General Store
+  a +0 short sword (36 gold)
+  a scroll of fog (48 gold)
+  a book of Callings (240 gold)
+  4 stones (4 gold)
+  2 stones (2 gold)
+  a scroll of summoning (unknown) (114 gold)
+  5 boomerangs (120 gold)
+[Shop] Ikiustra's Book Shoppe
+  a book of Geomancy (216 gold)
+  a Young Poisoner's Handbook (240 gold)
+  a book of Conjurations (240 gold)
+  a book of the Warp (504 gold)
+  a book of Displacement (264 gold)
+  the Unrestrained Analects (528 gold)
+  a book of Flames (336 gold)
+[Shop] Zoutuch's General Store
+  a potion of berserk rage (70 gold)
+  a potion of invisibility (unknown) (112 gold)
+  a manual of Necromancy (1120 gold)
+  2 stones (2 gold)
+  a lightning rod (4/4) (420 gold)
+  a potion of degeneration (14 gold)
+  a scroll of magic mapping (105 gold)
+  a potion of attraction (42 gold)
+[Shop] Enwaobb's Armour Shop
+  a +0 scale mail (52 gold)
+  a +0 robe (9 gold)
+  the +1 scale mail of Vuluy {Will++ Int-5} (253 gold)
+    Int:       It affects your intelligence (-5).
+    Will:      It greatly increases your willpower.
+    
+    If you switch to wearing this armour, your AC would increase by 3 (5 -> 8).
+  a +0 ring mail (52 gold)
+  a +2 helmet of see invisible (279 gold)
+  a +2 scale mail of cold resistance (273 gold)
+  a +0 scale mail (52 gold)
+  a +0 leather armour (26 gold)
+(0, 0, D:6)
+  a +0 spear
+(0, 1, D:6)
+  a +0 club
+  3 poisoned darts
+(1, -13, D:6)
+  a +0 flail
+(1, -10, D:6)
+  a +0 club
+(1, -6, D:6)
+  a +0 trident
+  a +0 ring mail
+  a +0 dagger
+  a +0 halberd
+(1, -3, D:6)
+  a +0 club
+  a +0 leather armour
+(1, -1, D:6)
+  a +0 whip
+(1, 1, D:6)
+  a +0 dagger
+  a +0 robe
+(2, -9, D:6)
+  a +0 halberd
+  a +0 halberd
+  a +0 whip
+(2, 1, D:6)
+  a +0 flail
+(3, -10, D:6)
+  a +0 mace
+  a +0 dagger
+  3 poisoned darts
+(3, -9, D:6)
+  a +0 dagger
+(4, -16, D:6)
+  a +0 battleaxe
+  a +0 chain mail
+(5, -9, D:6)
+  a stone
+(5, -1, D:6)
+  a +0 short sword
+  4 stones
+(11, 0, D:6)
+  a +0 whip
+(22, -30, D:6)
+  a +0 spear
+(24, -32, D:6)
+  a +0 flail
+(24, -30, D:6)
+  a +0 halberd
+(24, -28, D:6)
+  a +0 spear
+(24, 12, D:6)
+  2 stones
+(25, -31, D:6)
+  a +0 spear
+  a +0 robe
+  a +0 club
+(43, 4, D:6)
+  4 stones
+(45, -19, D:6)
+  a club
+(48, 10, D:6)
+  a +0 scythe
+  a +0 robe
+(58, -15, D:6)
+  a +0 robe
+(60, 9, D:6)
+  6 poisoned darts
+  a +0 dagger
+(60, 10, D:6)
+  3 stones
+  a +0 short sword
+(60, 11, D:6)
+  a stone
+  a +0 club
+(63, 6, D:6)
+  a +1 glaive of pain
+  +0 steam dragon scales
+(64, 7, D:6)
+  a +0 dagger
+  a +0 whip
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 spear
+(0, 1, D:7)
+  a +0 club
+(0, 2, D:7)
+  a +0 whip
+(1, 0, D:7)
+  a +0 ring mail
+  a +1 heavy spear
+(2, -12, D:7)
+  a falchion
+(6, -8, D:7)
+  a +0 dagger
+  a +0 flail
+(6, -7, D:7)
+  a +0 club
+  a +0 leather armour
+  a +0 club
+  a +0 leather armour
+(6, -6, D:7)
+  a +0 short sword
+  a +0 plate armour
+(17, 14, D:7)
+  a +0 long sword
+(24, 10, D:7)
+  a +3 mace
+(32, 18, D:7)
+  a scroll of poison
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a war axe
+(3, 0, D:8)
+  a +3 great sword of freezing
+  a +0 robe
+(5, 0, D:8)
+  a +0 dagger
+  a +0 robe
+(7, 21, D:8)
+  a +0 shortbow
+(13, 21, D:8)
+  a dagger
+(25, -1, D:8)
+  a +4 halberd
+  a +0 robe
+(26, 0, D:8)
+  a +1 dagger of chaos
+  a +0 robe
+(28, -2, D:8)
+  a +0 scimitar
+  a +0 robe
+(28, 17, D:8)
+  a +2 trident of flaming
+  a +0 chain mail
+  an orc skeleton
+(29, -2, D:8)
+  a +3 short sword
+  a +0 robe
+(36, 21, D:8)
+  6 stones
+(36, 36, D:8)
+  a +0 scimitar of flaming
+  a +0 robe
+(40, 23, D:8)
+  2 potions of degeneration
+(47, 1, D:8)
+  a +0 long sword
+  a +0 robe
+  a +3 spear
+  a +0 robe
+  a +0 scimitar
+  a +0 robe
+  a +0 mace
+  a +0 robe
+(47, 2, D:8)
+  +0 steam dragon scales
+(49, 20, D:8)
+  a +0 club
+  a +0 ring mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a staff of earth
+  (unseen)
+
+the Ecumenical Temple
+

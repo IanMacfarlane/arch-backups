@@ -1,0 +1,343 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 8432985264210203343
+
+1655 Kuzon the Thaumaturge (level 9, -6/55 HPs)
+             Began as a Djinni Fire Elementalist on Mar 13, 2023.
+             Was an Initiate of Ashenzari.
+             Mangled by a yak (13 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:33:21 (5905 turns).
+
+Kuzon the Thaumaturge (Djinni Fire Elementalist)    Turns: 5905, Time: 00:33:22
+
+Health: -6/55      AC:  7    Str:  7    XL:     9   Next: 20%
+Gold:   299        EV: 12    Int: 22    God:    Ashenzari [......]
+                   SH:  0    Dex: 13
+
+rFire   + + .      SeeInvis .    A - +3 flail (venom)
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   ?           Reflect  .    y - +2 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        d - +2 pair of gloves
+Will    .....                    (boots unavailable)
+Stlth   ++                       (no amulet)
+HPRegen 0.29/turn                (no ring)
+MPRegen 0.00/turn                (no ring)
+
+@: flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: Renounce Religion, Curse Item
+
+
+You were on level 5 of the Dungeon.
+You worshipped Ashenzari.
+Ashenzari was noncommittal.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 299 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ u - a +2 dagger of protection
+ A - a +3 flail of venom (weapon)
+Missiles
+ x - a throwing net
+Armour
+ a - a +0 robe (worn)
+ d - a +2 pair of gloves (worn)
+ y - a +2 hat (worn)
+Jewellery
+ j - a ring of flight
+ t - a ring of protection from cold
+Wands
+ o - a wand of acid (11)
+ s - a wand of polymorph (13)
+ z - a wand of flame (29)
+Scrolls
+ l - a scroll of acquirement
+ p - a scroll of teleportation
+ r - a scroll of blinking
+ v - 2 scrolls of poison
+ w - a scroll of butterflies {unknown}
+ B - a scroll of silence {unknown}
+Potions
+ b - 2 potions of brilliance
+ c - 3 potions of resistance
+ f - 3 potions of haste
+ h - 3 potions of might
+ m - 4 potions of curing
+ n - a potion of ambrosia
+
+
+   Skills:
+ - Level 3.0 Dodging
+ - Level 2.3 Stealth
+ + Level 8.6 Spellcasting
+
+
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           94%        2d10      1%          2
+c - Kindle Blastsparks    Fire/Tloc/Air  94%        2d17      1%          3
+d - Inner Flame           Hex/Fire       47%        N/A       1%          3
+e - Flame Wave            Conj/Fire      47%        2d12      1%          4
+f - Sting                 Tmut/Pois      100%       1d8       1%          1
+g - Poisonous Vapours     Pois/Air       94%        N/A       1%          2
+h - Mephitic Cloud        Conj/Pois/Air  47%        N/A       1%          3
+i - Portal Projectile     Hex/Tloc       94%        N/A       1%          3
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Nemelex Xobeh
+Ru
+Trog
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+You hear the hiss of flowing sand.
+There is an entrance to an ossuary on this level. Hurry and find it before the
+portal is buried!
+You hear the brisk hiss of a very distant avalanche of sand.
+The yak misses you. The yak gores you but does no damage.
+There is a stone staircase leading up here.
+The yak gores you!
+You fly upwards.
+There is a stone staircase leading down here.
+The yak gores you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the yak but do no damage. The yak gores you!
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the yak.
+The yak is moderately wounded.
+The yak's fire resistance burns away. The yak closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the yak. The yak is burned terribly!
+The yak is severely wounded.
+The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+There is an open door here.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the yak. The yak is burned terribly!
+The yak is almost dead.
+* * * LOW HITPOINT WARNING * * *
+The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+The yak attacks as you move away! The yak gores you but does no damage.
+The yak attacks as you move away! The yak misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the yak. The yak is burned terribly!
+The yak is almost dead.
+* * * LOW HITPOINT WARNING * * *
+The yak gores you!
+You die...
+
+ #.....................
+ #..............#.....#
+ #..............#.....#
+######>.........#.....#
+#....#.#.#+#...........
+#....#.#...+...........
+#....#'###'#...!......#
+#..............##.....#
+#......................
+####..Y................
+ ###..@..##............
+ #.......##............
+ #.......##............
+ #.......##............
+ #.............####.[.#
+ #####'#.###.#....###)#
+     #.#.###.#....# #.#
+     #.....#.#....###.#
+  ######.#...#...#....#
+###..........'...#....#
+#............#...#....#
+
+
+You could see a yak (combustible).
+
+Vanquished Creatures
+  The ghost of Kuzon the Thaumaturge, a novice DEFE (D:5)
+  3 yaks (D:5)
+  Edmund (D:5)
+  A black bear (D:4)
+  A centaur (D:6)
+  2 scorpions
+  A jelly (D:5)
+  2 hounds (D:5)
+  2 orc priests (D:4)
+  Jessica (D:3)
+  An iguana (D:4)
+  2 sleepcaps
+  4 orc wizards
+  7 gnolls
+  5 adders
+  2 river rats (D:4)
+  An ufetubus (D:5)
+  3 dart slugs
+  10 orcs
+  12 ball pythons
+  7 bats
+  10 endoplasms
+  11 giant cockroaches
+  6 goblins
+  5 hobgoblins
+  13 jackals
+  A quokka (D:2)
+  6 frilled lizards
+  7 kobolds
+  3 rats
+131 creatures vanquished.
+
+Vanquished Creatures (others)
+  A wizard (D:5)
+  51 foxfires
+52 creatures vanquished.
+
+Grand Total: 183 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Djinni Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Kuzon set off with the following spells memorised: Foxfire,
+                  | Scorch, Kindle Blastsparks, Inner Flame, Flame Wave.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+    89 | D:1      | Found a faded altar of an unknown god.
+   109 | D:1      | Prayed at the altar of an unknown god.
+   109 | D:1      | Became a worshipper of Ashenzari the Shackled
+   130 | D:1      | Reached XP level 2. HP: 20/21 MP: 0/0
+   567 | D:1      | Reached XP level 3. HP: 8/25 MP: 0/0
+   567 | D:1      | Learned a level 1 spell: Sting
+  1232 | D:2      | Identified a scroll of acquirement
+  1345 | D:2      | Reached XP level 4. HP: 29/31 MP: 0/0
+  1443 | D:2      | Reached skill level 3 in Spellcasting
+  2338 | D:3      | Reached XP level 5. HP: 26/35 MP: 0/0
+  2338 | D:3      | Learned a level 2 spell: Poisonous Vapours
+  2392 | D:3      | Noticed Jessica
+  2394 | D:3      | Killed Jessica
+  2435 | D:3      | Found a sacrificial altar of Ru.
+  2806 | D:4      | Reached skill level 4 in Spellcasting
+  3117 | D:4      | Reached XP level 6. HP: 21/40 MP: 0/0
+  3123 | D:4      | Got Sif Muna's Tome of Changing
+  3507 | D:4      | Noticed a black bear
+  3529 | D:4      | Killed a black bear
+  3530 | D:4      | Reached skill level 5 in Spellcasting
+  3576 | D:4      | Reached XP level 7. HP: 35/45 MP: 0/0
+  3576 | D:4      | Learned a level 3 spell: Mephitic Cloud
+  4209 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  4363 | D:5      | Entered Level 5 of the Dungeon
+  4422 | D:5      | Reached skill level 6 in Spellcasting
+  4524 | D:5      | Found a bloodstained altar of Trog.
+  4525 | D:5      | Noticed a wizard
+  4530 | D:5      | Killed a wizard
+  4728 | D:5      | Found a runed translucent door.
+  4739 | D:5      | Reached XP level 8. HP: 37/50 MP: 0/0
+  4999 | D:5      | Noticed Edmund
+  5029 | D:5      | Killed Edmund
+  5030 | D:5      | Reached skill level 7 in Spellcasting
+  5411 | D:5      | Noticed Kuzon's ghost (novice DEFE)
+  5423 | D:5      | Killed Kuzon's ghost
+  5498 | D:6      | Noticed a yak
+  5499 | D:6      | Noticed a yak
+  5512 | D:6      | Noticed a yak
+  5513 | D:6      | Noticed a yak
+  5533 | D:5      | Killed a yak
+  5534 | D:5      | Reached skill level 8 in Spellcasting
+  5670 | D:6      | Noticed a yak
+  5672 | D:6      | Noticed a yak
+  5705 | D:5      | HP: 2/50 [yak (10)]
+  5721 | D:5      | Killed a yak
+  5722 | D:5      | Reached XP level 9. HP: 16/55 MP: 0/0
+  5722 | D:5      | Learned a level 3 spell: Portal Projectile
+  5905 | D:5      | Mangled by a yak
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      matt_arrival_grand_opening, layout_loops_corners,
+          hellmonk_ecumenical_altar_arch_garden
+D:2:      minmay_general_purpose_star, layout_basic
+D:3:      layout_rooms, marbit_many_paths, uniq_jessica
+D:4:      layout_loops_corners, led_sif_book, kennysheep_mini_moat,
+          gup_sewer_entry_bowl, kennysheep_generic_room_10
+D:5:      layout_basic, vehumet_altar_wand_db, trog_wizard,
+          ebering_ghost_reflecting_pool, uniq_edmund
+D:6:      layout_rooms, makhleb_grotto_becter, okawaru_ov_weapons_minmay,
+          minmay_temple_entry_arrows, nicolae_ossuary_entry_giza,
+          minmay_manual_moon
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Stealth        |     2                   |  2.3
+Dodging        |        3                |  3.0
+Spellcasting   |           3  4  5  6  8 |  8.6
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Dagger            |       |    12 |     3 ||    15
+   Cast: Foxfire           |    14 |    15 |       ||    29
+         Scorch            |    29 |    72 |    77 ||   178
+         Inner Flame       |       |     1 |       ||     1
+         Kindle Blastspark |       |       |     3 ||     3
+         Mephitic Cloud    |       |       |     2 ||     2
+         Flame Wave        |       |       |     1 ||     1
+    Use: Scroll            |     6 |     3 |     5 ||    14
+         Potion            |     1 |     2 |     6 ||     9
+ Armour: Robe              |     8 |     9 |    11 ||    28
+  Dodge: Dodged            |    33 |    27 |    38 ||    98
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5906 |   5744 |    162 |      0 |   4318 |   6 |  984.3 |
+       Dungeon |   5906 |   5744 |    162 |      0 |   4318 |   6 |  984.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1597 daAuts
+     D:5: 1484 daAuts
+     D:1: 1178 daAuts
+     D:2: 910 daAuts
+     D:3: 676 daAuts
+     D:6: 58 daAuts
+

@@ -1,0 +1,214 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8084039718188478861
+
+14 Kuzon the Firebug (level 2, 15/15 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:01 (403 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)       Turns: 403, Time: 00:01:02
+
+Health: 15/15      AC:  2    Str:  5    XL:     2   Next: 27%
+Magic:  8/8        EV: 13    Int: 19    God:    
+Gold:   17         SH:  0    Dex: 15    Spells: 4/7 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.11/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 17 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ i - a +5 ring of evasion
+Scrolls
+ d - a scroll of teleportation {unknown}
+ f - a scroll of immolation {unknown}
+ g - 3 scrolls of identify {unknown}
+ h - a scroll of fog {unknown}
+Potions
+ b - a potion of magic
+ c - 2 potions of berserk rage {unknown}
+ e - 2 potions of heal wounds {unknown}
+
+
+   Skills:
+ + Level 2.7 Dodging
+ + Level 2.7 Stealth
+ + Level 3.2 Spellcasting
+ + Level 1.4 Conjurations
+ + Level 3.4 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      48%        2x1d6     5%          1
+b - Scorch                Fire           32%        2d6       5%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       9%         N/A       22%         3
+ Kindle Blastsparks       Fire/Tloc/Air  14%        2d11      28%         3
+ Flame Wave               Conj/Fire      12%        2d6       47%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Shops:
+D:1 *[
+
+Message History
+
+Memorise Scorch, consuming 2 spell levels and leaving 4? 
+Your magical contamination has completely faded away.
+You start memorising the spell. You continue memorising.
+Your foxfire dissipates!
+You continue memorising.
+Your foxfire dissipates!
+You finish memorising. Spell assigned to 'b'.
+A bat comes into view.
+You conjure some foxfire!
+Your foxfire dissipates!
+Found an agate ring. Found a stone staircase leading down. The foxfire hits the
+bat.
+The bat is severely wounded.
+The bat barely misses you.
+You see here a hobgoblin corpse.
+A bat is nearby!
+You conjure some foxfire! The foxfire hits the bat.
+You kill the bat!
+Your foxfire dissipates!
+A rat comes into view.
+A rat is nearby!
+You conjure some foxfire!
+The foxfire hits the rat.
+The rat is moderately wounded.
+The foxfire hits the rat.
+You kill the rat!
+Found a ring mail.
+e - 2 smoky clear potions (gained 1)
+You now have 17 gold pieces (gained 4).
+Found 3 poisoned darts.
+i - a +5 ring of evasion
+g - 3 scrolls labelled FICECOATHRE (gained 1)
+Found 4 stones.
+A bat comes into view.
+You conjure some foxfire!
+The foxfire hits the bat.
+The bat is severely wounded.
+The foxfire hits the bat.
+You kill the bat!
+Found Wiunnivi's Assorted Antiques.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+           ..  ###.
+          .....#...
+#.......##.....#.#.
+#.......##.....#.#.
+#..................
+#∩.................
+#.##......#........
+#.##...............
+#.##.........#.....
+#@.................
+####.###.##.##..##.
+   #.# #.##.##..##.
+  ##.###........##.
+  #.......#........
+ #..#####.#.....#..
+  ..    #.......>..
+  .^    #..#.......
+ ...    #..#..#....
+        #..#[#####.
+        ...#.#   #.
+       ....#.#   ##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A ball python (D:1)
+  2 bats (D:1)
+  An endoplasm (D:1)
+  A giant cockroach (D:1)
+  A goblin (D:1)
+  2 hobgoblins (D:1)
+  2 kobolds (D:1)
+  2 rats (D:1)
+12 creatures vanquished.
+
+Vanquished Creatures (others)
+  34 foxfires (D:1)
+34 creatures vanquished.
+
+Grand Total: 46 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    84 | D:1      | Found Vecomm's Armour Emporium.
+   257 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   262 | D:1      | Learned a level 2 spell: Scorch
+   401 | D:1      | Found Wiunnivi's Assorted Antiques.
+   403 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_shoal_huts, layout_basic, serial_shops,
+          nicolae_shop_behind_doors, shop, shop, nicolae_shop_waterfront,
+          nicolae_wormholes
+
+Action                     || total
+---------------------------++-------
+   Cast: Foxfire           ||    19
+  Dodge: Dodged            ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    404 |    404 |      0 |      0 |    339 |   1 |  404.0 |
+       Dungeon |    404 |    404 |      0 |      0 |    339 |   1 |  404.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 404 daAuts
+

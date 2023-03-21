@@ -1,0 +1,160 @@
+Crash caused by signal #15: Terminated
+
+Version: Dungeon Crawl Stone Soup 0.28.0
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: no
+
+Seed: 14641528688968585792, deterministic pregen: 1
+Command line: crawl
+
+RC options:
+restart_after_game = maybe
+
+
+Crash caused by signal #15: Terminated
+
+Obtained 21 stack frames.
+crawl(_Z17write_stack_traceP8_IO_FILE+0x3a) [0x5632dd39e1da]: write_stack_trace(_IO_FILE*)
+crawl(_Z13do_crash_dumpv+0x3eb) [0x5632dd3a6feb]: do_crash_dump()
+crawl(_Z20crash_signal_handleri+0x1d5) [0x5632dd39e635]: crash_signal_handler(int)
+/usr/lib/libc.so.6(+0x38f50) [0x7f2a37a51f50]: 
+crawl(+0x6262b0) [0x5632dd5eb2b0]: 
+/usr/lib/libc.so.6(+0x38f50) [0x7f2a37a51f50]: 
+/usr/lib/libc.so.6(read+0xf) [0x7f2a37b0f92f]: 
+/usr/lib/libncursesw.so.6(+0x21115) [0x7f2a37faa115]: 
+/usr/lib/libncursesw.so.6(wget_wch+0xd1) [0x7f2a37fc27f1]: 
+crawl(_Z8getch_ckv+0x109) [0x5632dd9d2799]: getch_ck()
+crawl(_ZN2ui11pump_eventsEi+0xed) [0x5632dd97340d]: ui::pump_events(int)
+crawl(_ZN2ui10run_layoutESt10shared_ptrINS_6WidgetEERKbS2_+0xaa) [0x5632dd97380a]: ui::run_layout(std::shared_ptr<ui::Widget>, bool const&, std::shared_ptr<ui::Widget>)
+crawl(+0x7b3682) [0x5632dd778682]: 
+crawl(+0x7b5c81) [0x5632dd77ac81]: 
+crawl(_Z11choose_gameR11newgame_defS0_RKS_+0x9b) [0x5632dd77dffb]: choose_game(newgame_def&, newgame_def&, newgame_def const&)
+crawl(_Z12startup_stepv+0xc9c) [0x5632dd8c485c]: startup_step()
+crawl(+0xa19e6d) [0x5632dd9dee6d]: 
+crawl(main+0x176) [0x5632dd2f2f86]: 
+/usr/lib/libc.so.6(+0x23790) [0x7f2a37a3c790]: 
+/usr/lib/libc.so.6(__libc_start_main+0x8a) [0x7f2a37a3c84a]: 
+crawl(_start+0x25) [0x5632dd2f3845]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 12.2.1 20230201
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -DWIZARD -DASSERTS -DCLUA_BINDINGS -DSAVE_DIR_PATH="~/.crawl" -DDATA_DIR_PATH="/usr/share/crawl/" -D_DEFAULT_SOURCE -D_XOPEN_SOURCE=600
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = encompass, absdepth0 = 11
+Level vaults:
+    bailey_polearm_nasty_gnolls
+    bailey
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Loading databases... Loading spells and features... Loading maps...
+Hello, welcome to Dungeon Crawl Stone Soup 0.28.0!
+(c) Copyright 1997-2002 Linley Henzell, 2002-2021 Crawl DevTeam
+Options read from "/usr/share/crawl/settings/init.txt".
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+No version history (current version is 0.28.0)
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 0, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    []
+Species: Yak
+Job:     Unemployed
+
+HP: 0/0; mods: 0/0
+MP: 0/0; mod: 0
+Stats: 0 (0) 0 (0) 0 (0)
+Position: (0, 0) <OoB>, god: No God (0), turn_is_over: 0, banished: 0
+
+Skills (mode: auto)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |                     |   0   |     0    |    0  |      0 | 0/59
+Short Blades    |                     |   0   |     0    |    0  |      0 | 0/0
+Long Blades     |                     |   0   |     0    |    0  |      0 | 0/0
+Axes            |                     |   0   |     0    |    0  |      0 | 0/70
+Maces & Flails  |                     |   0   |     0    |    0  |      0 | 0/0
+Polearms        |                     |   0   |     0    |    0  |      0 | 0/0
+Staves          |                     |   0   |     0    |    0  |      0 | 0/59
+Slings          |                     |   0   |     0    |    0  |      0 | 0/0
+Bows            |                     |   0   |     0    |    0  |      0 | 0/0
+Crossbows       |                     |   0   |     0    |    0  |      0 | 0/70
+Throwing        |                     |   0   |     0    |    0  |      0 | 0/0
+Armour          |                     |   0   |     0    |    0  |      0 | 0/0
+Dodging         |                     |   0   |     0    |    0  |      0 | 0/50
+Stealth         |                     |   0   |     0    |    0  |      0 | 0/0
+Shields         |                     |   0   |     0    |    0  |      0 | 0/50
+Unarmed Combat  |                     |   0   |     0    |    0  |      0 | 0/0
+Spellcasting    |                     |   0   |     0    |    0  |      0 | 0/70
+Conjurations    |                     |   0   |     0    |    0  |      0 | 0/0
+Hexes           |                     |   0   |     0    |    0  |      0 | 0/0
+Summonings      |                     |   0   |     0    |    0  |      0 | 0/0
+Necromancy      |                     |   0   |     0    |    0  |      0 | 0/0
+Translocations  |                     |   0   |     0    |    0  |      0 | 0/50
+Transmutations  |                     |   0   |     0    |    0  |      0 | 0/0
+Fire Magic      |                     |   0   |     0    |    0  |      0 | 0/0
+Ice Magic       |                     |   0   |     0    |    0  |      0 | 0/42
+Air Magic       |                     |   0   |     0    |    0  |      0 | 0/0
+Earth Magic     |                     |   0   |     0    |    0  |      0 | 0/0
+Poison Magic    |                     |   0   |     0    |    0  |      0 | 0/59
+Invocations     |                     |   0   |     0    |    0  |      0 | 0/0
+Evocations      |                     |   0   |     0    |    0  |      0 | 0/4
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+
+Mutations:
+
+Inventory bugs:
+
+Equipment:
+
+}}}}}}}}}}}
+
+
+Screenshot:
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+bailey_type: bailey_polearm
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

@@ -1,0 +1,377 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 601850475561761546
+
+1654 Bokogi the Arsonist (level 9, -2/51 HPs)
+             Began as an Octopode Fire Elementalist on Mar 16, 2023.
+             Was an Initiate of Vehumet.
+             Slain by a water moccasin (5 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:19:37 (7353 turns).
+
+Bokogi the Arsonist (Octopode Fire Elementalist)    Turns: 7353, Time: 00:19:38
+
+Health: -2/51      AC:  1    Str:  8    XL:     9   Next: 0%
+Magic:  1/16       EV: 13    Int: 21    God:    Vehumet [......]
+Gold:   320        SH:  0    Dex: 12    Spells: 10/17 levels left
+
+rFire   . . .      SeeInvis +    e - +1 dagger (venom)
+rCold   . . .      Faith    .    r - orb {*Rage}
+rNeg    . . .      Spirit   .    (helmet restricted)
+rPois   +          Reflect  .    (no amulet)
+rElec   .          Rampage  .    j - +4 ring of slaying
+rCorr   .          Rage     20%  i - ring of see invisible
+Will    .....                    p - ring of poison resistance
+Stlth   ++                       (no ring)
+HPRegen 0.28/turn                (no ring)
+MPRegen 0.15/turn                (no ring)
+                                 (no ring)
+                                 (no ring)
+
+@: confused, studying Fire Magic
+A: almost no armour, amphibious, 8 rings, camouflage 1, gelatinous body 1,
+(nimble swimmer 1), tentacles
+a: Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+You also visited: Sewer.
+
+You collected 320 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +1 dagger of venom (weapon)
+Armour
+ r - an orb of wrath (worn)
+Jewellery
+ i - a ring of see invisible (right tentacle)
+ j - a +4 ring of slaying (left tentacle)
+ p - a ring of poison resistance (on tentacle)
+Wands
+ d - a wand of charming (5)
+ s - a wand of light (5)
+Scrolls
+ h - 3 scrolls of blinking
+ k - 2 scrolls of fear
+ l - 2 scrolls of torment
+ n - a scroll of enchant weapon
+ t - a scroll of magic mapping
+ u - a scroll of noise {unknown}
+ v - a scroll of teleportation
+Potions
+ a - a potion of magic
+ b - a potion of attraction {unknown}
+ c - 2 potions of heal wounds
+ f - 8 potions of curing {unknown}
+ g - 3 potions of haste {unknown}
+ m - 2 potions of resistance {unknown}
+ o - a potion of berserk rage {unknown}
+ q - 2 potions of mutation {unknown}
+
+
+   Skills:
+ - Level 2.3 Dodging
+ - Level 3.2 Stealth
+ + Level 4.9 Spellcasting
+ * Level 6.9 Conjurations
+ * Level 9.8 Fire Magic
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           92%        2d10      1%          2
+c - Flame Wave            Conj/Fire      40%        2d11      3%          4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Kiss of Death            Conj/Necr      76%        2d11      2%          1
+ Inner Flame              Hex/Fire       25%        N/A       4%          3
+ Hailstorm                Conj/Ice       19%        3d6       8%          3
+ Kindle Blastsparks       Fire/Tloc/Air  36%        2d13      9%          3
+ Freeze                   Ice            20%        1d4       11%         1
+ Confusing Touch          Hex            5%         N/A       32%         3
+ Frozen Ramparts          Ice            10%        1d2       32%         3
+ Portal Projectile        Hex/Tloc       10%        N/A       32%         3
+ Tukima's Dance           Hex            5%         N/A       32%         3
+ Dispel Undead            Necr           5%         3d7       73%         4
+ Blade Hands              Tmut           2%         N/A       97%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6           Sewer (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Makhleb
+Nemelex Xobeh
+Qazlal
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+The Shining One
+
+Shops:
+D:1 (
+
+Annotations:
+D:7 Dowan, Duvessa
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear most types of armour.
+You are amphibious.
+You can wear up to eight rings at the same time.
+Your skin changes colour to match your surroundings (Stealth+).
+Your rubbery body absorbs attacks. (AC +1, EV +1)
+((You are camouflaged when in or above water. (Stealth+)))
+You have tentacles for arms and can constrict up to eight enemies at once.
+
+Message History
+
+You hear a shout! You hear an angry hiss.
+Duvessa hits you with a +0 rapier! Duvessa closely misses you.
+Casting: Flame Wave (dangerous; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast this spell.
+You conjure some foxfire! Duvessa barely misses you.
+The foxfire hits Duvessa.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa but does no damage.
+Duvessa is heavily wounded.
+Dowan casts a spell.
+Dowan blinks! Duvessa closely misses you.
+Dowan is no longer more vulnerable to fire.
+The orc wizard zaps a wand.
+Your will is overpowered! You are confused.
+An orc warrior comes into view. It is wielding a +0 dire flail.
+You are too confused!
+Unknown command.
+You are too confused!
+You hit Duvessa but do no damage. Duvessa is poisoned. Your squeeze misses
+Duvessa.
+Duvessa is heavily wounded.
+Duvessa closely misses you.
+An orc priest comes into view. It is wielding a +0 short sword.
+Dowan casts a spell at you.
+The puff of flame hits you! Duvessa hits you with a +0 rapier!
+* * * LOW HITPOINT WARNING * * *
+You bump into the rock wall. Duvessa hits you with a +0 rapier.
+* * * LOW HITPOINT WARNING * * *
+The orc wizard points at you and mumbles some strange words.
+You easily resist. Dowan barely misses you.
+The orc priest shouts!
+Duvessa completely misses you. The water moccasin bites you!
+* * * LOW HITPOINT WARNING * * *
+You bump into the rock wall. Duvessa hits you with a +0 rapier.
+* * * LOW HITPOINT WARNING * * *
+Dowan mumbles some strange words.
+Dowan blinks!
+The orc priest looks braver for a moment.
+The water moccasin bites you.
+You die...
+
+  #..  #....
+   ... #...#
+   #..##...#
+   #.......#
+#  #...#...
+#.##.#.#..#
+ .........#####
+####.##.......#
+#......§.####.#
+#.#...#e##  #.####
+#.#.###@#   #.##..
+#<.[..oS#   #.##.#
+##....o..   #)##.#
+........#.  #..#.#
+##.#.o..#.. ##.#.#
+ #.#....#.####)#.######
+  .#..#.#.#...........#
+  ......#.#.##........#
+  ..  ..#.#.##........#
+ #..    #.#.##........#
+ #.##   #.#.####+######
+ #..    #.#.#
+
+
+You could see Duvessa (fast, very poisoned), an orc warrior, a water moccasin,
+an orc priest and an orc wizard.
+
+Vanquished Creatures
+  Pargi (Sewer)
+  2 sky beasts
+  An ice beast (D:6)
+  2 centaurs
+  2 bullfrogs
+  5 scorpions
+  A howler monkey (D:5)
+  4 hounds
+  A jelly (D:5)
+  An orc priest (D:6)
+  2 iguanas
+  A sleepcap (D:6)
+  Jessica (D:3)
+  3 orc wizards
+  Natasha (twice) (D:4)
+  13 adders
+  A gnoll (D:5)
+  2 shadow imps
+  3 worms
+  2 dart slugs
+  10 orcs
+  5 bats
+  8 endoplasms
+  7 giant cockroaches
+  11 goblins
+  4 hobgoblins
+  12 jackals
+  3 quokkas
+  6 ball pythons
+  5 frilled lizards
+  17 kobolds
+  4 rats
+142 creatures vanquished.
+
+Vanquished Creatures (others)
+  429 foxfires
+429 creatures vanquished.
+
+Grand Total: 571 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Octopode Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 11/11 MP: 3/3
+   174 | D:1      | Reached XP level 2. HP: 17/17 MP: 1/5
+   178 | D:1      | Learned a level 2 spell: Scorch
+   351 | D:1      | You fall into a shaft and drop 1 floor!
+   615 | D:1      | Reached XP level 3. HP: 21/21 MP: 4/6
+   716 | D:1      | Found Tauxuigg's Weapon Shoppe.
+  1620 | D:2      | Reached XP level 4. HP: 27/27 MP: 4/7
+  2278 | D:3      | Found a snail-covered altar of Cheibriados.
+  2432 | D:3      | Noticed Jessica
+  2435 | D:3      | Killed Jessica
+  2436 | D:3      | Reached skill level 4 in Fire Magic
+  2436 | D:3      | Reached XP level 5. HP: 31/31 MP: 4/9
+  2480 | D:3      | Found a hazy altar of Hepliaklqana.
+  2482 | D:3      | Found a faded altar of an unknown god.
+  2589 | D:3      | Found a faded altar of an unknown god.
+  3218 | D:3      | Found a glowing golden altar of the Shining One.
+  3610 | D:4      | Noticed a centaur
+  3621 | D:4      | Killed a centaur
+  3622 | D:4      | Reached skill level 5 in Fire Magic
+  3622 | D:4      | Reached XP level 6. HP: 36/36 MP: 5/10
+  3805 | D:4      | Found a glowing drain.
+  3811 | D:4      | Noticed Natasha
+  3825 | D:4      | Killed Natasha
+  3930 | Sewer    | Entered a sewer
+  3937 | Sewer    | Noticed Pargi
+  3941 | Sewer    | Killed Pargi
+  3942 | Sewer    | Reached skill level 6 in Fire Magic
+  3942 | Sewer    | Reached XP level 7. HP: 32/41 MP: 3/12
+  3947 | Sewer    | Learned a level 4 spell: Flame Wave
+  4326 | D:4      | Noticed Natasha
+  4331 | D:4      | Killed Natasha
+  4600 | D:5      | Entered Level 5 of the Dungeon
+  4697 | D:5      | Reached skill level 7 in Fire Magic
+  4703 | D:5      | Reached skill level 5 in Conjurations
+  4930 | D:5      | Reached XP level 8. HP: 46/46 MP: 1/14
+  5128 | D:5      | Reached skill level 8 in Fire Magic
+  5407 | D:5      | Found a bloodstained altar of Trog.
+  5793 | D:6      | Found a staircase to the Ecumenical Temple.
+  5802 | Temple   | Entered the Ecumenical Temple
+  5948 | Temple   | Became a worshipper of Vehumet
+  6384 | D:6      | Reached skill level 9 in Fire Magic
+  7272 | D:7      | Reached XP level 9. HP: 49/51 MP: 10/16
+  7338 | D:7      | Noticed Duvessa
+  7339 | D:7      | Noticed Dowan
+  7353 | D:7      | Slain by a water moccasin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_iron_boxes, layout_basic, serial_shops, shop,
+          serial_corexii_hall, corexii_hall_statues_i, corexii_hall_statues_i,
+          corexii_hall_statues_s, serial_park_tiny_pond
+D:2:      layout_basic
+D:3:      layout_loops_corners, beargit_hepliaklqana_dungeon_heroes,
+          slow_altar_1, mainiacjoe_overflow_alcove_1,
+          chequers_ecumenical_altar_twisty
+D:4:      layout_rooms, gup_sewer_entry_glass, uniq_natasha
+D:5:      layout_rooms, trog_antimagical
+D:6:      layout_loops_cross, lemuel_temple_firewalk_a
+D:7:      layout_basic, kennysheep_mini, okawaru_altar_gauntlet_db, uniq_duvessa
+Temple:   hc_temple_tempest_star
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Stealth        |     3                   |  3.2
+Conjurations   |        2     3  4  5  6 |  6.9
+Fire Magic     |           4  5  6  7  9 |  9.8
+Spellcasting   |              3     4    |  4.9
+Dodging        |                         |  2.3
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Unarmed           |     2 |       |       ||     2
+         Dagger            |     1 |     6 |    15 ||    22
+         Constrict         |     1 |     5 |     4 ||    10
+         Tentacles         |     1 |       |     5 ||     6
+         Punch             |     1 |       |       ||     1
+   Cast: Foxfire           |    72 |    58 |   124 ||   254
+         Scorch            |     2 |    20 |    37 ||    59
+         Flame Wave        |       |       |     2 ||     2
+    Use: Scroll            |       |     6 |     3 ||     9
+   Stab: Sleeping          |       |       |     2 ||     2
+ Armour: Skin              |     1 |     1 |       ||     2
+  Dodge: Dodged            |     6 |    17 |    19 ||    42
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7376 |   7085 |    291 |      0 |   5782 |   9 |  819.6 |
+       Dungeon |   6940 |   6657 |    283 |      0 |   5498 |   7 |  991.4 |
+        Temple |    155 |    147 |      8 |      0 |     82 |   1 |  155.0 |
+         Sewer |    280 |    280 |      0 |      0 |    201 |   1 |  280.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1501 daAuts
+     D:6: 1375 daAuts
+     D:1: 1192 daAuts
+     D:5: 934 daAuts
+     D:2: 901 daAuts
+     D:4: 728 daAuts
+     D:7: 306 daAuts
+   Sewer: 280 daAuts
+  Temple: 155 daAuts
+

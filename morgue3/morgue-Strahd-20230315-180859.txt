@@ -1,0 +1,280 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14323630055595306824
+
+308 Strahd the Caller (level 6, 0/32 HPs)
+             Began as a Deep Elf Summoner on Mar 15, 2023.
+             Succumbed to an adder's poison
+             ... in a sewer.
+             The game lasted 00:10:48 (3416 turns).
+
+Strahd the Caller (Deep Elf Summoner)               Turns: 3416, Time: 00:10:49
+
+Health: 0/32       AC:  3    Str:  5    XL:     6   Next: 16%
+Magic:  13/16      EV: 12    Int: 22    God:    
+Gold:   198        SH:  0    Dex: 15    Spells: 13/16 levels left
+
+rFire   . . .      SeeInvis .    d - +2 whip (venom)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    l - +0 cloak
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.25/turn                e - ring of wizardry
+MPRegen 0.15/turn                (no ring)
+
+@: lethally poisoned (0 -> -4)
+A: no striking features
+a: no special abilities
+
+
+You were in a sewer.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You also visited: Sewer.
+
+You collected 198 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +2 whip of venom (weapon)
+ s - a +1 sling of freezing
+Armour
+ a - a +0 robe (worn)
+ l - a +0 cloak (worn)
+Jewellery
+ e - a ring of wizardry (left hand)
+ k - an amulet of regeneration
+Scrolls
+ f - a scroll of identify
+ g - a scroll of noise
+ i - 2 scrolls of teleportation
+ m - a scroll of fog {unknown}
+ r - a scroll of amnesia {unknown}
+ t - a scroll of blinking {unknown}
+ u - 3 scrolls of silence
+Potions
+ b - a potion of magic
+ c - a potion of berserk rage {unknown}
+ h - 2 potions of curing {unknown}
+ j - 3 potions of heal wounds {unknown}
+ n - a potion of ambrosia {unknown}
+ o - a potion of mutation {unknown}
+ p - 3 potions of resistance {unknown}
+ q - a potion of might {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 5.5 Spellcasting
+ * Level 7.2 Summonings
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Summon Small Mammal   Summ           100%       N/A       1%          1
+b - Call Imp              Summ           37%        N/A       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Call Canine Familiar     Summ           37%        N/A       1%          3
+ Summon Guardian Golem    Hex/Summ       21%        N/A       2%          3
+ Apportation              Tloc           12%        N/A       4%          1
+ Freeze                   Ice            24%        1d4       4%          1
+ Summon Lightning Spire   Summ/Air       21%        N/A       9%          4
+ Frozen Ramparts          Ice            12%        1d2       12%         3
+ Hailstorm                Conj/Ice       6%         3d4       12%         3
+ Alistair's Intoxication  Tmut/Pois      4%         N/A       69%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)              Sewer (1/1)             
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:1 (   D:5 *
+
+Message History
+
+Your shadow imp barely misses the adder.
+Casting: Summon Small Mammal (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your bat hits the rat. The adder bites you. The rat misses you.
+The rat bites you.
+The rat attacks as you move away! The rat barely misses you.
+The adder attacks as you move away! The adder bites you.
+You are poisoned.
+The adder poisons you! You feel sick. Your bat hits the adder.
+Your bat completely misses the adder. The rat bites you.
+Your shadow imp hits the adder. Your bat hits the rat.
+Your bat hits the adder but does no damage.
+You feel sick.
+Your bat hits the rat but does no damage. x2
+The adder closely misses you. Your bat barely misses the rat.
+The rat closely misses your bat. The adder bites you.
+Your bat closely misses the rat. Your shadow imp hits the rat.
+The rat dies!
+You barely miss the adder.
+The adder is heavily wounded.
+You feel sick. Your bat barely misses the adder.
+Your bat closely misses the rat. The adder bites you.
+You are more poisoned.
+The adder poisons you!
+Your bat hits the rat but does no damage.
+The rat bites you but does no damage.
+You miss the adder.
+The adder is heavily wounded.
+You feel sick. Your bat closely misses the adder. Your bat misses the adder.
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+The adder barely misses you. Your shadow imp hits the adder.
+The adder dies!
+* * * LOW HITPOINT WARNING * * *
+You feel sick. Your bat closely misses the rat. Your bat barely misses the rat.
+The rat bites you.
+* * * LOW HITPOINT WARNING * * *
+You die...
+
+#############
+~~≈.≈≈≈≈≈~#.###
+~~.~.≈≈≈~~~...##
+~≈~)~~≈†~†.....#
+~≈~[~≈~†≈≈.....#
+≈≈~..~~~†≈.....##
+≈≈≈≈≈~~≈≈~#†....#
+############....#
+           ##.b†##
+            ##r..#
+            +5b@.#
+            #.†..#
+            #...##
+           #....#
+          #.....#
+         ~.....##
+        ~~.....#
+       ~~≈.....#
+       ≈≈≈~..J##
+
+
+You could see a rat (ally target), a friendly shadow imp (summoned) and 2
+friendly bats.
+
+Vanquished Creatures
+  An adder (D:2)
+  A dart slug (D:1)
+  A bat (D:2)
+  An endoplasm (D:1)
+  A giant cockroach (D:1)
+  2 hobgoblins (D:2)
+  A kobold (D:1)
+  A ball python (Sewer)
+  2 rats
+11 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A howler monkey (D:5)
+  A hound (D:5)
+  8 adders
+  7 river rats
+  3 dart slugs
+  10 ball pythons
+  8 endoplasms
+  3 giant cockroaches
+  2 goblins
+  6 hobgoblins
+  2 jackals (D:2)
+  2 kobolds
+  2 quokkas
+  2 bats
+  6 frilled lizards
+  26 rats
+89 creatures vanquished.
+
+Grand Total: 100 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Strahd the Deep Elf Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   280 | D:1      | Found Fiuthreti's Antique Weapon Shop.
+   510 | D:1      | Reached XP level 2. HP: 12/15 MP: 1/8
+   514 | D:1      | Learned a level 2 spell: Call Imp
+  1111 | D:1      | Reached skill level 5 in Summonings
+  1519 | D:2      | Reached XP level 3. HP: 19/19 MP: 5/10
+  1896 | D:2      | Found a faded altar of an unknown god.
+  1987 | D:2      | Reached XP level 4. HP: 6/24 MP: 7/12
+  2726 | D:3      | You fall into a shaft and drop 2 floors!
+  2726 | D:5      | Entered Level 5 of the Dungeon
+  2741 | D:5      | Found Taer's Neck Hole.
+  2776 | D:5      | Reached skill level 6 in Summonings
+  2782 | D:5      | Reached XP level 5. HP: 23/28 MP: 12/14
+  2817 | D:5      | Found a glowing drain.
+  2821 | Sewer    | Entered a sewer
+  2898 | Sewer    | Reached skill level 5 in Spellcasting
+  3262 | Sewer    | Reached skill level 7 in Summonings
+  3290 | Sewer    | Reached XP level 6. HP: 28/32 MP: 16/16
+  3415 | Sewer    | HP: 1/32 [rat (3)]
+  3416 | Sewer    | Succumbed to an adder's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      matt_arrival_refuge, layout_basic, serial_shops, shop_coins,
+          minivault_24
+D:2:      layout_rooms, hellmonk_ecumenical_altar_dog_temple
+D:3:      layout_basic, mainiacjoe_overflow_alcove_4
+D:5:      layout_rooms, nicolae_overflow_squiral, gup_sewer_entry_bowl,
+          nicolae_shop_sticking_my_neck_out
+Sewer:    sewer_minmay_w
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Summonings     |     5     6  7 |  7.2
+Spellcasting   |        4     5 |  5.5
+Dodging        |                |  2.4
+Stealth        |                |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Whip              |    20 |    18 ||    38
+   Cast: Summon Small Mamm |    69 |    46 ||   115
+         Call Imp          |    14 |    13 ||    27
+    Use: Scroll            |     2 |     2 ||     4
+ Armour: Robe              |    13 |    13 ||    26
+  Dodge: Dodged            |    33 |    34 ||    67
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3454 |   3367 |     87 |      0 |   2448 |   5 |  690.8 |
+       Dungeon |   2825 |   2738 |     87 |      0 |   2122 |   4 |  706.2 |
+         Sewer |    629 |    629 |      0 |      0 |    325 |   1 |  629.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1501 daAuts
+     D:2: 902 daAuts
+   Sewer: 629 daAuts
+     D:3: 323 daAuts
+     D:5: 98 daAuts
+

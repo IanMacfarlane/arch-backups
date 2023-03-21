@@ -1,0 +1,262 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 15919366254791224939
+
+119 Bokogi the Shooter (level 4, -1/38 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Succumbed to an orc's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:11:00 (2313 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 2313, Time: 00:11:00
+
+Health: -1/38      AC:  7    Str: 15    XL:     4   Next: 74%
+Magic:  3/3        EV: 12    Int:  6    God:    
+Gold:   98         SH:  0    Dex: 16    Spells: 3/3 levels left
+
+rFire   + . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    e - scarf {repulsion}
+rCorr   .                        j - +2 pair of gloves
+Will    .....                    q - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                l - ring of protection from fire
+MPRegen 0.08/turn                (no ring)
+
+@: lethally poisoned (-1 -> -9), repel missiles
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 124 gold pieces.
+You spent 26 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ h - a +0 sling
+Missiles
+ i - a throwing net
+Armour
+ c - a +0 leather armour (worn)
+ e - a scarf of repulsion (worn)
+ j - a +2 pair of gloves (worn)
+ q - a +0 pair of boots (worn)
+Jewellery
+ l - a ring of protection from fire (left hand)
+Wands
+ o - a wand of polymorph (6)
+Scrolls
+ b - a scroll of immolation
+ g - a scroll of poison
+ n - 2 scrolls of teleportation
+Potions
+ d - a potion of heal wounds
+ f - 2 potions of mutation {unknown}
+ k - 2 potions of attraction {unknown}
+ m - a potion of haste {unknown}
+
+
+   Skills:
+ + Level 3.4 Fighting
+ + Level 5.8 Ranged Weapons
+ + Level 2.6 Dodging
+ * Level 1.7 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+Kikubaaqudgha
+Ru
+Trog
+
+Shops:
+D:2 ?
+
+Annotations:
+D:3 3 runed translucent doors, Bokogi's ghost, amateur MiWn
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You shoot an arrow. The arrow barely misses the orc. The arrow closely misses
+the goblin.
+The orc hits you with a +0 dagger. The orc misses you.
+The orc hits you with a +2 dagger of venom.
+You are poisoned.
+You feel very sick.
+The orc hits you with a +2 dagger of venom.
+You are more poisoned.
+You feel very sick.
+You shoot an arrow. The arrow closely misses the orc.
+The arrow hits the goblin but does no damage.
+You feel very sick.
+The orc hits you but does no damage.
+You shoot an arrow. The arrow hits the orc.
+You kill the orc!
+You feel very sick.
+You shoot an arrow. The arrow hits the goblin.
+The goblin is severely wounded.
+You feel very sick.
+The goblin hits you but does no damage. The goblin misses you.
+You shoot an arrow. The arrow hits the goblin.
+You kill the goblin!
+You feel sick. The giant cockroach barely misses you. You furiously retaliate!
+You headbutt the giant cockroach!
+You kill the giant cockroach!
+You shoot an arrow. The arrow barely misses the orc. You feel sick.
+The orc hits you but does no damage.
+You shoot an arrow. The arrow hits the orc.
+The orc is lightly wounded.
+You feel sick.
+The orc hits you with a +2 dagger of venom.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+You shoot an arrow. The arrow hits the orc.
+The orc is moderately wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The orc closely misses you.
+You shoot an arrow. The arrow hits the orc!
+You kill the orc!
+You die...
+
+         .#
+         .###
+        ....
+        ..#
+       ...
+#######.###
+#.........##
+#)#..<.....#
+#@#.###.#..#
+#)#.###.#  #
+#.......#
+#)#.#..##
+#.#.#  .#
+#..o.B>..
+#........
+#.#.#.#.#
+#.#......
+#...#.#.#
+#.. .(.$.
+### #.#.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 adders
+  A worm (D:2)
+  5 dart slugs
+  12 orcs
+  6 endoplasms
+  4 giant cockroaches
+  3 goblins
+  8 hobgoblins
+  A quokka (D:3)
+  7 ball pythons
+  12 bats
+  2 frilled lizards
+  8 kobolds
+  3 rats
+74 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    32 | D:1      | Reached skill level 1 in Stealth
+    43 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   371 | D:1      | Reached XP level 3. HP: 30/30 MP: 2/2
+   528 | D:1      | Reached skill level 5 in Ranged Weapons
+   859 | D:2      | Found Tioll's Magic Scroll Boutique.
+   864 | D:2      | Bought a scroll of identify for 26 gold pieces
+  1070 | D:2      | Found a bloodstained altar of Trog.
+  1341 | D:2      | Identified the +1 whip "Zoneinn" {antimagic, rElec rPois}
+  1500 | D:3      | Found a sacrificial altar of Ru.
+  1514 | D:3      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1528 | D:3      | Found a runed translucent gate.
+  1754 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  1900 | D:3      | Found a runed translucent gate.
+  1900 | D:3      | Found a runed translucent gate.
+  1903 | D:3      | Noticed Bokogi's ghost (amateur MiWn)
+  2089 | D:3      | Found a white marble altar of Elyvilon.
+  2312 | D:4      | HP: 1/38 [poisoned by an orc]
+  2313 | D:4      | Succumbed to an orc's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      evilmike_arrival_plus, layout_basic, chequers_mini_garden,
+          minmay_tetromino_l4
+D:2:      layout_basic, serial_shops, shop, basic_altar, uniq_crazy_yiuf_cottage
+D:3:      layout_basic, lemuel_crystal_altar, mainiacjoe_overflow_paths,
+          mainiacjoe_overflow_alcove_4, biasface_ghost_orc_armoury
+D:4:      layout_loops_corners, grunt_qazlal_sundering,
+          mainiacjoe_overflow_chevrons, mainiacjoe_overflow_alcove_2,
+          jmf_multi_god_temple, minmay_temple_entry_trees,
+          serial_co_window_serial, co_window_paths_a, co_window_corner_a,
+          co_window_paths_a, co_window_of_opportunity_a,
+          co_window_of_opportunity_a, co_window_unsneaky_path_a,
+          co_window_broadway_c, co_window_unsneaky_path_c,
+          co_window_unsneaky_path_e, co_window_unsneaky_path_a, glass_columns_c
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  1       |  1.7
+Ranged Weapons |        5 |  5.8
+Fighting       |        3 |  3.4
+Dodging        |          |  2.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |   110 |    66 ||   176
+         Sling             |    14 |       ||    14
+    Use: Scroll            |     3 |     2 ||     5
+ Armour: Leather armour    |    26 |    10 ||    36
+  Dodge: Dodged            |    56 |    12 ||    68
+         Repelled          |     1 |       ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2362 |   2272 |     90 |      0 |   1755 |   4 |  590.5 |
+       Dungeon |   2362 |   2272 |     90 |      0 |   1755 |   4 |  590.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 884 daAuts
+     D:3: 803 daAuts
+     D:2: 644 daAuts
+     D:4: 29 daAuts
+

@@ -1,0 +1,109 @@
+Strahd
+
+Level 1 of the Dungeon
+[Shop] Fiuthreti's Antique Weapon Shop
+  a +0 flail (87 gold)
+  the +7 battleaxe "Licwoel" {elec, rF+ rC- Str+2} (1560 gold)
+    Str:       It affects your strength (+2).
+    rF:        It protects you from fire.
+    rC:        It makes you vulnerable to cold.
+  a +0 club (25 gold)
+  a +0 mace (75 gold)
+  a +2 dagger of venom (360 gold)
+  a +0 mace (75 gold)
+  a +1 war axe of freezing (332 gold)
+  a +3 dagger (475 gold)
+  a +0 whip (62 gold)
+  a +0 sling (37 gold)
+(0, 0, D:1)
+  a +0 dagger
+(0, 8, D:1)
+  5 boomerangs
+(0, 10, D:1)
+  5 stones
+(4, -10, D:1)
+  a +0 scale mail
+(9, 2, D:1)
+  a +0 sling
+(18, -17, D:1)
+  a +0 club
+(29, 19, D:1)
+  a +0 hand axe
+(29, 31, D:1)
+  a +0 sling
+(33, 23, D:1)
+  a +0 robe
+(43, 7, D:1)
+  a +0 short sword
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 ring mail
+(0, 7, D:2)
+  a +0 chain mail
+(8, -20, D:2)
+  a +0 club
+(8, -15, D:2)
+  a +0 scale mail
+(24, 7, D:2)
+  a +0 war axe
+(30, -2, D:2)
+  7 stones
+(42, -4, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 whip
+(11, 0, D:3)
+  a +0 chain mail
+(14, 18, D:3)
+  3 boomerangs of dispersal
+(16, 9, D:3)
+  a +0 club
+
+Level 5 of the Dungeon
+[Shop] Taer's Neck Hole
+  (Shop contents are unknown)
+(0, 0, D:5)
+  10 gold pieces
+(1, 0, D:5)
+  a +5 ring of evasion
+(1, 5, D:5)
+  a potion of lignification
+(7, 5, D:5)
+  a book of Minor Magic
+(10, 19, D:5)
+  a scroll of vulnerability
+(14, -3, D:5)
+  a scroll of blinking
+(15, -6, D:5)
+  8 gold pieces
+
+a sewer
+(0, 0, Sewer)
+  a rat corpse (skeletalised by now)
+  a rat corpse (skeletalised by now)
+  a ball python corpse (skeletalised by now)
+(4, -6, Sewer)
+  a river rat skeleton
+(14, 4, Sewer)
+  a +0 dagger
+(14, 5, Sewer)
+  a +0 robe
+(18, 4, Sewer)
+  an adder corpse
+(18, 5, Sewer)
+  a rat corpse
+(19, 6, Sewer)
+  a rat corpse
+  an adder corpse
+(20, 4, Sewer)
+  a rat corpse
+(22, 7, Sewer)
+  a rat corpse
+(25, 12, Sewer)
+  a rat corpse
+(26, 9, Sewer)
+  a frilled lizard corpse
+

@@ -1,0 +1,450 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6928027461273903639
+
+5021 Bokogi the Grappler (level 10, -20/107 HPs)
+             Began as a Troll Gladiator on Mar 14, 2023.
+             Was a Believer of the Shining One.
+             Demolished by a red ugly thing (23 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:32:57 (7713 turns).
+
+Bokogi the Grappler (Troll Gladiator)               Turns: 7713, Time: 00:32:57
+
+Health: -20/107    AC:  8    Str: 28    XL:     10   Next: 30%
+Magic:  6/9        EV: 10    Int:  7    God:    the Shining One [**....]
+Gold:   277        SH:  6    Dex: 11    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis +      - Unarmed
+rCold   + . .      Faith    .    (no shield)
+rNeg    + + .      Spirit   .    E - +0 steam dragon scales
+rPois   .          Reflect  .    b - +0 hat
+rElec   .          Rampage  .    h - +0 cloak
+rCorr   .                        (gloves unavailable)
+Will    +....                    (boots unavailable)
+Stlth   +                        (no amulet)
+HPRegen 1.17/turn                m - ring "Coqis" {rC+ rN+ Will+ Int+3}
+MPRegen 0.11/turn                B - ring of see invisible
+
+@: divinely shielded, glowing
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion, Divine Shield
+
+
+You were on level 8 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was pleased with you.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 568 gold pieces.
+You spent 291 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ c - 2 throwing nets
+ d - a large rock (quivered)
+ w - a curare-tipped dart
+Armour
+ b - a +0 hat (worn)
+ h - a +0 cloak (worn)
+ E - +0 steam dragon scales (worn)
+Jewellery
+ m - the ring "Coqis" (left claw) {rC+ rN+ Will+ Int+3}
+   (You found it on level 2 of the Dungeon)   
+   
+   [ring of positive energy]
+   
+   Int:       It affects your intelligence (+3).
+   rC:        It protects you from cold.
+   rN:        It protects you from negative energy.
+   Will:      It increases your willpower.
+ y - a ring of magical power
+ B - a ring of see invisible (right claw)
+Wands
+ k - a wand of acid (21)
+ C - a wand of mindburst (10)
+Scrolls
+ e - a scroll of immolation
+ l - 2 scrolls of poison
+ o - 2 scrolls of fog
+ r - 4 scrolls of blinking
+ t - a scroll of butterflies {unknown}
+ u - 2 scrolls of fear
+ v - 9 scrolls of teleportation
+ z - a scroll of enchant armour {unknown}
+ A - a scroll of acquirement {unknown}
+Potions
+ a - a potion of brilliance {unknown}
+ f - 2 potions of mutation
+ g - 4 potions of curing
+ i - 2 potions of heal wounds
+ j - 3 potions of degeneration {unknown}
+ n - 2 potions of flight {unknown}
+ p - a potion of ambrosia {unknown}
+ q - a potion of berserk rage {unknown}
+ s - 2 potions of attraction {unknown}
+ x - 2 potions of might
+ D - a potion of invisibility {unknown}
+
+
+   Skills:
+ + Level 9.2 Fighting
+ - Level 1.7 Throwing
+ - Level 2.4 Dodging
+ * Level 11.3 Unarmed Combat
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Kiss of Death            Conj/Necr      0%         2d5       43%         1
+ Shock                    Conj/Air       0%         1d3       43%         1
+ Sting                    Tmut/Pois      0%         1d3       43%         1
+ Poisonous Vapours        Pois/Air       0%         N/A       56%         2
+ Scorch                   Fire           0%         2d5       56%         2
+ Call Canine Familiar     Summ           0%         N/A       80%         3
+ Confusing Touch          Hex            0%         N/A       80%         3
+ Portal Projectile        Hex/Tloc       0%         N/A       80%         3
+ Swiftness                Air            0%         N/A       80%         3
+ Airstrike                Air            0%         2d(0-16)  99%         4
+ Dispel Undead            Necr           0%         3d6       99%         4
+ Flame Wave               Conj/Fire      0%         2d4       99%         4
+ Leda's Liquefaction      Hex/Erth       0%         N/A       99%         4
+ Olgreb's Toxic Radiance  Pois           0%         N/A       99%         4
+ Summon Cactus Giant      Summ           0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:2 [   D:5 *?(=   D:6 *   D:8 ?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You mangle the centaur warrior!!
+The centaur warrior is heavily wounded.
+The centaur warrior hits you! The centaur warrior kicks you.
+You claw the centaur warrior!
+The centaur warrior is severely wounded.
+The centaur warrior hits you but does no damage.
+The centaur warrior barely misses you.
+You mangle the centaur warrior!!
+You kill the centaur warrior!
+Your Fighting skill increases to level 9!
+Your Unarmed Combat skill increases to level 11!
+Really read the scroll of immolation? 
+As you read the scroll of immolation, it crumbles to dust.
+The creatures around you are filled with an inner flame!
+You mangle the cyclops!! Flame seeps out of the cyclops. You claw the cyclops!
+The cyclops explodes!
+The fiery explosion engulfs you!!!
+The fiery explosion engulfs the red ugly thing!!
+The red ugly thing resists.
+The red ugly thing is heavily wounded.
+The fiery explosion engulfs the steelbarb worm!
+The steelbarb worm resists.
+The steelbarb worm is lightly wounded.
+The fiery explosion engulfs the skeletal warrior!!
+The skeletal warrior is heavily damaged.
+The fiery explosion engulfs the ogre mage!!
+The ogre mage is heavily wounded.
+You are engulfed in blazing flames.
+A divine shield forms around you! You are engulfed in blazing flames.
+* * * LOW HITPOINT WARNING * * *
+The red ugly thing is engulfed in blazing flames.
+The red ugly thing engulfs you.
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in flames!!
+* * * LOW HITPOINT WARNING * * *
+The red ugly thing attacks as you move away!
+The red ugly thing engulfs you.
+* * * LOW HITPOINT WARNING * * *
+You are engulfed in flames!!
+You die...
+
+##...#................#....#...........
+.....#................#....#...........
+.....#.....#######...>####.............
+###+##.....#.....##+##....#############
+.....#.....#......#..'....#
+.....#.....#......#..#....#
+.....#.....#.....##..#....#          ##
+.....#.....#.##.###########          #.
+.....#.....#.#...#...#...#           #.
+.....+.....#.#.#..##.#...#           #.
+.....#.....'.#...###.##..#   #########.
+.....#.....#.##.###@###..#####.........
+.....#.....#.#.###u####....(...#.....#.
+.....#.....###.##§#wY"#........#.....'.
+.....#.......#...##zO[#........#.....#.
+####'#.......######H)##....##..#.....##
+..................#####....##..####....
+......###'#...........#...........+....
+......#..<########....#...........#....
+......#....#.....#....#...........#....
+......#...##.....#....#############....
+......######.....+.............#..#....
+......#..........#.............#..#....
+
+
+You could see a catoblepas, a steelbarb worm, a red ugly thing, a skeletal
+warrior, an ogre mage and a manticore.
+
+Vanquished Creatures
+  A centaur warrior (D:8)
+  A cyclops (D:8)
+  A hornet (D:6)
+  Grum (D:6)
+  A steam dragon (D:8)
+  Eustachio (D:6)
+  Menkaure (D:4)
+  Edmund (D:6)
+  A water moccasin (D:7)
+  2 ice beasts
+  2 orc warriors (D:8)
+  A sky beast (D:6)
+  An ogre (D:7)
+  A wolf (D:6)
+  A phantom (D:5)
+  A kobold brigand (D:6)
+  Blork the orc (D:6)
+  2 gnoll sergeants
+  A bullfrog (D:8)
+  A necrophage (D:5)
+  3 scorpions
+  A water moccasin zombie (D:5)
+  8 wights
+  A howler monkey (D:8)
+  2 bullfrog zombies (D:5)
+  20 hounds
+  A human zombie (D:5)
+  A centaur zombie (D:5)
+  2 jellies (D:5)
+  2 sleepcaps
+  Terence (D:2)
+  2 iguanas (D:5)
+  6 orc wizards
+  A scorpion zombie (D:5)
+  A killer bee zombie (D:5)
+  A mummy (D:5)
+  A howler monkey zombie (D:5)
+  17 gnolls
+  3 adders
+  A shadow imp (D:5)
+  A white imp (D:6)
+  An adder zombie (D:5)
+  2 worms
+  A dart slug (D:1)
+  10 orcs
+  5 endoplasms
+  5 giant cockroaches
+  2 goblins
+  2 hobgoblins
+  18 jackals
+  9 kobolds
+  3 quokkas
+  4 ball pythons
+  A bat (D:1)
+  A frilled lizard (D:3)
+  2 rats
+165 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   180 | D:1      | Reached XP level 2. HP: 28/28 MP: 1/1
+   745 | D:2      | Noticed Terence
+   751 | D:2      | Killed Terence
+   752 | D:2      | Reached skill level 4 in Unarmed Combat
+   752 | D:2      | Reached XP level 3. HP: 18/35 MP: 2/2
+  1002 | D:2      | Identified the ring "Coqis" {rC+ rN+ Will+ Int+3}
+  1176 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+  1417 | D:2      | Found Ceri's Armour Shoppe.
+  2327 | D:4      | Noticed a scorpion
+  2336 | D:4      | Killed a scorpion
+  2337 | D:4      | Reached skill level 5 in Unarmed Combat
+  2337 | D:4      | Reached XP level 5. HP: 43/50 MP: 4/4
+  2515 | D:4      | Noticed Menkaure
+  2520 | D:4      | Killed Menkaure
+  2521 | D:4      | Reached skill level 6 in Unarmed Combat
+  2521 | D:4      | Reached XP level 6. HP: 61/61 MP: 5/5
+  2902 | D:4      | Found a staircase to the Ecumenical Temple.
+  3053 | Temple   | Entered the Ecumenical Temple
+  3053 | Temple   | Found a transporter.
+  3053 | Temple   | Found a transporter.
+  3055 | Temple   | Found a transporter.
+  3055 | Temple   | Found a transporter.
+  3110 | Temple   | Became a worshipper of the Shining One
+  3410 | D:5      | Entered Level 5 of the Dungeon
+  3442 | D:5      | Found Qeluiw's Weapon Boutique.
+  3461 | D:5      | Found Lepan's Assorted Antiques.
+  3572 | D:5      | Identified the +1 ring mail of Vyoqustre {Drain rC++
+                  | Stlth+}
+  3582 | D:5      | Noticed an ice beast
+  3587 | D:5      | Killed an ice beast
+  3599 | D:5      | Reached XP level 7. HP: 66/68 MP: 6/6
+  3788 | D:5      | Found Jameunn's Magic Scroll Emporium.
+  3799 | D:5      | Bought a scroll of identify for 22 gold pieces
+  3799 | D:5      | Bought a scroll of immolation for 44 gold pieces
+  3799 | D:5      | Bought a scroll of identify for 22 gold pieces
+  3799 | D:5      | Bought a scroll of teleportation for 33 gold pieces
+  3799 | D:5      | Bought a scroll of poison for 44 gold pieces
+  3859 | D:5      | Reached skill level 7 in Unarmed Combat
+  4224 | D:5      | Reached skill level 8 in Unarmed Combat
+  4226 | D:5      | Reached * piety under the Shining One
+  4258 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  4320 | D:5      | Reached XP level 8. HP: 29/79 MP: 7/7
+  4437 | D:5      | Found Tufioss's Jewellery Emporium.
+  5030 | D:6      | Noticed Eustachio
+  5046 | D:6      | Killed Eustachio
+  5047 | D:6      | Reached skill level 5 in Fighting
+  5047 | D:6      | Reached skill level 9 in Unarmed Combat
+  5083 | D:6      | Noticed Edmund
+  5093 | D:6      | Killed Edmund
+  5128 | D:6      | Found a broken altar of Ashenzari.
+  5128 | D:6      | Found a bloodstained altar of Trog.
+  5128 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  5198 | D:6      | Noticed a hornet
+  5204 | D:6      | Noticed Blork the orc
+  5206 | D:6      | Killed a hornet
+  5207 | D:6      | Reached skill level 10 in Unarmed Combat
+  5339 | D:6      | Reached XP level 9. HP: 78/89 MP: 8/8
+  5341 | D:6      | Noticed Grum
+  5355 | D:6      | HP: 4/89 [Grum/+0 spear (3)]
+  5442 | D:6      | Killed Grum
+  5476 | D:6      | Killed Blork the orc
+  5597 | D:6      | Found Fismurirgh's Neck Hole.
+  5754 | D:6      | Found a basalt altar of Yredelemnul.
+  6090 | D:7      | Reached ** piety under the Shining One
+  7052 | D:8      | Noticed a centaur warrior
+  7052 | D:8      | Noticed a red ugly thing
+  7052 | D:8      | Noticed a skeletal warrior
+  7053 | D:8      | Found a runed translucent door.
+  7055 | D:8      | Noticed a cyclops
+  7055 | D:8      | Noticed a komodo dragon
+  7055 | D:8      | Noticed a catoblepas
+  7055 | D:8      | Noticed an ogre mage
+  7055 | D:8      | Noticed a manticore
+  7097 | D:8      | Found Oxus Ell's Magic Scroll Boutique.
+  7106 | D:8      | Bought a scroll of fog for 56 gold pieces
+  7106 | D:8      | Bought a scroll of identify for 28 gold pieces
+  7106 | D:8      | Bought a scroll of teleportation for 42 gold pieces
+  7182 | D:8      | Reached XP level 10. HP: 106/106 MP: 9/9
+  7705 | D:8      | Noticed a steelbarb worm
+  7709 | D:8      | Killed a centaur warrior
+  7710 | D:8      | Reached skill level 11 in Unarmed Combat
+  7711 | D:8      | Killed a cyclops
+  7713 | D:8      | HP: 3/107 [red ugly thing (4)]
+  7713 | D:8      | Demolished by a red ugly thing
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_water_star, layout_basic, hex_medium
+D:2:      layout_basic, serial_shops, shop, uniq_terence
+D:3:      layout_loops_cross, kennysheep_another_room, nrook_mini_vaults,
+          patterned_corridor
+D:4:      layout_cave_pods, lemuel_temple_firewalk_b, uniq_menkaure
+D:5:      layout_layer_cave, lemuel_mausoleum_altar_kikubaaqudgha, serial_shops,
+          nicolae_diamond_shop, shop, nicolae_shop_advertising_works
+          [nicolae_subvault_shop_adworks], nicolae_shop_hallway_plus
+D:6:      layout_cave_pools, gammafunk_temple_overflow_forgotten,
+          nicolae_overflow_crystal_walls, serial_gnoll_camp,
+          gnoll_camp_mini_doghouse, gnoll_camp_mini_doghouse,
+          gnoll_camp_mini_doghouse, grums_kennel, gnoll_camp_mini_house,
+          gnoll_camp_mini_doghouse, nicolae_shop_sticking_my_neck_out,
+          uniq_eustachio, uniq_blork_the_orc, uniq_edmund
+D:7:      layout_basic
+D:8:      minmay_gate_of_8, layout_gridville, serial_shops, shop
+Temple:   hellmonk_temple_divided_pantheon
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |     2        3     4  6  8  9 |  9.2
+Unarmed Combat |     4     5  6     8 10    11 | 11.3
+Throwing       |                               |  1.7
+Dodging        |                               |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |    71 |    71 |   256 |    16 ||   414
+         Punch             |     2 |     1 |    21 |     2 ||    26
+  Throw: Throwing net      |       |     1 |       |       ||     1
+         Large rock        |       |       |     1 |       ||     1
+ Invoke: Divine Shield     |       |       |     1 |     1 ||     2
+    Use: Scroll            |       |     4 |     5 |     1 ||    10
+         Potion            |       |       |     2 |       ||     2
+   Stab: Sleeping          |     2 |       |       |       ||     2
+ Armour: Robe              |    24 |    20 |    71 |       ||   115
+         Steam dragon scal |       |       |       |     8 ||     8
+  Dodge: Dodged            |    27 |    23 |   133 |     3 ||   186
+  Block: Other             |       |       |     6 |       ||     6
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7664 |   7266 |    398 |      0 |   5944 |   9 |  851.6 |
+       Dungeon |   7577 |   7188 |    389 |      0 |   5944 |   8 |  947.1 |
+        Temple |     86 |     77 |      9 |      0 |      0 |   1 |   86.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1687 daAuts
+     D:4: 1048 daAuts
+     D:2: 907 daAuts
+     D:6: 854 daAuts
+     D:8: 845 daAuts
+     D:7: 806 daAuts
+     D:3: 790 daAuts
+     D:1: 636 daAuts
+  Temple: 86 daAuts
+

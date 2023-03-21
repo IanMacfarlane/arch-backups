@@ -1,0 +1,149 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  6 stones
+(1, 7, D:1)
+  a +0 sling
+(11, -1, D:1)
+  a +0 club
+  2 stones
+(13, 17, D:1)
+  a +0 club
+(20, 7, D:1)
+  a +0 short sword
+(23, -16, D:1)
+  2 stones
+(27, 2, D:1)
+  a +1 whip of flaming
+(32, 5, D:1)
+  7 stones
+(42, 0, D:1)
+  4 stones
+(43, 18, D:1)
+  a +0 whip
+(45, 1, D:1)
+  5 poisoned darts
+(46, -14, D:1)
+  a +0 dagger
+(47, -11, D:1)
+  a +0 whip
+(51, 11, D:1)
+  a +0 club
+  3 stones
+(58, -1, D:1)
+  a +0 trident
+
+Level 2 of the Dungeon
+[Shop] Tioll's Magic Scroll Boutique
+  a scroll of noise (13 gold)
+  a scroll of enchant weapon (97 gold)
+  a scroll of immolation (52 gold)
+  a scroll of magic mapping (97 gold)
+  a scroll of magic mapping (97 gold)
+  a scroll of immolation (52 gold)
+  a scroll of poison (52 gold)
+(0, 0, D:2)
+  a +0 spear
+(0, 17, D:2)
+  4 stones
+(2, 3, D:2)
+  a +0 short sword
+(4, -1, D:2)
+  a +0 robe
+(4, 38, D:2)
+  the +1 whip "Zoneinn" {antimagic, rElec rPois}
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+(13, 9, D:2)
+  a +0 club
+  4 stones
+(19, 28, D:2)
+  3 stones
+(23, 24, D:2)
+  a +0 sling
+(45, 41, D:2)
+  3 poisoned darts
+(46, 34, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  2 boomerangs
+(2, -2, D:3)
+  a +0 whip
+(2, 28, D:3)
+  a +0 pair of gloves
+(10, -12, D:3)
+  a +0 long sword
+(15, 25, D:3)
+  a +0 short sword
+(15, 26, D:3)
+  a +0 sling
+  a +0 spear
+(16, 1, D:3)
+  a +0 hand axe
+  a +0 leather armour
+(17, 0, D:3)
+  a +0 flail
+(18, 5, D:3)
+  a +0 dagger
+(19, -10, D:3)
+  a +0 club
+(23, -14, D:3)
+  a +0 whip
+(27, 21, D:3)
+  a scarf of harm
+  (unseen)
+(28, 7, D:3)
+  an orb of wrath
+(29, 21, D:3)
+  a +0 helmet
+(32, -3, D:3)
+  a +0 kite shield
+(35, 23, D:3)
+  a +0 mace
+  a +0 ring mail
+  a ball python corpse (skeletalised by now)
+(36, 25, D:3)
+  a +0 flail
+  a +0 leather armour
+(36, 30, D:3)
+  2 stones
+(37, 22, D:3)
+  a +0 war axe
+  an orc corpse (skeletalised by now)
+(39, 22, D:3)
+  a +0 dagger
+(40, 22, D:3)
+  a +0 dagger
+  a +0 leather armour
+  an orc corpse (skeletalised by now)
+(43, 23, D:3)
+  a +0 spear
+(49, 4, D:3)
+  a ball python corpse (skeletalised by now)
+(54, -2, D:3)
+  a +0 war axe
+(54, 8, D:3)
+  a +0 rapier
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +2 dagger of venom
+  (unseen)
+(0, 2, D:4)
+  a +0 club
+  a +0 dagger
+  a +0 leather armour
+  a goblin corpse
+  an orc corpse
+(0, 4, D:4)
+  a +0 mace
+  a +0 ring mail
+  an orc corpse
+(4, 11, D:4)
+  4 stones
+(6, 11, D:4)
+  17 gold pieces
+

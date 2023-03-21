@@ -1,0 +1,223 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(3, 8, D:1)
+  a +0 dagger
+(34, 24, D:1)
+  a +0 club
+  5 stones
+(36, -26, D:1)
+  a +0 short sword
+  a stone
+(37, 19, D:1)
+  a +0 club
+(54, -28, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(2, 23, D:2)
+  a +0 short sword
+  3 stones
+(3, 6, D:2)
+  a scroll of torment
+(10, 11, D:2)
+  a +0 ring mail
+(14, 15, D:2)
+  a +0 dagger
+(17, 31, D:2)
+  a +0 club
+(22, 42, D:2)
+  3 stones
+(26, 18, D:2)
+  a +0 mace
+(27, 27, D:2)
+  a +0 dagger
+(30, 22, D:2)
+  9 stones
+(30, 31, D:2)
+  a +0 sling
+(31, 0, D:2)
+  a +0 club
+(39, 33, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 whip
+(6, -31, D:3)
+  a +2 short sword of venom
+(9, -31, D:3)
+  a +0 robe
+(15, -29, D:3)
+  a +0 club
+(23, -6, D:3)
+  a +0 chain mail
+(24, 12, D:3)
+  a +0 club
+(28, 0, D:3)
+  7 stones
+(28, 1, D:3)
+  a +0 whip
+  a +0 leather armour
+(31, 3, D:3)
+  a +0 club
+(31, 4, D:3)
+  a +0 mace
+  a +0 leather armour
+  a +0 flail
+  a +0 short sword
+(32, 7, D:3)
+  a +0 flail
+  2 boomerangs
+(39, 5, D:3)
+  a +0 hand axe
+(53, -11, D:3)
+  a +0 whip
+(53, 4, D:3)
+  a +0 club
+(54, -14, D:3)
+  a +0 short sword
+  a stone
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 helmet
+(1, 3, D:4)
+  a +0 club
+(2, 0, D:4)
+  a +2 antimagic short sword
+  a +0 short sword
+  a +0 animal skin
+  a +0 hand axe
+(3, 3, D:4)
+  a +0 dagger
+(4, 1, D:4)
+  a +0 dagger
+(5, 1, D:4)
+  a +0 club
+(5, 2, D:4)
+  a +0 dagger
+(6, 0, D:4)
+  a +0 club
+(14, 15, D:4)
+  a +0 club
+(17, 15, D:4)
+  a +0 club
+  a +0 dagger
+(18, 21, D:4)
+  a +0 flail
+(20, 3, D:4)
+  a +0 spear
+(26, 7, D:4)
+  a +0 sling
+  a +0 club
+(42, 16, D:4)
+  a +0 dagger
+(44, 1, D:4)
+  a +0 helmet
+(44, 19, D:4)
+  a +0 club
+(44, 46, D:4)
+  a +0 robe
+(50, 1, D:4)
+  a +0 short sword
+(57, 18, D:4)
+  a +0 pair of gloves
+(59, 10, D:4)
+  a +0 leather armour
+(60, 9, D:4)
+  a +0 whip
+(60, 14, D:4)
+  3 poisoned darts
+(60, 37, D:4)
+  a +0 spear
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 dagger
+  a +0 robe
+(1, -2, D:5)
+  a +0 dagger
+  a +0 robe
+(2, -5, D:5)
+  a +0 scale mail
+(2, -2, D:5)
+  a +0 dagger
+  a +0 robe
+(4, 8, D:5)
+  a +0 club
+  a +0 club
+  a +0 scale mail
+  a +0 mace
+(5, 9, D:5)
+  a +0 hand axe
+  3 boomerangs
+(5, 11, D:5)
+  a +0 short sword
+(12, 34, D:5)
+  a +0 robe
+(13, 23, D:5)
+  a +0 giant club
+(16, 18, D:5)
+  4 stones
+(24, 23, D:5)
+  a ring of poison resistance
+(27, 21, D:5)
+  a +0 leather armour
+(47, 12, D:5)
+  a +0 scale mail
+(50, 13, D:5)
+  a +0 hand axe
+(50, 14, D:5)
+  a +0 dagger
+(57, -8, D:5)
+  a +0 giant club
+(58, 23, D:5)
+  a +4 quarterstaff of chaos
+(59, -13, D:5)
+  5 stones
+(59, 26, D:5)
+  a +2 hammer of protection
+
+Level 6 of the Dungeon
+(9, -3, D:6)
+  a +0 ring mail
+(10, 16, D:6)
+  6 stones
+(15, 0, D:6)
+  a +0 giant spiked club
+(18, 19, D:6)
+  a +0 scale mail
+(18, 26, D:6)
+  a +0 helmet
+(30, 18, D:6)
+  5 poisoned darts
+(45, 6, D:6)
+  a +0 quarterstaff
+(45, 21, D:6)
+  a +0 sling
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 mace
+  a +0 ring mail
+(3, -1, D:7)
+  a +0 whip
+  an orc corpse (skeletalised by now)
+(7, 0, D:7)
+  a +0 club
+  a +0 scale mail
+  a +0 dagger
+  a +0 robe
+(8, 1, D:7)
+  a +0 whip
+  an orc corpse
+(10, 3, D:7)
+  2 stones
+
+the Ecumenical Temple
+

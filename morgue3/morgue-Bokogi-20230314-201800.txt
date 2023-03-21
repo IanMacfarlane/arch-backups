@@ -1,0 +1,247 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 1083480395828466793
+
+184 Bokogi the Shooter (level 5, 0/32 HPs)
+             Began as a Deep Elf Hunter on Mar 14, 2023.
+             Constricted to death by Ijyb (6 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:05:47 (2289 turns).
+
+Bokogi the Shooter (Deep Elf Hunter)                Turns: 2289, Time: 00:05:48
+
+Health: 0/32       AC:  3    Str:  8    XL:     5   Next: 36%
+Magic:  7/7        EV: 10    Int: 14    God:    
+Gold:   108        SH:  0    Dex: 20    Spells: 4/4 levels left
+
+rFire   x . .      SeeInvis .    a - +0 shortbow
+rCold   + . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.25/turn                q - ring of ice
+MPRegen 0.10/turn                (no ring)
+
+@: confused, ambrosia-drunk, grasped by roots, constricted
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 108 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ q - a ring of ice (left hand)
+Wands
+ o - a wand of quicksilver (8)
+Scrolls
+ b - a scroll of immolation
+ f - a scroll of enchant armour {unknown}
+ g - 3 scrolls of identify {unknown}
+ h - a scroll of vulnerability {unknown}
+ j - a scroll of noise
+ k - a scroll of enchant weapon {unknown}
+ m - a scroll of magic mapping {unknown}
+ n - a scroll of fear {unknown}
+ r - a scroll of teleportation {unknown}
+Potions
+ d - 2 potions of brilliance {unknown}
+ e - 2 potions of magic {unknown}
+ l - a potion of heal wounds {unknown}
+ p - 2 potions of mutation {unknown}
+ s - a potion of might {unknown}
+
+
+   Skills:
+ + Level 2.8 Fighting
+ * Level 7.4 Ranged Weapons
+ - Level 3.0 Dodging
+ - Level 2.1 Stealth
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sting                    Tmut/Pois      0%         1d3       38%         1
+ Poisonous Vapours        Pois/Air       0%         N/A       54%         2
+ Olgreb's Toxic Radiance  Pois           0%         N/A       99%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:3 Ijyb
+
+Message History
+
+Ijyb is unaffected. The grasping roots constrict you. Ijyb closely misses you.
+The grasping roots constrict you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You shoot an arrow. The arrow closely misses Ijyb. Ijyb hits you with a +0
+club.
+The grasping roots constrict you.
+* * * LOW HITPOINT WARNING * * *
+The grasping roots release their grip on you.
+You shoot an arrow. The arrow closely misses Ijyb. Ijyb closely misses you.
+You shoot an arrow. The arrow closely misses Ijyb. Ijyb barely misses you.
+Move the cursor to view the level map, or type ? for a list of commands.
+Assign waypoint to what number? (0-9) 
+Okay, then.
+Returning to the game...
+Okay, then.
+Your movement speed is average. Your attack delay is about 1.1.
+Your damage rating with your +0 shortbow is about 13 (Base 9 x 125% (Dex) x
+119% (Skill)).
+Unknown command.
+Unknown command.
+Okay, then.
+Okay, then.
+Ijyb barely misses you.
+You climb upwards.
+There is a stone staircase leading down here.
+It was a potion of ambrosia.
+You are confused.
+You feel invigorated. Ijyb zaps a wand. The roots erupt in riotous growth!
+The grasping roots grab you!
+Ijyb is unaffected. The grasping roots constrict you!
+* * * LOW HITPOINT WARNING * * *
+You bump into the rock wall. Ijyb hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The grasping roots constrict you.
+* * * LOW HITPOINT WARNING * * *
+You clumsily bash Ijyb but do no damage.
+Ijyb hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The grasping roots constrict you.
+You die...
+
+......###.............#....# ###..#....
+......# ###.........#......#   #..###.#
+#######   #.####....#......#   #).#....
+          #.#..............#####..#####
+         ##.#.####.###.........#..#
+    ######.................###.#..#
+#####.......#.####..##.##..#...#..#
+............#.#............#.###..#
+............#.#.##........##......#
+............+.#.##...<.##.........#
+............#'#)##g.###############
+.....#.........)##.@#
+.....#.........######
+.†...#.........#
+.....#.........#
+.....######.####
+.....#    #.#
+######    #.#
+          #.#
+          #.#
+          #.#
+          #.#
+          #<#
+
+
+You could see Ijyb.
+
+Vanquished Creatures
+  2 orc priests (D:3)
+  4 adders
+  A gnoll (D:2)
+  A dart slug (D:3)
+  13 orcs (D:3)
+  8 endoplasms
+  A giant cockroach (D:1)
+  9 goblins
+  2 hobgoblins
+  6 ball pythons
+  4 bats
+  2 frilled lizards (D:2)
+  6 kobolds
+  5 rats
+64 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 plants (D:3)
+3 creatures vanquished.
+
+Grand Total: 67 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 3/3
+   107 | D:1      | Reached XP level 2. HP: 17/17 MP: 4/4
+   773 | D:2      | Reached XP level 3. HP: 21/21 MP: 5/5
+   823 | D:2      | Reached skill level 6 in Ranged Weapons
+  1171 | D:2      | Reached XP level 4. HP: 26/26 MP: 6/6
+  1648 | D:3      | Reached skill level 7 in Ranged Weapons
+  1648 | D:3      | Reached XP level 5. HP: 31/31 MP: 7/7
+  2275 | D:4      | Noticed Ijyb
+  2288 | D:3      | HP: 1/32 [constriction (5)]
+  2289 | D:3      | Constricted to death by Ijyb
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue_3, layout_loops_ring
+D:2:      layout_loops_ring, minmay_ruptured
+D:3:      cheibrodos_old_hovel, layout_basic
+D:4:      layout_loops_cross, uniq_sigmund, uniq_ijyb, uniq_eustachio
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Stealth        |     2       |  2.1
+Dodging        |     3       |  3.0
+Fighting       |     2       |  2.8
+Ranged Weapons |        6  7 |  7.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Shortbow          |       |     1 ||     1
+   Fire: Shortbow          |    78 |    76 ||   154
+    Use: Scroll            |       |     1 ||     1
+         Potion            |       |     1 ||     1
+ Armour: Leather armour    |     4 |     1 ||     5
+  Dodge: Dodged            |    10 |    25 ||    35
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2325 |   2218 |    107 |      0 |   1861 |   4 |  581.2 |
+       Dungeon |   2325 |   2218 |    107 |      0 |   1861 |   4 |  581.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 902 daAuts
+     D:2: 711 daAuts
+     D:1: 694 daAuts
+     D:4: 16 daAuts
+

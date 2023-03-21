@@ -1,0 +1,316 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6397195229068042315
+
+735 Bokogi the Spear-Bearer (level 7, 0/54 HPs)
+             Began as a Merfolk Gladiator on Mar 13, 2023.
+             Slain by an orc warrior
+             ... wielding a +0 dire flail
+              (14 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:14:28 (3603 turns).
+
+Bokogi the Spear-Bearer (Merfolk Gladiator)         Turns: 3603, Time: 00:14:29
+
+Health: 0/54       AC: 13    Str: 16    XL:     7   Next: 74%
+Magic:  7/7        EV:  8    Int: 11    God:    
+Gold:   308        SH:  0    Dex: 14    Spells: 6/6 levels left
+
+rFire   . . .      SeeInvis .    a - +0 trident
+rCold   . . .      Faith    .    (no shield)
+rNeg    + . .      Spirit   .    y - +0 chain mail
+rPois   .          Reflect  .    (helmet restricted)
+rElec   +          Rampage  .    s - +0 cloak
+rCorr   .                        b - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.29/turn                m - ring "Eceg" {Wiz rElec Int+4}
+MPRegen 0.10/turn                v - ring of positive energy
+
+@: hasted, very quick
+A: (nimble swimmer 2), mertail, beak, iridescent scales 1, clumsy 1, MP-powered
+wands
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 308 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+Missiles
+ d - 4 throwing nets
+ e - 2 javelins (quivered)
+Armour
+ b - a +0 pair of gloves (worn)
+ s - a +0 cloak (worn)
+ y - a +0 chain mail (worn)
+Jewellery
+ m - the ring "Eceg" (left hand) {Wiz rElec Int+4}
+   (You found it on level 3 of the Dungeon)   
+   
+   [ring of wizardry]
+   
+   It improves your spell success rate.
+   Int:       It affects your intelligence (+4).
+   rElec:     It insulates you from electricity.
+ v - a ring of positive energy (right hand)
+Wands
+ w - a wand of charming (8)
+Scrolls
+ h - a scroll of teleportation
+ i - 3 scrolls of poison
+ j - a scroll of fear {unknown}
+ k - 3 scrolls of fog
+ o - a scroll of immolation {unknown}
+ p - a scroll of acquirement {unknown}
+ q - a scroll of magic mapping {unknown}
+ r - a scroll of vulnerability {unknown}
+Potions
+ l - a potion of curing
+
+
+   Skills:
+ + Level 4.3 Fighting
+ + Level 8.1 Polearms
+ + Level 2.1 Throwing
+ + Level 2.5 Armour
+ + Level 5.3 Dodging
+ + Level 2.3 Stealth
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sandblast                Erth           0%         2d4       91%         1
+ Passwall                 Tmut/Erth      0%         N/A       97%         2
+ Static Discharge         Conj/Air       0%         2-2/arc   97%         2
+ Stone Arrow              Conj/Erth      0%         3d7       99%         3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       99%         3
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:4         
+
+Altars:
+
+Shops:
+D:3 !
+
+
+Innate Abilities, Weirdness & Mutations
+
+((You are very nimble when in or above water. (Stealth+, EV+, Speed+++)))
+Your lower body shifts to a powerful aquatic tail in water.
+You have a beak for a mouth.
+You are partially covered in iridescent scales. (AC +2)
+You are clumsy. (Dex -2)
+You expend magic power (3 MP) to strengthen your wands.
+
+Message History
+
+Your Fighting skill increases to level 4!
+You barely miss the wight. The wight hits you but does no damage.
+You hit the wight but do no damage. The wight hits you but does no damage.
+You barely miss the wight. You punch the wight, but do no damage.
+The wight hits you with a +4 morningstar.
+You puncture the wight! You peck the wight, but do no damage.
+The wight is heavily damaged.
+The wight hits you with a +4 morningstar.
+You puncture the wight!
+You destroy the wight!
+Your Polearms skill increases to level 8!
+You barely miss the orc warrior. Your peck misses the orc warrior.
+The orc warrior hits you with a +0 dire flail.
+You hit the orc warrior.
+The orc warrior is lightly wounded.
+The orc warrior hits you with a +0 dire flail.
+You hit the orc warrior.
+The orc warrior is moderately wounded.
+The orc warrior hits you but does no damage.
+You closely miss the orc warrior.
+The orc warrior is moderately wounded.
+You hit the orc warrior.
+The orc warrior is heavily wounded.
+The orc warrior hits you with a +0 dire flail.
+You hit the orc warrior.
+The orc warrior is heavily wounded.
+The orc warrior hits you with a +0 dire flail.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: an orc warrior, wielding a +0 dire flail and wearing a +0 chain mail
+(heavily wounded)
+Items here:  % ( )) [[.
+The floor, spattered with blood.
+Okay, then.
+Really read the scroll of poison? 
+The air fills with toxic fumes!
+As you read the scroll of poison, it crumbles to dust.
+The orc warrior hits you with a +0 dire flail.
+* * * LOW HITPOINT WARNING * * *
+You feel yourself speed up.
+The orc warrior hits you with a +0 dire flail!
+You die...
+
+       ##.###                  .
+.      #.....                  #
+..     ...#.#                  #
+...#####..#.##                 #
+.......#..#..                  #
+..........#.#  #               #
+..<....#.##.##!#..(           ##
+.......o))oo.!(...#           #.
+...########z######            #.
+          #.#                 #.
+          #z#########         #.
+          #oo@000000#  ########.
+          #########0####......#.
+                  #........##.#.
+                  ######.#.##.#.
+                       #.#......
+                       #.####.##
+                       #.####.#
+                       #......#
+                       ########
+
+
+You could see an orc warrior, a wight and an orc.
+
+Vanquished Creatures
+  A water moccasin (D:5)
+  A black bear (D:5)
+  An ogre (D:5)
+  2 wights (D:5)
+  2 hounds
+  2 orc priests
+  Crazy Yiuf (D:2)
+  An orc wizard (D:3)
+  A gnoll (D:2)
+  7 adders
+  2 dart slugs (D:4)
+  10 orcs
+  7 ball pythons
+  A bat (D:3)
+  11 endoplasms
+  3 giant cockroaches
+  6 goblins
+  7 hobgoblins
+  7 jackals
+  4 quokkas
+  4 frilled lizards
+  8 kobolds
+  8 rats
+97 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (D:5)
+  2 plants (D:3)
+3 creatures vanquished.
+
+Grand Total: 100 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Merfolk Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    28 | D:1      | Reached XP level 2. HP: 19/23 MP: 2/2
+   129 | D:1      | Found a faded altar of an unknown god.
+   498 | D:1      | Reached XP level 3. HP: 28/28 MP: 3/3
+   770 | D:2      | Reached skill level 5 in Polearms
+   937 | D:2      | You fall into a shaft and drop 1 floor!
+   937 | D:3      | Found Mora's Distillery.
+   980 | D:3      | Reached skill level 1 in Stealth
+   980 | D:3      | Reached XP level 4. HP: 30/34 MP: 4/4
+  1115 | D:3      | Reached skill level 1 in Armour
+  1115 | D:3      | Reached XP level 5. HP: 13/39 MP: 5/5
+  1262 | D:3      | Identified the ring "Eceg" {Wiz rElec Int+4}
+  1933 | D:2      | Found a runed translucent door.
+  1934 | D:2      | Noticed Crazy Yiuf
+  2048 | D:2      | Reached skill level 5 in Dodging
+  2165 | D:2      | Reached skill level 6 in Polearms
+  2516 | D:2      | Killed Crazy Yiuf
+  2805 | D:4      | Reached XP level 6. HP: 43/47 MP: 6/6
+  2817 | D:4      | Gained mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+  2817 | D:4      | Gained mutation: You have a beak for a mouth. [potion of
+                  | mutation]
+  2817 | D:4      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [potion of mutation]
+  2817 | D:4      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  2961 | D:4      | Found a staircase to the Ecumenical Temple.
+  3465 | D:5      | Entered Level 5 of the Dungeon
+  3512 | D:5      | Noticed a black bear
+  3534 | D:5      | Reached skill level 7 in Polearms
+  3548 | D:5      | Killed a black bear
+  3549 | D:5      | Reached XP level 7. HP: 41/52 MP: 7/7
+  3596 | D:5      | Reached skill level 8 in Polearms
+  3603 | D:5      | Slain by an orc warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue, layout_loops_ring,
+          chequers_ecumenical_altar_simple
+D:2:      layout_basic, minmay_heptomino_w4, uniq_crazy_yiuf_cottage
+D:3:      layout_basic, serial_shops, nicolae_shop_hallway_plus,
+          serial_bayou_pond_c
+D:4:      layout_rooms, minmay_temple_entry_offerings, st_stairs_11,
+          minivault_19
+D:5:      layout_loops_cross, lemuel_flame_loot_1, uniq_grinder
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Polearms       |        5     6  7  8 |  8.1
+Stealth        |        1        2    |  2.3
+Armour         |           1     2    |  2.5
+Dodging        |              5       |  5.3
+Fighting       |              3     4 |  4.3
+Throwing       |                      |  2.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Trident           |   108 |   182 |    35 ||   325
+         Tailslap          |       |     1 |       ||     1
+         Punch             |       |     2 |     1 ||     3
+         Peck              |       |     9 |     7 ||    16
+  Throw: Javelin           |       |     2 |       ||     2
+    Use: Scroll            |     1 |     2 |     1 ||     4
+         Potion            |       |     7 |     4 ||    11
+   Stab: Sleeping          |     4 |     5 |       ||     9
+ Armour: Leather armour    |    21 |    15 |       ||    36
+         Scale mail        |       |     7 |       ||     7
+         Chain mail        |       |    44 |    13 ||    57
+  Dodge: Dodged            |    66 |    93 |    10 ||   169
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3578 |   3347 |    231 |      0 |   2574 |   5 |  715.6 |
+       Dungeon |   3578 |   3347 |    231 |      0 |   2574 |   5 |  715.6 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1006 daAuts
+     D:3: 999 daAuts
+     D:1: 734 daAuts
+     D:4: 703 daAuts
+     D:5: 134 daAuts
+

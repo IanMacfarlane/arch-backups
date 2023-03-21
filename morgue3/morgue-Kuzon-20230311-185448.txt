@@ -1,0 +1,156 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 10018255918183860955
+
+0 Kuzon the Firebug (level 1, -4/14 HPs)
+             Began as a Hill Orc Fire Elementalist on Mar 10, 2023.
+             Frozen to death by an endoplasm (5 damage)
+             ... on level 1 of the Dungeon on Mar 11, 2023.
+             The game lasted 00:00:19 (57 turns).
+
+Kuzon the Firebug (Hill Orc Fire Elementalist)        Turns: 57, Time: 00:00:20
+
+Health: -4/14      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 11    Spells: 2/3 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 1.5 Stealth
+ + Level 1.5 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.2 Fire Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           22%        2d6       9%          2
+ Conjure Flame            Conj/Fire      7%         6-21      28%         3
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Saving game... please wait.
+Welcome back, Kuzon the Hill Orc Fire Elementalist.
+Press ? for a list of commands and other information.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+There is an open door here.
+You open the door.
+There is an open door here.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+A goblin and an endoplasm come into view.
+The goblin shouts!
+The endoplasm quivers.
+The endoplasm closely misses you. The goblin closely misses you.
+The endoplasm barely misses you. The goblin hits you with a +0 dagger.
+The endoplasm misses you. The goblin hits you but does no damage.
+The endoplasm freezes you.
+You are frozen. The goblin closely misses you.
+The endoplasm freezes you.
+You are frozen. The goblin misses you.
+The endoplasm hits you. The goblin closely misses you.
+The endoplasm misses you. The goblin barely misses you.
+The endoplasm closely misses you. The goblin closely misses you.
+The endoplasm barely misses you. The goblin barely misses you.
+The endoplasm barely misses you. The goblin hits you with a +0 dagger.
+The endoplasm freezes you.
+You are frozen.
+* * * LOW HITPOINT WARNING * * *
+The goblin misses you.
+The endoplasm freezes you.
+You are frozen.
+You die...
+
+             #.
+   ##.#   ...#.
+    ...  #.#.#.#
+#####..###.#.#.#
+...........#.#.     ####
+.......... ....##  ##≈≈#
+.......#.# #.##.####.≈≈'
+........J###.##......≈≈#
+.......@........########
+........g###.##.#
+.........#...##.#
+####+##..#.####.#
+      #..#.   ...
+      #..#    #.#
+      #...    ..#
+      ##.#    ###
+
+
+You could see an endoplasm and a goblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Hill Orc Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+    57 | D:1      | Frozen to death by an endoplasm
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_small_1, layout_basic,
+          amcnicky_mini_rare_corridor_liquid
+
+Action                   || total
+-------------------------++-------
+Armor: Robe              ||     1
+Dodge: Dodged            ||    15
+

@@ -1,0 +1,328 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16277225187827507541
+
+611 Kuzon the Firebug (level 7, -1/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Was an Initiate of Sif Muna.
+             Slain by a wind drake (6 damage)
+             ... created by the adversity of Qazlal
+             ... on level 4 of the Dungeon.
+             The game lasted 00:14:47 (5340 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 5340, Time: 00:14:48
+
+Health: -1/36      AC:  2    Str:  5    XL:     7   Next: 20%
+Magic:  0/17       EV: 12    Int: 22    God:    Sif Muna [......]
+Gold:   143        SH:  0    Dex: 15    Spells: 13/16 levels left
+
+rFire   + . .      SeeInvis .    f - +2 spear (venom)
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   +    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       n - amulet of guardian spirit
+HPRegen 0.26/turn                t - ring of fire
+MPRegen 0.15/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was noncommittal.
+You visited 2 branches of the dungeon, and saw 5 of its levels.
+
+You collected 143 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +2 spear of venom (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ n - an amulet of guardian spirit (around neck)
+ t - a ring of fire (left hand)
+Wands
+ q - a wand of mindburst (10)
+ v - a wand of flame (25)
+Scrolls
+ d - a scroll of fog
+ e - 3 scrolls of amnesia
+ i - a scroll of vulnerability
+ o - 4 scrolls of magic mapping
+ r - a scroll of poison
+ s - a scroll of enchant armour {unknown}
+ u - a scroll of blinking {unknown}
+Potions
+ b - a potion of magic
+ g - a potion of haste
+ h - a potion of lignification {unknown}
+ j - a potion of curing {unknown}
+ k - 2 potions of cancellation {unknown}
+ m - a potion of attraction {unknown}
+ p - 2 potions of mutation {unknown}
+ w - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 2.5 Dodging
+ - Level 2.5 Stealth
+ + Level 5.4 Spellcasting
+ * Level 5.3 Conjurations
+ * Level 6.3 Fire Magic
+ + Level 0.0 Invocations
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           100%       2d10      1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       29%        N/A       8%          3
+ Flame Wave               Conj/Fire      47%        2d12      9%          4
+ Kindle Blastsparks       Fire/Tloc/Air  44%        2d13      12%         3
+ Ensorcelled Hibernation  Hex/Ice        10%        N/A       14%         2
+ Sublimation of Blood     Necr           5%         N/A       14%         2
+ Wereblood                Tmut           5%         N/A       14%         2
+ Gell's Gravitas          Tloc           5%         N/A       28%         3
+ Spider Form              Tmut/Pois      5%         N/A       28%         3
+ Teleport Other           Tloc           5%         N/A       28%         3
+ Anguish                  Hex/Necr       2%         N/A       67%         4
+ Dispersal                Tloc           2%         N/A       100%        6
+ Summon Hydra             Summ           2%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Kikubaaqudgha
+Okawaru
+Qazlal
+Sif Muna
+Wu Jian
+Xom
+Zin
+
+Message History
+
+The wind drake bites you!
+The wind drake exhales a fierce blast of wind!
+The wind drake is knocked back by the gust of wind.
+The wind drake slams into the rock wall!
+The wind drake is lightly wounded.
+You are knocked back by the gust of wind.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! Flames lash the wind drake.
+The wind drake is moderately wounded.
+The wind drake's fire resistance burns away.
+You feel a surge of power! You conjure some foxfire! The wind drake bites you!
+The wind drake exhales a fierce blast of wind!
+Your foxfire is knocked back by the gust of wind.
+You are knocked back by the gust of wind.
+The wind drake is knocked back by the gust of wind.
+The wind drake slams into the rock wall!
+The wind drake is heavily wounded.
+Your foxfire is knocked back by the gust of wind.
+You are too injured to fight recklessly!
+The foxfire hits the wind drake. The wind drake is burned terribly!
+The wind drake is heavily wounded.
+The foxfire hits the wind drake! The wind drake is burned terribly!
+The wind drake is severely wounded.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! You conjure some foxfire!
+The foxfire hits the wind drake but does no damage.
+The wind drake is severely wounded.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You feel a surge of power! You conjure some foxfire!
+The wind drake is no longer more vulnerable to fire.
+The foxfire hits the wind drake.
+The wind drake is severely wounded.
+The wind drake flaps its wings at you.
+The air twists around and strikes you!
+* * * LOW HITPOINT WARNING * * *
+The wind drake bites you.
+You die...
+
+  #.........##.#....#.........##)......
+  #.........#.##..#.#.....<...###...§..
+  #.........###..#..§.........##....###
+  #.................#.........##.#....#
+  #........######...#.........##...##.#
+  #.........#   ##............#...###..
+  #.........#    #.#.....#.............
+  #.........######.....#..#......####..
+  #............##...>.##.......(..##...
+  #...................##..#........#...
+  #...............##k.....#......#.....
+  #...............v@k................##
+  #.................v.........###....#
+  #............#...........)......##.##
+  #...................[....<...........
+  #.######.....#.......................
+  #.###....#.....................#####.
+  #.#...##........................## #.
+  #..........#.#...................# ##
+###...#.#..###.#########...........#
+..#.......###..#       #...........####
+#.....#..####.##     ###...............
+###...#.#......#######............#####
+
+
+You could see 2 wind drakes.
+
+Vanquished Creatures
+  A wind drake (D:4)
+  Grinder (D:4)
+  A basilisk (D:4)
+  A kobold brigand (D:4)
+  A scorpion (D:4)
+  An orc priest (D:4)
+  3 hounds (D:4)
+  4 gnolls (D:3)
+  2 adders
+  2 ufetubi (D:4)
+  2 worms
+  An orc (D:4)
+  8 ball pythons
+  9 endoplasms
+  6 giant cockroaches
+  4 goblins
+  8 hobgoblins
+  5 jackals
+  3 quokkas (D:1)
+  3 bats
+  A frilled lizard (D:3)
+  28 kobolds
+  6 rats
+101 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A foxfire (D:4)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A kobold (D:4)
+  290 foxfires
+  68 plants (D:4)
+359 creatures vanquished.
+
+Grand Total: 461 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   222 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   226 | D:1      | Learned a level 2 spell: Scorch
+   406 | D:1      | Found a faded altar of an unknown god.
+  1188 | D:2      | Reached XP level 3. HP: 19/19 MP: 2/9
+  1751 | D:2      | Identified the +6 scale mail of the Thistle {rF- Int+3
+                  | Slay+6}
+  1924 | D:2      | Reached skill level 4 in Fire Magic
+  2383 | D:3      | Reached XP level 4. HP: 24/24 MP: 6/11
+  2488 | D:3      | Found a shimmering altar of Xom.
+  3327 | D:3      | Found a glowing silver altar of Zin.
+  3583 | D:4      | Noticed Grinder
+  3586 | D:4      | Reached XP level 5. HP: 28/28 MP: 7/13
+  3858 | D:4      | Reached skill level 5 in Fire Magic
+  3897 | D:4      | Reached XP level 6. HP: 32/32 MP: 3/14
+  3978 | D:4      | Found a staircase to the Ecumenical Temple.
+  4046 | Temple   | Entered the Ecumenical Temple
+  4144 | Temple   | Became a worshipper of Qazlal Stormbringer
+  4326 | D:4      | Found a shimmering blue altar of Sif Muna.
+  4344 | D:4      | Fell from the grace of Qazlal
+  4344 | D:4      | Became a worshipper of Sif Muna the Loreminder
+  4629 | D:4      | Paralysed by Grinder for 2 turns
+  4639 | D:4      | Killed Grinder
+  4640 | D:4      | Reached skill level 5 in Spellcasting
+  4640 | D:4      | Reached skill level 5 in Conjurations
+  4640 | D:4      | Reached skill level 6 in Fire Magic
+  4640 | D:4      | Reached XP level 7. HP: 31/36 MP: 3/17
+  4792 | D:4      | Found an ornate altar of the Wu Jian Council.
+  5191 | D:4      | Noticed a basilisk
+  5191 | D:4      | Noticed a wind drake
+  5194 | D:4      | Killed a basilisk
+  5256 | D:4      | Killed a wind drake
+  5333 | D:4      | Noticed a wind drake
+  5333 | D:4      | Noticed a wind drake
+  5340 | D:4      | Slain by a wind drake
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_fog, layout_basic, basic_ecumenical_altar
+D:2:      layout_rooms, serial_corexii_hall, chequers_hall_statues_wall_a,
+          corexii_hall_statues_i, chequers_hall_statues_y,
+          chequers_hall_statues_y, corexii_hall_statues_i,
+          corexii_hall_statues_l, st_stairs_7, minmay_tetromino_t4
+D:3:      layout_loops_ring, mainiacjoe_overflow_24_doors, zin_statuary,
+          corexii_item_surrounded_by_moat, hangedman_decor_clover_reticule,
+          minmay_misc_feat_square
+D:4:      kennysheep_kobold_camp, layout_rooms, nicolae_sif_muna_condensation,
+          pdpol_wu_jian_five_deadly_venoms, minmay_temple_entry_proselytizer,
+          minmay_bisected, uniq_grinder
+Temple:   hellmonk_temple_two_chambers
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |     2     3  4  5 |  5.3
+Fire Magic     |        4     5  6 |  6.3
+Spellcasting   |           4     5 |  5.4
+Dodging        |                   |  2.5
+Stealth        |                   |  2.5
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Spear             |     3 |       |       ||     3
+         Punch             |     1 |       |       ||     1
+   Cast: Foxfire           |    73 |    89 |    17 ||   179
+         Scorch            |    10 |    20 |     9 ||    39
+    Use: Scroll            |     6 |     4 |     2 ||    12
+   Stab: Sleeping          |     1 |       |       ||     1
+ Armour: Robe              |       |     3 |       ||     3
+  Dodge: Dodged            |     6 |     8 |       ||    14
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5341 |   5132 |    209 |    113 |   4058 |   5 | 1068.2 |
+       Dungeon |   5231 |   5030 |    201 |    113 |   4007 |   4 | 1307.8 |
+        Temple |    110 |    102 |      8 |      0 |     51 |   1 |  110.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1648 daAuts
+     D:3: 1267 daAuts
+     D:2: 1176 daAuts
+     D:1: 1137 daAuts
+  Temple: 110 daAuts
+

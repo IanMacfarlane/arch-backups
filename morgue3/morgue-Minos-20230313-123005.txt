@@ -1,0 +1,366 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 7953771911703493561
+
+2897 Minos the Cleaver (level 9, 0/81 HPs)
+             Began as a Minotaur Berserker on Mar 13, 2023.
+             Was an Elder of Trog.
+             Slain by a two-headed ogre
+             ... wielding a +0 giant club
+              (22 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:28:21 (6121 turns).
+
+Minos the Cleaver (Minotaur Berserker)              Turns: 6121, Time: 00:28:21
+
+Health: 0/81       AC: 10    Str: 31    XL:     9   Next: 49%
+Magic:  8/8        EV: 12    Int:  7    God:    Trog [****..]
+Gold:   375        SH:  0    Dex:  9    Spells: 8/8 levels left
+
+rFire   + . .      SeeInvis .    F - +5 battleaxe (freeze)
+rCold   x . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    n - +1 ring mail of Lugonu's Whim {rCorr Str+4 Int+3}
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    x - +0 cloak
+rCorr   +                        t - +1 pair of gloves {hurl}
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.33/turn                o - ring of fire
+MPRegen 0.11/turn                p - ring of flight
+
+@: flying
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 375 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ E - a +5 war axe
+ F - a +5 battleaxe of freezing (weapon)
+Missiles
+ u - a throwing net
+ D - 15 poisoned darts (quivered)
+Armour
+ n - the +1 ring mail of Lugonu's Whim (worn) {rCorr Str+4 Int+3}
+   (You found it on level 2 of the Dungeon)   
+   
+   Str:       It affects your strength (+4).
+   Int:       It affects your intelligence (+3).
+   rCorr:     It protects you from acid and corrosion.
+ t - a +1 pair of gloves of hurling (worn)
+ x - a +0 cloak (worn)
+Jewellery
+ o - a ring of fire (left hand)
+ p - a ring of flight (right hand)
+ v - a ring of see invisible
+ C - a ring of protection from cold
+Wands
+ s - a wand of polymorph (9)
+Scrolls
+ c - 3 scrolls of enchant weapon
+ e - 4 scrolls of magic mapping
+ f - 4 scrolls of fog
+ j - 3 scrolls of blinking
+ k - a scroll of noise
+ q - a scroll of butterflies
+ r - 3 scrolls of teleportation
+ w - a scroll of immolation
+ y - a scroll of fear
+ B - a scroll of enchant armour
+ G - a scroll of vulnerability {unknown}
+ H - a scroll of identify
+Potions
+ a - a potion of flight {unknown}
+ b - 2 potions of might
+ d - a potion of curing {unknown}
+ g - 2 potions of mutation
+ h - 3 potions of heal wounds
+ i - a potion of berserk rage {unknown}
+ l - a potion of lignification {unknown}
+ m - a potion of degeneration {unknown}
+ z - a potion of haste
+ A - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 7.9 Fighting
+ + Level 12.3 Axes
+ - Level 3.0 Throwing
+ - Level 5.0 Armour
+ - Level 5.0 Dodging
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6         
+  Lair: D:8-11      
+
+Altars:
+Nemelex Xobeh
+Ru
+Vehumet
+
+Annotations:
+D:8 2 transporters
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The wight hits you with a +0 battleaxe!
+You slice the wight!!
+You destroy the wight!
+Trog accepts your kill.
+Things that are here:
+a +0 battleaxe; a +0 robe
+Things that are here:
+a +4 dagger; a +0 robe
+Found a transporter.
+The orc shouts! You hear a shout!
+The orc shouts!
+The basilisk hisses angrily.
+Found a transporter.
+The basilisk hisses menacingly.
+Found a quarterstaff.
+Found 5 stones.
+Found a radiant altar of Vehumet.
+Found a book of Displacement.
+Found a long sword.
+Found 5 stones.
+You reach down and open the door.
+Found a stone staircase leading up.
+There is an open door here.
+There is an open door here.
+As you open the door, it creaks loudly!
+There is an open door here.
+A two-headed ogre comes into view. It is wielding two +0 giant clubs.
+The two-headed ogre shouts in stereo!
+There is an open door here.
+A two-headed ogre is nearby!
+A two-headed ogre is nearby!
+You slash the two-headed ogre! You freeze the two-headed ogre. You headbutt the
+two-headed ogre!
+The two-headed ogre is heavily wounded.
+The two-headed ogre hits you with a +0 giant club!! x2
+You hit the two-headed ogre. You freeze the two-headed ogre.
+The two-headed ogre is heavily wounded.
+The two-headed ogre hits you with a +0 giant club!
+* * * LOW HITPOINT WARNING * * *
+The two-headed ogre hits you with a +0 giant club!!
+You die...
+
+##        ##
+..        ...
+##         #.######
+          ##.......
+          #.......#+####
+          #............#
+.#        #.....O......#
+.#             #.@.....#
+.#             #.......#
+.#             ####'####
+.#                #.#
+.#                #.#
+.#               ##.#
+.#              ##..#
+.##             #..##
+..####         ##'#######
+.....##        #........#
+.###..#######..+........#
+..............##........#########
+
+
+You could see a two-headed ogre.
+
+Vanquished Creatures
+  A yak (D:5)
+  A steam dragon (D:8)
+  2 ice beasts
+  A black bear (D:7)
+  A sky beast (D:7)
+  2 ogres (D:6)
+  2 centaurs (D:6)
+  A phantom (D:6)
+  A kobold brigand (D:7)
+  A bullfrog (D:7)
+  2 scorpions
+  17 wights
+  3 hounds (D:6)
+  A jelly (D:6)
+  5 orc priests
+  A gnoll bouda (D:5)
+  A sleepcap (D:7)
+  An iguana (D:5)
+  3 orc wizards
+  Robin (D:2)
+  9 gnolls
+  7 adders
+  2 white imps (D:7)
+  2 ufetubi
+  2 worms
+  5 dart slugs
+  25 orcs
+  5 endoplasms
+  2 giant cockroaches (D:1)
+  12 goblins
+  11 hobgoblins
+  A jackal (D:2)
+  6 kobolds
+  5 quokkas
+  6 ball pythons
+  4 bats
+  A frilled lizard (D:1)
+  2 rats (D:2)
+155 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:7)
+  4 fungi (D:6)
+  4 plants (D:1)
+9 creatures vanquished.
+
+Grand Total: 164 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Minos the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   179 | D:1      | Reached XP level 2. HP: 23/27 MP: 1/1
+   359 | D:1      | Reached skill level 4 in Axes
+   458 | D:1      | Found a faded altar of an unknown god.
+   646 | D:2      | Identified the +1 ring mail of Lugonu's Whim {rCorr Str+4
+                  | Int+3}
+   675 | D:2      | Noticed Robin
+   689 | D:2      | Reached XP level 3. HP: 31/33 MP: 2/2
+   690 | D:2      | Reached ** piety under Trog
+   739 | D:2      | Killed Robin
+   909 | D:2      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1467 | D:3      | Reached skill level 5 in Axes
+  1733 | D:3      | Reached *** piety under Trog
+  2061 | D:4      | Gained mutation: You do not regenerate when monsters are
+                  | visible. [potion of mutation]
+  2061 | D:4      | Lost mutation: You do not regenerate when monsters are
+                  | visible. [potion of mutation]
+  2088 | D:4      | Noticed a scorpion
+  2092 | D:4      | Killed a scorpion
+  2093 | D:4      | Reached XP level 5. HP: 44/47 MP: 4/4
+  2586 | D:5      | Entered Level 5 of the Dungeon
+  2680 | D:5      | Reached skill level 6 in Axes
+  2715 | D:5      | Reached XP level 6. HP: 33/53 MP: 5/5
+  2749 | D:5      | Reached skill level 1 in Throwing
+  2803 | D:5      | Identified the +10 sling of Indomitability {heavy, Fly
+                  | rElec Str+2 Dex-2}
+  3240 | D:5      | Noticed a yak
+  3256 | D:5      | Killed a yak
+  3257 | D:5      | Reached skill level 5 in Fighting
+  3257 | D:5      | Reached skill level 7 in Axes
+  3257 | D:5      | Reached XP level 7. HP: 55/61 MP: 6/6
+  3454 | D:6      | Reached skill level 5 in Armour
+  3570 | D:6      | Found a staircase to the Ecumenical Temple.
+  3580 | D:6      | Reached skill level 8 in Axes
+  3725 | Temple   | Entered the Ecumenical Temple
+  3781 | D:6      | Reached XP level 8. HP: 59/70 MP: 7/7
+  4112 | D:6      | Reached skill level 9 in Axes
+  4675 | D:6      | Reached **** piety under Trog
+  4946 | D:7      | Found a sacrificial altar of Ru.
+  4955 | D:7      | Reached skill level 10 in Axes
+  5047 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+  5125 | D:7      | Identified the +0 pair of boots of Time Monsters {rCorr
+                  | Str-5 Int+3}
+  5231 | D:7      | Reached XP level 9. HP: 79/79 MP: 8/8
+  5239 | D:7      | Reached skill level 11 in Axes
+  5239 | D:7      | Reached skill level 5 in Dodging
+  5898 | D:8      | Reached skill level 12 in Axes
+  6063 | D:8      | Found a transporter.
+  6067 | D:8      | Noticed a centaur warrior
+  6070 | D:8      | Found a transporter.
+  6070 | D:8      | Noticed a cyclops
+  6081 | D:8      | Found a radiant altar of Vehumet.
+  6116 | D:8      | Noticed a two-headed ogre
+  6121 | D:8      | Slain by a two-headed ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      eino_arrival_tree_alley, layout_rooms,
+          hellmonk_ecumenical_altar_run_dry
+D:2:      layout_rooms, minivault_5, minmay_misc_feat_nine_boxes,
+          minmay_close_crescents, uniq_robin
+D:3:      layout_loops_ring, hangedman_decor_clover_reticule, chequers_arboretum
+D:4:      layout_loops_ring
+D:5:      kennysheep_big_flooded_room, layout_basic
+D:6:      layout_cave_pods, minmay_temple_entry_offerings, grunt_ministairs_8,
+          dreamdust_gnoll_farm
+D:7:      layout_basic, mainiacjoe_overflow_paths, overflow_temple_1_default
+D:8:      layout_basic, gammafunk_temple_overflow_arena
+Temple:   hellmonk_temple_forest_ring
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Axes           |     4     5  6  7  8 10 12 | 12.3
+Fighting       |     4           5     7    |  7.9
+Armour         |        3     4     5       |  5.0
+Dodging        |              3        4  5 |  5.0
+Throwing       |                 2  3       |  3.0
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Hand axe          |    88 |    52 |       ||   140
+         Headbutt          |    12 |    19 |    19 ||    50
+         Punch             |     1 |     1 |       ||     2
+         War axe           |       |    56 |    65 ||   121
+         Battleaxe         |       |       |    69 ||    69
+  Throw: Dart              |       |       |     3 ||     3
+         Throwing net      |       |       |     1 ||     1
+ Invoke: Berserk           |       |     1 |     2 ||     3
+         Trog's Hand       |       |       |     1 ||     1
+    Use: Scroll            |       |    11 |     2 ||    13
+         Potion            |       |     2 |     1 ||     3
+ Armour: Animal skin       |     2 |       |       ||     2
+         Ring mail         |    12 |    44 |    54 ||   110
+  Dodge: Dodged            |    48 |    73 |    91 ||   212
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6184 |   5941 |    243 |      0 |   4785 |   9 |  687.1 |
+       Dungeon |   6183 |   5940 |    243 |      0 |   4785 |   8 |  772.9 |
+        Temple |      1 |      1 |      0 |      0 |      0 |   1 |    1.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:6: 1518 daAuts
+     D:7: 938 daAuts
+     D:5: 823 daAuts
+     D:3: 765 daAuts
+     D:2: 670 daAuts
+     D:1: 627 daAuts
+     D:4: 546 daAuts
+     D:8: 292 daAuts
+  Temple: 1 daAuts
+

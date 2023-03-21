@@ -1,0 +1,97 @@
+GoodOmen
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(1, 28, D:1)
+  a +0 club
+(2, 27, D:1)
+  a +0 dagger
+  a stone
+(2, 36, D:1)
+  15 gold pieces
+(5, 37, D:1)
+  a scroll of enchant armour
+(25, 33, D:1)
+  4 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 sling
+(4, 15, D:2)
+  a +0 club
+(8, -24, D:2)
+  a +0 club
+(9, -8, D:2)
+  a +1 scale mail of willpower
+(9, 0, D:2)
+  a +0 dagger
+(11, 14, D:2)
+  a +0 ring mail
+(12, -10, D:2)
+  the +2 leather armour of Feasting {Str+5 Dex-3}
+    Str:       It affects your strength (+5).
+    Dex:       It affects your dexterity (-3).
+(13, -4, D:2)
+  a +0 club
+(14, 9, D:2)
+  a +0 mace
+(20, 10, D:2)
+  6 stones
+(27, -29, D:2)
+  a +0 leather armour
+(32, 13, D:2)
+  a +0 dagger
+(34, 23, D:2)
+  8 stones
+(35, 0, D:2)
+  a +0 dagger
+(39, -18, D:2)
+  9 stones
+(40, 10, D:2)
+  a +0 club
+  5 poisoned darts
+(52, 10, D:2)
+  a +0 ring mail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 short sword
+  a +0 leather armour
+(8, -23, D:3)
+  a +0 dagger
+(12, 4, D:3)
+  a +0 chain mail
+(16, -14, D:3)
+  5 stones
+(17, 7, D:3)
+  a +0 robe
+(20, 6, D:3)
+  a +0 ring mail
+(21, -8, D:3)
+  a +0 leather armour
+(22, -1, D:3)
+  a +0 dagger
+  a +0 chain mail
+(27, -12, D:3)
+  a +3 leather armour
+(35, -25, D:3)
+  a bat corpse (skeletalised by now)
+(35, -6, D:3)
+  a rat corpse (skeletalised by now)
+(36, -24, D:3)
+  a +0 plate armour
+(40, -7, D:3)
+  a +0 dagger
+  a goblin corpse (skeletalised by now)
+(44, -19, D:3)
+  a rat corpse
+(44, -18, D:3)
+  6 stones
+(45, 3, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 triple crossbow
+

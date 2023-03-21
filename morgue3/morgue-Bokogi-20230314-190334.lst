@@ -1,0 +1,398 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 leather armour
+(1, 1, D:1)
+  a +0 leather armour
+(2, -3, D:1)
+  a stone
+(18, 24, D:1)
+  3 stones
+(18, 38, D:1)
+  a +0 club
+(19, 38, D:1)
+  a +0 dagger
+(22, 10, D:1)
+  a +0 sling
+(24, 9, D:1)
+  a +0 whip
+(25, 2, D:1)
+  a +0 sling
+(25, 37, D:1)
+  a +0 short sword
+(27, 17, D:1)
+  a +0 leather armour
+(28, 2, D:1)
+  a +0 dagger
+  2 stones
+(30, 28, D:1)
+  a +0 short sword
+  5 stones
+(35, 5, D:1)
+  a +0 club
+(38, 25, D:1)
+  a ring of magical power
+(41, 26, D:1)
+  a +0 mace
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a staff of conjuration
+(8, 45, D:2)
+  a +1 leather armour of poison resistance
+(25, -6, D:2)
+  a +0 leather armour
+(28, 21, D:2)
+  6 stones
+(31, 16, D:2)
+  a +0 sling
+(34, -10, D:2)
+  a +0 ring mail
+(42, 7, D:2)
+  a +0 mace
+  a +0 chain mail
+(43, -7, D:2)
+  7 stones
+(52, 44, D:2)
+  a +0 club
+(53, 1, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+[Shop] Kemmam's Distillery
+  a potion of curing (33 gold)
+  2 potions of brilliance (88 gold)
+  a potion of heal wounds (55 gold)
+  a potion of attraction (33 gold)
+  a potion of degeneration (11 gold)
+  2 potions of magic (176 gold)
+  a potion of attraction (33 gold)
+  a potion of heal wounds (55 gold)
+(0, 0, D:3)
+  a +0 buckler
+(10, 37, D:3)
+  a +0 trident
+(16, 39, D:3)
+  a +0 club
+(19, -9, D:3)
+  a +0 giant club
+(27, 24, D:3)
+  a +0 club
+(35, 18, D:3)
+  4 stones
+(35, 20, D:3)
+  a +0 dagger
+(42, 14, D:3)
+  6 stones
+(50, -17, D:3)
+  a +0 scythe
+(50, -9, D:3)
+  2 poisoned darts
+(52, -7, D:3)
+  a +0 whip
+(53, -5, D:3)
+  a +0 short sword
+(58, -19, D:3)
+  a +0 flail
+(60, -18, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 trident
+(1, 1, D:4)
+  a +0 short sword
+(2, -4, D:4)
+  a +0 flail
+(3, 1, D:4)
+  a +0 trident
+(15, 12, D:4)
+  a +0 club
+(17, -11, D:4)
+  a +0 dagger
+(23, 1, D:4)
+  2 stones
+(27, 11, D:4)
+  a +0 short sword
+(43, 3, D:4)
+  a +0 club
+(46, 23, D:4)
+  a +0 dagger of protection
+  4 poisoned darts
+(46, 29, D:4)
+  a +0 spear
+(57, 10, D:4)
+  4 stones
+
+Level 5 of the Dungeon
+[Shop] Vireojia's Book Shoppe
+  a book of Lightning (418 gold)
+  a book of the Hunter (286 gold)
+  a book of Iron (396 gold)
+  a book of Iron (396 gold)
+  a book of Party Tricks (176 gold)
+  the Codex of Hail (462 gold)
+    Spells                            Type                      Level
+     a - Freezing Cloud                Conjuration/Ice/Air           5
+     b - Simulacrum                    Ice/Necromancy                6
+     c - Ozocubu's Refrigeration       Ice                           7
+  a book of Vapours (220 gold)
+  a book of Dreams (264 gold)
+(0, 0, D:5)
+  a +0 ring mail
+(5, -1, D:5)
+  a +0 leather armour
+(13, -25, D:5)
+  a +0 chain mail
+(13, 2, D:5)
+  a +0 quarterstaff
+(15, 0, D:5)
+  a +0 war axe
+(23, -27, D:5)
+  a +0 chain mail
+(26, -36, D:5)
+  a +0 hand axe
+(28, -11, D:5)
+  a +0 leather armour
+(28, -9, D:5)
+  a +0 falchion
+(29, -36, D:5)
+  a +0 club
+(30, -36, D:5)
+  a +0 dagger
+  a +0 robe
+(35, -31, D:5)
+  a +0 short sword
+(40, -21, D:5)
+  2 boomerangs
+(42, -38, D:5)
+  a +0 mace
+(44, -22, D:5)
+  3 stones
+(44, -5, D:5)
+  2 stones
+(57, -29, D:5)
+  a +0 dagger
+(58, -37, D:5)
+  a +0 shortbow
+(59, -14, D:5)
+  a +0 robe
+(62, -24, D:5)
+  a +0 sling
+
+Level 6 of the Dungeon
+(13, -10, D:6)
+  a +0 leather armour
+(17, 2, D:6)
+  3 poisoned darts
+(20, 26, D:6)
+  a +0 mace
+(22, -6, D:6)
+  a +0 ring mail
+(27, 8, D:6)
+  a +0 leather armour
+  a +0 falchion
+(28, -12, D:6)
+  a +0 giant spiked club
+(28, 14, D:6)
+  a +0 long sword
+  a +0 shortbow
+(41, 13, D:6)
+  a +0 falchion
+(51, 32, D:6)
+  a +4 whip
+(51, 34, D:6)
+  a +0 spear
+  a +0 whip
+  a +0 robe
+  a +0 dagger
+  a +0 ring mail
+(51, 36, D:6)
+  a +0 flail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 robe
+(21, 4, D:7)
+  a +0 flail
+(22, -18, D:7)
+  a +0 quarterstaff
+(23, 1, D:7)
+  a +0 ring mail
+  a +0 short sword
+  a +0 robe
+  a +0 dagger
+(25, -2, D:7)
+  a +0 robe
+  a +0 dagger
+(26, 8, D:7)
+  3 stones
+(28, -19, D:7)
+  a +0 dagger
+(32, -16, D:7)
+  a +2 broad axe of flaming
+(33, -16, D:7)
+  a +0 ring mail
+  a +0 club
+(37, -7, D:7)
+  4 stones
+(38, -6, D:7)
+  a +0 whip
+(42, -19, D:7)
+  a +0 club
+  3 poisoned darts
+  a +0 whip
+(42, -3, D:7)
+  a +0 scale mail
+(63, 4, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 dagger
+(9, -33, D:8)
+  a +0 club
+(11, -21, D:8)
+  a +0 spear
+(11, -20, D:8)
+  a +0 spear
+(11, -19, D:8)
+  a +0 spear
+  a +0 spear
+(19, -7, D:8)
+  the +6 scimitar of Perversion {venom, Drain rF++ rC+++ Dex-3}
+    Dex:       It affects your dexterity (-3).
+    rF:        It greatly protects you from fire.
+    rC:        It renders you almost immune to cold.
+    Drain:     It drains your maximum health when unequipped.
+  (unseen)
+(21, -6, D:8)
+  a +0 ring mail
+(21, -5, D:8)
+  16 gold pieces
+(28, -17, D:8)
+  a +0 hand axe
+  a +0 leather armour
+(31, -16, D:8)
+  a +0 dagger
+  a +0 leather armour
+(31, -15, D:8)
+  a +0 flail
+  4 boomerangs
+  a +0 chain mail
+(33, -22, D:8)
+  a +0 club
+  a +0 scale mail
+(34, -26, D:8)
+  a +0 falchion
+
+Level 9 of the Dungeon
+(3, 1, D:9)
+  a +0 mace
+(7, 19, D:9)
+  a +0 whip
+  a +0 club
+(8, 18, D:9)
+  a +0 halberd
+(8, 20, D:9)
+  a +1 vampiric spear
+  a +0 ring mail
+  a +0 kite shield
+(8, 37, D:9)
+  a +0 shortbow
+(38, -4, D:9)
+  a +0 war axe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(39, -3, D:9)
+  a +0 club
+  3 boomerangs
+(42, 5, D:9)
+  a scroll of butterflies
+(42, 6, D:9)
+  4 stones
+(42, 7, D:9)
+  14 gold pieces
+(43, 5, D:9)
+  a potion of flight
+(43, 6, D:9)
+  391 gold pieces
+(43, 7, D:9)
+  a scroll of fog
+(44, 5, D:9)
+  8 gold pieces
+(44, 6, D:9)
+  16 gold pieces
+(44, 7, D:9)
+  24 gold pieces
+(56, 40, D:9)
+  2 potions of attraction
+  a scroll of torment
+  2 scrolls of vulnerability
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  6 stones
+(12, 5, D:10)
+  a +0 flail
+  a potion of resistance
+  a +0 rapier
+  a wand of polymorph (1)
+  a +0 flail
+  a gnoll corpse
+(12, 40, D:10)
+  a +2 mace of protection
+  a +0 leather armour
+  an orc corpse (skeletalised by now)
+(13, 40, D:10)
+  a +0 flail
+  a +0 ring mail
+  an orc corpse (skeletalised by now)
+(14, 6, D:10)
+  a +0 whip
+  18 gold pieces
+(14, 42, D:10)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
+  an orc corpse (skeletalised by now)
+(15, 11, D:10)
+  a +0 flail
+  a +0 leather armour
+(17, 10, D:10)
+  a +0 whip
+  a +0 ring mail
+(17, 11, D:10)
+  a +0 dagger
+  a +0 robe
+  a +0 arbalest
+  a +0 dire flail
+  a +0 chain mail
+  an orc corpse
+(22, 3, D:10)
+  a +0 robe
+(22, 18, D:10)
+  a +0 chain mail
+(23, 17, D:10)
+  a +0 dagger
+  a +0 robe
+  the orc corpse of Nergalle (skeletalised by now)
+(23, 18, D:10)
+  a +0 scimitar
+  a +0 plate armour
+  a +0 dagger
+  a +0 robe
+(23, 43, D:10)
+  2 poisoned darts
+(24, 17, D:10)
+  a howler monkey corpse (skeletalised by now)
+(24, 18, D:10)
+  a +1 heavy mace
+  a +0 leather armour
+  an orc corpse (skeletalised by now)
+
+the Ecumenical Temple
+

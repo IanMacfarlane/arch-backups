@@ -1,0 +1,279 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16025069594259096097
+
+249 Bokogi the Chopper (level 5, -8/50 HPs)
+             Began as a Minotaur Gladiator on Mar 14, 2023.
+             Mangled by a centaur
+             ... wielding a +1 hand axe of electrocution
+              (17 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:09:56 (2717 turns).
+
+Bokogi the Chopper (Minotaur Gladiator)             Turns: 2717, Time: 00:09:57
+
+Health: -8/50      AC: 14    Str: 20    XL:     5   Next: 86%
+Magic:  0/4        EV:  6    Int:  5    God:    
+Gold:   34         SH:  0    Dex: 12    Spells: 4/4 levels left
+
+rFire   + . .      SeeInvis .    a - +0 war axe
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   +    j - +0 plate armour
+rPois   .          Reflect  .    c - +0 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth                            x - amulet of guardian spirit
+HPRegen 0.28/turn                g - +4 ring of protection
+MPRegen 0.09/turn                y - ring of fire
+
+@: no status effects
+A: horns 2, retaliatory headbutt, robust 1, wild magic 1
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 146 gold pieces.
+You spent 112 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+ u - a +0 quick blade
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 ring mail of cold resistance
+ c - a +0 hat (worn)
+ j - a +0 plate armour (worn)
+Jewellery
+ g - a +4 ring of protection (left hand)
+ w - an amulet of faith
+ x - an amulet of guardian spirit (around neck)
+ y - a ring of fire (right hand)
+ D - a ring of magical power
+Scrolls
+ h - a scroll of immolation {unknown}
+ i - 3 scrolls of magic mapping
+ o - 3 scrolls of teleportation
+ s - a scroll of amnesia
+ t - a scroll of enchant weapon {unknown}
+ v - a scroll of fear {unknown}
+ A - a scroll of fog {unknown}
+Potions
+ f - a potion of curing
+ k - a potion of invisibility {unknown}
+ l - a potion of attraction {unknown}
+ m - 3 potions of magic
+ p - a potion of degeneration {unknown}
+ q - a potion of cancellation {unknown}
+ r - a potion of flight {unknown}
+ z - a potion of mutation
+ B - a potion of lignification {unknown}
+ C - a potion of might {unknown}
+
+
+   Skills:
+ + Level 4.2 Fighting
+ + Level 5.1 Axes
+ + Level 3.4 Throwing
+ + Level 4.5 Dodging
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       100%        2
+ Spider Form              Tmut/Pois      0%         N/A       100%        3
+ Anguish                  Hex/Necr       0%         N/A       100%        4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:4 ?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+You are robust. (+10% HP)
+Your spells are a little harder to cast, but a little more powerful.
+
+Message History
+
+You climb downwards.
+The centaur unwields a +1 hand axe of electrocution.
+It stops crackling. The centaur wields a +0 shortbow.
+The centaur shoots an arrow. The arrow hits you!
+There is a stone staircase leading up, spattered with blood here.
+The centaur shoots an arrow. The arrow hits you!
+The centaur unwields a +0 shortbow.
+The centaur wields a +1 hand axe of electrocution.
+You hear the crackle of electricity.
+The centaur hits you but does no damage.
+The centaur closely misses you.
+You barely miss the centaur. Your headbutt misses the centaur.
+The centaur is lightly wounded.
+The centaur hits you but does no damage.
+The centaur barely misses you. The centaur closely misses you.
+The centaur kicks you but does no damage.
+You hit the centaur. You headbutt the centaur.
+You punch the centaur, but do no damage.
+The centaur is heavily wounded.
+The centaur hits you with a +1 hand axe of electrocution.
+The centaur kicks you but does no damage.
+The centaur hits you with a +1 hand axe of electrocution.
+You are electrocuted!
+The centaur kicks you but does no damage.
+You hit the centaur. Your headbutt misses the centaur.
+The centaur is severely wounded.
+The centaur hits you but does no damage.
+The centaur kicks you but does no damage.
+The centaur hits you with a +1 hand axe of electrocution.
+* * * LOW HITPOINT WARNING * * *
+The centaur kicks you but does no damage.
+You hit the centaur.
+You headbutt the centaur, but do no damage.
+The centaur is severely wounded.
+The centaur hits you with a +1 hand axe of electrocution.
+* * * LOW HITPOINT WARNING * * *
+The centaur kicks you but does no damage.
+The centaur hits you but does no damage.
+You are electrocuted!!
+You die...
+
+              ........#......
+              ........#......
+              ........#......
+              ........#......
+              ........#......
+####+#########+####...#......
+..................#...#......
+..................#...#...[..
+.)................#...)......
+..................#...#......
+..................#...#......
+............<.@c..#...#......
+..................#...#......
+..................##+##..>...
+..#########............######
+..#       #............
+..#       +?...........
+.<'       #....(.......
+..#.      ########....
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A howler monkey (D:4)
+  A hound (D:4)
+  Jessica (D:3)
+  2 iguanas
+  An adder (D:2)
+  2 dart slugs
+  9 orcs (D:5)
+  8 endoplasms
+  2 giant cockroaches
+  9 goblins
+  9 hobgoblins
+  2 jackals (D:1)
+  A quokka (D:1)
+  6 ball pythons
+  5 bats
+  4 frilled lizards (D:1)
+  8 kobolds
+  6 rats
+77 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    89 | D:1      | Reached XP level 2. HP: 23/25 MP: 1/1
+   183 | D:1      | Reached skill level 4 in Axes
+   248 | D:1      | Reached XP level 3. HP: 28/31 MP: 2/2
+  1265 | D:3      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1485 | D:3      | Noticed Jessica
+  1487 | D:3      | Killed Jessica
+  1641 | D:4      | Reached XP level 5. HP: 44/46 MP: 4/4
+  1975 | D:4      | Found Yloikuv's Magic Scroll Shoppe.
+  1981 | D:4      | Bought a scroll of teleportation for 42 gold pieces
+  1981 | D:4      | Bought a scroll of teleportation for 42 gold pieces
+  1981 | D:4      | Bought a scroll of identify for 28 gold pieces
+  2157 | D:4      | Reached skill level 5 in Axes
+  2229 | D:5      | Entered Level 5 of the Dungeon
+  2365 | D:5      | Noticed a centaur
+  2502 | D:5      | Noticed a centaur
+  2698 | D:4      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  2698 | D:4      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+  2717 | D:5      | Mangled by a centaur
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_stair_chambers, layout_rooms
+D:2:      layout_loops_ring, amcnicky_mini_rare_corridor_liquid
+D:3:      layout_basic, uniq_jessica
+D:4:      layout_cave_pools, serial_shops, nicolae_shop_hallway_plus,
+          minmay_crystal_water
+D:5:      layout_gridville, zin_treasury, chequers_arboretum,
+          hangedman_abyss_or_decor_stagger, kennysheep_generic_room_15,
+          uniq_menkaure
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Axes           |     4        5 |  5.1
+Fighting       |     3        4 |  4.2
+Dodging        |           4    |  4.5
+Throwing       |           3    |  3.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: War axe           |   104 |    74 ||   178
+         Headbutt          |    11 |    12 ||    23
+         Punch             |       |     1 ||     1
+  Throw: Javelin           |       |     1 ||     1
+    Use: Scroll            |       |     5 ||     5
+         Potion            |       |     5 ||     5
+ Armour: Leather armour    |    11 |       ||    11
+         Plate armour      |    42 |    89 ||   131
+  Dodge: Dodged            |    63 |    36 ||    99
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2769 |   2655 |    114 |      0 |   1977 |   5 |  553.8 |
+       Dungeon |   2769 |   2655 |    114 |      0 |   1977 |   5 |  553.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 896 daAuts
+     D:2: 644 daAuts
+     D:3: 509 daAuts
+     D:1: 485 daAuts
+     D:5: 232 daAuts
+

@@ -1,0 +1,318 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 11766799469388113269
+
+461 Bokogi the Magician (level 6, -3/32 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 12, 2023.
+             Was an Initiate of Vehumet.
+             Succumbed to their own poison gas
+             ... on level 4 of the Dungeon.
+             The game lasted 00:43:25 (4502 turns).
+
+Bokogi the Magician (Deep Elf Fire Elementalist)    Turns: 4502, Time: 00:43:25
+
+Health: -3/32      AC:  7    Str:  5    XL:     6   Next: 79%
+Magic:  17/17      EV: 13    Int: 22    God:    Vehumet [......]
+Gold:   203        SH:  0    Dex: 21    Spells: 6/18 levels left
+
+rFire   . . .      SeeInvis .    m - +2 mace (protect)
+rCold   + . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +1 robe
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    f - scarf {rC+ rF+}
+rCorr   .          Clarity  +    (no gloves)
+Will    .....                    (no boots)
+Stlth   +++                      l - amulet of regeneration
+HPRegen 1.05/turn                d - +6 ring of dexterity
+MPRegen 0.15/turn                j - +4 ring of protection
+
+@: lethally poisoned (-3 -> -32), fire susceptible
+A: horns 1, clarity
+a: Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 203 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +2 dagger of draining
+ k - a +1 dagger of holy wrath
+ m - a +2 mace of protection (weapon)
+Armour
+ a - a +1 robe (worn)
+ c - a +2 helmet
+ f - a scarf of resistance (worn)
+Jewellery
+ d - a +6 ring of dexterity (left hand)
+ e - a ring of protection from cold
+ i - a +6 ring of strength
+ j - a +4 ring of protection (right hand)
+ l - an amulet of regeneration (around neck)
+Wands
+ g - a wand of polymorph (3)
+Potions
+ h - a potion of haste
+
+
+   Skills:
+ + Level 0.2 Fighting
+ + Level 2.9 Dodging
+ + Level 3.1 Stealth
+ + Level 6.5 Spellcasting
+ + Level 2.0 Conjurations
+ + Level 0.1 Hexes
+ + Level 6.2 Fire Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           68%        2d8       1%          2
+c - Inner Flame           Hex/Fire       21%        N/A       7%          3
+d - Blink                 Tloc           14%        N/A       13%         2
+e - Flame Wave            Conj/Fire      25%        2d8       16%         4
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sandblast                Erth           14%        2d6       9%          1
+ Summon Small Mammal      Summ           28%        N/A       9%          1
+ Momentum Strike          Conj/Tloc      22%        3d8       9%          2
+ Kindle Blastsparks       Fire/Tloc/Air  32%        2d12      11%         3
+ Ensorcelled Hibernation  Hex/Ice        14%        N/A       13%         2
+ Lesser Beckoning         Tloc           14%        N/A       13%         2
+ Passwall                 Tmut/Erth      5%         N/A       13%         2
+ Stone Arrow              Conj/Erth      22%        3d8       17%         3
+ Call Canine Familiar     Summ           7%         N/A       26%         3
+ Spider Form              Tmut/Pois      7%         N/A       26%         3
+ Summon Guardian Golem    Hex/Summ       7%         N/A       26%         3
+ Anguish                  Hex/Necr       3%         N/A       63%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Dithmenos
+Kikubaaqudgha
+Makhleb
+Vehumet
+Yredelemnul
+Ignis
+
+Shops:
+D:1 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small horns on your head.
+You possess an exceptional clarity of mind.
+
+Message History
+
+Found a snail-covered altar of Cheibriados.
+There is an open door here.
+There is a snail-covered altar of Cheibriados here.
+You kneel at the altar of Cheibriados.
+There is an open door here.
+You open the door.
+Found a radiant altar of Vehumet.
+There is an open door here.
+There is a radiant altar of Vehumet here.
+You kneel at the altar of Vehumet.
+Okay, then.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+You kneel at the altar of Vehumet.
+Okay, then.
+You kneel at the altar of Vehumet.
+You have lost your religion!
+Ignis blazes with a vengeful fury!
+Ignis burns away your resistance to fire.
+Vehumet welcomes you!
+There is an open door here.
+Found a scroll labelled SEOCWI FITYHA.
+n - a scroll labelled SEOCWI FITYHA
+The air fills with toxic fumes!
+As you read the scroll labelled SEOCWI FITYHA, it crumbles to dust.
+It was a scroll of poison.
+Okay, then.
+Really walk into that cloud of poison gas? 
+Uppercase [Y]es or [N]o only, please.
+Really walk into that cloud of poison gas? 
+You are engulfed in poison gas.
+You are poisoned. You feel very sick.
+You are engulfed in poison gas.
+You are more poisoned.
+You feel extremely sick.
+You are engulfed in poison gas.
+You are more poisoned.
+* * * LOW HITPOINT WARNING * * *
+You die...
+
+...#            #.....#.#..######
+####            #....###...###...
+                ##..##..........#
+                #####...######.##
+           ##  ##...##.##...##...
+           ..  #.8.8.#.#.8.8.####
+           #.  #.._..#.#.._..#
+           #.  #.8...#.#...8.#
+           #.####...'#.#'...##
+         #0#0#00#####...#####..
+         #000.00@0000.}........
+         #0#0#00#####...#####.#
+           #.#0##...'#.#'...##
+    ..     ...0#.8...#.#...8.#
+     .    .###0#.._..#.#.._..#
+     . # #.  ###.8.8.#.#.8.8.#
+     .#. #     ##...##.##...##
+     #.#        #####...#####
+     #.#         ..###.##...##
+ ### #.#       ###.# #.......##
+##.###.##     ##.#.# ##.......#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Sigmund (D:2)
+  A scorpion (D:4)
+  Jessica (D:3)
+  Terence (D:2)
+  An orc wizard (D:3)
+  Robin (D:2)
+  4 adders
+  An ufetubus (D:3)
+  A worm (D:2)
+  5 dart slugs
+  6 orcs
+  3 ball pythons
+  9 endoplasms
+  5 giant cockroaches
+  15 goblins
+  5 hobgoblins
+  3 jackals (D:1)
+  7 kobolds
+  A quokka (D:1)
+  7 bats
+  4 frilled lizards
+  6 rats
+88 creatures vanquished.
+
+Vanquished Creatures (others)
+  63 foxfires
+63 creatures vanquished.
+
+Grand Total: 151 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   125 | D:1      | Reached XP level 2. HP: 12/15 MP: 4/8
+   129 | D:1      | Learned a level 2 spell: Scorch
+   583 | D:1      | Found Fegha Huo's Book Boutique.
+   988 | D:1      | Found Voxodaetz's Weapon Shop.
+  1151 | D:2      | Reached XP level 3. HP: 19/19 MP: 5/9
+  1560 | D:2      | Noticed Terence
+  1577 | D:2      | Killed Terence
+  1578 | D:2      | Reached XP level 4. HP: 12/24 MP: 7/12
+  2022 | D:2      | Noticed Sigmund
+  2062 | D:2      | Killed Sigmund
+  2063 | D:2      | Reached skill level 5 in Spellcasting
+  2063 | D:2      | Reached skill level 5 in Fire Magic
+  2063 | D:2      | Reached XP level 5. HP: 24/28 MP: 2/14
+  2326 | D:2      | Reached XP level 6. HP: 32/32 MP: 13/16
+  2426 | D:2      | Noticed Robin
+  2459 | D:2      | Killed Robin
+  2611 | D:2      | Found a faded altar of an unknown god.
+  2681 | D:2      | Prayed at the altar of an unknown god.
+  2681 | D:2      | Became a worshipper of Ignis, the Dying Flame
+  2837 | D:3      | Learned a level 3 spell: Inner Flame
+  2840 | D:3      | Learned a level 2 spell: Blink
+  2845 | D:3      | Learned a level 4 spell: Flame Wave
+  2977 | D:3      | Found a burning altar of Makhleb.
+  3182 | D:3      | Noticed Jessica
+  3189 | D:3      | Killed Jessica
+  3882 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  4177 | D:4      | Gained mutation: You possess an exceptional clarity of
+                  | mind. [potion of mutation]
+  4177 | D:4      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  4442 | D:4      | Found a basalt altar of Yredelemnul.
+  4452 | D:4      | Found a shadowy altar of Dithmenos.
+  4473 | D:4      | Found a snail-covered altar of Cheibriados.
+  4482 | D:4      | Found a radiant altar of Vehumet.
+  4486 | D:4      | Fell from the grace of Ignis
+  4486 | D:4      | Became a worshipper of Vehumet
+  4502 | D:4      | Succumbed to their own poison gas
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_arbitrary_b, layout_loops_corners, serial_shops,
+          nicolae_shop_statue_plus, shop, minmay_pentomino_r4
+D:2:      minmay_recursive_quarters, layout_loops_corners,
+          basic_ecumenical_altar, uniq_sigmund, uniq_robin, uniq_terence
+D:3:      layout_loops_ring, nicolae_overflow_hidden_temple, uniq_jessica
+D:4:      layout_loops_corners, mainiacjoe_overflow_small_starburst,
+          grunt_temple_overflow_cloverleaf, minmay_distorted
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fire Magic     |     4     5     6 |  6.2
+Spellcasting   |        4  5     6 |  6.5
+Stealth        |                 3 |  3.1
+Conjurations   |                 2 |  2.0
+Fighting       |                   |  0.2
+Dodging        |                   |  2.9
+Hexes          |                   |  0.1
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Mace              |     2 |       ||     2
+   Cast: Foxfire           |    24 |    11 ||    35
+         Scorch            |    20 |    65 ||    85
+         Inner Flame       |       |     1 ||     1
+    Use: Scroll            |     4 |     5 ||     9
+         Potion            |     5 |     7 ||    12
+ Armour: Robe              |     6 |     4 ||    10
+  Dodge: Dodged            |    17 |     9 ||    26
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4497 |   4274 |    223 |      0 |   3059 |   4 | 1124.2 |
+       Dungeon |   4497 |   4274 |    223 |      0 |   3059 |   4 | 1124.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1685 daAuts
+     D:1: 1144 daAuts
+     D:3: 928 daAuts
+     D:4: 739 daAuts
+

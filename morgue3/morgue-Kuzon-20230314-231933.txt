@@ -1,0 +1,193 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 570819113488253175
+
+2 Kuzon the Firebug (level 1, 0/13 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Slain by a jackal (1 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:00:45 (76 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)           Turns: 76, Time: 00:00:45
+
+Health: 0/13       AC:  2    Str:  8    XL:     1   Next: 33%
+Magic:  2/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - a scroll of blinking {unknown}
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ * Level 1.1 Conjurations
+ * Level 3.0 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      41%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The giant cockroach barely misses you.
+A giant cockroach comes into view.
+The giant cockroach closely misses you. The giant cockroach bites you. The
+jackal bites you.
+The giant cockroach attacks as you move away!
+The giant cockroach barely misses you.
+The jackal attacks as you move away! The jackal closely misses you. The jackal
+barely misses you.
+The jackal misses you.
+The jackal bites you but does no damage.
+A kobold comes into view. It is wielding a +0 short sword.
+The kobold shouts!
+The jackal bites you.
+You conjure some foxfire! The foxfire hits the jackal.
+The jackal is moderately wounded.
+The jackal bites you.
+The jackal bites you but does no damage.
+A jackal comes into view.
+The jackal bites you. The jackal barely misses you. The jackal completely
+misses you.
+The jackal closely misses you.
+The foxfire hits the kobold.
+You kill the kobold!
+The jackal bites you. The jackal closely misses you.
+The giant cockroach waves its antennae.
+You barely miss the jackal. The jackal barely misses you. The jackal closely
+misses you.
+You are too injured to fight recklessly!
+You hit the jackal but do no damage. The jackal completely misses you.
+The jackal barely misses you.
+You closely miss the jackal. You punch the jackal, but do no damage. The jackal
+misses you.
+The jackal bites you. The jackal barely misses you. The jackal bites you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss the jackal. The jackal closely misses you. The jackal barely
+misses you.
+You hit the jackal.
+The jackal is heavily wounded.
+The jackal closely misses you.
+The jackal bites you but does no damage.
+The jackal closely misses you.
+The jackal bites you but does no damage.
+You barely miss the jackal.
+The jackal is heavily wounded.
+The jackal bites you.
+You die...
+
+      #.
+      #.#               .
+      #.#             ...
+     ##..     ######.....
+    ##.B#  ####hh@h..#
+##   ...#  #.BhB######
+...####.####.####
+........B....#          ####
+#....?.h######          ...
+#.......##         #####..#####..#
+#......h.#         #...#..#...#..#
+#......#.#         #...#..#...#..#
+#......#h####      #.<.#..+...#hh#
+#......#....#####  #...'..#...##†#
+#.#########h.h..## #...####...##.#
+#.        #####..####'######'###.#
+
+
+You could see 4 jackals and 2 giant cockroaches.
+
+Vanquished Creatures
+  A jackal (D:1)
+  A kobold (D:1)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  6 foxfires (D:1)
+6 creatures vanquished.
+
+Grand Total: 8 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    76 | D:1      | Slain by a jackal
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_houses_and_road, layout_rooms, serial_bayou_pond_c
+
+Action                     || total
+---------------------------++-------
+  Melee: Unarmed           ||     6
+         Punch             ||     1
+   Cast: Foxfire           ||     4
+ Armour: Robe              ||     8
+  Dodge: Dodged            ||    29
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     76 |     76 |      0 |      0 |     23 |   1 |   76.0 |
+       Dungeon |     76 |     76 |      0 |      0 |     23 |   1 |   76.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 76 daAuts
+

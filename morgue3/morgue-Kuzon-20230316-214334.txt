@@ -1,0 +1,208 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17719147993007343150
+
+3 Kuzon the Firebug (level 1, -1/10 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Slain by a hobgoblin (3 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:01:43 (640 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)       Turns: 640, Time: 00:01:44
+
+Health: -1/10      AC:  3    Str:  5    XL:     1   Next: 41%
+Magic:  3/6        EV: 12    Int: 19    God:    
+Gold:   50         SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .      SeeInvis .    e - +0 dagger
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    h - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.21/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: very slightly contaminated
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 50 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ h - a +0 pair of boots (worn)
+Scrolls
+ c - a scroll of noise {unknown}
+ g - a scroll of brand weapon {unknown}
+Potions
+ b - a potion of magic
+ d - a potion of haste {unknown}
+ f - a potion of curing {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 3.0 Spellcasting
+ * Level 1.3 Conjurations
+ * Level 3.4 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      44%        2x1d6     6%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           30%        2d7       5%          2
+ Sandblast                Erth           4%         2d4       16%         1
+ Passwall                 Tmut/Erth      1%         N/A       22%         2
+ Inner Flame              Hex/Fire       9%         N/A       22%         3
+ Kindle Blastsparks       Fire/Tloc/Air  14%        2d11      28%         3
+ Stone Arrow              Conj/Erth      10%        3d7       34%         3
+ Flame Wave               Conj/Fire      11%        2d6       50%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+A hobgoblin comes into view.
+The hobgoblin shouts!
+You conjure some foxfire! The hobgoblin hits you.
+Your foxfire dissipates!
+The hobgoblin attacks as you move away!
+The hobgoblin hits you but does no damage.
+The foxfire hits the hobgoblin.
+The hobgoblin is moderately wounded.
+The hobgoblin attacks as you move away! The hobgoblin misses you.
+The hobgoblin attacks as you move away!
+The hobgoblin hits you but does no damage.
+The hobgoblin attacks as you move away! The hobgoblin hits you.
+You see here a +0 dagger.
+You are too injured to fight recklessly!
+Unknown command.
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You miscast Foxfire.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen. The hobgoblin closely misses you.
+Unknown command.
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The hobgoblin hits you but does no damage.
+You barely miss the hobgoblin.
+The hobgoblin is moderately wounded.
+The foxfire hits the hobgoblin.
+The hobgoblin is heavily wounded.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Foxfire (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! The hobgoblin barely misses you.
+You hit the hobgoblin.
+The hobgoblin is severely wounded.
+The foxfire hits the hobgoblin.
+The hobgoblin is almost dead.
+The hobgoblin hits you.
+You die...
+
+.#...............#.......#..)....##.#..
+###.####....####.#.#####.#.......##.#.#
+###.#  #.........#.#####.#.......##.#..
+....## #...#######.##....##########.#..
+###..# #...#     #.##.##.#        #....
+  ##.# #...#     #.......#        ###..
+####.###...#     ####.################.
+#.......#.##        #.# #..........# #.
+#.....#...#         #.###......###.# #.
+..#...#.####        #.........## ### ##
+..#.###.##.##############....## #######
+###................@#   #....##.#..P##P
+....#...##.########g#   #....##8PP..#..
+#...#.#....#      #.#   #######_.##...#
+#.###.#..#.#      #.#         #   ##P##
+#.....##...#   ####.#              ####
+..#.#####.###  #....#                 #
+..#.# #.....#  #.####                 #
+###.# #.....#  #.
+....# #....)#  #.
+#.### #.....#  #.
+#.#   #.....#  #.
+#.#   #######  ##
+
+
+You could see a hobgoblin.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  A quokka (D:1)
+  A rat (D:1)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 foxfires (D:1)
+5 creatures vanquished.
+
+Grand Total: 8 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   217 | D:1      | Found a faded altar of an unknown god.
+   640 | D:1      | Slain by a hobgoblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      kennysheep_arrival_seaside, layout_loops_cross,
+          shapermc_ecumenical_altar_petra, hangedman_decor_points,
+          minmay_misc_feat_pillars
+
+Action                     || total
+---------------------------++-------
+  Melee: Dagger            ||     6
+   Cast: Foxfire           ||     5
+ Armour: Robe              ||     4
+  Dodge: Dodged            ||     5
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    639 |    610 |     29 |      0 |    554 |   1 |  639.0 |
+       Dungeon |    639 |    610 |     29 |      0 |    554 |   1 |  639.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 639 daAuts
+

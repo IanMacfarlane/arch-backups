@@ -1,0 +1,368 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5223765589949086657
+
+2376 GoodOmen the Geomancer (level 9, -1/45 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 18, 2023.
+             Was a Follower of Vehumet.
+             Slain by a wyvern (7 damage)
+             ... on level 7 of the Dungeon.
+             The game lasted 00:23:10 (7451 turns).
+
+GoodOmen the Geomancer (DEEE)                       Turns: 7451, Time: 00:23:11
+
+Health: -1/45      AC:  7    Str:  3    XL:     9   Next: 21%
+Magic:  0/22       EV: 12    Int: 25    God:    Vehumet [*.....]
+Gold:   447        SH:  0    Dex: 15    Spells: 18/23 levels left
+
+rFire   . . .      SeeInvis +    y - +0 quarterstaff
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    i - +2 helmet of the Unseen Realm {rElec Str-2 SInv}
+rElec   +          Rampage  .    F - +0 cloak
+rCorr   .                        A - +0 pair of gloves
+Will    +....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.27/turn                e - ring of the Echidna {rElec Will+}
+MPRegen 0.18/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was aware of your devotion.
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+You also visited: Sewer.
+
+You collected 447 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ y - a +0 quarterstaff (weapon)
+Missiles
+ I - a throwing net
+Armour
+ a - a +0 robe (worn)
+ i - the +2 helmet of the Unseen Realm (worn) {rElec Str-2 SInv}
+   (You found it on level 2 of the Dungeon)   
+   
+   Str:       It affects your strength (-2).
+   rElec:     It insulates you from electricity.
+   SInv:      It lets you see invisible.
+ A - a +0 pair of gloves (worn)
+ C - a scarf of invisibility
+ F - a +0 cloak (worn)
+Jewellery
+ e - the ring of the Echidna (left hand) {rElec Will+}
+   (You acquired it on level 2 of the Dungeon)   
+   
+   [ring of willpower]
+   
+   rElec:     It insulates you from electricity.
+   Will:      It increases your willpower.
+ E - an amulet of magic regeneration
+Wands
+ r - a wand of iceblast (5)
+ H - a wand of polymorph (5)
+Scrolls
+ f - a scroll of teleportation
+ l - a scroll of enchant weapon
+ m - 7 scrolls of magic mapping
+ n - 2 scrolls of amnesia
+ o - 2 scrolls of noise
+ p - 2 scrolls of poison
+ q - a scroll of acquirement
+ t - a scroll of silence
+ u - a scroll of butterflies
+ v - a scroll of vulnerability {unknown}
+ x - a scroll of blinking {unknown}
+ B - a scroll of enchant armour {unknown}
+Potions
+ b - a potion of magic
+ c - 3 potions of cancellation
+ d - 4 potions of heal wounds
+ g - 2 potions of invisibility
+ h - a potion of attraction
+ j - 3 potions of curing
+ k - a potion of flight
+ s - 3 potions of resistance
+ w - 3 potions of brilliance
+ z - 2 potions of mutation {unknown}
+ D - a potion of might {unknown}
+ G - a potion of haste {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 7.9 Spellcasting
+ * Level 8.2 Conjurations
+ - Level 1.1 Transmutations
+ * Level 9.4 Earth Magic
+
+
+You had 18 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+c - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      30%        N/A       1%          2
+ Static Discharge         Conj/Air       60%        2-5/arc   1%          2
+ Wereblood                Tmut           15%        N/A       6%          2
+ Petrify                  Tmut/Erth      36%        N/A       7%          4
+ Sublimation of Blood     Necr           9%         N/A       10%         2
+ Vhi's Electric Charge    Tloc/Air       18%        N/A       19%         3
+ Arcjolt                  Conj/Air       15%        1d25      30%         5
+ Lightning Bolt           Conj/Air       15%        1d29      30%         5
+ Olgreb's Toxic Radiance  Pois           9%         N/A       52%         4
+ Ozocubu's Refrigeration  Ice            4%         4d8       100%        7
+ Summon Hydra             Summ           4%         N/A       100%        7
+ Ignition                 Fire           4%         3d4       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)              Sewer (visited)         
+Temple: D:4-7       
+
+Altars:
+Sif Muna
+Vehumet
+Yredelemnul
+
+Shops:
+D:2 (   D:4 =
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f - wyvern
+Aim: a wyvern (78% to hit)
+The stone arrow hits the wyvern!
+The wyvern is moderately wounded.
+An orc comes into view. It is wielding a +0 falchion.
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - wyvern
+Aim: a wyvern (moderately wounded, 78% to hit)
+The stone arrow hits the wight!
+You destroy the wight!
+Vehumet accepts your kill.
+The orc shouts! You hear a shout!
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - wyvern
+Aim: a wyvern (moderately wounded, 78% to hit)
+The stone arrow misses the wyvern. The wyvern bites you. The wyvern barely
+misses you.
+An orc comes into view. It is wielding a +0 club.
+The wyvern bites you.
+Found 8 stones.
+Found 7 gold pieces. The wyvern completely misses you.
+The wyvern attacks as you move away! The wyvern completely misses you.
+The wyvern bites you!
+The wyvern bites you!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - wyvern
+Aim: a wyvern (moderately wounded, 85% to hit)
+The blast of sand hits the wyvern.
+The wyvern is moderately wounded.
+The wyvern bites you!
+* * * LOW HITPOINT WARNING * * *
+The wyvern bites you!
+You die...
+
+o...  .......#  #.........>#
+..... ##.###.####........#.#
+..... #..................#.#
+.....)#....≈.............# #
+......#.._.≈..##..########
+#.....o....≈..##..#
+     .#.≈≈≈≈..##..#
+      #.......##..#
+      #.......##..#
+      #..#######..#
+    #.#..#######..#
+    #......l@.$...#
+    ##.....(......#
+     #.........####
+     ###########
+
+
+You could see a wyvern.
+
+Vanquished Creatures
+  Grinder (D:6)
+  A water moccasin (D:6)
+  Duvessa (D:7)
+  3 black bears
+  2 ogres
+  The ghost of Bokogi the Shooter, an amateur KoHu (D:3)
+  A phantom (D:4)
+  3 scorpions
+  3 wights (D:7)
+  A howler monkey (D:6)
+  6 hounds
+  2 orc priests
+  A gnoll bouda (D:5)
+  5 iguanas
+  6 orc wizards
+  11 adders
+  15 gnolls
+  4 river rats (Sewer)
+  A white imp (D:7)
+  An ufetubus (D:5)
+  2 worms (D:2)
+  3 dart slugs
+  22 orcs
+  14 ball pythons
+  12 endoplasms
+  11 giant cockroaches
+  6 goblins
+  10 hobgoblins
+  12 jackals
+  A kobold (D:1)
+  2 quokkas
+  2 bats (D:1)
+  7 frilled lizards
+  10 rats
+183 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 foxfires
+  8 fungi (D:1)
+10 creatures vanquished.
+
+Grand Total: 193 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   251 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   429 | D:1      | Reached skill level 4 in Earth Magic
+   706 | D:1      | Reached XP level 3. HP: 19/19 MP: 7/10
+   710 | D:1      | Learned a level 3 spell: Stone Arrow
+   911 | D:1      | Found a faded altar of an unknown god.
+  1291 | D:2      | Identified a scroll of acquirement
+  1291 | D:2      | Acquired the ring of the Echidna {rElec Will+}
+  1312 | D:2      | Reached skill level 1 in Conjurations
+  1325 | D:2      | Identified the +2 helmet of the Unseen Realm {rElec Str-2
+                  | SInv}
+  1437 | D:2      | Reached XP level 4. HP: 24/24 MP: 10/12
+  1492 | D:2      | Found Cass's Weapon Boutique.
+  1881 | D:3      | Reached skill level 5 in Earth Magic
+  1881 | D:3      | Reached XP level 5. HP: 28/28 MP: 11/13
+  1905 | D:3      | Found a transporter.
+  1908 | D:3      | Found a glowing drain.
+  1908 | D:3      | Found a transporter.
+  1908 | D:3      | Noticed Bokogi's ghost (amateur KoHu)
+  1997 | Sewer    | Entered a sewer
+  2539 | D:3      | Noticed an ogre
+  2818 | D:3      | Reached XP level 6. HP: 11/32 MP: 8/15
+  3302 | D:3      | Killed Bokogi's ghost
+  3303 | D:3      | Reached skill level 5 in Spellcasting
+  3305 | D:3      | Reached skill level 6 in Earth Magic
+  4075 | D:4      | Reached XP level 7. HP: 36/36 MP: 13/17
+  4436 | D:4      | Reached skill level 5 in Conjurations
+  4620 | D:4      | Found Vomuit's Jewellery Emporium.
+  4834 | D:4      | Reached skill level 7 in Earth Magic
+  5017 | D:4      | Found a radiant altar of Vehumet.
+  5022 | D:4      | Became a worshipper of Vehumet
+  5113 | D:5      | Entered Level 5 of the Dungeon
+  5159 | D:5      | Identified the +8 spear of the Lamprey {flame, Contam rElec
+                  | rPois Int-4}
+  5262 | D:5      | Reached XP level 8. HP: 41/41 MP: 0/19
+  5763 | D:5      | Found a basalt altar of Yredelemnul.
+  5767 | D:5      | Reached skill level 8 in Earth Magic
+  5785 | D:5      | Reached * piety under Vehumet
+  5785 | D:5      | Offered knowledge of Foxfire by Vehumet.
+  6061 | D:6      | Learned a level 1 spell: Foxfire
+  6684 | D:6      | Noticed Grinder
+  6699 | D:6      | Killed Grinder
+  6926 | D:6      | Reached skill level 9 in Earth Magic
+  6928 | D:6      | Reached XP level 9. HP: 45/45 MP: 5/22
+  7316 | D:7      | Noticed Duvessa
+  7323 | D:7      | Killed Duvessa
+  7418 | D:7      | Found a shimmering blue altar of Sif Muna.
+  7451 | D:7      | Slain by a wyvern
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_checkerplants, layout_basic,
+          ebering_ecumenical_altar_abandoned, minmay_stone_trees_small,
+          minmay_pentomino_v4
+D:2:      wander_river, layout_rooms, serial_shops, shop, minmay_between
+D:3:      layout_loops_ring, gammafunk_ghost_smash, portal_sewer_entry_f,
+          minivault_4, grunt_ministairs_9, chequers_serial_rivers_small_a
+D:4:      layout_loops_corners, kennysheep_little_box, serial_shops, shop,
+          hangedman_glass_teeth, wad_floor_pattern_1
+D:5:      layout_cave_pools, amcnicky_altar_gilded, cheibrodos_gnoll_hut
+D:6:      layout_loops_ring, uniq_grinder
+D:7:      layout_basic, mainiacjoe_overflow_chevrons,
+          minmay_temple_entry_enclosed_plants, uniq_joseph, uniq_duvessa
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Earth Magic    |     4     5     6  7  9    |  9.4
+Conjurations   |        1  2  3  4  5  7  8 |  8.2
+Spellcasting   |        4        5  6  7    |  7.9
+Dodging        |                            |  2.4
+Stealth        |                            |  2.4
+Transmutations |                            |  1.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Club              |    21 |     2 |       ||    23
+         Quarterstaff      |       |       |     5 ||     5
+   Cast: Sandblast         |    57 |    81 |    26 ||   164
+         Stone Arrow       |       |    24 |    89 ||   113
+         Foxfire           |       |       |     3 ||     3
+    Use: Scroll            |     5 |     7 |     5 ||    17
+ Armour: Robe              |    10 |     4 |     2 ||    16
+  Dodge: Dodged            |    34 |    21 |    16 ||    71
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   7607 |   7349 |    258 |    183 |   5963 |   8 |  950.9 |
+       Dungeon |   7109 |   6851 |    258 |    183 |   5549 |   7 | 1015.6 |
+         Sewer |    498 |    498 |      0 |      0 |    413 |   1 |  498.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1720 daAuts
+     D:1: 1315 daAuts
+     D:6: 1256 daAuts
+     D:3: 1221 daAuts
+     D:5: 849 daAuts
+     D:2: 610 daAuts
+   Sewer: 498 daAuts
+     D:7: 136 daAuts
+

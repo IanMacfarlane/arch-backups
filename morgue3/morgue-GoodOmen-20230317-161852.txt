@@ -1,0 +1,657 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 865050584527995050
+
+68051 GoodOmen the Impaler (level 14, -6/136 HPs)
+             Began as a Minotaur Fighter on Mar 17, 2023.
+             Was an Elder of Makhleb.
+             Mangled by squishfish's ghost (11 damage)
+             ... on level 12 of the Dungeon.
+             The game lasted 01:08:57 (18062 turns).
+
+GoodOmen the Impaler (Minotaur Fighter)            Turns: 18062, Time: 01:08:57
+
+Health: -6/136     AC: 43    Str: 38    XL:     14   Next: 85%
+Magic:  14/14      EV:  9    Int:  6    God:    Makhleb [****..]
+Gold:   659        SH:  5    Dex: 10    Spells: 13/13 levels left
+
+rFire   . . .      SeeInvis .    v - +2 bardiche (protect)
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    y - +9 plate armour "Gaddiuf" {rCorr Int+3}
+rPois   .          Reflect  +    O - +2 hat
+rElec   .          Rampage  .    q - +0 cloak
+rCorr   +                        a - +2 pair of gloves
+Will    +....                    (no boots)
+Stlth                            U - amulet of reflection
+HPRegen 0.42/turn                V - +6 ring of strength
+MPRegen 0.14/turn                e - +4 ring of slaying
+
+@: under a protective aura, unable to read
+A: horns 2, retaliatory headbutt, hooves 1, iridescent scales 1, strong 2,
+inability to read after injury 1
+a: Renounce Religion, Minor Destruction, Lesser Servant of Makhleb, Major
+Destruction
+
+
+You were on level 12 of the Dungeon.
+You worshipped Makhleb.
+Makhleb was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 16 of its levels.
+You visited 1 bazaar.
+You also visited: Bailey.
+
+You collected 1568 gold pieces.
+You spent 909 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ v - a +2 bardiche of protection (weapon)
+ M - a +3 halberd of venom
+Missiles
+ n - 68 poisoned darts (quivered)
+ D - a throwing net
+Armour
+ a - a +2 pair of gloves (worn)
+ q - a +0 cloak (worn)
+ t - a +2 kite shield of reflection
+ u - a +4 scale mail of cold resistance
+ y - the +9 plate armour "Gaddiuf" (worn) {rCorr Int+3}
+   (You found it in a bailey)   
+   
+   Int:       It affects your intelligence (+3).
+   rCorr:     It protects you from acid and corrosion.
+ O - a +2 hat (worn)
+Jewellery
+ e - a +4 ring of slaying (right hand)
+ m - an amulet of faith
+ o - a ring of resist corrosion
+ U - an amulet of reflection (around neck)
+ V - a +6 ring of strength (left hand)
+Wands
+ c - a wand of flame (29)
+ p - a wand of iceblast (22)
+ J - a wand of polymorph (16)
+ N - a wand of mindburst (5)
+Scrolls
+ g - 14 scrolls of teleportation
+ j - 5 scrolls of immolation
+ l - 2 scrolls of blinking
+ r - 3 scrolls of poison
+ s - a scroll of magic mapping
+ w - 5 scrolls of fog
+ B - a scroll of enchant armour
+ C - a scroll of amnesia
+ E - a scroll of noise
+ P - 3 scrolls of fear
+ R - 4 scrolls of identify
+ T - a scroll of silence
+Potions
+ d - a potion of might
+ f - 6 potions of curing
+ h - 4 potions of mutation
+ i - 2 potions of flight
+ k - 5 potions of brilliance
+ x - a potion of degeneration
+ L - a potion of invisibility
+Miscellaneous
+ b - a condenser vane
+
+
+   Skills:
+ + Level 15.7 Fighting
+ * Level 19.7 Polearms
+ - Level 6.0 Throwing
+ - Level 18.0 Armour
+ - Level 3.7 Shields
+ * Level 1.3 Invocations
+
+
+You had 13 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sting                    Tmut/Pois      0%         1d3       86%         1
+ Lesser Beckoning         Tloc           0%         N/A       94%         2
+ Poisonous Vapours        Pois/Air       0%         N/A       94%         2
+ Sublimation of Blood     Necr           0%         N/A       94%         2
+ Frozen Ramparts          Ice            0%         1d1       99%         3
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       99%         3
+ Kindle Blastsparks       Fire/Tloc/Air  0%         2d10      99%         3
+ Spider Form              Tmut/Pois      0%         N/A       99%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       99%         3
+ Teleport Other           Tloc           0%         N/A       99%         3
+ Animate Armour           Summ/Erth      0%         N/A       100%        4
+ Ice Form                 Ice/Tmut       0%         N/A       100%        4
+ Manifold Assault         Tloc           0%         N/A       100%        4
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+ Petrify                  Tmut/Erth      0%         N/A       100%        4
+ Summon Ice Beast         Ice/Summ       0%         N/A       100%        4
+ Alistair's Intoxication  Tmut/Pois      0%         N/A       100%        5
+ Blade Hands              Tmut           0%         N/A       100%        5
+ Borgnjor's Vile Clutch   Necr/Erth      0%         N/A       100%        5
+ Fireball                 Conj/Fire      0%         3d3       100%        5
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Irradiate                Conj/Tmut      0%         3d11      100%        5
+ Iskenderun's Battlesphe  Conj           0%         2d6       100%        5
+ Metabolic Englaciation   Hex/Ice        0%         N/A       100%        5
+ Conjure Ball Lightning   Conj/Air       0%         3x3d6     100%        6
+ Eringya's Noxious Bog    Tmut/Pois      0%         N/A       100%        6
+ Iron Shot                Conj/Erth      0%         9d1       100%        6
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Dragon Form              Tmut           0%         N/A       100%        7
+ Orb of Destruction       Conj           0%         9d5       100%        7
+ Borgnjor's Revivificati  Necr           0%         N/A       100%        8
+ Necromutation            Tmut/Necr      0%         N/A       100%        8
+ Death's Door             Necr           0%         N/A       100%        9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:7            Lair (1/5) D:9         
+    Orc (0/2) D:11         Vaults (0/5) D:13         Depths (0/4) D:15        
+ Bailey (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Qazlal
+Ru
+Sif Muna
+Xom
+Zin
+
+Shops:
+D:2 ?   D:5 (***   D:6 *   D:11 *?
+
+Portals:
+Abyss: D:12
+
+Annotations:
+D:12 squishfish's ghost, journeyman TrMo
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+You have large cloven feet.
+You are partially covered in iridescent scales. (AC +2)
+Your muscles are very strong. (Str +8, Int/Dex -2)
+You occasionally lose the ability to read scrolls when taking damage.
+
+Message History
+
+The large abomination barely misses you.
+You hit squishfish's ghost but do no damage.
+You kick squishfish's ghost, but do no damage.
+You headbutt squishfish's ghost, but do no damage.
+Squishfish's ghost is moderately damaged.
+Squishfish's ghost barely misses you.
+The large abomination hits you but does no damage.
+You hit squishfish's ghost but do no damage.
+Squishfish's ghost is moderately damaged.
+Squishfish's ghost hits you but does no damage.
+The large abomination hits you but does no damage.
+You slash squishfish's ghost!
+You kick squishfish's ghost, but do no damage.
+Squishfish's ghost is moderately damaged.
+Squishfish's ghost hits you!!
+* * * LOW HITPOINT WARNING * * *
+You block the large abomination's attack.
+You barely miss squishfish's ghost.
+You kick squishfish's ghost, but do no damage.
+Squishfish's ghost is moderately damaged.
+Squishfish's ghost hits you but does no damage.
+You closely miss squishfish's ghost. You kick squishfish's ghost.
+You headbutt squishfish's ghost, but do no damage.
+Squishfish's ghost is moderately damaged.
+The large abomination hits you.
+* * * LOW HITPOINT WARNING * * *
+Squishfish's ghost hits you but does no damage.
+You hit squishfish's ghost.
+You kick squishfish's ghost, but do no damage.
+Squishfish's ghost is moderately damaged.
+You can read scrolls again.
+The large abomination hits you!!
+You feel threatened and lose the ability to read scrolls!
+* * * LOW HITPOINT WARNING * * *
+You block squishfish's ghost's attack.
+You hit squishfish's ghost. Your kick misses squishfish's ghost.
+Squishfish's ghost is moderately damaged.
+The large abomination hits you but does no damage.
+Squishfish's ghost hits you!
+You die...
+
+....####..##..##W##.......###......
+....#x...# #.##o#9#©.......##<.....
+....##.##..###..o##........##......
+#....##### ..... #.....###..#......
+..[......####..###...### ##........
+#.........#.##.#.....###  ##....###
+#....###..##...#.......### #...## #
+....##W##..#©..##........###.#.##
+...##...#.##....##....##....###.###
+...##...###..#...#...#####.## #..#.
+^...##.#.#∩#.#^#X##..#  ##.## ##...
+#....#$.#......hW@#©.####...####...
+.....#:#.##...#####..[.......##..##
+.....##.####)##.###...##...#....###
+#.....###..###.......##....###.###
+#....................#..#..###...##
+#......................###..#......
+##..###.######...###..## #......###
+##..###.#    #........#  #.....## #
+...###..#   ##....#.<### #.....#
+........#  ##.....#....###.....####
+........## #.....##.........##....#
+.........###.^..##....####...##....
+
+
+You could see a large abomination, a raiju and squishfish's ghost.
+
+Vanquished Creatures
+  A frost giant (D:15)
+  The ghost of Jiecrehi the Severer, a journeyman DDFi of Makhleb (D:15)
+  2 crystal guardians
+  A great orb of eyes (D:12)
+  A vault guard (D:13)
+  5 hydras
+  An ogre mage (D:15)
+  2 catoblepae
+  9 two-headed ogres
+  9 centaur warriors
+  10 boulder beetles
+  3 tengu warriors
+  8 skeletal warriors
+  A shadow wraith (D:11)
+  Lodul (D:13)
+  An orc knight (Bailey)
+  3 wizards (D:13)
+  A deep elf pyromancer (D:13)
+  A necromancer (D:13)
+  An oklob plant (Lair:1)
+  8 cyclopes
+  A worldbinder (D:12)
+  5 manticores
+  17 ugly things
+  A cane toad (Lair:1)
+  2 gargoyles
+  2 komodo dragons
+  A kobold demonologist (D:10)
+  2 unseen horrors
+  A freezing wraith (D:11)
+  7 trolls
+  3 meliai (D:15)
+  A hornet (D:11)
+  3 slime creatures (D:14)
+  A large abomination (D:12)
+  2 wraiths
+  A shadow (D:12)
+  A spriggan (shapeshifter) (D:14)
+  2 wyverns
+  26 yaks
+  19 humans (D:13)
+  Grum (D:11)
+  3 basilisks
+  8 vampire mosquitoes
+  2 steam dragons (D:6)
+  Edmund (D:5)
+  3 acid dragons
+  8 water moccasins
+  8 orc warriors
+  A black bear (shapeshifter) (D:14)
+  3 sky beasts
+  2 black bears
+  9 ogres
+  8 centaurs
+  6 wolves
+  4 kobold brigands
+  A bullfrog (shapeshifter) (D:11)
+  2 gnoll sergeants
+  5 bullfrogs
+  4 scorpions
+  3 wights (D:9)
+  5 howler monkeys
+  6 electric eels (D:7)
+  6 orc priests
+  2 jellies
+  3 hounds
+  A sleepcap (D:5)
+  A gnoll bouda (D:7)
+  Terence (D:2)
+  2 iguanas
+  Natasha (thrice) (D:2)
+  8 orc wizards
+  16 gnolls
+  An adder (D:6)
+  A shadow imp (D:6)
+  An ufetubus (D:2)
+  A dart slug (D:3)
+  50 orcs
+  7 ball pythons
+  3 bats
+  10 endoplasms
+  6 giant cockroaches
+  6 goblins
+  6 hobgoblins
+  6 jackals
+  17 kobolds
+  2 quokkas
+  15 frilled lizards
+  A rat (D:1)
+437 creatures vanquished.
+
+Vanquished Creatures (others)
+  A human (D:9)
+  36 fungi
+  68 plants
+  4 toadstools (D:1)
+109 creatures vanquished.
+
+Grand Total: 546 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   167 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   168 | D:1      | Reached skill level 3 in Polearms
+   529 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   717 | D:2      | Found The Oracle's Delphic Readings.
+   890 | D:2      | Reached skill level 4 in Polearms
+   892 | D:2      | Noticed Terence
+   908 | D:2      | Killed Terence
+   909 | D:2      | Reached XP level 4. HP: 33/41 MP: 3/3
+   931 | D:2      | Noticed Natasha
+   938 | D:2      | Killed Natasha
+   951 | D:2      | Reached skill level 5 in Polearms
+   974 | D:2      | Noticed Natasha
+   981 | D:2      | Killed Natasha
+   982 | D:2      | Reached skill level 5 in Fighting
+   982 | D:2      | Reached XP level 5. HP: 41/48 MP: 4/4
+   994 | D:2      | Noticed Natasha
+   998 | D:2      | Killed Natasha
+  1566 | D:3      | Found a sacrificial altar of Ru.
+  2381 | D:4      | Identified the +1 ring mail "Zapnom" {+Inv rPois rF-}
+  2422 | D:4      | Found an opulent altar of Gozag.
+  2499 | D:4      | Noticed an ogre
+  2524 | D:4      | Killed an ogre
+  2525 | D:4      | Reached skill level 6 in Polearms
+  2525 | D:4      | Reached skill level 1 in Throwing
+  2525 | D:4      | Reached XP level 6. HP: 54/56 MP: 5/5
+  2738 | D:5      | Entered Level 5 of the Dungeon
+  2799 | D:5      | Found Bueshreusk's Assorted Antiques.
+  2938 | D:5      | Bought a scroll of identify for 50 gold pieces
+  2947 | D:5      | Found Zin's Purification Station.
+  2961 | D:5      | Found a glowing silver altar of Zin.
+  3020 | D:5      | Got the Compendium of the Body and the Entourage
+  3133 | D:5      | Found a burning altar of Makhleb.
+  3135 | D:5      | Noticed an Executioner
+  3142 | D:5      | Noticed an orange demon
+  3142 | D:5      | Noticed a smoke demon
+  3144 | D:5      | Became a worshipper of Makhleb the Destroyer
+  3164 | D:5      | Reached skill level 7 in Polearms
+  3189 | D:5      | Found a broken altar of Ashenzari.
+  3283 | D:5      | Found Uhuatrui's General Store.
+  3416 | D:5      | Found Fyiskubi's Weapon Shop.
+  3499 | D:5      | Bought 4 poisoned darts for 31 gold pieces
+  3499 | D:5      | Bought a +0 halberd of venom for 88 gold pieces
+  3507 | D:5      | Gained mutation: You have hidden genetic potential. [potion
+                  | of mutation]
+  3507 | D:5      | Gained mutation: Your muscles are strong. (Str +4, Int/Dex
+                  | -1) [potion of mutation]
+  3507 | D:5      | Gained mutation: You occasionally lose the ability to read
+                  | scrolls when taking damage. [potion of mutation]
+  3507 | D:5      | Gained mutation: You have large cloven feet. [potion of
+                  | mutation]
+  3528 | D:5      | Reached XP level 7. HP: 61/63 MP: 6/6
+  3535 | D:6      | Noticed a steam dragon
+  3535 | D:6      | Noticed a steam dragon
+  3536 | D:6      | Noticed Edmund
+  3617 | D:5      | Killed Edmund
+  3619 | D:5      | Gained mutation: You are partially covered in iridescent
+                  | scales. (AC +2) [hidden potential]
+  3882 | D:6      | Reached skill level 8 in Polearms
+  4116 | D:6      | Killed a steam dragon
+  4117 | D:6      | Reached XP level 8. HP: 55/71 MP: 7/7
+  4232 | D:6      | Got the Incunabulum of Location
+  4366 | D:6      | Reached * piety under Makhleb
+  4371 | D:6      | Reached skill level 9 in Polearms
+  4514 | D:6      | Gained mutation: Your muscles are very strong. (Str +8,
+                  | Int/Dex -2) [hidden potential]
+  4514 | D:6      | Lost mutation: You have hidden genetic potential. [hidden
+                  | potential expressed]
+  4593 | D:6      | Found Fongieza's Assorted Antiques.
+  4603 | D:6      | Bought a scroll of identify for 58 gold pieces
+  5000 | D:6      | Reached skill level 10 in Polearms
+  5297 | D:7      | Reached XP level 9. HP: 10/81 MP: 8/8
+  5580 | D:7      | Found a staircase to the Ecumenical Temple.
+  5593 | D:7      | Reached skill level 5 in Throwing
+  5804 | D:7      | Reached ** piety under Makhleb
+  6254 | D:8      | Reached skill level 11 in Polearms
+  6257 | D:8      | Reached skill level 5 in Armour
+  6517 | D:8      | Found a stormy altar of Qazlal.
+  6891 | D:8      | Found a white marble altar of Elyvilon.
+  6892 | D:8      | Found a shimmering blue altar of Sif Muna.
+  6892 | D:8      | Found a blossoming altar of Fedhas.
+  6893 | D:8      | Found a snail-covered altar of Cheibriados.
+  7011 | D:9      | Found a flagged portal.
+  7027 | Bailey   | Entered a bailey
+  7129 | Bailey   | Reached *** piety under Makhleb
+  7149 | Bailey   | Reached skill level 12 in Polearms
+  7201 | Bailey   | Noticed an orc knight
+  7219 | Bailey   | Killed an orc knight
+  7220 | Bailey   | Reached XP level 10. HP: 19/91 MP: 9/9
+  7475 | Bailey   | Identified the +0 troll leather armour of Vudel {rPois
+                  | Regen+ Str-2 Int+8 Slay-3}
+  7476 | Bailey   | Identified the +9 plate armour "Gaddiuf" {rCorr Int+3}
+  7723 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+  7789 | D:9      | Found a staircase to the Lair.
+  7834 | D:9      | Reached skill level 13 in Polearms
+  7840 | D:9      | Reached skill level 10 in Fighting
+  8102 | D:9      | Reached **** piety under Makhleb
+  8607 | D:9      | Reached XP level 11. HP: 101/101 MP: 10/10
+  8639 | D:10     | Entered Level 10 of the Dungeon
+  8689 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  8695 | Lair:1   | Reached skill level 14 in Polearms
+  8895 | Lair:1   | Noticed a boulder beetle
+  8911 | Lair:1   | Killed a boulder beetle
+  8912 | Lair:1   | Reached skill level 10 in Armour
+  9214 | Lair:1   | Noticed a catoblepas
+  9224 | Lair:1   | Killed a catoblepas
+  9356 | Lair:1   | Noticed an oklob plant
+  9369 | Lair:1   | Killed an oklob plant
+  9370 | Lair:1   | Identified the ring of Foriopt {rC+ AC+4 Int-4 Dex+3}
+  9607 | D:10     | Found a shimmering altar of Xom.
+  9625 | D:10     | Noticed a two-headed ogre
+  9646 | D:10     | Killed a two-headed ogre
+  9647 | D:10     | Reached skill level 15 in Polearms
+  9999 | D:10     | Reached ***** piety under Makhleb
+ 10530 | D:11     | Found a runed translucent door.
+ 10531 | D:11     | Found a runed translucent door.
+ 10531 | D:11     | Noticed an eight-headed hydra
+ 10531 | D:11     | Noticed a boulder beetle
+ 10572 | D:11     | Noticed a boulder beetle
+ 10587 | D:11     | Killed a boulder beetle
+ 10588 | D:11     | Reached XP level 12. HP: 112/112 MP: 11/11
+ 10609 | D:11     | Found Deulilye's Magic Scroll Boutique.
+ 10614 | D:11     | Bought a scroll of fear for 52 gold pieces
+ 10614 | D:11     | Bought a scroll of teleportation for 39 gold pieces
+ 10614 | D:11     | Bought a scroll of teleportation for 39 gold pieces
+ 10614 | D:11     | Bought a scroll of identify for 26 gold pieces
+ 10614 | D:11     | Bought a scroll of identify for 26 gold pieces
+ 10637 | D:11     | Found Pihab's General Store.
+ 10637 | D:11     | Noticed Grum
+ 10653 | D:11     | Killed Grum
+ 10689 | D:11     | Found a staircase to the Orcish Mines.
+ 10801 | D:11     | Identified the +1 helmet of Toothy Lucidity {rPois Int+3
+                  | Stlth+}
+ 10849 | D:11     | Noticed a boulder beetle
+ 10849 | D:11     | You fall into a shaft and drop 3 floors!
+ 10878 | D:14     | Noticed a tengu warrior
+ 10891 | D:14     | Killed a tengu warrior
+ 10907 | D:14     | Noticed a five-headed hydra
+ 10962 | D:14     | Noticed a boulder beetle
+ 10971 | D:14     | Found a flickering gateway to a bazaar.
+ 10980 | Bazaar   | Entered a bazaar
+ 10982 | Bazaar   | Found Liadaa's General Store.
+ 10988 | Bazaar   | Bought a potion of might for 32 gold pieces
+ 10988 | Bazaar   | Found Zafiuj's Assorted Antiques.
+ 10988 | Bazaar   | Found Zoesiboz's Distillery.
+ 10989 | Bazaar   | Found Ehounic's Jewellery Boutique.
+ 11021 | Bazaar   | Bought a +6 ring of strength for 468 gold pieces
+ 11063 | D:14     | Killed a nine-headed hydra
+ 11064 | D:14     | Reached skill level 16 in Polearms
+ 11066 | D:14     | Killed a boulder beetle
+ 11339 | D:14     | Noticed a seven-headed hydra
+ 11362 | D:14     | Killed a 13-headed hydra
+ 11654 | D:14     | Noticed a catoblepas
+ 11670 | D:14     | Killed a catoblepas
+ 12383 | D:13     | Reached skill level 15 in Armour
+ 12476 | D:13     | Reached XP level 13. HP: 122/122 MP: 12/12
+ 12567 | D:13     | Reached ****** piety under Makhleb
+ 12643 | D:13     | Found a gate to the Vaults.
+ 12885 | D:13     | Noticed Lodul
+ 12893 | D:13     | Killed Lodul
+ 13191 | D:12     | Reached skill level 17 in Polearms
+ 13413 | D:15     | Entered Level 15 of the Dungeon
+ 13799 | D:12     | Found a transporter.
+ 13858 | D:12     | Noticed a crystal guardian
+ 13859 | D:12     | Noticed squishfish's ghost (journeyman TrMo)
+ 13877 | D:12     | Found a transporter.
+ 14429 | D:12     | Found a one-way gate to the infinite horrors of the Abyss.
+ 15292 | D:11     | Identified the +2 rapier of Ravage {freeze, rElec rC+ rCorr
+                  | Str-3}
+ 15305 | D:11     | Identified the +8 dagger of Zemysch {venom, *Rage rCorr
+                  | Str+4}
+ 15311 | D:11     | Reached XP level 14. HP: 46/133 MP: 13/13
+ 15316 | D:11     | Reached skill level 18 in Polearms
+ 15910 | D:15     | Identified a scroll of acquirement
+ 16373 | D:15     | Reached skill level 15 in Fighting
+ 16578 | D:15     | Acquired a +2 bardiche of protection
+ 16582 | D:15     | Found a shimmering altar of Xom.
+ 16583 | D:15     | Found a shimmering altar of Xom.
+ 16585 | D:15     | Found a shimmering altar of Xom.
+ 16595 | D:15     | Found a shimmering altar of Xom.
+ 16666 | D:15     | Reached skill level 19 in Polearms
+ 16806 | D:15     | Found a staircase to the Depths.
+ 16806 | D:15     | Noticed a frost giant
+ 16810 | D:15     | Killed a frost giant
+ 16908 | D:15     | Found a runed translucent door.
+ 16960 | D:15     | Noticed Jiecrehi's ghost (journeyman DDFi)
+ 16993 | D:15     | Killed Jiecrehi's ghost
+ 17433 | D:12     | Noticed a balrug
+ 17782 | D:12     | Reached skill level 1 in Invocations
+ 18061 | D:12     | HP: 5/136 [large abomination (21)]
+ 18062 | D:12     | Mangled by squishfish's ghost
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ldierk_walled_garden_2, layout_basic, hex_tiny
+D:2:      layout_rooms, nicolae_nh_oracle_at_delphi, uniq_terence, uniq_natasha
+D:3:      layout_loops_corners, nicolae_ru_path_of_blood, minmay_lizard_king
+D:4:      layout_cave_pools, marbit_many_paths, serial_column_ruins,
+          column_ruins_columns_dead_end, column_ruins_open_tiny,
+          column_ruins_grid_3, column_ruins_grid_1, column_ruins_corridor_plus
+D:5:      layout_rooms, kennysheep_mini_moat, makhleb_altar_promises_db,
+          zin_purify, serial_shops, kennysheep_mini, shop,
+          nicolae_shop_bloodbath_and_beyond
+D:6:      layout_cave_pools, serial_shops, nicolae_shop_advertising_works
+          [nicolae_subvault_shop_adworks], glass_columns_a, uniq_edmund
+D:7:      layout_rooms, minmay_temple_entry_stoned_glass, serial_bayou_lake_a
+D:8:      layout_cave_pools, mainiacjoe_overflow_tiny_flanked,
+          chequers_temple_overflow_statue_of_worship, hangedman_decor_riveting
+D:9:      layout_basic, tgw_kikubaaqudgha, due_lair_maze_entry_diamond,
+          enter_bailey_4
+D:10:     layout_rooms, nicolae_overflow_crystal_walls
+D:11:     minmay_the_grid_triangle_9x9_rhombus_full
+          [minmay_the_grid_triangle_9x9_zippers_horizontal,
+          minmay_the_grid_triangle_9x9_intruding_spiral,
+          minmay_the_grid_triangle_9x9_negative_grid,
+          minmay_the_grid_triangle_9x9_tough_junction,
+          minmay_the_grid_triangle_9x9_semitri,
+          minmay_the_grid_triangle_9x9_shrine,
+          minmay_the_grid_triangle_9x9_sparse_checkered,
+          minmay_the_grid_triangle_9x9_prize_schism], layout_loops_ring,
+          serial_shops, shop, shop, uniq_grum
+D:12:     layout_layer_cave, gammafunk_ghost_abyssal_escape
+D:13:     layout_small_grid, grunt_vaults_entry_tiered, uniq_lodul
+D:14:     layout_long_grid, serial_shops, bzr_entry_lakeside,
+          hangedman_decor_growths
+D:15:     grunt_enter_depths_snipers, layout_basic, ebering_ghost_inner_flame,
+          xom_redecorated
+Lair:1:   layout_regular_city, minmay_lair_oklob_items
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Polearms       |     3  4  5  6  7  8 10 12 13 15 16 17 19 | 19.7
+Fighting       |     4     5     6     8  9 10 11 13 14 15 | 15.7
+Throwing       |              1  2  3  4  6                |  6.0
+Armour         |                       4  6  9 12 15 16 18 | 18.0
+Invocations    |                                         1 |  1.3
+Shields        |                                           |  3.7
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+---------------------------+-------+-------+-------+-------+-------++-------
+  Melee: Trident           |    77 |   144 |       |       |       ||   221
+         Headbutt          |     6 |    20 |    20 |    87 |    70 ||   203
+         Halberd           |       |     4 |   280 |   482 |   325 ||  1091
+         Kick              |       |       |    30 |   145 |   125 ||   300
+         Unarmed           |       |       |       |       |     2 ||     2
+         Bardiche          |       |       |       |       |    74 ||    74
+  Throw: Dart              |       |       |    15 |     4 |     2 ||    21
+ Invoke: Lesser Servant of |       |       |       |       |     2 ||     2
+         Greater Servant o |       |       |       |       |     1 ||     1
+    Use: Scroll            |     1 |     4 |     8 |     5 |     7 ||    25
+         Potion            |       |     3 |     2 |     1 |     8 ||    14
+   Stab: Distracted        |       |       |       |       |     1 ||     1
+ Armour: Scale mail        |    22 |    38 |   112 |       |       ||   172
+         Plate armour      |       |       |       |   263 |   182 ||   445
+  Dodge: Dodged            |    15 |    48 |   105 |   124 |    88 ||   380
+  Block: Buckler           |     7 |    24 |       |       |       ||    31
+         Other             |       |       |       |       |     3 ||     3
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  17918 |  16497 |   1421 |    214 |  12705 |  18 |  995.4 |
+       Dungeon |  16340 |  14950 |   1390 |    214 |  11522 |  15 | 1089.3 |
+          Lair |    883 |    852 |     31 |      0 |    732 |   1 |  883.0 |
+        Bazaar |     75 |     75 |      0 |      0 |     27 |   1 |   75.0 |
+        Bailey |    618 |    618 |      0 |      0 |    424 |   1 |  618.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+    D:12: 2149 daAuts
+    D:11: 1450 daAuts
+     D:5: 1437 daAuts
+    D:15: 1341 daAuts
+    D:13: 1226 daAuts
+    D:14: 1198 daAuts
+     D:6: 1152 daAuts
+     D:9: 1136 daAuts
+     D:3: 993 daAuts
+     D:7: 954 daAuts
+  Lair:1: 883 daAuts
+     D:1: 772 daAuts
+    D:10: 771 daAuts
+     D:8: 736 daAuts
+     D:2: 725 daAuts
+

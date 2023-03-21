@@ -1,0 +1,243 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 7497436929488316011
+
+82 Xikchaka the Shield-Bearer (level 4, -11/38 HPs)
+             Began as a Formicid Fighter on Mar 17, 2023.
+             Killed by nerve-wracking pain
+             ... invoked by an orc priest
+              (13 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:51 (1699 turns).
+
+Xikchaka the Shield-Bearer (Formicid Fighter)       Turns: 1699, Time: 00:04:52
+
+Health: -11/38     AC:  7    Str: 22    XL:     4   Next: 70%
+Magic:  4/4        EV:  9    Int:  8    God:    
+Gold:   186        SH:  5    Dex: 13    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis +    j - +0 arbalest
+rCold   . . .      Faith    .    c - +0 buckler
+rNeg    . . .      Spirit   .    b - +0 scale mail
+rPois   .          Reflect  .    (helmet unavailable)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.26/turn                (no ring)
+MPRegen 0.09/turn                (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, antennae 3, four strong arms
+a: Dig, Shaft Self
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 186 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff
+ f - a +0 mace
+ j - a +0 arbalest (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 buckler (worn)
+Scrolls
+ e - 3 scrolls of identify {unknown}
+ i - a scroll of fear {unknown}
+ k - a scroll of enchant weapon {unknown}
+Potions
+ d - 2 potions of might
+ g - a potion of flight {unknown}
+ h - 4 potions of curing {unknown}
+
+
+   Skills:
+ * Level 4.6 Fighting
+ - Level 2.0 Staves
+ * Level 1.0 Ranged Weapons
+ - Level 3.8 Armour
+ - Level 4.6 Shields
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Dazzling Flash           Conj/Hex       0%         N/A       99%         3
+ Agony                    Necr           0%         N/A       100%        5
+ Silence                  Hex/Air        0%         N/A       100%        5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+You have a pair of large antennae on your head. (SInv)
+Your four strong arms can wield two-handed weapons with a shield.
+
+Message History
+
+Aim: an orc priest, wielding a +0 trident and wearing a +0 chain mail (heavily
+wounded, 61% to hit)
+You shoot a bolt.
+The bolt hits the orc priest but does no damage.
+The orc priest is heavily wounded.
+The orc priest barely misses you. You block the orc priest's attack.
+Fire: j) +0 arbalest
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 trident and wearing a +0 chain mail (heavily
+wounded, 61% to hit)
+You shoot a bolt.
+The bolt hits the orc priest but does no damage.
+The orc priest is heavily wounded.
+You block the orc priest's attack.
+The orc priest calls upon Beogh to heal the orc priest.
+The orc priest is healed somewhat.
+The orc priest casts a cantrip, but nothing happens.
+You block the orc priest's attack.
+Fire: j) +0 arbalest
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 trident and wearing a +0 chain mail (lightly
+wounded, 61% to hit)
+You shoot a bolt. The bolt hits the orc priest!
+The orc priest is almost dead.
+The orc priest hits you but does no damage. x2
+You are too injured to fight recklessly!
+Fire: j) +0 arbalest
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 trident and wearing a +0 chain mail (almost
+dead, 61% to hit)
+You shoot a bolt.
+The bolt hits the orc priest but does no damage.
+The orc priest is almost dead.
+The orc priest hits you from afar with a +0 trident.
+* * * LOW HITPOINT WARNING * * *
+The orc priest closely misses you.
+Fire: j) +0 arbalest
+Press: ? - help, Q - select action, (/) - cycle
+Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 trident and wearing a +0 chain mail (almost
+dead, 61% to hit)
+You shoot a bolt. The bolt barely misses the orc priest. The bolt hits the orc
+priest!
+You kill the orc priest!
+The orc priest invokes the aid of Beogh against you.
+Pain shoots through your body!
+You die...
+
+...<.###########[.#
+#..      .........#
+.        .........################
+    ##+#########.................#
+     .......#  #..##############.#
+      ......#  #..#           ##..
+       .....#  #..#           #...
+        ....#  #..#           #...
+        ..o.   #..#          ##..#
+         #'##  #..#          #...#
+         #..####.##          #...#
+    #######....#@#          ##...#
+    #..........#)#        ###...##
+    #..........#o#####  ###.....#
+    #......)...o)†...# ##..(...##
+    #.......#...>....# #.....###
+    #.......#........###...###
+    #.......#........##...##
+    #.......#........##...#
+    #########........##...#
+            #........#...##
+            #...†....#...#
+            #........#..##
+
+
+You could see an orc priest and an orc wizard (invisible).
+
+Vanquished Creatures
+  An orc priest (D:3)
+  An orc wizard (D:3)
+  A worm (D:3)
+  2 dart slugs (D:1)
+  An orc (D:3)
+  5 ball pythons (D:2)
+  8 bats
+  8 endoplasms
+  2 giant cockroaches
+  5 goblins
+  8 hobgoblins
+  A quokka (D:3)
+  4 frilled lizards
+  3 kobolds
+  2 rats (D:1)
+52 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xikchaka the Formicid Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+   159 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+   484 | D:1      | Reached XP level 3. HP: 26/30 MP: 3/3
+  1193 | D:2      | Reached XP level 4. HP: 37/37 MP: 4/4
+  1695 | D:3      | Reached skill level 1 in Ranged Weapons
+  1699 | D:3      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_radiant, layout_basic
+D:2:      layout_loops_ring
+D:3:      layout_basic, hellmonk_ecumenical_altar_run_dry, eino_curves_04
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |        4    |  4.6
+Ranged Weapons |           1 |  1.0
+Staves         |             |  2.0
+Armour         |             |  3.8
+Shields        |             |  4.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Quarterstaff      |    88 |    10 ||    98
+   Fire: Arbalest          |       |    24 ||    24
+Ability: Dig               |     3 |       ||     3
+ Armour: Scale mail        |    25 |    16 ||    41
+  Dodge: Dodged            |    34 |    15 ||    49
+  Block: Buckler           |    22 |     7 ||    29
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1744 |   1691 |     53 |      0 |   1291 |   3 |  581.3 |
+       Dungeon |   1744 |   1691 |     53 |      0 |   1291 |   3 |  581.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 921 daAuts
+     D:2: 680 daAuts
+     D:3: 141 daAuts
+

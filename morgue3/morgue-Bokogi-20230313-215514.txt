@@ -1,0 +1,779 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 13685569872126744466
+
+116412 Bokogi the Severer (level 16, -1/151 HPs)
+             Began as a Minotaur Fighter on Mar 13, 2023.
+             Was the Champion of the Shining One.
+             Slain by a wolf spider (14 damage)
+             ... on level 3 of the Spider Nest.
+             The game lasted 02:31:09 (27631 turns).
+
+Bokogi the Severer (Minotaur Fighter)              Turns: 27631, Time: 02:31:09
+
+Health: -1/151     AC: 26    Str: 30 (31) XL:     16   Next: 20%
+Magic:  0/20       EV: 11    Int:  5      God:    the Shining One [******]
+Gold:   1069       SH:  0    Dex:  9      Spells: 15/15 levels left
+
+rFire   + . .      SeeInvis +    i - +8 mithril axe "Arga" {speed, Will+}
+rCold   . . .      Faith    .    (no shield)
+rNeg    + + +      Spirit   +    d - +2 plate armour {rF+}
+rPois   +          Reflect  .    E - +1 hat {SInv}
+rElec   .          Rampage  +    V - scarf {+Inv}
+rCorr   +                        p - +2 pair of gloves {Str+3}
+Will    ++...                    z - +2 pair of boots {rampage}
+Stlth                            e - amulet of guardian spirit
+HPRegen 0.45/turn                g - ring of resist corrosion
+MPRegen 0.17/turn                j - ring of poison resistance
+
+@: slowed, glowing, very slow
+A: horns 2, retaliatory headbutt, see invisible, clumsy 1, deterioration 1, no
+potion heal 1, sturdy frame 1
+a: Renounce Religion, Evoke Invisibility, Divine Shield, Cleansing Flame, Summon
+Divine Warrior, Brand Weapon With Holy Wrath
+
+
+You were on level 3 of the Spider Nest.
+You worshipped the Shining One.
+The Shining One was exalted by your worship.
+You visited 5 branches of the dungeon, and saw 23 of its levels.
+You visited 1 bazaar.
+You also visited: Gauntlet.
+
+You collected 2661 gold pieces.
+You spent 1592 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ i - the +8 mithril axe "Arga" (weapon) {speed, Will+}
+   (You found it on level 3 of the Lair of Beasts)   
+   
+   Will:      It increases your willpower.
+ u - a +1 vampiric broad axe
+ D - the +4 scimitar "Tormentor" {flame, rPois Will++ SInv}
+   (You bought it in a shop on level 1 of the Dungeon)   
+   
+   rPois:     It protects you from poison.
+   SInv:      It lets you see invisible.
+   Will:      It greatly increases your willpower.
+Armour
+ d - a +2 plate armour of fire resistance (worn)
+ p - a +2 pair of gloves of strength (worn)
+ z - a +2 pair of boots of rampaging (worn)
+ E - a +1 hat of see invisible (worn)
+ I - a +1 cloak
+ T - a +0 kite shield
+ V - a scarf of invisibility (worn)
+Jewellery
+ e - an amulet of guardian spirit (around neck)
+ g - a ring of resist corrosion (left hand)
+ j - a ring of poison resistance (right hand)
+ k - a +4 ring of protection
+ x - a ring of flight
+ H - a +4 ring of protection
+ J - a +4 ring of protection
+ P - a ring of willpower
+Wands
+ a - a wand of charming (20)
+ y - a wand of polymorph (15)
+ B - a wand of iceblast (45)
+ C - a wand of flame (57)
+ M - a wand of light (8)
+ Q - a wand of mindburst (7)
+Scrolls
+ b - a scroll of enchant weapon
+ h - 6 scrolls of fear
+ l - 3 scrolls of fog
+ m - 12 scrolls of teleportation
+ o - 8 scrolls of immolation
+ q - a scroll of butterflies
+ r - 4 scrolls of magic mapping
+ t - a scroll of blinking
+ v - 4 scrolls of poison
+ F - 7 scrolls of identify
+ G - 2 scrolls of silence
+ L - a scroll of brand weapon
+Potions
+ c - a potion of might
+ f - 3 potions of magic
+ n - 7 potions of cancellation
+ s - 3 potions of curing
+ w - 2 potions of flight
+ A - a potion of ambrosia
+ K - 8 potions of brilliance
+ O - 2 potions of resistance
+ R - a potion of berserk rage
+Miscellaneous
+ N - a lightning rod (3/4) (quivered)
+ S - a phantom mirror
+ U - a piece from Xom's chessboard (15/15)
+
+
+   Skills:
+ + Level 15.9 Fighting
+ - Level 16.2 Long Blades
+ - Level 18.9 Axes
+ + Level 14.1 Armour
+ + Level 7.3 Dodging
+ - Level 2.3 Stealth
+ + Level 9.4 Shields
+ * Level 6.9 Invocations
+
+
+You had 15 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       91%         1
+ Freeze                   Ice            0%         1d3       91%         1
+ Magic Dart               Conj           0%         1d3       91%         1
+ Sandblast                Erth           0%         2d4       91%         1
+ Summon Small Mammal      Summ           0%         N/A       91%         1
+ Call Imp                 Summ           0%         N/A       97%         2
+ Passwall                 Tmut/Erth      0%         N/A       97%         2
+ Static Discharge         Conj/Air       0%         2-2/arc   97%         2
+ Sublimation of Blood     Necr           0%         N/A       97%         2
+ Wereblood                Tmut           0%         N/A       97%         2
+ Call Canine Familiar     Summ           0%         N/A       99%         3
+ Frozen Ramparts          Ice            0%         1d1       99%         3
+ Hailstorm                Conj/Ice       0%         3d3       99%         3
+ Kindle Blastsparks       Fire/Tloc/Air  0%         2d10      99%         3
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       99%         3
+ Spider Form              Tmut/Pois      0%         N/A       99%         3
+ Stone Arrow              Conj/Erth      0%         3d7       99%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       99%         3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       99%         3
+ Airstrike                Air            0%         2d(0-16)  100%        4
+ Anguish                  Hex/Necr       0%         N/A       100%        4
+ Fulminant Prism          Conj/Hex       0%         3d5       100%        4
+ Ice Form                 Ice/Tmut       0%         N/A       100%        4
+ Iskenderun's Mystic Bla  Conj/Tloc      0%         2d3       100%        4
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+ Summon Lightning Spire   Summ/Air       0%         N/A       100%        4
+ Alistair's Intoxication  Tmut/Pois      0%         N/A       100%        5
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Fireball                 Conj/Fire      0%         3d3       100%        5
+ Iskenderun's Battlesphe  Conj           0%         2d6       100%        5
+ Lee's Rapid Deconstruct  Erth           0%         3d4*      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+ Conjure Ball Lightning   Conj/Air       0%         3x3d6     100%        6
+ Dragon Form              Tmut           0%         N/A       100%        7
+ Enfeeble                 Hex            0%         N/A       100%        7
+ Orb of Destruction       Conj           0%         9d5       100%        7
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Summon Hydra             Summ           0%         N/A       100%        7
+ Ignition                 Fire           0%         3d3       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:5            Lair (5/5) D:9         
+ Shoals (0/4) Lair:3       Spider (3/4) Lair:3        Slime (0/5) Lair:5      
+    Orc (2/2) D:12            Elf (0/3) Orc:2       Gauntlet (visited)        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D:1 (   D:4 [   D:8 (   D:9 [   D:11 !   Orc:1 *   Orc:2 (?*[:
+
+Portals:
+Abyss: Lair:5
+Pandemonium: Orc:2
+
+Annotations:
+Lair:4 exclusion: oklob plant
+Spider:1 Roxanne
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+You have supernaturally acute eyesight. (SInv)
+You are clumsy. (Dex -2)
+Your body sometimes deteriorates upon taking damage.
+Potions are less effective at restoring your health.
+Your movements are slightly less encumbered by armour. (ER -2)
+
+Message History
+
+The boulder beetle bites you but does no damage.
+The moth of wrath bites you but does no damage.
+You disentangle yourself. The boulder beetle bites you!
+The wolf spider hits you but does no damage.
+The wolf spider bites you but does no damage.
+The moth of wrath bites you but does no damage.
+The torpor snail barely misses you. You furiously retaliate! You headbutt the
+torpor snail!
+The boulder beetle barely misses you. The wolf spider hits you!
+The wolf spider bites you but does no damage.
+The moth of wrath goads the wolf spider on!
+The wolf spider goes berserk! The torpor snail bites you!
+Okay, then.
+The wolf spider attacks as you move away!
+The wolf spider hits you but does no damage.
+The wolf spider bites you but does no damage.
+The moth of wrath attacks as you move away!
+The moth of wrath barely misses you.
+The torpor snail attacks as you move away!
+The torpor snail barely misses you. You furiously retaliate! You headbutt the
+torpor snail!
+You feel yourself speed up.
+You hear a skittering sound.
+The wolf spider misses you.
+The wolf spider bites you but does no damage.
+The wolf spider hits you but does no damage.
+The wolf spider bites you but does no damage.
+Being near the torpor snail leaves you feeling lethargic.
+The wolf spider hits you!!
+* * * LOW HITPOINT WARNING * * *
+The wolf spider bites you but does no damage.
+The wolf spider hits you but does no damage.
+The wolf spider completely misses you. The wolf spider hits you!!
+* * * LOW HITPOINT WARNING * * *
+Your body deteriorates! You feel weakened.
+The wolf spider bites you but does no damage.
+Your system partially rejects the healing.
+You feel much better. The wolf spider misses you. You furiously retaliate!
+You headbutt the wolf spider!!
+The wolf spider bites you but does no damage.
+The wolf spider closely misses you. The wolf spider barely misses you. The wolf
+spider hits you!
+You die...
+
+ #..#
+ #..##
+ #...##
+ #....###
+ #......##        #.
+ #.###...##      #..
+#.## ###..###    ..#
+##     ##^..##   ..##
+        ###..##  ...#
+          ###.###.^.#
+            ##@s#...#
+             ###wy..#
+             #.....#..!^
+            #.^....... .
+            #...........
+            ##..........
+             #..^.......
+             #.........#
+             ###.......#
+
+
+You could see a torpor snail (berserk), a wolf spider (berserk) and a moth of
+wrath.
+
+Vanquished Creatures
+  Jorgrun (Orc:2)
+  Gastronok (Lair:3)
+  An emperor scorpion (Spider:3)
+  A broodmother (Spider:1)
+  The ghost of Bokogi the Severer, a journeyman MiBe of Trog (Lair:3)
+  4 spark wasps
+  2 dire elephants (Spider:1)
+  A minotaur (Gauntlet)
+  The ghost of Zimaveycw the Spear-Bearer, a journeyman OpFi of Cheibriados (Lair:5)
+  5 entropy weavers
+  A demonspawn (Orc:2)
+  A jorogumo (Spider:3)
+  A centaur warrior (D:11)
+  3 hydras
+  8 death yaks
+  4 boulder beetles
+  Urug (D:10)
+  3 thrashing horrors (Lair:5)
+  5 two-headed ogres
+  3 orc high priests (Orc:2)
+  A soul eater (Orc:2)
+  A deep elf knight (Spider:2)
+  Sonja (Lair:4)
+  4 pharaoh ants
+  A skyshark (Lair:2)
+  4 orb spiders
+  2 large abominations (Lair:5)
+  The ghost of jlumianski the Slicer, a novice KoBe of Trog (D:7)
+  5 orc knights
+  A necromancer (Gauntlet)
+  2 steelbarb worms
+  A wizard (D:11)
+  5 wolf spider zombies (Spider:1)
+  2 spectral wolf spiders (Spider:1)
+  13 wolf spiders
+  A deep elf archer (Spider:2)
+  2 manticores (D:11)
+  3 ugly things
+  8 orc sorcerers (Orc:2)
+  A lindwurm (Lair:3)
+  7 black mambas
+  3 cyclopes
+  15 elephants
+  A water nymph (Lair:3)
+  16 cane toads
+  4 torpor snails
+  A gargoyle (D:11)
+  3 demonic crawlers
+  2 unseen horrors
+  2 kobold demonologists (D:11)
+  2 rime drakes
+  7 komodo dragons
+  2 ice devils (Orc:2)
+  2 red devils (Orc:2)
+  An ancient zyme (Lair:5)
+  13 trolls
+  4 meliai
+  2 polar bears (Lair:2)
+  A queen bee (shapeshifter) (Lair:5)
+  16 tarantellas
+  A raiju (Spider:1)
+  A wolf spider simulacrum (Spider:1)
+  A hornet (D:8)
+  23 blink frogs
+  A dream sheep (Lair:2)
+  A dream sheep (shapeshifter) (Lair:5)
+  22 jumping spiders
+  6 slime creatures
+  A ynoxinul (Lair:5)
+  17 culicivoras
+  2 spriggans
+  6 wyverns
+  2 shadows
+  A wraith (D:12)
+  10 yaks
+  25 redbacks
+  Grum (D:10)
+  9 basilisks
+  4 vampire mosquitoes (D:11)
+  3 steam dragons
+  Menkaure (D:4)
+  4 chaos spawn
+  A warg (Orc:1)
+  2 acid dragons
+  9 small abominations (Lair:5)
+  12 water moccasins
+  27 orc warriors
+  A black bear (D:9)
+  2 ogres
+  18 wolves
+  A centaur (D:9)
+  A phantom (D:6)
+  A kobold brigand (D:9)
+  2 gnoll sergeants (D:7)
+  14 bullfrogs
+  A scorpion (D:9)
+  18 killer bees
+  2 electric eels (Lair:5)
+  6 howler monkeys
+  5 jellies
+  Crazy Yiuf (D:7)
+  23 orc priests
+  2 hounds
+  2 sleepcaps
+  An iguana (D:6)
+  13 orc wizards
+  13 gnolls
+  8 adders
+  A shadow imp (D:5)
+  A white imp (D:5)
+  An ufetubus (D:5)
+  3 worms
+  2 dart slugs
+  71 orcs
+  4 ball pythons
+  11 endoplasms
+  8 giant cockroaches
+  5 hobgoblins
+  22 kobolds
+  4 quokkas
+  6 bats
+  9 frilled lizards
+  7 goblins
+  10 rats
+704 creatures vanquished.
+
+Vanquished Creatures (others)
+  A spectral wolf spider (Spider:1)
+  A bush (Lair:2)
+  27 fungi
+  78 plants
+107 creatures vanquished.
+
+Grand Total: 811 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   154 | D:1      | Found a faded altar of an unknown god.
+   186 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   381 | D:1      | Found Riqaesit's Weapon Boutique.
+   421 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   992 | D:2      | Reached XP level 4. HP: 33/40 MP: 3/3
+  1151 | D:2      | Found a basalt altar of Yredelemnul.
+  1879 | D:3      | Reached XP level 5. HP: 46/46 MP: 4/4
+  2024 | D:3      | Identified a scroll of acquirement
+  2058 | D:3      | Acquired 556 gold pieces
+  2561 | D:4      | Found Pexzoeta's Antique Armour Shoppe.
+  2646 | D:4      | Reached skill level 1 in Dodging
+  2708 | D:4      | Reached skill level 5 in Armour
+  3073 | D:4      | Noticed Menkaure
+  3082 | D:4      | Reached skill level 5 in Long Blades
+  3082 | D:4      | Reached XP level 6. HP: 48/53 MP: 5/5
+  3084 | D:4      | Killed Menkaure
+  3274 | D:1      | Bought the +4 scimitar "Tormentor" {flame, rPois Will++
+                  | SInv} for 679 gold pieces
+  3339 | D:5      | Entered Level 5 of the Dungeon
+  3505 | D:5      | Reached XP level 7. HP: 57/60 MP: 6/6
+  3587 | D:5      | Found a staircase to the Ecumenical Temple.
+  3697 | Temple   | Entered the Ecumenical Temple
+  3820 | Temple   | Became a worshipper of the Shining One
+  4039 | D:5      | Reached skill level 5 in Fighting
+  5537 | D:7      | Found a hazy altar of Hepliaklqana.
+  5592 | D:7      | Found a basalt altar of Yredelemnul.
+  5653 | D:7      | Reached XP level 8. HP: 48/70 MP: 7/7
+  6086 | D:7      | Found a runed translucent gate.
+  6087 | D:7      | Identified the +1 chain mail "Unoenedo" {Rampage Dex+3}
+  6087 | D:7      | Noticed jlumianski's ghost (novice KoBe)
+  6088 | D:7      | Found a runed translucent gate.
+  6089 | D:7      | Found a runed translucent gate.
+  6203 | D:7      | Found a runed translucent door.
+  6204 | D:7      | Noticed Crazy Yiuf
+  6414 | D:7      | Killed jlumianski's ghost
+  6415 | D:7      | Reached skill level 5 in Shields
+  6421 | D:7      | Reached XP level 9. HP: 49/78 MP: 8/8
+  6593 | D:7      | Killed Crazy Yiuf
+  6659 | D:8      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [potion of mutation]
+  6659 | D:8      | Gained mutation: You passively map a small area around you.
+                  | [potion of mutation]
+  6659 | D:8      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  6773 | D:8      | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  6773 | D:8      | Lost mutation: You passively map a small area around you.
+                  | [potion of mutation]
+  6773 | D:8      | Gained mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+  6773 | D:8      | Gained mutation: You have supernaturally acute eyesight.
+                  | (SInv) [potion of mutation]
+  6773 | D:8      | Gained mutation: Your movements are slightly less
+                  | encumbered by armour. (ER -2) [potion of mutation]
+  7013 | D:8      | Found Osiw's Antique Weapon Boutique.
+  7025 | D:8      | Reached skill level 10 in Long Blades
+  7029 | D:8      | Bought a glowing war axe for 130 gold pieces
+  7077 | D:8      | Noticed a two-headed ogre
+  7083 | D:8      | Killed a two-headed ogre
+  7166 | D:8      | Reached * piety under the Shining One
+  7632 | D:9      | Found Luodd's Armour Shoppe.
+  7803 | D:9      | Noticed a two-headed ogre
+  7810 | D:9      | Killed a two-headed ogre
+  7811 | D:9      | Reached XP level 10. HP: 57/88 MP: 5/9
+  7977 | D:9      | Reached skill level 1 in Stealth
+  8119 | D:9      | Found a staircase to the Lair.
+  8548 | D:10     | Entered Level 10 of the Dungeon
+  8548 | D:10     | Noticed Urug
+  8560 | D:10     | Killed Urug
+  8846 | D:10     | Noticed Grum
+  8861 | D:10     | Killed Grum
+  9531 | D:10     | Reached skill level 10 in Armour
+  9916 | D:11     | Noticed a manticore
+  9929 | D:11     | Noticed a two-headed ogre
+  9929 | D:11     | Noticed a cyclops
+ 10181 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 10181 | Lair:1   | Noticed a cane toad
+ 10183 | Lair:1   | Noticed a black mamba
+ 10186 | Lair:1   | Reached XP level 11. HP: 92/97 MP: 10/10
+ 10294 | Lair:1   | Reached skill level 1 in Invocations
+ 10400 | D:9      | Reached skill level 10 in Fighting
+ 10917 | D:9      | Bought a +0 pair of gloves of strength for 184 gold pieces
+ 10993 | Lair:2   | Reached ** piety under the Shining One
+ 11014 | Lair:2   | Reached skill level 5 in Dodging
+ 11170 | Lair:2   | Found a snail-covered altar of Cheibriados.
+ 11178 | Lair:2   | Noticed a skyshark
+ 11188 | Lair:2   | Killed a skyshark
+ 11309 | Lair:2   | Noticed a boulder beetle
+ 11349 | Lair:2   | Killed a boulder beetle
+ 11490 | Lair:2   | Found a gate leading to a gauntlet.
+ 11510 | Gauntlet | Entered a Gauntlet
+ 11510 | Gauntlet | Found a transporter.
+ 11510 | Gauntlet | Found a transporter.
+ 11512 | Gauntlet | Noticed a death scarab
+ 11514 | Gauntlet | Found a transporter.
+ 11514 | Gauntlet | Found a transporter.
+ 11518 | Gauntlet | Found a transporter.
+ 11518 | Gauntlet | Found a transporter.
+ 11557 | Gauntlet | Found a transporter.
+ 11560 | Gauntlet | Found a transporter.
+ 11570 | Gauntlet | Found a transporter.
+ 11588 | Gauntlet | Found a transporter.
+ 11591 | Gauntlet | Noticed a death yak
+ 11591 | Gauntlet | Noticed a death yak
+ 11592 | Gauntlet | Noticed a death yak
+ 11593 | Gauntlet | Noticed a death yak
+ 11593 | Gauntlet | Noticed a death yak
+ 11605 | Gauntlet | Found a transporter.
+ 11609 | Gauntlet | Found a transporter.
+ 11613 | Gauntlet | Found a runed translucent door.
+ 11614 | Gauntlet | Found a runed translucent door.
+ 11614 | Gauntlet | Noticed a necromancer
+ 11687 | Gauntlet | Reached XP level 12. HP: 106/110 MP: 12/12
+ 11695 | Gauntlet | Reached skill level 15 in Long Blades
+ 11949 | Gauntlet | Killed a death yak
+ 11966 | Gauntlet | Killed a death yak
+ 11978 | Gauntlet | Killed a death yak
+ 11984 | Gauntlet | Killed a death yak
+ 11987 | Gauntlet | Killed a death yak
+ 12199 | Gauntlet | Noticed a minotaur
+ 12228 | Gauntlet | Killed a minotaur
+ 12508 | Lair:2   | Reached *** piety under the Shining One
+ 12923 | Lair:2   | Noticed an eight-headed hydra
+ 12936 | Lair:2   | Killed a three-headed hydra
+ 13098 | Lair:2   | Noticed a four-headed hydra
+ 13098 | Lair:2   | Noticed a boulder beetle
+ 13108 | Lair:2   | Killed a boulder beetle
+ 13118 | Lair:2   | Killed a one-headed hydra
+ 13329 | Lair:2   | Noticed a death yak
+ 13345 | Lair:2   | Killed a death yak
+ 13349 | Lair:2   | Reached XP level 13. HP: 70/122 MP: 7/13
+ 14048 | Lair:3   | Got the Vellum of the Gestalt
+ 14082 | Lair:3   | Found the +8 mithril axe "Arga" {speed, Will+}
+ 14404 | Lair:3   | Reached skill level 1 in Axes
+ 14425 | Lair:3   | Found a hole to the Spider Nest.
+ 14426 | Lair:3   | Noticed Gastronok
+ 14427 | Lair:3   | Reached skill level 2 in Axes
+ 14626 | Lair:3   | Killed Gastronok
+ 14627 | Lair:3   | Reached skill level 4 in Axes
+ 14710 | Lair:3   | Reached skill level 5 in Axes
+ 14905 | Lair:3   | Found a runed translucent gate.
+ 14905 | Lair:3   | Found a runed translucent gate.
+ 14905 | Lair:3   | Found a runed translucent gate.
+ 14905 | Lair:3   | Noticed Bokogi's ghost (journeyman MiBe)
+ 15261 | Lair:3   | Killed Bokogi's ghost
+ 15262 | Lair:3   | Reached skill level 6 in Axes
+ 15438 | Lair:4   | Found a shimmering altar of Xom.
+ 15808 | D:11     | Reached skill level 7 in Axes
+ 15864 | D:11     | Identified the +1 leather armour "Ypteguh" {rElec Stlth+}
+ 15937 | D:11     | Found Seac's Distillery.
+ 16173 | D:11     | Reached skill level 8 in Axes
+ 16432 | D:11     | Reached skill level 5 in Invocations
+ 16475 | D:11     | Reached skill level 9 in Axes
+ 17067 | D:12     | Identified the +4 short sword of the Poles {chaos, rN+
+                  | Stlth+}
+ 17339 | D:12     | Reached skill level 10 in Axes
+ 17355 | D:12     | Reached XP level 14. HP: 102/130 MP: 11/16
+ 17440 | D:12     | Found a gateway to a bazaar.
+ 17526 | Bazaar   | Entered a bazaar
+ 17529 | Bazaar   | Found Acim's Distillery.
+ 17542 | Bazaar   | Found Duriroot's Assorted Antiques.
+ 17555 | Bazaar   | Found Fulo's Weapon Boutique.
+ 17611 | Bazaar   | Found Xeipuosh's Book Shop.
+ 17656 | Bazaar   | Bought a potion of berserk rage for 105 gold pieces
+ 17656 | Bazaar   | Bought a scroll of identify for 42 gold pieces
+ 17656 | Bazaar   | Bought a scroll of fear for 84 gold pieces
+ 17850 | D:12     | Found a white marble altar of Elyvilon.
+ 17977 | D:12     | Found a staircase to the Orcish Mines.
+ 18126 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 18332 | Orc:1    | Reached **** piety under the Shining One
+ 18343 | Orc:1    | Reached skill level 11 in Axes
+ 18416 | Orc:1    | Found Hemufog's CLEARANCE SALE!.
+ 18469 | Orc:1    | Found a bloodstained altar of Trog.
+ 18968 | Orc:1    | Bought a potion of heal wounds for 25 gold pieces
+ 18993 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 19006 | Orc:2    | Noticed Jorgrun
+ 19025 | Orc:2    | Killed Jorgrun
+ 19319 | Orc:2    | Found Yruxaxong's Weapon Boutique.
+ 19433 | Orc:2    | Found a staircase to the Elven Halls.
+ 19623 | Orc:2    | Reached skill level 12 in Axes
+ 20477 | Orc:2    | Found Meiwe's General Store.
+ 20482 | Orc:2    | Found Secy's Magic Scroll Shoppe.
+ 20502 | Orc:2    | Reached skill level 13 in Axes
+ 20751 | Orc:2    | Gained mutation: Potions are less effective at restoring
+                  | your health. [a neqoxec]
+ 20805 | Orc:2    | Bought a scroll of fear for 56 gold pieces
+ 20805 | Orc:2    | Bought a scroll of enchant weapon for 105 gold pieces
+ 20805 | Orc:2    | Bought a scroll of teleportation for 42 gold pieces
+ 20805 | Orc:2    | Bought a scroll of poison for 56 gold pieces
+ 20805 | Orc:2    | Bought a scroll of identify for 28 gold pieces
+ 20805 | Orc:2    | Bought a scroll of fear for 56 gold pieces
+ 20878 | Orc:2    | Found Zounuepn's Antique Armour Boutique.
+ 20878 | Orc:2    | Found Jitomuat's Book Shop.
+ 20879 | Orc:2    | Found a one-way gate leading to the halls of Pandemonium.
+ 20906 | Orc:2    | Reached skill level 14 in Axes
+ 21364 | Lair:4   | Noticed Sonja
+ 21388 | Lair:4   | Killed Sonja
+ 21389 | Lair:4   | Reached skill level 15 in Axes
+ 21970 | Lair:4   | Identified the +0 ring mail of Bitterness {-Cast rElec
+                  | rCorr}
+ 22110 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 22110 | Lair:5   | Found a large runed translucent door.
+ 22110 | Lair:5   | Found a large runed translucent door.
+ 22123 | Lair:5   | Noticed Zimaveycw's ghost (journeyman OpFi)
+ 22128 | Lair:5   | Found a staircase to the Slime Pits.
+ 22129 | Lair:5   | Found a viscous altar of Jiyva.
+ 22234 | Lair:5   | Reached ***** piety under the Shining One
+ 22275 | Lair:5   | Reached skill level 16 in Axes
+ 22523 | Lair:5   | Reached XP level 15. HP: 132/137 MP: 14/17
+ 23002 | Lair:5   | Reached skill level 17 in Axes
+ 23055 | Lair:5   | Found a corrupted altar of Lugonu.
+ 23055 | Lair:5   | Found a one-way gate to the infinite horrors of the Abyss.
+ 23081 | Lair:5   | Identified the +5 great mace "Zymim" {heavy, rCorr Int+2}
+ 23411 | Lair:5   | Killed Zimaveycw's ghost
+ 23488 | Spider:1 | Entered Level 1 of the Spider Nest
+ 23595 | Spider:1 | Identified Roxanne's Tome of the Rocks
+ 23595 | Spider:1 | Noticed Roxanne
+ 23631 | Spider:1 | Reached skill level 18 in Axes
+ 24879 | Spider:1 | Reached ****** piety under the Shining One
+ 26500 | Spider:2 | Reached skill level 15 in Fighting
+ 26963 | Spider:2 | Reached XP level 16. HP: 149/149 MP: 19/19
+ 27400 | Spider:3 | Paralysed by a jorogumo for 2 turns
+ 27630 | Spider:3 | HP: 3/151 [wolf spider (21)]
+ 27631 | Spider:3 | Slain by a wolf spider
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_glass_houses, layout_basic,
+          shapermc_ecumenical_altar_venn, serial_shops, nicolae_square_shop,
+          st_stairs_13, chequers_garden, lexackson_kobold_supper
+D:2:      layout_loops_cross, basic_altar, grunt_ministairs_8,
+          minmay_strange_pillars, amcnicky_mini_rare_corridor_liquid,
+          minmay_tetromino_s4
+D:3:      layout_loops_ring, grunt_ministairs_2
+D:4:      layout_loops_corners, serial_shops, shop, uniq_menkaure
+D:5:      layout_basic, minmay_temple_entry_offerings
+D:6:      layout_gridville
+D:7:      layout_loops_ring, nicolae_overflow_hidden_temple,
+          biasface_ghost_orc_armoury, uniq_crazy_yiuf_cottage
+D:8:      layout_basic, special_room [special_room_orc],
+          kennysheep_windowed_goal
+D:9:      layout_basic, grunt_lair_entry_orc_guard_hut, serial_shops, shop,
+          minmay_misc_feat_tiny
+D:10:     layout_loops_corners, kennysheep_nub, corexii_hall_statues_deadend,
+          uniq_grum, uniq_urug
+D:11:     minmay_chambers_of_sevens, layout_rooms, serial_shops,
+          nicolae_take_the_stairs, eino_jars
+D:12:     layout_loops_corners, orc_0_dummy, serial_shops, bzr_entry_gold,
+          nrook_uturn, nicolae_elyvilon_peaceful_grove
+Temple:   mainiacjoe_temple_bowtie_tessellation
+Lair:1:   layout_big_grid, st_stairs_8
+Lair:2:   nzn_winding_woodlands_large [nzn_winding_woodlands_5x5_default,
+          nzn_winding_woodlands_5x15_twine, nzn_winding_woodlands_5x5_perimeter,
+          nzn_winding_woodlands_center_lodge,
+          nzn_winding_woodlands_15x15_eel_pit,
+          nzn_winding_woodlands_center_pierced_h,
+          nzn_winding_woodlands_5x5_checkerboard,
+          nzn_winding_woodlands_5x15_pockets,
+          nzn_winding_woodlands_5x5_default], layout_gridlike, basic_altar,
+          gauntlet_entry_generic, chequers_serial_rivers_micro_c,
+          grunt_forest_large_clearing_hut
+Lair:3:   layout_regular_city, nicolae_shoals_entry_flooding,
+          hellmonk_spider_entry_not_the_bees, ebering_ghost_rock_garden,
+          infiniplex_staircase_pool, uniq_gastronok
+Lair:4:   layout_loops_ring, lemuel_oklob_altar, uniq_sonja
+Lair:5:   hellmonk_lair_end_abyssal_woods, layout_long_grid,
+          minmay_slime_entry_pillars, ebering_ghost_disaster_area,
+          serial_bayou_lake_a
+Spider:1: layout_spider_delve, nicolae_spider_undead_wolf_pack, uniq_roxanne
+Spider:2: layout_spider_delve, beargit_elvish_explorers
+Spider:3: layout_cave_pods
+Orc:1:    layout_caves, basic_altar, hellmonk_bongcloud_opening,
+          nicolae_shop_clearance
+Orc:2:    pf_orc_diabolical, layout_caves, serial_shops, shop_coins,
+          uniq_jorgrun
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 |
+---------------+-------------------------------------------------+-----
+Shields        |  4                    5     6  7  9             |  9.4
+Armour         |     4        5     6  8  9 10 11 12       13 14 | 14.1
+Long Blades    |        3  4  5  6  7  9 12 13 14 16             | 16.2
+Fighting       |        4           5  6  8  9 11 13       15    | 15.9
+Dodging        |              1        3  4     5  6        7    |  7.3
+Stealth        |                             1     2             |  2.3
+Invocations    |                                1     5     6    |  6.9
+Axes           |                                     10 16 18    | 18.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+---------------------------+-------+-------+-------+-------+-------+-------++-------
+  Melee: Long sword        |   116 |   132 |       |       |       |       ||   248
+         Headbutt          |    13 |    20 |    41 |   150 |   316 |    22 ||   562
+         Scimitar          |       |    25 |   190 |   479 |    74 |       ||   768
+         Broad axe         |       |       |       |       |  1000 |    75 ||  1075
+         Punch             |       |       |       |       |    14 |       ||    14
+ Invoke: Divine Shield     |       |       |     1 |     3 |    19 |     2 ||    25
+         Cleansing Flame   |       |       |       |       |     2 |     1 ||     3
+  Evoke: Lightning rod     |       |       |       |       |     2 |     1 ||     3
+    Use: Scroll            |       |     9 |     6 |     4 |    16 |     1 ||    36
+         Potion            |       |       |    10 |     3 |    15 |     1 ||    29
+ Armour: Scale mail        |    68 |    70 |    71 |       |       |       ||   209
+         Chain mail        |       |       |    12 |   192 |       |       ||   204
+         Plate armour      |       |       |       |    50 |   353 |    57 ||   460
+         Ring mail         |       |       |       |       |   309 |       ||   309
+  Dodge: Dodged            |    57 |    59 |    70 |   192 |   563 |    45 ||   986
+  Block: Buckler           |    25 |    29 |    33 |   129 |    17 |       ||   233
+         Other             |       |       |       |       |   116 |     8 ||   124
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  27274 |  24913 |   2361 |     91 |  18928 |  25 | 1091.0 |
+       Dungeon |  13462 |  12017 |   1445 |     91 |   9612 |  12 | 1121.8 |
+        Temple |    259 |    228 |     31 |      0 |    204 |   1 |  259.0 |
+          Lair |   6318 |   5782 |    536 |      0 |   4328 |   5 | 1263.6 |
+   Spider Nest |   3309 |   3135 |    174 |      0 |   2305 |   3 | 1103.0 |
+  Orcish Mines |   2905 |   2731 |    174 |      0 |   1856 |   2 | 1452.5 |
+        Bazaar |    147 |    147 |      0 |      0 |     72 |   1 |  147.0 |
+      Gauntlet |    871 |    871 |      0 |      0 |    549 |   1 |  871.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+Spider:1: 2151 daAuts
+  Lair:2: 2132 daAuts
+   Orc:2: 1993 daAuts
+    D:10: 1860 daAuts
+     D:9: 1484 daAuts
+  Lair:3: 1456 daAuts
+  Lair:5: 1301 daAuts
+     D:7: 1264 daAuts
+     D:8: 1250 daAuts
+    D:12: 1220 daAuts
+     D:4: 1112 daAuts
+    D:11: 1071 daAuts
+     D:6: 952 daAuts
+     D:5: 948 daAuts
+  Lair:4: 923 daAuts
+

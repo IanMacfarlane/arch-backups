@@ -1,0 +1,242 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 1269366675117363286
+
+37 Kuzon the Magician (level 3, -1/19 HPs)
+             Began as a Deep Elf Hedge Wizard on Mar 16, 2023.
+             Slain by an adder (3 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:05:13 (1349 turns).
+
+Kuzon the Magician (Deep Elf Hedge Wizard)          Turns: 1349, Time: 00:05:14
+
+Health: -1/19      AC:  2    Str:  7    XL:     3   Next: 21%
+Magic:  2/11       EV: 13    Int: 20    God:    
+Gold:   83         SH:  0    Dex: 20    Spells: 7/11 levels left
+
+rFire   . . .      SeeInvis .    a - +0 dagger
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    b - +0 robe
+rPois   .          Reflect  .    c - +0 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                k - +6 ring of dexterity
+MPRegen 0.12/turn                (no ring)
+
+@: lethally poisoned (-1 -> -6)
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 83 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger (weapon)
+Armour
+ b - a +0 robe (worn)
+ c - a +0 hat (worn)
+Jewellery
+ k - a +6 ring of dexterity (left hand)
+Scrolls
+ e - a scroll of teleportation
+ g - a scroll of fog {unknown}
+ i - 2 scrolls of poison
+ j - a scroll of fear {unknown}
+Potions
+ d - a potion of magic
+ f - a potion of haste {unknown}
+ h - a potion of degeneration {unknown}
+ l - 2 potions of curing
+ m - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 4.8 Spellcasting
+ * Level 2.5 Conjurations
+ + Level 1.9 Summonings
+ - Level 1.4 Translocations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           56%        1d5       4%          1
+b - Slow                  Hex            16%        N/A       12%         1
+c - Call Imp              Summ           12%        N/A       9%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Blink                    Tloc           20%        N/A       10%         2
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  8%         N/A       19%         2
+ Mephitic Cloud           Conj/Pois/Air  8%         N/A       26%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+The adder closely misses your crimson imp.
+The adder closely misses you. Your crimson imp hits the adder.
+The adder closely misses your crimson imp.
+You closely miss the adder.
+The adder is almost dead.
+The adder bites you.
+You are poisoned.
+The adder poisons you! The adder bites your crimson imp. Your crimson imp hits
+the adder.
+The adder dies!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 7, Int 18, Dex 14.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever. x2
+You feel sick.
+A rat comes into view.
+Your crimson imp barely misses the adder.
+You hit the adder.
+The adder is moderately wounded.
+You feel sick. The adder closely misses you.
+Your crimson imp completely misses the adder.
+You hit the adder.
+The adder is heavily wounded.
+You feel sick. The adder bites you.
+You are lethally poisoned!
+The adder poisons you!
+The rat twitches its whiskers.
+The rat misses your crimson imp. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+Your crimson imp barely misses the adder.
+You miss the adder.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder completely misses you. The rat bites your crimson imp.
+Your crimson imp misses the adder.
+You hit the adder but do no damage.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+You die...
+
+.#
+.#
+.#
+##          ###
+######      #..
+.....#      #.#
+####.#      ...
+   #.#      #.#
+   #.#      #.# ###
+   #.#      #.###.##
+ ###.#   ####.##.#.##
+##.#.#   #......###@##
+#...<#####.##..## ##S#
+................# #.5r..S...
+#....#####.......#5###.....$
+#....).<##.#####..#   #.....
+#.##.##.##..   ...#    #.†[.
+#.##.##.##.###....#     #...
+#.#..##.##.# #.# .#      #+#
+#.#.###.##.# #.
+#.......##.#
+###.#####
+  #.#
+
+
+You could see an adder (ally target), a rat and a friendly crimson imp
+(summoned).
+
+Vanquished Creatures
+  An endoplasm (D:2)
+  A giant cockroach (D:1)
+  6 goblins
+  5 hobgoblins
+  A kobold (D:2)
+  A ball python (D:1)
+  A bat (D:1)
+  A frilled lizard (D:1)
+  A rat (D:1)
+18 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An adder (D:2)
+  An endoplasm (D:1)
+  2 hobgoblins (D:1)
+  A ball python (D:1)
+  A frilled lizard (D:1)
+6 creatures vanquished.
+
+Grand Total: 24 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Hedge Wizard began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 7/7
+     2 | D:1      | Learned a level 1 spell: Slow
+   190 | D:1      | Reached XP level 2. HP: 15/15 MP: 0/9
+   203 | D:1      | Learned a level 2 spell: Call Imp
+  1345 | D:2      | Reached XP level 3. HP: 14/19 MP: 1/11
+  1349 | D:2      | Slain by an adder
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      heliophobic_arrival_glass_houses, layout_loops_ring, serial_glass,
+          glass_columns_b, glass_columns_b, minivault_5
+D:2:      layout_loops_corners, basic_altar
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Conjurations   |     2 |  2.5
+Dodging        |       |  2.4
+Stealth        |       |  2.4
+Spellcasting   |       |  4.8
+Summonings     |       |  1.9
+Translocations |       |  1.4
+
+Action                     || total
+---------------------------++-------
+  Melee: Dagger            ||    21
+   Cast: Magic Dart        ||    40
+         Slow              ||     1
+         Call Imp          ||     9
+    Use: Scroll            ||     2
+   Stab: Sleeping          ||     1
+ Armour: Robe              ||     2
+  Dodge: Dodged            ||    22
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1348 |   1335 |     13 |      0 |   1167 |   2 |  674.0 |
+       Dungeon |   1348 |   1335 |     13 |      0 |   1167 |   2 |  674.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1161 daAuts
+     D:2: 187 daAuts
+

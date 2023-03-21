@@ -1,0 +1,232 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 9975768318717599226
+
+38 GoodOmen the Digger (level 3, 0/19 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 18, 2023.
+             Slain by Sigmund
+             ... wielding a +2 scythe of venom
+              (8 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:03:45 (1216 turns).
+
+GoodOmen the Digger (Deep Elf Earth Elementalist)   Turns: 1216, Time: 00:03:46
+
+Health: 0/19       AC:  2    Str:  5    XL:     3   Next: 25%
+Magic:  0/10       EV: 12    Int: 21    God:    
+Gold:   55         SH:  0    Dex: 15    Spells: 5/9 levels left
+
+rFire   . . .      SeeInvis .    g - +0 rapier
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.12/turn                (no ring)
+
+@: lethally poisoned (0 -> -2), very slightly contaminated
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 55 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 rapier (weapon)
+Armour
+ a - a +0 robe (worn)
+Scrolls
+ c - 3 scrolls of identify {unknown}
+ e - a scroll of teleportation {unknown}
+ h - a scroll of enchant armour {unknown}
+ k - 2 scrolls of noise {unknown}
+Potions
+ b - a potion of magic
+ d - a potion of lignification {unknown}
+ f - 2 potions of might {unknown}
+ i - a potion of degeneration {unknown}
+ j - a potion of flight {unknown}
+ l - a potion of heal wounds {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.7 Stealth
+ + Level 3.6 Spellcasting
+ * Level 0.0 Conjurations
+ - Level 1.3 Transmutations
+ * Level 4.1 Earth Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           42%        2d11      2%          1
+b - Stone Arrow           Conj/Erth      24%        3d8       16%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      12%        N/A       6%          2
+ Kindle Blastsparks       Fire/Tloc/Air  6%         2d10      36%         3
+ Petrify                  Tmut/Erth      15%        N/A       36%         4
+ Lee's Rapid Deconstruct  Erth           10%        3d8*      54%         5
+ Fulminant Prism          Conj/Hex       1%         3d5       77%         4
+ Iskenderun's Mystic Bla  Conj/Tloc      3%         2d3       77%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Sigmund
+
+Message History
+
+Casting: Stone Arrow (extremely dangerous; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is extremely dangerous to miscast (16% risk of failure)! Continue
+anyway? 
+Aiming: Stone Arrow (extremely dangerous; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - Sigmund
+Aim: Sigmund, wielding a +2 scythe of venom and wearing a +0 robe (64% to hit)
+You miscast Stone Arrow.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+Sigmund hits you from afar with a +2 scythe of venom.
+You are poisoned.
+Casting: Stone Arrow (extremely dangerous; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is extremely dangerous to miscast (16% risk of failure)! Continue
+anyway? 
+Aiming: Stone Arrow (extremely dangerous; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a +2 scythe of venom and wearing a +0 robe (64% to hit)
+You miscast Stone Arrow. Nothing appears to happen. You feel sick.
+Casting: Stone Arrow (extremely dangerous; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is extremely dangerous to miscast (16% risk of failure)! Continue
+anyway? 
+Aiming: Stone Arrow (extremely dangerous; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a +2 scythe of venom and wearing a +0 robe (64% to hit)
+The stone arrow misses Sigmund. You feel sick.
+Sigmund casts a spell at you.
+You resist with some effort.
+Casting: Stone Arrow (extremely dangerous; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast this spell.
+Sigmund is nearby!
+Unknown command.
+Casting: Stone Arrow (extremely dangerous; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+The blast of sand hits Sigmund!!
+Sigmund is severely wounded.
+You feel sick.
+Sigmund hits you from afar with a +2 scythe of venom!
+You die...
+
+       #########   ..#
+       #...!...#  ...#
+       #.......###...#
+       #.............##
+       +..............
+       #............#
+       .............# #.#     ###
+            #..@....# #.#     #..
+   ##.      #@......# #.# ### #.#
+  .....     #.......# #.# ..###.#
+  .....######.......# #.# #.#..<.
+ ...................# #.#.#.#.#.#
+.............##########.#.#.#...#
+.............#    ##....#.......#
+.............######..##.###.###.#
+......................#.#.......#
+..........#.......)...#.#.#......
+..........#..........(#.#.#######
+...............)......#.#...# #..
+...................####.###.###.#
+
+
+You could see Sigmund.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  4 ball pythons (D:1)
+  3 endoplasms (D:1)
+  A giant cockroach (D:1)
+  2 hobgoblins (D:1)
+  4 jackals (D:2)
+  6 bats
+  2 frilled lizards (D:1)
+  2 goblins
+  6 kobolds
+  2 rats (D:1)
+33 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   158 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   832 | D:1      | Reached skill level 4 in Earth Magic
+   832 | D:1      | Reached XP level 3. HP: 19/19 MP: 8/10
+   836 | D:1      | Learned a level 3 spell: Stone Arrow
+  1203 | D:2      | Noticed Sigmund
+  1216 | D:2      | Slain by Sigmund
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      reono_arrival_mine, layout_loops_cross, chequers_serial_rivers_room_b
+D:2:      layout_basic, uniq_jessica, uniq_sigmund
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Earth Magic    |     4 |  4.1
+Dodging        |       |  2.6
+Stealth        |       |  2.7
+Spellcasting   |       |  3.6
+Transmutations |       |  1.3
+
+Action                     || total
+---------------------------++-------
+   Cast: Sandblast         ||    43
+         Stone Arrow       ||     1
+ Armour: Robe              ||     1
+  Dodge: Dodged            ||     7
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1237 |   1169 |     68 |      0 |    984 |   2 |  618.5 |
+       Dungeon |   1237 |   1169 |     68 |      0 |    984 |   2 |  618.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 937 daAuts
+     D:2: 299 daAuts
+

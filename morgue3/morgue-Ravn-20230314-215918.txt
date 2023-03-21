@@ -1,0 +1,127 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 2176960963364231343
+
+0 Ravn the Firebug (level 1, 13/13 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:03 (0 turns).
+
+Ravn the Firebug (Human Fire Elementalist)             Turns: 0, Time: 00:00:03
+
+Health: 13/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.22/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.0 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      41%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Ravn the Human Fire Elementalist.
+Everyone else who sought the Orb of Zot has failed. Will you be different?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+          ##
+         ..   #
+ #       .#  .#
+ #.######.##..#
+  ..8.....8..
+    #.....#
+    #..@..#
+    #.....#
+  ..8.....8..
+ #.##.######..#
+..  #.       ##
+.   ..
+   ..
+  ..#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ravn the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_simple_crosswalls, layout_basic
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+       Dungeon |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+

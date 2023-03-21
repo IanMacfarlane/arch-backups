@@ -1,0 +1,539 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 9996948128383237529
+
+23168 Bokogi the Brawler (level 12, -15/124 HPs)
+             Began as a Troll Gladiator on Mar 14, 2023.
+             Was a Priest of the Shining One.
+             Demolished by Rupert
+             ... wielding a +4 great sword of holy wrath
+              (31 damage)
+             ... on level 13 of the Dungeon.
+             The game lasted 01:05:14 (13122 turns).
+
+Bokogi the Brawler (Troll Gladiator)               Turns: 13122, Time: 01:05:15
+
+Health: -15/124    AC: 12    Str: 29    XL:     12   Next: 69%
+Magic:  26/26      EV:  8    Int:  4    God:    the Shining One [***...]
+Gold:   930        SH:  0    Dex: 11    Spells: 6/11 levels left
+
+rFire   . . .      SeeInvis +      - Unarmed
+rCold   . . .      Faith    +    (no shield)
+rNeg    + . .      Spirit   .    A - +0 storm dragon scales
+rPois   .          Reflect  .    b - +1 hat
+rElec   +          Rampage  .    H - scarf {repulsion}
+rCorr   .                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth                            J - Hermit's Pendant {Faith Invo=14 Evo=0 MP+5}
+HPRegen 1.20/turn                m - +4 ring of protection
+MPRegen 0.20/turn                L - ring of see invisible
+
+@: about to teleport, glowing, repel missiles
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1,
+deformed body
+a: Renounce Religion, Divine Shield, Cleansing Flame
+
+
+You were on level 13 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was most pleased with you.
+You visited 2 branches of the dungeon, and saw 14 of its levels.
+You also visited: Sewer.
+
+You collected 930 gold pieces.
+
+Inventory:
+
+Missiles
+ c - 3 throwing nets
+ d - a large rock
+ f - 19 poisoned darts (quivered)
+ q - 3 javelins
+ E - 4 atropa-tipped darts
+ F - 6 boomerangs
+ O - 5 silver javelins
+Armour
+ b - a +1 hat (worn)
+ A - +0 storm dragon scales (worn)
+ H - a scarf of repulsion (worn)
+Jewellery
+ h - a ring of poison resistance
+ m - a +4 ring of protection (left claw)
+ v - a ring of positive energy
+ I - a +6 ring of dexterity
+ J - the Hermit's Pendant (around neck) {Faith Invo=14 Evo=0 MP+5}
+   (You found it on level 8 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   Invo=14:   It sets your Invocations skill to 14.
+   Evo=0:     It sets your Evocations skill to 0.
+   
+   It allows you to gain divine favour quickly.
+   MP:        It affects your magic capacity (+5).
+ L - a ring of see invisible (right claw)
+ Q - an amulet of guardian spirit
+Wands
+ y - a wand of acid (15)
+ K - a wand of paralysis (7)
+ N - a wand of digging (1)
+ S - a wand of flame (11)
+Scrolls
+ g - 2 scrolls of fog
+ j - 2 scrolls of poison
+ l - 2 scrolls of magic mapping
+ n - a scroll of silence
+ s - 4 scrolls of amnesia
+ w - a scroll of fear
+ D - 3 scrolls of enchant armour
+ R - a scroll of blinking {unknown}
+Potions
+ a - a potion of magic
+ e - a potion of degeneration {unknown}
+ i - 2 potions of flight
+ k - 3 potions of cancellation
+ o - a potion of attraction
+ p - 10 potions of curing
+ r - 2 potions of mutation
+ t - 2 potions of brilliance {unknown}
+ x - 3 potions of invisibility
+ z - a potion of resistance
+ B - 2 potions of might
+ C - a potion of heal wounds
+ G - a potion of experience {unknown}
+ M - a potion of berserk rage {unknown}
+ P - a potion of ambrosia {unknown}
+
+
+   Skills:
+ + Level 9.4 Fighting
+ - Level 6.0 Throwing
+ + Level 5.2 Dodging
+ * Level 15.6 Unarmed Combat
+ + Level 0.0 Spellcasting
+ + Level 4.7 Transmutations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Blade Hands           Tmut           1%         N/A       100%        5
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Apportation              Tloc           0%         N/A       98%         1
+ Necrotise                Necr           0%         1d4       98%         1
+ Summon Small Mammal      Summ           0%         N/A       98%         1
+ Portal Projectile        Hex/Tloc       0%         N/A       100%        3
+ Tukima's Dance           Hex            0%         N/A       100%        3
+ Petrify                  Tmut/Erth      1%         N/A       100%        4
+ Metabolic Englaciation   Hex/Ice        0%         N/A       100%        5
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (13/15)            Temple (1/1) D:6            Lair (0/5) D:11        
+    Orc (0/2) D:10         Vaults (0/5) D:13          Sewer (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:7 1 runed translucent door
+D:13 Erolcha, Rupert
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+Armour fits poorly on your strangely shaped body.
+
+Message History
+
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+You hear a shout!
+HP restored.
+Rupert is nearby!
+Rupert shouts!
+Rupert yells loudly at you.
+You suddenly lose the ability to move!
+Rupert yells loudly at you.
+You are confused.
+You can move again.
+You feel less confused.
+You see here a staff of cold.
+You see here 5 stones.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Rupert is nearby!
+Unknown command.
+Things that are here:
+a +0 ring mail; a +0 long sword
+Rupert looks excited.
+Rupert roars wildly at you.
+You are confused.
+You bump into the rock wall.
+Rupert roars madly and goes into a rage!
+Rupert goes berserk!
+You bump into the rock wall.
+Rupert rages.
+You bump into the rock wall.
+You feel less confused.
+Rupert hits you with a +4 great sword of holy wrath!!!
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+Rupert hits you with a +4 great sword of holy wrath!!!
+Rupert hits you with a +4 great sword of holy wrath!!
+* * * LOW HITPOINT WARNING * * *
+Rupert hits you with a +4 great sword of holy wrath!!
+You die...
+
+..(.                     #.#
+##.#              #.#    #.#
+ #.#              #.#    #.#
+ #(#              #.#    #.#
+ #(#              #.#    #.#
+ #.#              #.#    #.#
+ #.#              #.#    #.#
+##.#            ###.######.#
+.[.#            #..........#
+####            #.#.########
+                #.#.#
+                #.#@#
+                #.#@#
+                #...#
+                #..##
+                #..#
+                #..#
+          #######..#
+#####     .........#
+^....     ########.#
+#####            #.#
+          ########[#
+          #...@....#
+
+
+You could see Rupert (berserk).
+
+Vanquished Creatures
+  A sphinx (D:12)
+  A storm dragon (D:12)
+  Azrael (D:13)
+  A boulder beetle (D:12)
+  3 two-headed ogres (D:12)
+  2 centaur warriors
+  The ghost of Faydane the Thaumaturge, a journeyman HuHW of Vehumet (D:10)
+  A death knight (D:8)
+  Pikel (D:9)
+  A deep elf pyromancer (D:13)
+  Maurice (D:9)
+  An eye of devastation (shapeshifter) (D:13)
+  2 gargoyles
+  3 kobold demonologists
+  2 komodo dragons (D:11)
+  A rime drake (shapeshifter) (D:13)
+  A tengu conjurer (D:12)
+  11 trolls
+  A hornet (shapeshifter) (D:13)
+  Sigmund (D:5)
+  A shadow (D:12)
+  4 slime creatures (D:12)
+  9 yaks
+  4 wraiths
+  4 fire elementals (D:13)
+  2 humans (D:7)
+  13 vampire mosquitoes
+  2 acid dragons
+  4 water moccasins (D:6)
+  3 hell hounds (D:13)
+  A black bear (D:6)
+  3 sky beasts
+  2 orc warriors
+  2 ice beasts
+  4 centaurs
+  A phantom (D:4)
+  2 lemures (D:9)
+  2 kobold brigands
+  3 bullfrogs
+  7 scorpions
+  2 killer bees (D:7)
+  3 howler monkeys (D:10)
+  4 hounds (D:5)
+  A gnoll bouda (D:8)
+  5 orc priests
+  7 iguanas
+  6 orc wizards
+  2 sleepcaps
+  A hell rat (Sewer)
+  11 gnolls
+  8 adders
+  2 river rats (Sewer)
+  A shadow imp (D:6)
+  A white imp (D:5)
+  An ufetubus (D:7)
+  A worm (D:4)
+  5 dart slugs
+  29 orcs
+  9 ball pythons
+  2 bat zombies (D:8)
+  15 endoplasms
+  6 giant cockroaches
+  17 goblins
+  6 hobgoblins
+  11 jackals
+  17 kobolds
+  6 quokkas
+  4 bats
+  4 frilled lizards
+  9 rats
+  A rat zombie (D:8)
+307 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:3)
+  4 fungi (D:5)
+5 creatures vanquished.
+
+Grand Total: 312 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    35 | D:1      | Reached XP level 2. HP: 28/28 MP: 1/1
+   691 | D:2      | Reached XP level 3. HP: 35/35 MP: 2/2
+   721 | D:2      | Reached skill level 4 in Unarmed Combat
+  1288 | D:3      | Reached XP level 4. HP: 44/44 MP: 3/3
+  2010 | D:4      | Found a hazy altar of Hepliaklqana.
+  2018 | D:4      | Found a shadowy altar of Dithmenos.
+  2042 | D:4      | Noticed a shadow
+  2115 | D:4      | Found a glowing silver altar of Zin.
+  2123 | D:4      | Reached skill level 5 in Unarmed Combat
+  2123 | D:4      | Reached XP level 5. HP: 40/50 MP: 4/4
+  2561 | D:4      | Reached XP level 6. HP: 56/61 MP: 5/5
+  2656 | D:4      | Reached skill level 6 in Unarmed Combat
+  2888 | D:5      | Entered Level 5 of the Dungeon
+  3059 | D:5      | Found a stormy altar of Qazlal.
+  3067 | D:5      | Reached XP level 7. HP: 68/68 MP: 6/6
+  3091 | D:5      | Noticed Sigmund
+  3154 | D:5      | Reached skill level 7 in Unarmed Combat
+  3362 | D:5      | Killed Sigmund
+  3560 | D:5      | Reached skill level 8 in Unarmed Combat
+  3874 | D:5      | Found a broken altar of Ashenzari.
+  3881 | D:5      | Reached XP level 8. HP: 74/79 MP: 7/7
+  4053 | D:6      | Reached skill level 5 in Fighting
+  4139 | D:6      | Found a glowing drain.
+  4146 | D:6      | Reached skill level 9 in Unarmed Combat
+  4148 | Sewer    | Entered a sewer
+  4535 | D:6      | Reached skill level 10 in Unarmed Combat
+  4653 | D:6      | Reached XP level 9. HP: 81/89 MP: 8/8
+  4744 | D:6      | Found a staircase to the Ecumenical Temple.
+  4752 | Temple   | Entered the Ecumenical Temple
+  4768 | Temple   | Became a worshipper of the Shining One
+  5359 | D:7      | Found a runed translucent door.
+  5361 | D:7      | Found a runed translucent door.
+  5650 | D:7      | Found an iron altar of Okawaru.
+  5798 | D:7      | Identified the +2 mace of Mourning {spect, rPois rC+ Str-4
+                  | Int+5}
+  6207 | D:7      | Reached skill level 11 in Unarmed Combat
+  6792 | D:8      | Found a flagged portal.
+  6871 | D:8      | Found a white marble altar of Elyvilon.
+  6935 | D:8      | Found a basalt altar of Yredelemnul.
+  7279 | D:8      | Found a shimmering altar of Xom.
+  7396 | D:8      | Reached skill level 12 in Unarmed Combat
+  7425 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+  7562 | D:8      | Found a faded altar of an unknown god.
+  7562 | D:8      | Found the Hermit's Pendant {Faith Invo=14 Evo=0 MP+5}
+  7563 | D:8      | Noticed a death knight
+  7623 | D:8      | Killed a death knight
+  7624 | D:8      | Reached XP level 10. HP: 56/102 MP: 9/9
+  7977 | D:9      | Gained mutation: You occasionally lose the ability to drink
+                  | potions when taking damage. [potion of mutation]
+  7977 | D:9      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  7977 | D:9      | Gained mutation: You are somewhat resistant to further
+                  | mutation. [potion of mutation]
+  7978 | D:9      | Lost mutation: You occasionally lose the ability to drink
+                  | potions when taking damage. [potion of mutation]
+  7978 | D:9      | Lost mutation: You expend magic power (3 MP) to strengthen
+                  | your wands. [potion of mutation]
+  7978 | D:9      | Lost mutation: You are somewhat resistant to further
+                  | mutation. [potion of mutation]
+  7978 | D:9      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [potion of mutation]
+  8055 | D:9      | Found a shimmering blue altar of Sif Muna.
+  8067 | D:9      | Noticed Maurice
+  8087 | D:9      | Killed Maurice
+  8121 | D:9      | Identified the +6 short sword of Eroshra {venom, *Noise
+                  | Str+7 Int+3 SInv}
+  8233 | D:9      | Noticed an orange demon
+  8339 | D:9      | Noticed Pikel
+  8348 | D:9      | Killed Pikel
+  8349 | D:9      | Reached skill level 13 in Unarmed Combat
+  8851 | D:10     | Entered Level 10 of the Dungeon
+  8995 | D:10     | Reached * piety under the Shining One
+  9105 | D:10     | Found a large runed translucent door.
+  9105 | D:10     | Found a large runed translucent door.
+  9110 | D:10     | Noticed Faydane's ghost (journeyman HuHW)
+  9140 | D:10     | Reached skill level 1 in Transmutations
+  9226 | D:10     | Found a staircase to the Orcish Mines.
+  9719 | D:10     | Killed Faydane's ghost
+  9720 | D:10     | Reached XP level 11. HP: 111/111 MP: 10/10
+ 10139 | D:11     | Found a staircase to the Lair.
+ 10170 | D:11     | Reached skill level 14 in Unarmed Combat
+ 10793 | D:12     | Noticed a centaur warrior
+ 10803 | D:12     | Killed a centaur warrior
+ 10860 | D:12     | Reached ** piety under the Shining One
+ 10868 | D:12     | Noticed a two-headed ogre
+ 10873 | D:12     | Killed a two-headed ogre
+ 11544 | D:12     | Reached *** piety under the Shining One
+ 11843 | D:12     | Noticed a storm dragon
+ 11843 | D:12     | Noticed a sphinx
+ 11843 | D:12     | Noticed a two-headed ogre
+ 11843 | D:12     | Noticed a boulder beetle
+ 11844 | D:12     | Noticed a two-headed ogre
+ 11874 | D:12     | Reached XP level 12. HP: 116/122 MP: 21/21
+ 11876 | D:12     | Reached skill level 5 in Throwing
+ 11881 | D:12     | Killed a boulder beetle
+ 11881 | D:12     | Paralysed by a sphinx for 5 turns
+ 11891 | D:12     | Killed a sphinx
+ 11971 | D:12     | Reached skill level 15 in Unarmed Combat
+ 12016 | D:12     | Killed a two-headed ogre
+ 12021 | D:12     | Killed a two-headed ogre
+ 12027 | D:12     | Killed a storm dragon
+ 12342 | D:13     | Noticed Azrael
+ 12353 | D:13     | Killed Azrael
+ 12354 | D:13     | Reached skill level 5 in Dodging
+ 12437 | D:13     | Noticed a centaur warrior
+ 12441 | D:13     | Noticed an entropy weaver
+ 12447 | D:13     | Killed a centaur warrior
+ 12505 | D:13     | Found a gate to the Vaults.
+ 12566 | D:13     | Reached **** piety under the Shining One
+ 12625 | D:13     | Noticed Rupert
+ 12629 | D:13     | Noticed Erolcha
+ 12913 | D:13     | Learned a level 5 spell: Blade Hands
+ 12932 | D:13     | Paralysed by Rupert for 5 turns
+ 12937 | D:13     | HP: 4/124 [Rupert/+4 great sword of holy wrath (33)]
+ 13064 | D:13     | Paralysed by Rupert for 2 turns
+ 13122 | D:13     | Demolished by Rupert
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_large_4, layout_basic, serial_curves,
+          eino_curves_02, eino_curves_02, minivault_14
+D:2:      layout_rooms
+D:3:      corexii_shack_village, layout_basic
+D:4:      minmay_recursive_quarters, layout_basic,
+          riverfiend_overflow_shadow_ancestor, zin_academy
+D:5:      layout_loops_cross, mainiacjoe_overflow_alcove_4,
+          mainiacjoe_overflow_chevrons, dk_noncrumbling_4, dreamdust_gnoll_farm,
+          uniq_sigmund
+D:6:      layout_loops_ring, minmay_temple_entry_trees, gup_sewer_entry_pipe
+D:7:      lemuel_insect_pit, layout_loops_corners, okawaru_humans
+D:8:      layout_basic, mainiacjoe_overflow_catwalk,
+          lemuel_coloured_pillars_altar, mainiacjoe_overflow_brackets,
+          lemuel_zombie_altar_kikubaaqudgha, enter_bailey_8,
+          hellmonk_guarded_unrand_hermit
+D:9:      layout_layer_cave, mainiacjoe_overflow_alcove_1, uniq_pikel,
+          uniq_maurice
+D:10:     layout_roguey, orc_0_dummy, ebering_ghost_disaster_area,
+          serial_curves, eino_curves_02, eino_curves_04, eino_curves_01,
+          eino_curves_03
+D:11:     layout_basic, lair_entry_dummy
+D:12:     layout_layer_cave, wad_scary_box
+D:13:     layout_loops_ring, david_vaults_2, uniq_azrael, uniq_rupert,
+          uniq_erolcha
+Temple:   bh_familiar_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |     2        3     4  5  7  8     9 |  9.4
+Unarmed Combat |        4  5     6  8 10 12 13 14 15 | 15.6
+Throwing       |                             3  4  6 |  6.0
+Transmutations |                             2  3  4 |  4.7
+Dodging        |                                4  5 |  5.2
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |   115 |   160 |   290 |   300 ||   865
+         Punch             |       |     4 |    11 |    27 ||    42
+  Throw: Dart              |       |     1 |     4 |    29 ||    34
+         Boomerang         |       |       |       |    65 ||    65
+ Invoke: Divine Shield     |       |       |       |     5 ||     5
+    Use: Scroll            |       |     1 |    13 |    10 ||    24
+         Potion            |       |       |     1 |    12 ||    13
+   Stab: Sleeping          |     2 |     2 |     1 |       ||     5
+ Armour: Robe              |    44 |    48 |    73 |    18 ||   183
+         Troll leather arm |       |       |       |    35 ||    35
+         Storm dragon scal |       |       |       |    16 ||    16
+  Dodge: Dodged            |    53 |    57 |   134 |   121 ||   365
+         Repelled          |       |       |       |     5 ||     5
+  Block: Other             |       |       |       |     9 ||     9
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12988 |  12190 |    798 |      0 |   9418 |  15 |  865.9 |
+       Dungeon |  12711 |  11926 |    785 |      0 |   9215 |  13 |  977.8 |
+        Temple |    189 |    176 |     13 |      0 |    162 |   1 |  189.0 |
+         Sewer |     87 |     87 |      0 |      0 |     41 |   1 |   87.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:7: 1518 daAuts
+    D:12: 1495 daAuts
+     D:5: 1150 daAuts
+     D:8: 1050 daAuts
+     D:4: 953 daAuts
+     D:6: 947 daAuts
+    D:13: 942 daAuts
+    D:10: 937 daAuts
+     D:9: 882 daAuts
+     D:3: 864 daAuts
+    D:11: 837 daAuts
+     D:1: 656 daAuts
+     D:2: 475 daAuts
+  Temple: 189 daAuts
+   Sewer: 87 daAuts
+

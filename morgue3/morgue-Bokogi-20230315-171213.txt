@@ -1,0 +1,532 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5518610843558132127
+
+13029 Bokogi the Cleaver (level 11, -11/91 HPs)
+             Began as a Minotaur Fighter on Mar 15, 2023.
+             Was an Elder of Hepliaklqana.
+             Mangled by a two-headed ogre
+             ... wielding a +0 giant club
+              (18 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 00:33:30 (10643 turns).
+
+Bokogi the Cleaver (Minotaur Fighter)              Turns: 10643, Time: 00:33:30
+
+Health: -11/91     AC: 24    Str: 24    XL:     11   Next: 70%
+Magic:  10/10      EV:  7    Int:  5    God:    Hepliaklqana [****..]
+Gold:   642        SH:  6    Dex: 11    Spells: 10/10 levels left
+
+rFire   + . .      SeeInvis .    H - +4 war axe (heavy)
+rCold   + . .      Faith    +    c - +0 buckler
+rNeg    . . .      Spirit   .    v - +0 plate armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    E - +1 cloak of Amo Orie {rF+ rC+}
+rCorr   .                        j - +0 pair of gloves
+Will    ++...                    g - +0 pair of boots
+Stlth                            r - amulet of Gaocw {Faith Will+ Slay+2}
+HPRegen 0.35/turn                e - +4 ring of protection
+MPRegen 0.12/turn                y - ring of willpower
+
+@: no status effects
+A: reduced essence, horns 2, retaliatory headbutt
+a: Renounce Religion, Recall Ancestor, Ancestor Identity, Transference, Idealise
+
+
+You were on level 10 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+You also visited: Sewer and Ossuary.
+
+You collected 687 gold pieces.
+You spent 45 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ H - a +4 heavy war axe (weapon)
+Missiles
+ m - 2 throwing nets (quivered)
+Armour
+ c - a +0 buckler (worn)
+ g - a +0 pair of boots (worn)
+ j - a +0 pair of gloves (worn)
+ v - a +0 plate armour (worn)
+ E - the +1 cloak of Amo Orie (worn) {rF+ rC+}
+   (You found it on level 7 of the Dungeon)   
+   
+   rF:        It protects you from fire.
+   rC:        It protects you from cold.
+ I - a scarf of repulsion
+ K - the +0 ring mail of Nuorecug {SInv}
+   (You found it on level 8 of the Dungeon)   
+   
+   SInv:      It lets you see invisible.
+ M - a +0 scale mail of willpower
+Jewellery
+ a - a +6 ring of intelligence
+ e - a +4 ring of protection (left hand)
+ r - the amulet of Gaocw (around neck) {Faith Will+ Slay+2}
+   (You acquired it on level 8 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   Slay:      It affects your accuracy & damage with ranged weapons and melee
+   (+2).
+   Will:      It increases your willpower.
+ y - a ring of willpower (right hand)
+ z - an amulet of guardian spirit
+Wands
+ h - a wand of acid (12)
+ n - a wand of polymorph (5)
+ t - a wand of flame (11)
+ x - a wand of iceblast (5)
+ F - a wand of mindburst (10)
+Scrolls
+ b - 10 scrolls of teleportation
+ d - 3 scrolls of fog
+ f - a scroll of enchant armour
+ s - 2 scrolls of fear
+ G - a scroll of immolation
+ J - 2 scrolls of identify
+ L - a scroll of noise {unknown}
+ N - a scroll of amnesia
+ O - a scroll of blinking {unknown}
+Potions
+ i - a potion of brilliance {unknown}
+ k - 2 potions of cancellation
+ l - 2 potions of flight
+ o - 2 potions of magic {unknown}
+ p - 12 potions of heal wounds {unknown}
+ q - a potion of experience {unknown}
+ u - 3 potions of degeneration {unknown}
+ w - 2 potions of might
+ A - 2 potions of mutation {unknown}
+ B - 4 potions of curing {unknown}
+ C - a potion of haste {unknown}
+ D - a potion of ambrosia {unknown}
+
+
+   Skills:
+ + Level 11.2 Fighting
+ * Level 14.3 Axes
+ + Level 11.2 Armour
+ - Level 10.0 Shields
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       100%        2
+ Hailstorm                Conj/Ice       0%         3d3       100%        3
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       100%        3
+ Kindle Blastsparks       Fire/Tloc/Air  0%         2d10      100%        3
+ Spider Form              Tmut/Pois      0%         N/A       100%        3
+ Anguish                  Hex/Necr       0%         N/A       100%        4
+ Ice Form                 Ice/Tmut       0%         N/A       100%        4
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Simulacrum               Ice/Necr       0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:6            Lair (0/5) D:8         
+    Orc (0/2) D:10          Sewer (visited)         Ossuary (visited)         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 [*:*   D:8 *
+
+Annotations:
+D:3 3 runed translucent doors, Bokogi's ghost, amateur HuFE
+D:5 2 transporters, Bokogi's ghost, novice MfGl
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The centaur shoots an arrow. The arrow hits you.
+Helios hits the centaur with a +0 flail!
+The centaur closely misses Helios. The centaur barely misses Helios. The
+centaur shoots an arrow.
+The arrow barely misses you.
+You hit the two-headed ogre.
+The two-headed ogre is lightly wounded.
+The centaur hits Helios but does no damage.
+The centaur barely misses Helios. The centaur shoots an arrow. The arrow hits
+you.
+The two-headed ogre hits you with a +0 giant club!!
+The two-headed ogre hits you with a +0 dire flail.
+Helios hits the centaur with a +0 flail!
+The centaur dies!
+You dice the two-headed ogre like an onion!!!
+You kill the two-headed ogre!
+The centaur shoots an arrow. You block the arrow. The centaur shoots an arrow.
+The arrow closely misses you.
+You swap places.
+A two-headed ogre comes into view. It is wielding two +0 giant clubs.
+The two-headed ogre shouts in stereo!
+The centaur unwields a +0 shortbow. The centaur closely misses you.
+The centaur kicks you but does no damage.
+The two-headed ogre moves out of view.
+You slice the centaur!!
+You kill the centaur!
+You hit the two-headed ogre.
+The two-headed ogre is lightly wounded.
+The two-headed ogre barely misses you.
+The two-headed ogre hits you with a +0 giant club.
+Helios hits the two-headed ogre with a +0 flail!
+You slash the two-headed ogre! You headbutt the two-headed ogre!
+The two-headed ogre is severely wounded.
+The two-headed ogre hits you with a +0 giant club!!
+* * * LOW HITPOINT WARNING * * *
+You block the two-headed ogre's attack.
+Helios barely misses the two-headed ogre.
+You barely miss the two-headed ogre.
+Your headbutt misses the two-headed ogre.
+The two-headed ogre is severely wounded.
+The two-headed ogre hits you with a +0 giant club!!
+You die...
+
+              # ...
+              #.#..
+               .#...
+                ....
+              #.#..###
+          #####.#....
+###########.....#...#
+........ .......#...#  ##}
+.##########.....#..@#...c.
+.#...............))RO..#
+#.............<...#)...#
+...###.####.....).##...#
+...# #.#  #.......# ......
+..## #.#  #..#.#### .:....
+.##  #.## #..#.#    .##...#
+.#####..###..#.#    ## #...
+............[..#        #.
+.####.#.###.####
+.####.#.###.#
+.?..).......###
+
+
+You could see the friendly Helios the knight and a two-headed ogre (ally
+target).
+
+Vanquished Creatures
+  4 two-headed ogres
+  A tengu warrior (D:10)
+  A gargoyle (D:10)
+  A troll (D:8)
+  3 hogs (D:10)
+  5 yaks
+  A wraith (D:10)
+  2 wyverns
+  A human (D:10)
+  A steam dragon (D:8)
+  A vampire mosquito (D:10)
+  3 wargs (D:8)
+  Duvessa (D:7)
+  2 water moccasins
+  A black bear (D:5)
+  An ice beast (D:6)
+  4 sky beasts
+  An ogre (D:7)
+  3 orc warriors (D:7)
+  2 centaurs (D:10)
+  A phantom (D:5)
+  4 kobold brigands
+  5 bullfrogs
+  6 scorpions
+  7 wights (D:8)
+  Dowan (D:7)
+  8 killer bees
+  A howler monkey (D:6)
+  A centaur zombie (Ossuary)
+  5 human zombies (Ossuary)
+  2 orc priests
+  A jelly (D:4)
+  2 hounds
+  Jessica (D:3)
+  3 iguanas
+  A scorpion zombie (Ossuary)
+  6 orc wizards
+  2 mummies (Ossuary)
+  Robin (D:3)
+  11 gnolls
+  17 adders
+  8 river rats (Sewer)
+  2 shadow imps
+  A white imp (D:7)
+  3 ufetubi
+  2 dart slugs
+  29 orcs
+  2 bats
+  5 endoplasms
+  4 giant cockroaches
+  A gnoll zombie (Ossuary)
+  17 goblins
+  8 hobgoblins
+  9 jackals
+  3 quokkas
+  18 ball pythons
+  6 frilled lizards
+  A goblin zombie (Ossuary)
+  3 hobgoblin zombies (Ossuary)
+  23 kobolds
+  2 orc zombies (Ossuary)
+  29 rats
+301 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 two-headed ogres
+  3 yaks (D:9)
+  A steam dragon (D:7)
+  2 water moccasins
+  A centaur (D:10)
+  A kobold brigand (D:8)
+  A gnoll sergeant (D:10)
+  2 scorpions (Ossuary)
+  A bullfrog (D:6)
+  A killer bee (D:9)
+  An orc wizard (D:6)
+  A mummy (Ossuary)
+  4 orcs
+  2 gnoll zombies (Ossuary)
+  7 kobolds
+  A kobold zombie (Ossuary)
+32 creatures vanquished.
+
+Vanquished Creatures (others)
+  A knight (D:8)
+1 creature vanquished.
+
+Grand Total: 334 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   190 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   497 | D:1      | Reached skill level 3 in Axes
+   511 | D:1      | Reached XP level 3. HP: 32/33 MP: 2/2
+  1015 | D:2      | Identified the +1 whip of Qihyvaf {drain, Drain +Blink
+                  | rPois Str+5}
+  1419 | D:2      | You fall into a shaft and drop 2 floors!
+  1430 | D:4      | Reached XP level 4. HP: 36/41 MP: 3/3
+  1486 | D:4      | Found a shimmering altar of Xom.
+  1489 | D:4      | Found a glowing silver altar of Zin.
+  1492 | D:4      | Found a white marble altar of Elyvilon.
+  1499 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  1589 | D:3      | Found a glowing drain.
+  1598 | Sewer    | Entered a sewer
+  1636 | Sewer    | Reached XP level 5. HP: 11/47 MP: 4/4
+  1852 | Sewer    | Reached skill level 4 in Axes
+  1960 | Sewer    | Reached skill level 5 in Fighting
+  1963 | Sewer    | Reached skill level 5 in Armour
+  1963 | Sewer    | Reached skill level 5 in Shields
+  2157 | Sewer    | Reached XP level 6. HP: 48/56 MP: 5/5
+  2291 | D:3      | Noticed Jessica
+  2293 | D:3      | Killed Jessica
+  2510 | D:3      | Noticed Robin
+  2527 | D:3      | Reached skill level 5 in Axes
+  2532 | D:3      | Killed Robin
+  2540 | D:3      | Reached XP level 7. HP: 46/62 MP: 6/6
+  2745 | D:3      | Found a runed translucent gate.
+  2748 | D:3      | Found a runed translucent gate.
+  2749 | D:3      | Found a runed translucent gate.
+  2828 | D:3      | Noticed Bokogi's ghost (amateur HuFE)
+  3987 | D:5      | Entered Level 5 of the Dungeon
+  3987 | D:5      | Found a hazy altar of Hepliaklqana.
+  3991 | D:5      | Became a worshipper of Hepliaklqana the Forgotten
+  4011 | D:5      | Reached skill level 6 in Axes
+  4224 | D:5      | Found Paose's Assorted Antiques.
+  4226 | D:5      | Found Raoklun's Armour Shoppe.
+  4226 | D:5      | Found Gonyuproaly's General Store.
+  4229 | D:5      | Found Jurhul's Book Shoppe.
+  4246 | D:5      | Bought a +0 pair of gloves for 45 gold pieces
+  4327 | D:5      | Found a transporter.
+  4329 | D:5      | Noticed Bokogi's ghost (novice MfGl)
+  4330 | D:5      | Identified the +3 great mace "Kohustre" {heavy, rElec rF++
+                  | Str-4 Stlth+}
+  4331 | D:5      | Found a transporter.
+  4445 | D:5      | Reached * piety under Hepliaklqana
+  4604 | D:5      | Reached XP level 8. HP: 59/63 MP: 7/7
+  5076 | D:6      | Reached skill level 7 in Axes
+  5099 | D:6      | Found a shimmering blue altar of Sif Muna.
+  5109 | D:6      | Found a staircase to the Ecumenical Temple.
+  5294 | D:6      | Reached ** piety under Hepliaklqana
+  5874 | Temple   | Entered the Ecumenical Temple
+  5954 | D:7      | Found a sand-covered staircase.
+  5966 | Ossuary  | Entered an ossuary
+  5971 | Ossuary  | Remembered your ancestor Helios as a knight
+  6063 | Ossuary  | Reached skill level 8 in Axes
+  6261 | Ossuary  | Reached XP level 9. HP: 71/71 MP: 8/8
+  6401 | D:7      | Identified 2 scrolls of acquirement
+  6491 | D:7      | Reached skill level 9 in Axes
+  6788 | D:7      | Noticed Duvessa
+  6788 | D:7      | Noticed Dowan
+  6800 | D:7      | Killed Duvessa
+  6801 | D:7      | Killed Dowan
+  6856 | D:7      | Found a snail-covered altar of Cheibriados.
+  6905 | D:7      | Identified the +1 cloak of Amo Orie {rF+ rC+}
+  6948 | D:7      | Reached skill level 10 in Axes
+  7009 | D:7      | Found an ornate altar of the Wu Jian Council.
+  7009 | D:7      | Found a sacrificial altar of Ru.
+  7009 | D:7      | Found a basalt altar of Yredelemnul.
+  7625 | D:7      | Found a stormy altar of Qazlal.
+  7625 | D:7      | Reached *** piety under Hepliaklqana
+  7636 | D:7      | Acquired a +2 heavy war axe
+  7675 | D:8      | Acquired the amulet of Gaocw {Faith Will+ Slay+2}
+  7860 | D:8      | Reached XP level 10. HP: 56/81 MP: 9/9
+  8166 | D:8      | Found a staircase to the Lair.
+  8169 | D:8      | Reached skill level 11 in Axes
+  8257 | D:8      | Noticed a two-headed ogre
+  8263 | D:8      | Killed a two-headed ogre
+  8542 | D:8      | Identified the +0 ring mail of Nuorecug {SInv}
+  8639 | D:8      | Found Fapnyetu's General Store.
+  9024 | D:9      | Noticed a two-headed ogre
+  9029 | D:9      | Killed a two-headed ogre
+  9030 | D:9      | Reached skill level 12 in Axes
+  9208 | D:9      | Reached skill level 10 in Fighting
+  9211 | D:9      | Reached skill level 10 in Armour
+  9211 | D:9      | Reached skill level 10 in Shields
+  9389 | D:9      | Noticed a two-headed ogre
+  9401 | D:9      | Killed a two-headed ogre
+  9402 | D:9      | Reached XP level 11. HP: 36/90 MP: 10/10
+  9604 | D:9      | Noticed a two-headed ogre
+  9609 | D:9      | Killed a two-headed ogre
+  9610 | D:9      | Reached skill level 13 in Axes
+ 10165 | D:10     | Entered Level 10 of the Dungeon
+ 10180 | D:10     | Noticed a two-headed ogre
+ 10190 | D:10     | Killed a two-headed ogre
+ 10496 | D:10     | Reached **** piety under Hepliaklqana
+ 10551 | D:10     | Found a staircase to the Orcish Mines.
+ 10609 | D:10     | Noticed a tengu warrior
+ 10609 | D:10     | Noticed a two-headed ogre
+ 10617 | D:10     | Killed a tengu warrior
+ 10619 | D:10     | Killed a two-headed ogre
+ 10620 | D:10     | Reached skill level 14 in Axes
+ 10633 | D:10     | Noticed a two-headed ogre
+ 10637 | D:10     | Killed a two-headed ogre
+ 10639 | D:10     | Noticed a two-headed ogre
+ 10643 | D:10     | Mangled by a two-headed ogre
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      sevenhm_arrival_forest_fort_small_5, layout_loops_ring,
+          chequers_serial_rivers_large_a, st_stairs_12
+D:2:      minmay_chambers_of_ones, layout_basic, serial_forest,
+          infiniplex_forest_lined_3, infiniplex_forest_straight_5,
+          infiniplex_forest_split, infiniplex_forest_straight_3,
+          infiniplex_forest_clump_cross
+D:3:      layout_loops_cross, ebering_ghost_rock_garden, portal_sewer_entry_d,
+          serial_glass, glass_columns_b, glass_columns_a, glass_columns_c,
+          glass_columns_b, minmay_increasing_density, uniq_robin, uniq_jessica
+D:4:      layout_gridville, grunt_temple_overflow_cloverleaf
+D:5:      layout_cave_pods, mainiacjoe_overflow_alcove_1, gammafunk_ghost_smash,
+          nicolae_hexahallways, minmay_shop_grid_forest, dk_noncrumbling_3,
+          minivault_23
+D:6:      layout_basic, kennysheep_mini, minmay_temple_entry_mini_moons,
+          minmay_misc_feat_x
+D:7:      layout_loops_corners, lemuel_tele_altar,
+          gammafunk_temple_overflow_forgotten, lemuel_coloured_pillars_altar,
+          nicolae_ossuary_entry_ruins, uniq_duvessa
+D:8:      layout_basic, erik_lair_orcish_takeover, serial_shops, shop_statue,
+          minmay_fractal_squares_diagonal_5
+D:9:      layout_layer_cave, hangedman_decor_slide_cut, mrwooster_statue_mirror
+D:10:     hangedman_cross_stitches, layout_loops_ring, grunt_livestock
+Temple:   nicolae_temple_ecumenical_triangle
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Armour         |     4        5     6  7  8 10 11 | 11.2
+Fighting       |     4        5     6  7  8 10 11 | 11.2
+Shields        |     4        5     6  7  8 10    | 10.0
+Axes           |     3        4  5  6  8 10 12 14 | 14.3
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: War axe           |    86 |   190 |   319 |   135 ||   730
+         Headbutt          |    15 |    17 |    54 |    23 ||   109
+         Battleaxe         |       |       |     8 |       ||     8
+ Invoke: Ancestor Identity |       |       |     1 |       ||     1
+         Recall Ancestor   |       |       |     2 |       ||     2
+         Ancestor Life: Kn |       |       |     1 |       ||     1
+         Transference      |       |       |     1 |     1 ||     2
+    Use: Scroll            |       |     5 |     8 |     5 ||    18
+         Potion            |       |     2 |       |       ||     2
+   Stab: Distracted        |       |       |       |     2 ||     2
+ Armour: Scale mail        |    18 |       |       |       ||    18
+         Chain mail        |    32 |   170 |    61 |       ||   263
+         Plate armour      |       |       |   197 |   102 ||   299
+  Dodge: Dodged            |    48 |    89 |   118 |    56 ||   311
+  Block: Buckler           |    28 |    75 |    84 |    51 ||   238
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  10920 |  10472 |    448 |      0 |   8418 |  13 |  840.0 |
+       Dungeon |   9706 |   9275 |    431 |      0 |   7690 |  10 |  970.6 |
+        Temple |     43 |     26 |     17 |      0 |     18 |   1 |   43.0 |
+         Sewer |    729 |    729 |      0 |      0 |    457 |   1 |  729.0 |
+       Ossuary |    441 |    441 |      0 |      0 |    252 |   1 |  441.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 1363 daAuts
+     D:7: 1317 daAuts
+     D:8: 1179 daAuts
+     D:4: 1116 daAuts
+     D:5: 1083 daAuts
+     D:1: 951 daAuts
+     D:3: 864 daAuts
+     D:6: 832 daAuts
+   Sewer: 729 daAuts
+     D:2: 511 daAuts
+    D:10: 486 daAuts
+ Ossuary: 441 daAuts
+  Temple: 43 daAuts
+

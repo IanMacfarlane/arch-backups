@@ -1,0 +1,402 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 7783743829988197062
+
+7805 Bokogi the Severer (level 11, -6/99 HPs)
+             Began as a Minotaur Fighter on Mar 15, 2023.
+             Was a Believer of the Shining One.
+             Mangled by Erolcha
+             ... wielding a +0 giant club
+              (17 damage)
+             ... on level 11 of the Dungeon.
+             The game lasted 00:27:22 (8354 turns).
+
+Bokogi the Severer (Minotaur Fighter)               Turns: 8354, Time: 00:27:23
+
+Health: -6/99      AC: 22    Str: 25    XL:     11   Next: 1%
+Magic:  13/13      EV:  7    Int:  5    God:    the Shining One [**....]
+Gold:   360        SH:  9    Dex: 10    Spells: 10/10 levels left
+
+rFire   . . .      SeeInvis +    t - +3 hand axe (flame)
+rCold   + . .      Faith    .    y - +0 kite shield
+rNeg    + . .      Spirit   .    a - +4 chain mail {rC+}
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        z - +2 pair of gloves
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.36/turn                b - +4 ring of protection
+MPRegen 0.13/turn                o - ring of see invisible
+
+@: mighty, glowing
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Divine Shield
+
+
+You were on level 11 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was pleased with you.
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+
+You collected 360 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ t - a +3 hand axe of flaming (weapon)
+ D - the +9 rapier of the Unliving {antimagic, rPois}
+   (You found it on level 9 of the Dungeon)   
+   
+   rPois:     It protects you from poison.
+ G - a +2 war axe
+Armour
+ a - a +4 chain mail of cold resistance (worn)
+ l - a +2 chain mail of poison resistance
+ y - a +0 kite shield (worn)
+ z - a +2 pair of gloves (worn)
+Jewellery
+ b - a +4 ring of protection (left hand)
+ o - a ring of see invisible (right hand)
+ x - a ring of positive energy
+Wands
+ B - a wand of roots (8)
+Scrolls
+ d - 2 scrolls of immolation
+ g - a scroll of magic mapping
+ h - 7 scrolls of teleportation
+ p - 3 scrolls of blinking
+ A - 3 scrolls of identify
+ C - a scroll of fog
+ E - a scroll of acquirement {unknown}
+ F - a scroll of brand weapon {unknown}
+Potions
+ e - a potion of brilliance
+ f - 3 potions of curing
+ j - 3 potions of lignification {unknown}
+ k - 2 potions of flight {unknown}
+ m - a potion of attraction {unknown}
+ n - 5 potions of mutation {unknown}
+ q - a potion of might
+ r - a potion of heal wounds {unknown}
+ v - a potion of magic {unknown}
+
+
+   Skills:
+ - Level 10.0 Fighting
+ * Level 15.0 Axes
+ + Level 7.4 Armour
+ + Level 5.9 Shields
+ + Level 5.0 Invocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       100%        2
+ Poisonous Vapours        Pois/Air       0%         N/A       100%        2
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       100%        3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:4            Lair (0/5) D:8         
+    Orc (0/2) D:10        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:9 Lodul
+D:11 Erolcha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+You feel yourself slow down.
+There is a stone staircase leading down here.
+You climb downwards.
+Erolcha shouts!
+There is a stone staircase leading up here.
+You are too injured to fight recklessly!
+Unknown command.
+You can't go down here!
+Press: ? - help, v - describe, . - travel
+The floor.
+This square is lit by a halo.
+Cleave: t) +3 hand axe (flame)
+Press: ? - help, Dir - move target, f - Erolcha
+Aim: Erolcha, wielding a +0 giant club, wearing a +0 robe and carrying a wand
+of mindburst (5) (haloed, about 8% to evade your +3 hand axe of flaming)
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: Erolcha, wielding a +0 giant club, wearing a +0 robe and carrying a wand
+of mindburst (5) (haloed)
+The floor.
+Okay, then.
+As you read the scroll of fear, it crumbles to dust.
+You assume a fearsome visage. Erolcha looks frightened!
+Erolcha gestures wildly while chanting.
+Erolcha blinks!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Unknown command.
+Erolcha cries, "Mercy!"
+Erolcha casts a spell.
+Erolcha flickers and vanishes for a moment.
+Erolcha gestures wildly while chanting.
+Erolcha blinks!
+Erolcha mumbles some strange words.
+Erolcha blinks!
+You slash Erolcha! You burn Erolcha.
+Your attack snaps Erolcha out of her fear.
+Erolcha is lightly wounded.
+You hit Erolcha. You burn Erolcha.
+Erolcha is moderately wounded.
+Erolcha hits you with a +0 giant club!
+You die...
+
+..
+#..########
+#..#..#...##
+...........#
+.........<.#
+.........§.#
+......O....#
+ .##.#.@#.##
+   # ####.#
+        ...
+        ....
+        .....
+         .....
+         ######
+
+
+You could see Erolcha (invisible).
+
+Vanquished Creatures
+  3 two-headed ogres
+  Grinder (D:3)
+  A wyvern (D:8)
+  5 yaks (D:9)
+  3 wargs (D:8)
+  A water moccasin (D:8)
+  A black bear (D:7)
+  3 orc warriors
+  2 sky beasts (D:7)
+  6 ogres
+  3 centaurs
+  4 phantoms
+  3 kobold brigands
+  2 bullfrogs
+  2 necrophages (D:5)
+  A gnoll sergeant (D:8)
+  A wyvern zombie (D:5)
+  A scorpion (D:6)
+  4 wights (D:9)
+  18 killer bees
+  4 howler monkeys (D:9)
+  5 hounds
+  A human zombie (D:5)
+  A bullfrog zombie (D:5)
+  3 jellies
+  5 orc priests
+  4 sleepcaps
+  An iguana (D:6)
+  9 orc wizards
+  A killer bee zombie (D:5)
+  A hound zombie (D:5)
+  3 mummies (D:5)
+  18 gnolls
+  6 adders
+  A white imp (D:5)
+  2 ufetubi (D:6)
+  2 adder zombies (D:5)
+  2 worms
+  2 dart slugs (D:1)
+  36 orcs
+  9 endoplasms
+  A giant cockroach (D:2)
+  9 goblins
+  5 hobgoblins
+  4 jackals (D:5)
+  A quokka (D:1)
+  4 ball pythons
+  6 bats
+  2 frilled lizards (D:1)
+  20 kobolds
+  10 rats
+243 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:8)
+1 creature vanquished.
+
+Grand Total: 244 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   169 | D:1      | Reached skill level 3 in Axes
+   181 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   669 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+   729 | D:2      | Reached skill level 4 in Axes
+  1011 | D:2      | Reached XP level 4. HP: 37/41 MP: 3/3
+  1311 | D:3      | Reached skill level 5 in Axes
+  1380 | D:3      | Noticed Grinder
+  1381 | D:3      | Paralysed by Grinder for 4 turns
+  1386 | D:3      | Killed Grinder
+  1387 | D:3      | Reached skill level 5 in Fighting
+  1387 | D:3      | Reached skill level 6 in Axes
+  1387 | D:3      | Reached XP level 5. HP: 49/49 MP: 4/4
+  1387 | D:3      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2266 | D:4      | Reached skill level 7 in Axes
+  2440 | D:4      | Reached XP level 7. HP: 38/63 MP: 6/6
+  2755 | D:4      | Found a glowing golden altar of the Shining One.
+  2769 | D:4      | Became a worshipper of the Shining One
+  2801 | D:4      | Reached skill level 8 in Axes
+  2805 | D:4      | Found a staircase to the Ecumenical Temple.
+  2819 | Temple   | Entered the Ecumenical Temple
+  2914 | D:4      | Found an ornate altar of the Wu Jian Council.
+  3030 | D:5      | Entered Level 5 of the Dungeon
+  3384 | D:5      | Found a basalt altar of Yredelemnul.
+  3390 | D:5      | Reached skill level 9 in Axes
+  3428 | D:5      | Reached * piety under the Shining One
+  3432 | D:5      | Reached XP level 8. HP: 70/73 MP: 7/7
+  3595 | D:5      | Reached skill level 10 in Axes
+  3597 | D:5      | Found a hide-covered altar of Uskayaw.
+  4278 | D:6      | Found a stormy altar of Qazlal.
+  4391 | D:6      | Reached ** piety under the Shining One
+  4413 | D:6      | Reached skill level 11 in Axes
+  4955 | D:6      | Found a broken altar of Ashenzari.
+  5028 | D:6      | Reached XP level 9. HP: 70/83 MP: 8/8
+  5413 | D:7      | Reached skill level 12 in Axes
+  6041 | D:8      | Reached skill level 1 in Invocations
+  6215 | D:8      | Reached skill level 13 in Axes
+  6301 | D:8      | Noticed a two-headed ogre
+  6307 | D:8      | Killed a two-headed ogre
+  6308 | D:8      | Reached skill level 10 in Fighting
+  6308 | D:8      | Reached skill level 5 in Armour
+  6308 | D:8      | Reached XP level 10. HP: 84/93 MP: 6/11
+  6365 | D:8      | Found a staircase to the Lair.
+  6422 | D:8      | Identified the ring "Vauhugoe" {rPois rN++ Str+2 Int+6
+                  | Slay-6}
+  7042 | D:9      | Reached skill level 14 in Axes
+  7176 | D:9      | Found a radiant altar of Vehumet.
+  7459 | D:9      | Identified the +9 rapier of the Unliving {antimagic, rPois}
+  7594 | D:9      | Reached skill level 5 in Shields
+  7897 | D:10     | Entered Level 10 of the Dungeon
+  7904 | D:10     | Noticed a two-headed ogre
+  7913 | D:10     | Killed a two-headed ogre
+  8060 | D:10     | Found a staircase to the Orcish Mines.
+  8098 | D:10     | Noticed Lodul
+  8098 | D:10     | Noticed a two-headed ogre
+  8311 | D:9      | Killed a two-headed ogre
+  8312 | D:9      | Reached skill level 15 in Axes
+  8312 | D:9      | Reached skill level 5 in Invocations
+  8312 | D:9      | Reached XP level 11. HP: 33/99 MP: 13/13
+  8315 | D:9      | HP: 1/99 [Lodul/bolt of lightning (33)]
+  8348 | D:11     | Noticed Erolcha
+  8354 | D:11     | Mangled by Erolcha
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_round_b, layout_basic
+D:2:      layout_rooms, kennysheep_pointless_box, hex_medium, minmay_ruptured
+D:3:      layout_loops_ring, kennysheep_big_empty_room, st_stairs_8,
+          minmay_misc_feat_rugged, uniq_grinder
+D:4:      layout_basic, mainiacjoe_overflow_six_doors_small,
+          general_overflow_altar, minmay_temple_entry_trees
+D:5:      layout_gridville, lemuel_crystal_altar,
+          lemuel_mausoleum_altar_yredelemnul, kennysheep_another_room
+D:6:      layout_loops_corners, ashenzari_conservatory_becter,
+          kennysheep_little_box
+D:7:      layout_gridville
+D:8:      layout_basic, erik_lair_orcish_takeover, lemuel_flame_loot_1
+D:9:      layout_long_grid, kennysheep_mini, hex_tiny
+D:10:     layout_gridville, orc_0_dummy, uniq_lodul
+D:11:     cheibrodos_frozen_isle, layout_gridville, uniq_snorg, uniq_erolcha
+Temple:   minmay_freezing_vapour_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3     4  6     7  9 11 13 15 | 15.0
+Fighting       |     4     5     6  7  9 10    | 10.0
+Armour         |                          5  7 |  7.4
+Invocations    |                          3  5 |  5.0
+Shields        |                             5 |  5.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: War axe           |    85 |    92 |   135 |       ||   312
+         Headbutt          |     9 |    10 |    60 |    26 ||   105
+         Hand axe          |       |       |   137 |   122 ||   259
+ Invoke: Divine Shield     |       |       |     4 |     4 ||     8
+    Use: Potion            |       |     1 |     3 |     4 ||     8
+         Scroll            |       |       |    16 |     5 ||    21
+ Armour: Scale mail        |    37 |    19 |    17 |       ||    73
+         Chain mail        |       |       |    60 |    39 ||    99
+  Dodge: Dodged            |    37 |    32 |   148 |    55 ||   272
+  Block: Buckler           |    21 |    15 |    68 |     2 ||   106
+         Kite shield       |       |       |       |    58 ||    58
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   8319 |   7947 |    372 |      0 |   6425 |  12 |  693.2 |
+       Dungeon |   8288 |   7918 |    370 |      0 |   6415 |  11 |  753.5 |
+        Temple |     31 |     30 |      1 |      0 |     10 |   1 |   31.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:6: 1208 daAuts
+     D:3: 1044 daAuts
+     D:8: 1033 daAuts
+     D:9: 987 daAuts
+     D:5: 970 daAuts
+     D:4: 907 daAuts
+     D:7: 680 daAuts
+     D:1: 679 daAuts
+     D:2: 514 daAuts
+    D:10: 256 daAuts
+  Temple: 31 daAuts
+    D:11: 5 daAuts
+

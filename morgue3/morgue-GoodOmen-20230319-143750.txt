@@ -1,0 +1,366 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 12751798337254515952
+
+2447 GoodOmen the Geomancer (level 9, -12/45 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 19, 2023.
+             Was an Initiate of Vehumet.
+             Killed from afar by an electric eel (15 damage)
+             ... with a bolt of electricity
+             ... on level 6 of the Dungeon.
+             The game lasted 00:15:04 (5479 turns).
+
+GoodOmen the Geomancer (DEEE)                       Turns: 5479, Time: 00:15:05
+
+Health: -12/45     AC:  9    Str:  5    XL:     9   Next: 25%
+Magic:  14/23      EV: 12    Int: 25    God:    Vehumet [......]
+Gold:   356        SH:  0    Dex: 15    Spells: 20/24 levels left
+
+rFire   + . .      SeeInvis .    E - +0 long sword (holy)
+rCold   x . .      Faith    .    (no shield)
+rNeg    + . .      Spirit   .    n - +1 robe {rN+}
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    m - +2 cloak
+rCorr   .                        A - +0 pair of gloves
+Will    .....                    p - +1 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.27/turn                y - ring of fire
+MPRegen 0.18/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 356 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ u - a +0 quarterstaff
+ E - a +0 long sword of holy wrath (weapon)
+Missiles
+ h - a throwing net
+Armour
+ m - a +2 cloak (worn)
+ n - a +1 robe of positive energy (worn)
+ p - a +1 pair of boots (worn)
+ A - a +0 pair of gloves (worn)
+Jewellery
+ y - a ring of fire (left hand)
+Wands
+ r - a wand of acid (2)
+ C - a wand of mindburst (16)
+Scrolls
+ f - a scroll of blinking {unknown}
+ g - a scroll of vulnerability
+ j - a scroll of enchant armour
+ k - a scroll of fear {unknown}
+ l - a scroll of amnesia {unknown}
+ o - a scroll of noise
+ s - a scroll of silence {unknown}
+ v - 2 scrolls of enchant weapon {unknown}
+ w - a scroll of immolation
+ B - a scroll of magic mapping {unknown}
+ D - a scroll of teleportation
+Potions
+ a - 4 potions of curing
+ b - a potion of magic
+ c - 2 potions of flight
+ d - 2 potions of attraction
+ e - 3 potions of heal wounds
+ i - a potion of brilliance
+ q - 2 potions of haste
+ t - a potion of degeneration {unknown}
+ x - a potion of berserk rage
+ z - 2 potions of might
+
+
+   Skills:
+ - Level 2.5 Dodging
+ - Level 2.5 Stealth
+ + Level 8.0 Spellcasting
+ * Level 8.3 Conjurations
+ - Level 1.2 Transmutations
+ * Level 9.4 Earth Magic
+
+
+You had 20 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       1%          1
+ Passwall                 Tmut/Erth      30%        N/A       1%          2
+ Searing Ray              Conj           100%       2d8       1%          2
+ Petrify                  Tmut/Erth      36%        N/A       7%          4
+ Lesser Beckoning         Tloc           20%        N/A       9%          2
+ Leda's Liquefaction      Hex/Erth       16%        N/A       9%          4
+ Fulminant Prism          Conj/Hex       15%        3d11      11%         4
+ Call Canine Familiar     Summ           10%        N/A       19%         3
+ Gell's Gravitas          Tloc           10%        N/A       19%         3
+ Ozocubu's Armour         Ice            10%        N/A       19%         3
+ Portal Projectile        Hex/Tloc       20%        N/A       19%         3
+ Teleport Other           Tloc           10%        N/A       19%         3
+ Metabolic Englaciation   Hex/Ice        5%         N/A       86%         5
+ Simulacrum               Ice/Necr       5%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:6         
+
+Altars:
+Cheibriados
+Elyvilon
+Gozag
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Zin
+The Shining One
+Lugonu
+
+Shops:
+D:5 (
+
+Message History
+
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Casting: Stone Arrow (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - orc wizard
+Aim: an orc wizard, wielding a +0 dagger and wearing a +0 robe (82% to hit)
+The blast of sand hits the orc wizard!
+The orc wizard is severely wounded.
+The orc wizard hits you with a +0 dagger.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc wizard
+Aim: an orc wizard, wielding a +0 dagger and wearing a +0 robe (severely
+wounded, 82% to hit)
+The blast of sand hits the orc wizard!
+You kill the orc wizard!
+Vehumet accepts your kill.
+The electric eel shoots out a bolt of lightning at you!
+The bolt of electricity hits you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+* * * LOW HITPOINT WARNING * * *
+The orc priest begins to cast a cantrip, but forgets the words!
+The electric eel shoots out a bolt of lightning at you!
+The bolt of electricity hits you!
+* * * LOW HITPOINT WARNING * * *
+The bolt of electricity misses you.
+The electric eel shoots out a bolt of lightning at you!
+The bolt of electricity hits you!
+You die...
+
+#..  ................
+     ######.#.#.#####
+          #.#...#
+          #.#.###
+          #.#.#
+          #.#.#
+       #  #.#.#  #
+       #.##.#.##.#.♣
+      ##..........♣
+      .......)##♣♣♣
+      .........#♣~♣♣~~
+      ########@...S~..
+             #.#♣.P~♣~
+             #.#  ♣♣♣
+             #o#
+             #.# #
+             #)#.###
+             #.)...#
+             #.###o#
+             ...
+            ≈≈S##
+           S≈≈≈.
+          ......
+
+
+You could see an electric eel and an orc priest.
+
+Vanquished Creatures
+  Pikel (D:4)
+  The ghost of Bokogi the Sneak, a novice FoBr of Dithmenos (D:5)
+  An orc warrior (D:6)
+  3 ogres
+  A black bear (D:5)
+  3 lemures
+  2 bullfrogs (D:6)
+  2 gnoll sergeants (D:5)
+  2 scorpions (D:4)
+  3 wights (D:5)
+  2 orc priests
+  A gnoll bouda (D:4)
+  3 hounds
+  2 jellies (D:5)
+  3 iguanas (D:5)
+  2 sleepcaps
+  An orc wizard (D:6)
+  12 gnolls (D:5)
+  9 adders
+  A shadow imp (D:6)
+  A white imp (D:5)
+  An ufetubus (D:5)
+  A worm (D:3)
+  3 dart slugs
+  17 orcs
+  7 bats
+  6 endoplasms
+  3 giant cockroaches
+  12 hobgoblins
+  5 jackals
+  2 quokkas
+  11 ball pythons
+  A frilled lizard (D:3)
+  7 goblins
+  10 kobolds
+  6 rats
+148 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:6)
+1 creature vanquished.
+
+Grand Total: 149 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   233 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   951 | D:1      | Reached skill level 4 in Earth Magic
+  1283 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/10
+  1287 | D:2      | Learned a level 3 spell: Stone Arrow
+  1379 | D:2      | Noticed an ogre
+  1661 | D:2      | Found a faded altar of an unknown god.
+  1671 | D:2      | Noticed a floating eye
+  1672 | D:2      | Noticed a shining eye
+  1672 | D:2      | Noticed a floating eye
+  1672 | D:2      | Noticed a golden eye
+  1680 | D:2      | Reached skill level 1 in Conjurations
+  1855 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/11
+  1971 | D:2      | Killed an ogre
+  1972 | D:2      | Reached skill level 5 in Earth Magic
+  1972 | D:2      | Reached XP level 5. HP: 28/28 MP: 6/13
+  2662 | D:3      | Found an opulent altar of Gozag.
+  3013 | D:4      | Reached XP level 6. HP: 32/32 MP: 12/15
+  3102 | D:4      | Reached skill level 5 in Spellcasting
+  3106 | D:4      | Reached skill level 6 in Earth Magic
+  3326 | D:4      | Reached XP level 7. HP: 36/36 MP: 12/17
+  3767 | D:4      | Noticed Pikel
+  3781 | D:4      | Killed Pikel
+  3782 | D:4      | Reached skill level 5 in Conjurations
+  3782 | D:4      | Reached skill level 7 in Earth Magic
+  3916 | D:4      | Found a stormy altar of Qazlal.
+  4008 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  4066 | D:5      | Entered Level 5 of the Dungeon
+  4088 | D:5      | Reached XP level 8. HP: 41/41 MP: 13/19
+  4391 | D:5      | Reached skill level 8 in Earth Magic
+  4392 | D:5      | Found a snail-covered altar of Cheibriados.
+  4569 | D:5      | Found Rujair's Antique Weapon Shoppe.
+  4746 | D:5      | Found an iron altar of Okawaru.
+  5083 | D:5      | Found a runed translucent door.
+  5083 | D:5      | Noticed Bokogi's ghost (novice FoBr)
+  5137 | D:5      | Killed Bokogi's ghost
+  5138 | D:5      | Reached skill level 9 in Earth Magic
+  5138 | D:5      | Reached XP level 9. HP: 45/45 MP: 14/22
+  5358 | D:6      | Found a staircase to the Ecumenical Temple.
+  5366 | Temple   | Entered the Ecumenical Temple
+  5417 | Temple   | Became a worshipper of Vehumet
+  5479 | D:6      | Killed from afar by an electric eel
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_stair_chambers, layout_loops_corners
+D:2:      layout_rooms, hellmonk_ecumenical_altar_watching_god,
+          corexii_hall_statues_s
+D:3:      layout_loops_ring, mainiacjoe_overflow_cross_hatched
+D:4:      layout_rooms, kiku_gazebo_garden_becter,
+          nicolae_qazlal_general_emergency, minmay_fractal_squares_diagonal_5,
+          uniq_pikel
+D:5:      layout_basic, kennysheep_slug_shrine, okawaru_altar_gauntlet_db,
+          ebering_ghost_reflecting_pool, serial_shops, nicolae_shop_trees
+D:6:      kennysheep_big_flooded_room, layout_loops_ring,
+          minmay_temple_entry_ruins, serial_bayou, serial_bayou_crossing,
+          serial_bayou_pond_d, serial_bayou_pond_d, serial_bayou_lagoon_a,
+          nicolae_wooded_promenade, uniq_duvessa
+Temple:   corrupted_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Earth Magic    |     4     5     6  7  9    |  9.4
+Conjurations   |        1  2  3  4  5  8    |  8.3
+Spellcasting   |           4     5  6  7  8 |  8.0
+Dodging        |                            |  2.5
+Stealth        |                            |  2.5
+Transmutations |                            |  1.2
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+   Cast: Sandblast         |    59 |    60 |    82 ||   201
+         Stone Arrow       |     3 |     4 |    23 ||    30
+    Use: Scroll            |     3 |     5 |     5 ||    13
+ Armour: Robe              |     5 |     9 |     9 ||    23
+  Dodge: Dodged            |    10 |    11 |    24 ||    45
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5583 |   5302 |    281 |    176 |   4148 |   7 |  797.6 |
+       Dungeon |   5515 |   5249 |    266 |    176 |   4114 |   6 |  919.2 |
+        Temple |     68 |     53 |     15 |      0 |     34 |   1 |   68.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1325 daAuts
+     D:5: 1183 daAuts
+     D:4: 1006 daAuts
+     D:3: 930 daAuts
+     D:2: 867 daAuts
+     D:6: 201 daAuts
+  Temple: 68 daAuts
+

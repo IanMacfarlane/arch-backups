@@ -1,0 +1,266 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 13073348187016775078
+
+420 Bokogi the Shooter (level 6, -6/53 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Shot with an arrow by a centaur (7 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:09:05 (3203 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 3203, Time: 00:09:06
+
+Health: -6/53      AC:  3    Str: 15      XL:     6   Next: 62%
+Magic:  5/5        EV: 13    Int:  6      God:    
+Gold:   54         SH:  0    Dex: 13 (16) Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.28/turn                (no ring)
+MPRegen 0.09/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 54 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ d - an amulet of magic regeneration
+ q - a ring of willpower
+Scrolls
+ b - a scroll of immolation
+ e - a scroll of butterflies
+ f - 2 scrolls of magic mapping
+ k - a scroll of poison
+ l - a scroll of blinking {unknown}
+ m - a scroll of torment {unknown}
+ n - a scroll of teleportation {unknown}
+Potions
+ g - a potion of might {unknown}
+ i - a potion of attraction {unknown}
+ j - a potion of flight {unknown}
+ o - a potion of curing {unknown}
+ p - a potion of ambrosia {unknown}
+
+
+   Skills:
+ + Level 4.6 Fighting
+ * Level 6.0 Ranged Weapons
+ + Level 4.1 Dodging
+ + Level 3.0 Stealth
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sublimation of Blood     Necr           0%         N/A       67%         2
+ Wereblood                Tmut           0%         N/A       67%         2
+ Ozocubu's Armour         Ice            0%         N/A       88%         3
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Summon Hydra             Summ           0%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ru
+
+Shops:
+D:1 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+A hobgoblin comes into view.
+A hobgoblin is nearby!
+You shoot an arrow. The arrow hits the hobgoblin!
+You kill the hobgoblin!
+Found 4 stones.
+A hound comes into view.
+You shoot an arrow. The arrow hits the hound.
+The hound barks!
+The hound is lightly wounded.
+You shoot an arrow. The arrow hits the hound.
+The hound is lightly wounded.
+You shoot an arrow. The arrow hits the hound!
+The hound is heavily wounded.
+A centaur comes into view.
+There are monsters nearby!
+You shoot an arrow. The arrow closely misses the hound.
+The centaur shouts!
+The centaur wields a +4 shortbow. The centaur shoots an arrow. The arrow hits
+you! The hound bites you.
+A black bear comes into view.
+The hound barely misses you.
+The centaur shoots an arrow. The arrow hits you!
+The hound bites you. The centaur shoots an arrow. The arrow hits you.
+The hound attacks as you move away! The hound bites you.
+The hound bites you.
+The hound bites you.
+The hound bites you but does no damage.
+The hound attacks as you move away! The hound closely misses you. You furiously
+retaliate!
+You headbutt the hound, but do no damage.
+The hound bites you.
+* * * LOW HITPOINT WARNING * * *
+The hound attacks as you move away! The hound barely misses you. You furiously
+retaliate! You headbutt the hound!
+You kill the hound!
+The centaur shoots an arrow. The arrow closely misses you.
+You feel your dexterity returning.
+Your Ranged Weapons skill increases to level 6!
+Your Stealth skill increases to level 3!
+The centaur shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The centaur shoots an arrow. The arrow hits you!
+You die...
+
+              #.#######.#  *,**
+             ##....#...##  *,,**
+             #.......###   **,,*
+             #.#....##      *,,**
+        ######.######       **,,*
+        #...........#        *,,*
+        #.####.####.#        **,,
+#       #.#.......#.#         *,<
+##      #.#.##.##.#.#         **,
+.#   ####.#.#...#.#.###        *,
+.#####........_.@.....#        **
+))##...##.#.#...#.#.#c##       *,
+#..#.####.#.##.##.#.#†.#      **.
+.....####.#.......#.##.#      *..
+.......##.####.####.##.#     *#..
+........#..,,,,,,,..#.c##   *#...
+.......####***,***####..#####....
+......## *,,,,,,*    ##...##.....
+.....##  **,,,,**     ###..†.....
+.....##   ***,****      ##.....(.
+......###   *,,,,***     #.......
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A black bear (D:2)
+  A quasit (D:4)
+  2 hounds (D:4)
+  An orc priest (D:4)
+  Terence (D:3)
+  Robin (D:3)
+  4 gnolls (D:2)
+  3 adders
+  A shadow imp (D:4)
+  3 worms (D:2)
+  2 dart slugs
+  3 orcs
+  6 ball pythons
+  4 endoplasms
+  2 giant cockroaches
+  12 goblins
+  8 hobgoblins
+  4 jackals (D:3)
+  7 kobolds
+  4 quokkas
+  8 bats
+  6 frilled lizards
+  4 rats
+88 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    78 | D:1      | Reached skill level 1 in Stealth
+    81 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+    89 | D:1      | You fall into a shaft and drop 1 floor!
+   436 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   689 | D:1      | Found Lesolywk's Assorted Antiques.
+  1230 | D:2      | Noticed a black bear
+  1237 | D:2      | Killed a black bear
+  1238 | D:2      | Reached skill level 5 in Ranged Weapons
+  1238 | D:2      | Reached XP level 4. HP: 13/40 MP: 3/3
+  1238 | D:2      | Reached XP level 5. HP: 14/46 MP: 4/4
+  1744 | D:3      | Noticed Robin
+  1760 | D:3      | Killed Robin
+  2338 | D:3      | Noticed Terence
+  2350 | D:3      | Killed Terence
+  2351 | D:3      | Reached XP level 6. HP: 27/52 MP: 5/5
+  3123 | D:4      | Found a sacrificial altar of Ru.
+  3200 | D:4      | Reached skill level 6 in Ranged Weapons
+  3202 | D:4      | HP: 1/53 [centaur/arrow (14)]
+  3203 | D:4      | Shot with an arrow by a centaur
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dreamdust_arrival_beginning_and_end, layout_loops_ring, serial_shops,
+          shop
+D:2:      layout_loops_corners
+D:3:      layout_loops_cross, minivault_14, uniq_terence, uniq_robin
+D:4:      layout_cave_pods, nicolae_ru_sacrificial_ziggurat, serial_demonic,
+          serial_demonic_d, serial_demonic_f, serial_demonic_g,
+          serial_demonic_f, serial_demonic_e, guppyfry_early_lair_pool
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Stealth        |  1     2        3 |  3.0
+Fighting       |     3        4    |  4.6
+Ranged Weapons |        5        6 |  6.0
+Dodging        |        3        4 |  4.1
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |    80 |   156 ||   236
+    Use: Scroll            |       |     3 ||     3
+ Armour: Leather armour    |     4 |    25 ||    29
+  Dodge: Dodged            |    19 |    97 ||   116
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3275 |   3065 |    210 |      0 |   2486 |   4 |  818.8 |
+       Dungeon |   3275 |   3065 |    210 |      0 |   2486 |   4 |  818.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1633 daAuts
+     D:3: 768 daAuts
+     D:1: 568 daAuts
+     D:4: 305 daAuts
+

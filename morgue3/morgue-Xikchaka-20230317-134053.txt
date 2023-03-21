@@ -1,0 +1,117 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5660898698130352597
+
+0 Xikchaka the Shield-Bearer (level 1, 18/18 HPs)
+             Began as a Formicid Fighter on Mar 17, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:05 (0 turns).
+
+Xikchaka the Shield-Bearer (Formicid Fighter)          Turns: 0, Time: 00:00:05
+
+Health: 18/18      AC:  6    Str: 20    XL:     1   Next: 0%
+Magic:  1/1        EV:  9    Int:  7    God:    
+Gold:   0          SH:  5    Dex: 13    Spells: 0/0 levels left
+
+rFire   . . .      SeeInvis +    a - +0 quarterstaff
+rCold   . . .      Faith    .    c - +0 buckler
+rNeg    . . .      Spirit   .    b - +0 scale mail
+rPois   .          Reflect  .    (helmet unavailable)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth                            (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.07/turn                (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, antennae 3, four strong arms
+a: Dig, Shaft Self
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 buckler (worn)
+Potions
+ d - a potion of might
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 2.0 Staves
+ + Level 3.2 Armour
+ + Level 4.0 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+You have a pair of large antennae on your head. (SInv)
+Your four strong arms can wield two-handed weapons with a shield.
+
+Message History
+
+Welcome, Xikchaka the Formicid Fighter.
+The fabled Orb of Zot lies far below, as if waiting for you to find it.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+You can't go down here!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#
+#.###
+#..@#
+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xikchaka the Formicid Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      elethiomel_arrival_maze, layout_basic, minmay_hedge_maze,
+          minmay_distorted
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+       Dungeon |      0 |      0 |      0 |      0 |      0 |   1 |    0.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+

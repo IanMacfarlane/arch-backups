@@ -1,0 +1,390 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 10454114850979809240
+
+GoodOmen the Geomancer (DEEE)                       Turns: 8639, Time: 00:23:04
+
+Health: 50/50      AC:  5    Str: 11    XL:     10   Next: 18%
+Magic:  25/25      EV: 17    Int: 25    God:    Vehumet [**....]
+Gold:   221        SH:  0    Dex: 15    Spells: 3/27 levels left
+
+rFire   . . .      SeeInvis .    o - staff of earth
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   +    y - +2 robe {Archmagi}
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    i - +0 cloak
+rCorr   .          Archmagi +    (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       v - amulet of guardian spirit
+HPRegen 0.28/turn                q - +5 ring of evasion
+MPRegen 0.19/turn                w - +6 ring of strength
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You are on level 8 of the Dungeon.
+You worship Vehumet.
+Vehumet is pleased with you.
+You have visited 2 branches of the dungeon, and seen 10 of its levels.
+
+You have collected 725 gold pieces.
+You have spent 504 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ g - a throwing net
+Armour
+ i - a +0 cloak (worn)
+ y - a +2 robe of the Archmagi (worn)
+Magical Staves
+ o - a staff of earth (weapon)
+Jewellery
+ q - a +5 ring of evasion (left hand)
+ v - an amulet of guardian spirit (around neck)
+ w - a +6 ring of strength (right hand)
+Wands
+ a - a wand of polymorph (3)
+ r - a wand of quicksilver (13)
+ s - a wand of iceblast (19)
+Scrolls
+ c - a scroll of identify
+ h - 5 scrolls of teleportation
+ j - a scroll of enchant armour
+ p - a scroll of fog
+Potions
+ b - a potion of magic
+ d - a potion of haste
+ f - a potion of heal wounds
+ k - 2 potions of might
+ l - a potion of berserk rage
+ m - 2 potions of curing
+ n - a potion of lignification
+ t - 2 potions of flight
+ B - 3 potions of attraction
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 9.3 Spellcasting
+ * Level 10.0 Conjurations
+ - Level 1.1 Transmutations
+ * Level 11.0 Earth Magic
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+c - Poisonous Vapours     Pois/Air       34%        N/A       8%          2
+d - Iskenderun's Battles  Conj           75%        2d12      2%          5
+e - Iron Shot             Conj/Erth      49%        9d9       11%         6
+f - Spellforged Servitor  Conj/Summ      26%        N/A       99%         7
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Kiss of Death            Conj/Necr      100%       2d13      1%          1
+ Passwall                 Tmut/Erth      63%        N/A       1%          2
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  34%        N/A       8%          2
+ Confusing Touch          Hex            17%        N/A       16%         3
+ Gell's Gravitas          Tloc           17%        N/A       16%         3
+ Inner Flame              Hex/Fire       17%        N/A       16%         3
+ Portal Projectile        Hex/Tloc       34%        N/A       16%         3
+ Teleport Other           Tloc           17%        N/A       16%         3
+ Tukima's Dance           Hex            17%        N/A       16%         3
+ Petrify                  Tmut/Erth      76%        N/A       4%          4
+ Cause Fear               Hex            8%         N/A       45%         4
+ Dispel Undead            Necr           17%        3d10      45%         4
+ Blade Hands              Tmut           12%        N/A       67%         5
+ Death Channel            Necr           8%         N/A       100%        6
+ Dispersal                Tloc           8%         N/A       100%        6
+ Discord                  Hex            8%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:6         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Cheibriados
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:3 *   D:6 *[*:
+
+Message History
+
+Your battlesphere fires!
+The barrage of energy hits the wight.
+You destroy the wight!
+Vehumet accepts your kill.
+Things that are here:
+a +0 scimitar; a +0 robe
+Things that are here:
+a +3 short sword; a +0 robe
+Your battlesphere wavers and loses cohesion.
+h - 5 scrolls of teleportation (gained 1)
+There is an open door here.
+There is an open door here.
+p - a scroll of fog
+s - a wand of iceblast (19) (gained 10 charges)
+There is an open door here.
+There is an open door, spattered with blood here.
+There is an open door here.
+Done exploring.
+Done exploring.
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+There is a stone staircase leading down here.
+Okay, then.
+Why would you want to do that?
+Unknown command.
+You drop 2 potions of degeneration.
+Okay, then.
+Okay, then.
+Okay, then.
+Unknown command.
+You climb downwards.
+Found a staff of earth. Found two stone staircases leading up.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+You see here 2 potions of degeneration.
+Saving game... please wait.
+
+......#....#......#......#
+......'....#......#......#
+......######......#......#
+#.........##.<....#......#
+#.........#.......#......#
+#......)..#.......#......#
+#.........#.......#......########
+#.........#.......#......'......#
+#.........#.......#......#..)...#
+#.........#....(..#......#......#
++.........#.......#......#......#
+#.........#########@.....#.##...#
+##+#...................###.##...#
+...#...................#......>.#
+...#...................#........#
+...'...................#........#
+####..<................#........#
+.......................#........#
+.......................######...#
+............................#####
+.........######.............#
+.........#....#.............#
+.........#....#.............#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Erica (D:8)
+  Maggie (D:6)
+  Psyche (D:8)
+  Grinder (D:4)
+  Sigmund (D:6)
+  A steam dragon (D:8)
+  A water moccasin (D:7)
+  2 black bears
+  An ice beast (D:7)
+  2 orc warriors
+  A sky beast (D:5)
+  A centaur (D:8)
+  A phantom (D:5)
+  3 kobold brigands (D:6)
+  2 gnoll sergeants
+  5 scorpions
+  9 wights (D:8)
+  5 killer bees (D:8)
+  2 howler monkeys (D:8)
+  3 hounds
+  2 gnoll boudas (D:6)
+  2 jellies
+  4 orc priests
+  Jessica (D:3)
+  Ijyb (D:3)
+  3 iguanas
+  An orc wizard (D:6)
+  18 gnolls
+  5 adders
+  A shadow imp (D:8)
+  2 white imps
+  4 worms
+  12 orcs
+  3 endoplasms
+  5 giant cockroaches
+  5 goblins
+  14 hobgoblins
+  4 jackals (D:1)
+  A quokka (D:2)
+  3 ball pythons
+  3 bats
+  A frilled lizard (D:1)
+  10 kobolds
+  3 rats
+152 creatures vanquished.
+
+Vanquished Creatures (others)
+  30 plants (D:6)
+30 creatures vanquished.
+
+Grand Total: 182 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   323 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   468 | D:1      | Reached skill level 4 in Earth Magic
+  1039 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/10
+  1091 | D:2      | Learned a level 3 spell: Stone Arrow
+  1947 | D:3      | Reached skill level 1 in Conjurations
+  1990 | D:3      | Found Biluod's Assorted Antiques.
+  2093 | D:3      | Noticed Ijyb
+  2104 | D:3      | Killed Ijyb
+  2105 | D:3      | Reached XP level 4. HP: 13/24 MP: 2/12
+  2483 | D:3      | Found a sacrificial altar of Ru.
+  2754 | D:3      | Found a hazy altar of Hepliaklqana.
+  2776 | D:3      | Noticed Jessica
+  2786 | D:3      | Killed Jessica
+  2787 | D:3      | Reached skill level 5 in Earth Magic
+  2891 | D:3      | Identified a scroll of acquirement
+  2921 | D:4      | Reached XP level 5. HP: 28/28 MP: 11/13
+  2971 | D:4      | Found a burning altar of Makhleb.
+  3132 | D:4      | You fall into a shaft and drop 1 floor!
+  3132 | D:5      | Entered Level 5 of the Dungeon
+  3143 | D:5      | Reached skill level 5 in Spellcasting
+  3143 | D:5      | Reached XP level 6. HP: 32/32 MP: 5/15
+  3240 | D:5      | Found a glowing golden altar of the Shining One.
+  3349 | D:4      | Noticed Grinder
+  3349 | D:4      | Paralysed by Grinder for 5 turns
+  3359 | D:4      | Paralysed by Grinder for 2 turns
+  3630 | D:4      | Identified the +4 dagger "Fihinkeh" {holy, Fragile rC++
+                  | Int+3}
+  3717 | D:3      | Acquired a staff of earth
+  3929 | D:4      | Killed Grinder
+  3930 | D:4      | Reached skill level 6 in Earth Magic
+  3930 | D:4      | Reached XP level 7. HP: 36/36 MP: 9/17
+  4423 | D:5      | Reached skill level 5 in Conjurations
+  4462 | D:5      | Found a bloodstained altar of Trog.
+  4468 | D:5      | Reached skill level 7 in Earth Magic
+  4885 | D:6      | Found Majes's General Store.
+  4902 | D:6      | Found a staircase to the Ecumenical Temple.
+  4931 | Temple   | Entered the Ecumenical Temple
+  5128 | Temple   | Became a worshipper of Vehumet
+  5170 | D:6      | Reached XP level 8. HP: 41/41 MP: 9/19
+  5453 | D:6      | Found Ikiustra's Book Shoppe.
+  5453 | D:6      | Found Zoutuch's General Store.
+  5500 | D:6      | Noticed Maggie
+  5511 | D:6      | Killed Maggie
+  5512 | D:6      | Reached skill level 8 in Earth Magic
+  5633 | D:6      | Found Enwaobb's Armour Shop.
+  5642 | D:6      | Noticed Sigmund
+  5895 | D:6      | Reached * piety under Vehumet
+  5895 | D:6      | Offered knowledge of Magic Dart by Vehumet.
+  6001 | D:6      | Reached skill level 9 in Earth Magic
+  6001 | D:6      | Reached XP level 9. HP: 44/45 MP: 14/22
+  6345 | D:6      | Killed Sigmund
+  6855 | D:7      | Offered knowledge of Poisonous Vapours by Vehumet.
+  7074 | D:7      | Reached ** piety under Vehumet
+  7078 | D:7      | Learned a level 2 spell: Poisonous Vapours
+  7131 | D:7      | Found a blossoming altar of Fedhas.
+  7411 | D:6      | Bought a book of Power for 504 gold pieces
+  7502 | D:7      | Learned a level 5 spell: Iskenderun's Battlesphere
+  7509 | D:7      | Learned a level 6 spell: Iron Shot
+  7517 | D:7      | Learned a level 7 spell: Spellforged Servitor
+  7563 | D:8      | Reached skill level 10 in Earth Magic
+  7654 | D:8      | Found a hide-covered altar of Uskayaw.
+  7723 | D:8      | Noticed Erica
+  7729 | D:8      | Killed Erica
+  7921 | D:8      | Reached XP level 10. HP: 45/50 MP: 7/25
+  8242 | D:8      | Found a basalt altar of Yredelemnul.
+  8243 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  8371 | D:8      | Noticed Psyche
+  8376 | D:8      | Killed Psyche
+  8377 | D:8      | Reached skill level 10 in Conjurations
+  8377 | D:8      | Reached skill level 11 in Earth Magic
+
+Illustrated notes
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Earth Magic    |     4     5     6  7  9 10 11 | 11.0
+Conjurations   |        1  2  3  4  5  7  9 10 | 10.0
+Spellcasting   |        4     5     6  7  9    |  9.3
+Dodging        |                               |  2.4
+Stealth        |                               |  2.4
+Transmutations |                               |  1.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Long sword        |       |    20 |       |       ||    20
+         Staff             |       |       |     2 |       ||     2
+   Cast: Sandblast         |    61 |    27 |    64 |     2 ||   154
+         Stone Arrow       |       |     4 |    60 |    14 ||    78
+         Iskenderun's Batt |       |       |     3 |     3 ||     6
+         Poisonous Vapours |       |       |     2 |     1 ||     3
+    Use: Potion            |       |     9 |     2 |       ||    11
+         Scroll            |       |     9 |     5 |       ||    14
+   Stab: Sleeping          |       |     1 |       |       ||     1
+ Armour: Robe              |     5 |     3 |     6 |       ||    14
+  Dodge: Dodged            |    22 |    27 |    35 |     2 ||    86
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   8705 |   8130 |    575 |     37 |   6819 |  10 |  870.5 |
+       Dungeon |   8481 |   7931 |    550 |     37 |   6649 |   9 |  942.3 |
+        Temple |    223 |    198 |     25 |      0 |    170 |   1 |  223.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:6: 1494 daAuts
+     D:3: 1268 daAuts
+     D:8: 1123 daAuts
+     D:2: 1121 daAuts
+     D:4: 952 daAuts
+     D:7: 930 daAuts
+     D:5: 863 daAuts
+     D:1: 726 daAuts
+  Temple: 223 daAuts
+     D:9: 1 daAuts
+

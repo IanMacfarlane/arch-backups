@@ -1,0 +1,218 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 11181796815873016966
+
+15 Bokogi the Magician (level 2, 0/21 HPs)
+             Began as a Djinni Fire Elementalist on Mar 13, 2023.
+             Killed from afar by a dart slug (2 damage)
+             ... with a slug dart
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:59 (509 turns).
+
+Bokogi the Magician (Djinni Fire Elementalist)       Turns: 509, Time: 00:02:59
+
+Health: 0/21       AC:  3    Str:  7    XL:     2   Next: 65%
+Gold:   41         EV: 12    Int: 19    God:    
+                   SH:  0    Dex: 13
+
+rFire   + + .      SeeInvis .    g - +0 dagger
+rCold   x . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   ?           Reflect  .    b - +0 helmet {Int+3}
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (boots unavailable)
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.00/turn                (no ring)
+
+@: flying
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 41 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ b - a +0 helmet of intelligence (worn)
+Scrolls
+ c - a scroll of enchant weapon {unknown}
+ f - a scroll of teleportation {unknown}
+Potions
+ d - a potion of brilliance {unknown}
+ e - a potion of lignification {unknown}
+
+
+   Skills:
+ + Level 2.3 Dodging
+ + Level 1.6 Stealth
+ + Level 2.9 Spellcasting
+
+
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      52%        2x1d6     4%          1
+b - Scorch                Fire           26%        2d6       7%          2
+c - Kindle Blastsparks    Fire/Tloc/Air  26%        2d12      14%         3
+d - Inner Flame           Hex/Fire       13%        N/A       14%         3
+e - Flame Wave            Conj/Fire      13%        2d6       41%         4
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+Casting: Foxfire (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You miscast Foxfire.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+The dart slug launches a dart at you.
+The slug dart hits you. The adder bites you.
+The adder attacks as you move away! The adder bites you.
+The adder attacks as you move away! The adder barely misses you.
+The adder closely misses you.
+Casting: Foxfire (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the adder.
+The adder is almost dead.
+The adder's fire resistance burns away. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+Casting: Scorch (safe; 7% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You miscast Scorch. Nothing appears to happen.
+* * * LOW HITPOINT WARNING * * *
+The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The adder attacks as you move away! The adder closely misses you.
+The adder barely misses you.
+The adder is no longer more vulnerable to fire.
+A bat comes into view.
+The adder attacks as you move away! The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+Found a book of Winter. The bat barely misses you. The adder closely misses
+you.
+The bat barely misses you. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+An endoplasm comes into view.
+Found a robe. The adder barely misses you.
+The adder attacks as you move away! The adder bites you but does no damage.
+Your magical contamination has completely faded away.
+Found 8 stones.
+The bat barely misses you.
+The dart slug launches a dart at you.
+The slug dart hits you.
+You die...
+
+        #.......###
+        #.........
+        #.........
+        #........
+       .#.......# #+#
+       ([.......##..#
+         #......#..###
+         #...b@......#
+         #...S....##.#
+         ####.....#
+            #.#...#
+            #.#.###
+            #w..#
+##########  #...#
+.........####.#.#
+..(......#....#.#
+..........w##+#.:
+..........##  ....
+..........#   J....
+
+
+You could see an adder, a dart slug and a bat.
+
+Vanquished Creatures
+  2 dart slugs (D:1)
+  2 giant cockroaches (D:1)
+  2 ball pythons (D:1)
+  3 bats (D:1)
+  2 frilled lizards (D:1)
+  2 rats
+13 creatures vanquished.
+
+Vanquished Creatures (others)
+  29 foxfires
+29 creatures vanquished.
+
+Grand Total: 42 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Djinni Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Bokogi set off with the following spells memorised:
+                  | Foxfire, Scorch, Kindle Blastsparks, Inner Flame, Flame
+                  | Wave.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+   162 | D:1      | Reached XP level 2. HP: 19/21 MP: 0/0
+   457 | D:1      | You are sucked into a shaft and drop 1 floor!
+   504 | D:2      | HP: 1/21 [adder (2)]
+   509 | D:2      | Killed from afar by a dart slug
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_oval, layout_rooms, kennysheep_decorative_pillar,
+          minmay_strange_pillars
+D:2:      layout_basic
+
+Action                     || total
+---------------------------++-------
+   Cast: Foxfire           ||    16
+         Scorch            ||     5
+ Armour: Robe              ||     5
+  Dodge: Dodged            ||    15
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    508 |    508 |      0 |      0 |    383 |   2 |  254.0 |
+       Dungeon |    508 |    508 |      0 |      0 |    383 |   2 |  254.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 457 daAuts
+     D:2: 51 daAuts
+

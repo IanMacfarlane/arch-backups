@@ -1,0 +1,566 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 12670992281906127122
+
+19672 Bokogi the Skirmisher (level 12, -8/106 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Was a High Priest of Okawaru.
+             Mangled by a shadow (27 damage)
+             ... created by the darkness of Dithmenos
+             ... on level 1 of the Lair of Beasts.
+             The game lasted 01:12:53 (12259 turns).
+
+Bokogi the Skirmisher (Minotaur Hunter)            Turns: 12259, Time: 01:12:53
+
+Health: -8/106     AC: 11    Str: 16    XL:     12   Next: 38%
+Magic:  10/14      EV: 20    Int:  2    God:    Okawaru [*****.]
+Gold:   1022       SH:  5    Dex: 23    Spells: 11/11 levels left
+
+rFire   + . .      SeeInvis .    x - +5 triple xbow {elec, rPois Int-4 Dex+4}
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    C - +0 troll leather armour
+rPois   +          Reflect  +    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        E - +1 pair of gloves
+Will    .....                    H - +0 pair of boots
+Stlth   ++++                     t - amulet of reflection
+HPRegen 1.17/turn                J - +4 ring of protection
+MPRegen 0.14/turn                s - ring of protection from fire
+
+@: about to teleport, finesse-ful, slowed, very slow
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Heroism, Finesse, Duel
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You visited 4 branches of the dungeon, and saw 15 of its levels.
+
+You collected 1094 gold pieces.
+You spent 72 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ i - the +3 long sword of the Spectre {holy, rF+ Str+3 Int+3}
+   (You found it on level 9 of the Dungeon)   
+   
+   Str:       It affects your strength (+3).
+   Int:       It affects your intelligence (+3).
+   rF:        It protects you from fire.
+ x - the +5 triple crossbow of Carved Tortfeasance (weapon) {elec, rPois Int-4 Dex+4}
+   (You found it on level 4 of the Dungeon)   
+   
+   Int:       It affects your intelligence (-4).
+   Dex:       It affects your dexterity (+4).
+   rPois:     It protects you from poison.
+ z - the +2 hammer of Sequestration {pain, Fragile +Blink rPois Will+++}
+   (You found it on level 4 of the Dungeon)   
+   
+   rPois:     It protects you from poison.
+   +Blink:    It lets you blink.
+   Fragile:   It will be destroyed if unequipped.
+   Will:      It greatly increases your willpower.
+ K - a +2 heavy longbow
+Armour
+ o - a +0 leather armour
+ C - a +0 troll leather armour (worn)
+ E - a +1 pair of gloves (worn)
+ H - a +0 pair of boots (worn)
+ I - +0 steam dragon scales
+Jewellery
+ d - an amulet of the acrobat
+ f - an amulet of regeneration
+ n - a ring of wizardry
+ r - a ring of fire
+ s - a ring of protection from fire (right hand)
+ t - an amulet of reflection (around neck)
+ w - a ring of fire
+ y - a ring of positive energy
+ J - a +4 ring of protection (left hand)
+ N - the ring "Ibatekeg" {Fire Str+4 Stlth-}
+   (You found it on level 11 of the Dungeon)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   Str:       It affects your strength (+4).
+   rF:        It protects you from fire.
+   rC:        It makes you vulnerable to cold.
+   Stlth:     It makes you less stealthy.
+Wands
+ e - a wand of flame (12)
+ m - a wand of digging (4)
+ v - a wand of polymorph (8)
+Scrolls
+ b - a scroll of immolation
+ c - 3 scrolls of amnesia
+ g - 3 scrolls of teleportation
+ l - 3 scrolls of poison
+ p - 2 scrolls of magic mapping
+ A - a scroll of brand weapon
+ B - 2 scrolls of enchant weapon
+ F - 2 scrolls of fog
+ O - a scroll of butterflies
+Potions
+ a - 5 potions of magic
+ h - 10 potions of curing
+ j - 2 potions of brilliance
+ k - 5 potions of flight
+ u - a potion of might
+ G - 2 potions of ambrosia
+ L - a potion of cancellation
+ M - a potion of berserk rage {unknown}
+
+
+   Skills:
+ - Level 10.0 Fighting
+ * Level 14.8 Ranged Weapons
+ + Level 10.1 Dodging
+ + Level 8.6 Stealth
+ + Level 5.2 Invocations
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Necrotise                Necr           0%         1d4       63%         1
+ Sandblast                Erth           0%         2d4       63%         1
+ Blink                    Tloc           0%         N/A       77%         2
+ Lesser Beckoning         Tloc           0%         N/A       77%         2
+ Momentum Strike          Conj/Tloc      0%         3d8       77%         2
+ Passwall                 Tmut/Erth      0%         N/A       77%         2
+ Static Discharge         Conj/Air       0%         2-2/arc   77%         2
+ Stone Arrow              Conj/Erth      0%         3d7       94%         3
+ Vampiric Draining        Necr           0%         2d6       94%         3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       94%         3
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+ Agony                    Necr           0%         N/A       100%        5
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+ Eringya's Noxious Bog    Tmut/Pois      0%         N/A       100%        6
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Ignition                 Fire           0%         3d3       100%        8
+ Polar Vortex             Ice            0%         N/A       100%        9
+ Summon Forest            Summ/Tloc      Unusable   N/A       N/A         5
+ Simulacrum               Ice/Necr       Unusable   N/A       N/A         6
+ Summon Hydra             Summ           Unusable   N/A       N/A         7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:7            Lair (1/5) D:11        
+    Orc (2/2) D:9         
+   Elf: Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:2 (*[   D:4 :   Orc:1 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The shadow flickers and vanishes! You block the shadow's attack. The shadow
+demon misses you.
+You furiously retaliate! You headbutt the shadow demon!
+You shoot a bolt. The bolt hits the shadow demon!!
+The shadow demon is almost dead.
+The shadow hits you. The shadow closely misses you. You furiously retaliate!
+You headbutt the shadow!
+The shadow strikes at you from the darkness!
+Reactivating autopickup.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The shadow demon hits you but does no damage.
+The shadow strikes at you from the darkness!
+Reactivating autopickup.
+You shoot a bolt.
+The bolt closely misses the shadow demon.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The shadow barely misses you.
+The shadow slips into darkness.
+The shadow flickers and vanishes! The shadow hits you!
+The shadow strikes at you from the darkness!
+Reactivating autopickup.
+The shadow demon hits you!
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+The shadow strikes at you from the darkness!
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The shadow strikes at you from the darkness!
+* * * LOW HITPOINT WARNING * * *
+Reactivating autopickup.
+The shadow slips into darkness.
+The shadow flickers and vanishes!
+Deactivating autopickup; reactivate with Ctrl-A.
+The shadow misses you. You block the shadow demon's attack.
+The shadow strikes at you from the darkness!
+You die...
+
+  ........................
+  .........[...........#.#
+  ................#...#..#
+  #.#......#..............
+  ........................
+   .......................
+    .......#..............
+    #>...  #..............
+    #....  ###............
+     ...######........P...
+.######{P#.#..........~~P~
+.....FW@{.............~~~~
+......2WW..........##.~~~P
+.......S..............~~~P
+######................~PPP
+     ##..##P.........7~PP~
+      #######......#77~P~~
+            ####..## 77P~~
+               ####   7P~~
+                      77~~
+                       7~~
+                       77~
+                        77
+
+
+You could see a shadow demon, a water moccasin (summoned), 3 shadows and a
+bullfrog (summoned).
+
+Vanquished Creatures
+  Snorg (D:11)
+  A hydra (D:11)
+  A two-headed ogre (D:9)
+  3 centaur warriors (D:11)
+  3 death yaks (D:11)
+  A deep troll earth mage (D:11)
+  Nergalle (D:10)
+  An orc knight (D:9)
+  Pikel (D:4)
+  An ugly thing (D:11)
+  2 cyclopes (D:11)
+  2 cane toads (Lair:1)
+  An unseen horror (D:11)
+  A rime drake (Lair:1)
+  Maggie (D:8)
+  2 komodo dragons
+  2 trolls
+  Grinder (D:5)
+  A culicivora (shapeshifter) (D:11)
+  Sigmund (D:2)
+  2 shadows
+  A vampire (D:10)
+  2 wyverns (D:9)
+  16 yaks
+  A basilisk (D:11)
+  4 vampire mosquitoes (D:10)
+  A warg (Orc:1)
+  Duvessa (D:6)
+  3 water moccasins
+  An ice beast (D:6)
+  6 orc warriors
+  A sky beast (D:6)
+  6 ogres
+  5 black bears
+  3 wolves (Lair:1)
+  A centaur (D:7)
+  2 phantoms
+  2 kobold brigands
+  2 bullfrogs
+  2 gnoll sergeants
+  4 scorpions
+  Dowan (D:6)
+  3 killer bees (D:9)
+  4 howler monkeys
+  4 hounds
+  11 orc priests
+  Crazy Yiuf (D:4)
+  A sleepcap (D:8)
+  10 orc wizards
+  3 iguanas
+  5 adders
+  8 gnolls
+  2 shadow imps
+  A white imp (D:8)
+  4 worms
+  3 dart slugs
+  55 orcs
+  2 bats
+  6 endoplasms
+  2 giant cockroaches
+  5 goblins
+  7 hobgoblins
+  19 kobolds
+  3 quokkas
+  4 ball pythons
+  2 frilled lizards
+  4 rats
+264 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (Lair:1)
+1 creature vanquished.
+
+Grand Total: 265 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+   251 | D:1      | Reached skill level 1 in Stealth
+   262 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   862 | D:2      | Noticed Sigmund
+  1212 | D:2      | Found Vontat's Assorted Antiques.
+  1499 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1563 | D:2      | Found Josiyn's Weapon Shoppe.
+  1712 | D:2      | Found Banypt's Armour Shoppe.
+  1829 | D:3      | Identified the +5 sling "Pendulum" {speed, rF+ Int+3}
+  2017 | D:3      | Noticed an ogre
+  2024 | D:3      | Killed an ogre
+  2025 | D:3      | Reached skill level 5 in Ranged Weapons
+  2025 | D:3      | Reached XP level 4. HP: 23/39 MP: 3/3
+  2168 | D:3      | Reached XP level 5. HP: 32/46 MP: 4/4
+  2805 | D:4      | Found Quvieg Fyexu's Tremendous Tomes.
+  2873 | D:4      | Identified the +5 triple crossbow of Carved Tortfeasance
+                  | {elec, rPois Int-4 Dex+4}
+  2907 | D:4      | Noticed a black bear
+  2915 | D:4      | Killed a black bear
+  3035 | D:2      | Killed Sigmund
+  3036 | D:2      | Reached skill level 6 in Ranged Weapons
+  3036 | D:2      | Reached XP level 6. HP: 47/53 MP: 5/5
+  3487 | D:4      | Found a shimmering altar of Xom.
+  3553 | D:4      | Noticed Pikel
+  3557 | D:4      | Killed Pikel
+  3558 | D:4      | Reached skill level 5 in Fighting
+  3558 | D:4      | Reached skill level 7 in Ranged Weapons
+  3558 | D:4      | Reached XP level 7. HP: 56/61 MP: 6/6
+  3629 | D:4      | Noticed a moth of wrath
+  3634 | D:4      | Found a bloodstained altar of Trog.
+  3775 | D:4      | Found a runed translucent door.
+  3776 | D:4      | Noticed Crazy Yiuf
+  3777 | D:4      | Identified the +2 hammer of Sequestration {pain, Fragile
+                  | +Blink rPois Will+++}
+  3784 | D:4      | Killed Crazy Yiuf
+  3980 | D:5      | Entered Level 5 of the Dungeon
+  4067 | D:5      | Reached XP level 8. HP: 69/69 MP: 7/7
+  4199 | D:5      | Reached skill level 5 in Dodging
+  4205 | D:5      | Reached skill level 8 in Ranged Weapons
+  4375 | D:5      | Found an ornate altar of the Wu Jian Council.
+  4703 | D:5      | Noticed Grinder
+  4784 | D:5      | Killed Grinder
+  4926 | D:5      | Found a shadowy altar of Dithmenos.
+  4941 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  4959 | D:5      | Became a worshipper of Dithmenos the Shadowed
+  5031 | D:6      | Noticed Duvessa
+  5032 | D:6      | Noticed Dowan
+  5033 | D:6      | Killed Duvessa
+  5034 | D:6      | Killed Dowan
+  5072 | D:6      | Reached skill level 9 in Ranged Weapons
+  5300 | D:6      | Reached XP level 9. HP: 74/78 MP: 8/8
+  5589 | D:6      | Reached * piety under Dithmenos
+  5604 | D:6      | Reached skill level 5 in Stealth
+  5662 | D:6      | Found the +7 staff of the Meek {protect, meekguard}
+  5995 | D:7      | You fall into a shaft and drop 3 floors!
+  5995 | D:10     | Entered Level 10 of the Dungeon
+  6025 | D:9      | Noticed a two-headed ogre
+  6030 | D:9      | Found a stormy altar of Qazlal.
+  6036 | D:9      | Reached skill level 10 in Ranged Weapons
+  6036 | D:9      | Noticed a troll
+  6041 | D:9      | Killed a troll
+  6514 | D:7      | Found a staircase to the Ecumenical Temple.
+  6526 | Temple   | Entered the Ecumenical Temple
+  6807 | D:7      | Reached ** piety under Dithmenos
+  6957 | D:7      | Found a glowing golden altar of the Shining One.
+  7229 | D:8      | Reached XP level 10. HP: 85/88 MP: 9/9
+  7246 | D:8      | Noticed a +0 short sword
+  7246 | D:8      | Noticed a +0 falchion
+  7247 | D:8      | Noticed a +0 spear
+  7248 | D:8      | Noticed a +0 dagger
+  7248 | D:8      | Noticed a +0 dagger
+  7248 | D:8      | Noticed a +0 spear
+  7249 | D:8      | Noticed a +0 short sword
+  7250 | D:8      | Noticed a +0 falchion
+  7274 | D:8      | Found a hide-covered altar of Uskayaw.
+  7627 | D:8      | Found a snail-covered altar of Cheibriados.
+  7737 | D:8      | Noticed Maggie
+  7742 | D:8      | Killed Maggie
+  7743 | D:8      | Reached skill level 11 in Ranged Weapons
+  7772 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  8078 | D:9      | Killed a two-headed ogre
+  8112 | D:9      | Found a staircase to the Orcish Mines.
+  8113 | D:9      | Identified the +3 long sword of the Spectre {holy, rF+
+                  | Str+3 Int+3}
+  8629 | D:10     | Noticed Nergalle
+  8644 | D:10     | Killed Nergalle
+  8645 | D:10     | Reached skill level 12 in Ranged Weapons
+  8645 | D:10     | Reached skill level 1 in Invocations
+  8979 | D:10     | Reached XP level 11. HP: 69/97 MP: 11/11
+  9087 | D:10     | Reached *** piety under Dithmenos
+  9758 | Temple   | Fell from the grace of Dithmenos
+  9758 | Temple   | Became a worshipper of Warmaster Okawaru
+  9826 | Orc:1    | Entered Level 1 of the Orcish Mines
+  9826 | Orc:1    | Noticed an orc knight
+  9836 | D:9      | Killed an orc knight
+ 10022 | Orc:1    | Reached * piety under Okawaru
+ 10102 | Orc:1    | Found Soemekk's Assorted Antiques.
+ 10195 | Orc:1    | Bought a scroll of identify for 72 gold pieces
+ 10210 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 10287 | Orc:2    | Noticed a Tzitzimitl
+ 10287 | Orc:2    | Noticed a shadow demon
+ 10402 | D:11     | Noticed a death yak
+ 10402 | D:11     | Found a staircase to the Lair.
+ 10406 | D:11     | Noticed a death yak
+ 10562 | D:11     | Noticed Snorg
+ 10569 | D:11     | Killed Snorg
+ 10569 | D:11     | Reached ** piety under Okawaru
+ 10570 | D:11     | Reached skill level 13 in Ranged Weapons
+ 10667 | D:11     | Noticed a green ugly thing
+ 10669 | D:11     | Killed a green ugly thing
+ 10851 | D:11     | Reached skill level 10 in Fighting
+ 10856 | D:11     | Noticed a death yak
+ 10857 | D:11     | Killed a death yak
+ 10869 | D:11     | Killed a death yak
+ 10869 | D:11     | Reached *** piety under Okawaru
+ 10871 | D:11     | Killed a death yak
+ 11066 | D:11     | Noticed a six-headed hydra
+ 11066 | D:11     | Noticed a deep troll earth mage
+ 11185 | D:11     | Noticed a centaur warrior
+ 11186 | D:11     | Killed a deep troll earth mage
+ 11190 | D:11     | Killed a centaur warrior
+ 11190 | D:11     | Reached **** piety under Okawaru
+ 11293 | D:11     | Killed a six-headed hydra
+ 11294 | D:11     | Reached skill level 14 in Ranged Weapons
+ 11294 | D:11     | Reached XP level 12. HP: 106/106 MP: 14/14
+ 11325 | D:11     | Identified the ring "Ibatekeg" {Fire Str+4 Stlth-}
+ 11330 | D:11     | Noticed a centaur warrior
+ 11338 | D:11     | Killed a centaur warrior
+ 11467 | D:11     | Reached skill level 10 in Dodging
+ 11467 | D:11     | Reached skill level 5 in Invocations
+ 11649 | D:11     | Noticed a centaur warrior
+ 11653 | D:11     | Killed a centaur warrior
+ 11653 | D:11     | Reached ***** piety under Okawaru
+ 11752 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 11865 | Lair:1   | Received a gift from Okawaru
+ 12259 | Lair:1   | Mangled by a shadow
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      noname_arrival_rooms_in_the_neighbourhood, layout_basic
+D:2:      layout_loops_ring, serial_shops, shop, shop,
+          nicolae_shop_temple_entry_statues_fountains, uniq_sigmund
+D:3:      minmay_diamond_boxcup, layout_basic
+D:4:      layout_loops_corners, mainiacjoe_overflow_cross_hatched, tgw_trog,
+          nicolae_shop_i_like_big_books, uniq_crazy_yiuf_cottage, uniq_pikel
+D:5:      layout_loops_ring, nzn_wu_jian_contemplation,
+          mainiacjoe_overflow_swirl, supply_closet_lemuel, uniq_grinder
+D:6:      layout_loops_cross, pf_guarded_unrand_meek, uniq_duvessa
+D:7:      layout_basic, tso_oasis_becter, minmay_temple_entry_tees
+D:8:      layout_basic, nicolae_uskayaw_en_pointe, cheibrodos_worm_habitat,
+          nemelex_diamond_rough_becter, chequers_arboretum,
+          corexii_leaking_fountain, uniq_maggie
+D:9:      layout_loops_ring, nicolae_qazlal_general_emergency, orc_0_dummy
+D:10:     layout_basic, uniq_nergalle
+D:11:     layout_basic, dpeg_lair_monsters, minmay_statues_item,
+          minmay_evil_grid, uniq_snorg
+Temple:   hellmonk_temple_flake
+Lair:1:   layout_gridlike, serial_bayou_shore_a
+Orc:1:    layout_caves, serial_shops, nicolae_shop_behind_doors
+Orc:2:    st_orc_rangers, layout_caves
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Stealth        |  1     2        3     4  5  6  8    |  8.6
+Fighting       |     3        4  5     6  8  9 10    | 10.0
+Ranged Weapons |        5     6  7     9 10 12 14    | 14.8
+Dodging        |        3        4     6  7  8  9 10 | 10.1
+Invocations    |                             2  4  5 |  5.2
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Triple crossbow   |       |       |       |     1 ||     1
+   Fire: Shortbow          |    73 |    60 |       |       ||   133
+         Triple crossbow   |       |     6 |   154 |   283 ||   443
+ Invoke: Heroism           |       |       |       |     1 ||     1
+         Finesse           |       |       |       |     1 ||     1
+    Use: Scroll            |     3 |     2 |     9 |    18 ||    32
+         Potion            |     1 |     1 |     3 |     2 ||     7
+ Armour: Ring mail         |     6 |       |       |       ||     6
+         Leather armour    |     1 |     9 |     6 |     2 ||    18
+         Troll leather arm |       |       |       |    44 ||    44
+         Steam dragon scal |       |       |       |     1 ||     1
+  Dodge: Dodged            |    24 |    40 |    70 |   158 ||   292
+  Block: Other             |       |     7 |    29 |    54 ||    90
+         Reflection        |       |       |     4 |     4 ||     8
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  12658 |  11373 |   1285 |      0 |   8221 |  15 |  843.9 |
+       Dungeon |  11391 |  10202 |   1189 |      0 |   7381 |  11 | 1035.5 |
+        Temple |    180 |    155 |     25 |      0 |    130 |   1 |  180.0 |
+          Lair |    540 |    540 |      0 |      0 |    434 |   1 |  540.0 |
+  Orcish Mines |    545 |    476 |     69 |      0 |    276 |   2 |  272.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+    D:11: 1380 daAuts
+    D:10: 1131 daAuts
+     D:4: 1097 daAuts
+     D:9: 1086 daAuts
+     D:5: 1082 daAuts
+     D:6: 1030 daAuts
+     D:2: 1026 daAuts
+     D:3: 989 daAuts
+     D:1: 924 daAuts
+     D:7: 859 daAuts
+     D:8: 783 daAuts
+  Lair:1: 540 daAuts
+   Orc:1: 460 daAuts
+  Temple: 180 daAuts
+   Orc:2: 85 daAuts
+

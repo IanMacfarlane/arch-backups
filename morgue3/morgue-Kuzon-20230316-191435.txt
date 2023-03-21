@@ -1,0 +1,260 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 1277825289536693745
+
+194 Kuzon the Firebug (level 5, -2/28 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Slain by an iron imp (8 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:21 (3447 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 3447, Time: 00:07:22
+
+Health: -2/28      AC:  2    Str:  5    XL:     5   Next: 44%
+Magic:  8/13       EV: 12    Int: 22    God:    
+Gold:   146        SH:  0    Dex: 15    Spells: 9/12 levels left
+
+rFire   . . .      SeeInvis .    d - +0 short sword
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    l - +0 robe {Will+}
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                (no ring)
+MPRegen 0.13/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 146 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 short sword (weapon)
+Armour
+ l - a +0 robe of willpower (worn)
+Scrolls
+ a - a scroll of torment
+ c - 2 scrolls of teleportation
+ e - a scroll of poison
+ f - a scroll of fear
+ g - 2 scrolls of brand weapon {unknown}
+ j - a scroll of blinking {unknown}
+ n - a scroll of vulnerability {unknown}
+Potions
+ b - 2 potions of magic
+ h - 2 potions of heal wounds {unknown}
+ i - 2 potions of curing {unknown}
+ k - a potion of ambrosia {unknown}
+ m - a potion of mutation {unknown}
+ o - a potion of brilliance {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 4.3 Spellcasting
+ * Level 3.8 Conjurations
+ * Level 5.0 Fire Magic
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      96%        2x1d8     1%          1
+b - Scorch                Fire           52%        2d8       2%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       15%        N/A       12%         3
+ Kindle Blastsparks       Fire/Tloc/Air  24%        2d12      17%         3
+ Flame Wave               Conj/Fire      24%        2d8       17%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Makhleb
+
+Annotations:
+D:3 Sigmund
+
+Message History
+
+You conjure some foxfire!
+The foxfire hits the iron imp but does no damage.
+The foxfire hits the iron imp. The iron imp completely resists.
+You conjure some foxfire! The foxfire hits the iron imp. The iron imp
+completely resists.
+Your foxfire dissipates!
+You are out of magic!
+Your foxfire dissipates!
+An iron imp is nearby!
+Your foxfire dissipates!
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: an iron imp
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: an iron imp
+The floor.
+Okay, then.
+Okay, then.
+Really read the scroll of poison? You can't even see any enemies this would
+affect. 
+Okay, then.
+You barely miss the iron imp.
+You barely miss the iron imp. The iron imp barely misses you.
+You hit the iron imp.
+The iron imp is moderately wounded.
+The iron imp hits you!
+You closely miss the iron imp.
+The iron imp is moderately wounded.
+The iron imp hits you!
+You closely miss the iron imp.
+You punch the iron imp, but do no damage.
+The iron imp is moderately wounded.
+The iron imp hits you.
+* * * LOW HITPOINT WARNING * * *
+You hit the iron imp.
+The iron imp is moderately wounded.
+You barely miss the iron imp.
+The iron imp is moderately wounded.
+The iron imp hits you!
+You die...
+
+         #.≈≈.......≈≈.##.##.##.#
+         #..≈≈.....≈≈..##.##.##.#
+         #...≈≈≈.§≈≈...##.##.##.#
+         #...5≈≈8≈≈....##.##.##.#
+         #......≈......#.....##.#
+         #.............##.#####.#
+         #.............##.#   #.#
+         #.....).......##.#####.#
+         #.............#........#
+  ####   #.##.....#5###.#.#######
+  #..#####.##.....#5# #.#.#
+  #........##.....#@# #.#.#
+  #.#########.....#.# #.#.######
+###.##...........##.# #.#......#
+##..##.#########.<#.# #.#..###.#
+...###.# #.....#..#.# #.#..# #.#
+.>## #.# #.###.#^.#.# #.#).# #.#
+###  #.###.#.#.#..#.###.#).# #.#
+     #.....#...#..#.#......# #.#
+########...#.###..#.#.#.##.# #.#
+..................#.#.#.##.# #.#
+######...#.#.####.#.#.#.##.# #.#
+     #.....#.#......#.#.##.# #.#
+
+
+You could see 2 iron imps.
+
+Vanquished Creatures
+  Terence (D:2)
+  Natasha (D:2)
+  5 gnolls
+  2 adders
+  2 worms
+  3 dart slugs
+  4 orcs (D:3)
+  8 ball pythons
+  5 bats
+  3 endoplasms
+  3 giant cockroaches
+  A goblin (D:2)
+  3 hobgoblins
+  6 jackals (D:2)
+  6 kobolds
+  2 quokkas
+  2 frilled lizards
+  3 rats
+60 creatures vanquished.
+
+Vanquished Creatures (others)
+  187 foxfires
+187 creatures vanquished.
+
+Grand Total: 247 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   259 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   262 | D:1      | Learned a level 2 spell: Scorch
+  1028 | D:1      | Reached XP level 3. HP: 19/19 MP: 6/9
+  1202 | D:2      | Reached skill level 4 in Fire Magic
+  1430 | D:2      | Reached XP level 4. HP: 24/24 MP: 5/11
+  1527 | D:2      | Noticed Terence
+  1611 | D:2      | Killed Terence
+  2032 | D:2      | Noticed Natasha
+  2038 | D:2      | Killed Natasha
+  2039 | D:2      | Reached XP level 5. HP: 22/28 MP: 6/13
+  3020 | D:3      | Noticed Sigmund
+  3374 | D:3      | Reached skill level 5 in Fire Magic
+  3377 | D:3      | Found a burning altar of Makhleb.
+  3447 | D:3      | Slain by an iron imp
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      tarquinn_simple_flora_water_a, layout_basic
+D:2:      layout_loops_cross, uniq_natasha, uniq_terence
+D:3:      kennysheep_big_flooded_room, layout_basic, demons_altar,
+          gammafunk_temple_overflow_statue, minivault_14,
+          chequers_serial_rivers_room_a, uniq_sigmund
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Conjurations   |     2     3    |  3.8
+Fire Magic     |        4     5 |  5.0
+Spellcasting   |           4    |  4.3
+Dodging        |                |  2.4
+Stealth        |                |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Short sword       |       |     7 ||     7
+         Punch             |       |     1 ||     1
+   Cast: Foxfire           |    50 |    57 ||   107
+         Scorch            |     7 |    14 ||    21
+    Use: Scroll            |       |     4 ||     4
+ Armour: Robe              |     1 |     1 ||     2
+  Dodge: Dodged            |     2 |    10 ||    12
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3451 |   3254 |    197 |      0 |   2753 |   3 | 1150.3 |
+       Dungeon |   3451 |   3254 |    197 |      0 |   2753 |   3 | 1150.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1351 daAuts
+     D:2: 1063 daAuts
+     D:3: 1036 daAuts
+

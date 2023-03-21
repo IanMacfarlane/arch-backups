@@ -1,0 +1,80 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(19, 4, D:1)
+  a +0 hand axe
+(19, 5, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(15, 2, D:2)
+  a +0 club
+(19, 0, D:2)
+  6 stones
+(26, 5, D:2)
+  a +0 robe
+(34, 30, D:2)
+  6 stones
+(36, 1, D:2)
+  a +0 club
+(40, 30, D:2)
+  a +0 club
+  8 stones
+(41, -11, D:2)
+  a +0 dagger
+(45, -1, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+[Shop] Cuiddyuck's Armour Boutique
+  a +1 pair of boots (138 gold)
+  the +1 robe "Coafugoac" {Drain Int+6 Dex-5 SInv} (160 gold)
+    Int:       It affects your intelligence (+6).
+    Dex:       It affects your dexterity (-5).
+    SInv:      It lets you see invisible.
+    Drain:     It drains your maximum health when unequipped.
+  +0 fire dragon scales (720 gold)
+  a +0 chain mail (54 gold)
+  a +0 pair of gloves of infusion (138 gold)
+  a +2 chain mail of fire resistance (258 gold)
+(0, 0, D:3)
+  a +0 whip
+  4 stones
+(0, 6, D:3)
+  a +0 hammer
+(4, -4, D:3)
+  6 stones
+(5, 0, D:3)
+  a quokka corpse (skeletalised by now)
+(15, -1, D:3)
+  a +0 club
+  a kobold corpse (skeletalised by now)
+(16, -1, D:3)
+  a +0 leather armour
+(17, 12, D:3)
+  a +0 hand axe
+  a +0 animal skin
+(18, 7, D:3)
+  a frilled lizard corpse
+(23, 44, D:3)
+  a +0 short sword
+(27, 4, D:3)
+  a +0 chain mail
+(28, -4, D:3)
+  a +0 short sword
+(29, 18, D:3)
+  a +0 leather armour
+(31, 32, D:3)
+  a +0 club
+(32, 29, D:3)
+  a +0 robe
+(35, -3, D:3)
+  3 stones
+(38, 34, D:3)
+  a +0 dagger
+  a goblin corpse
+

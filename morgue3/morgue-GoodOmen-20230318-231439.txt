@@ -1,0 +1,541 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6499651136025502633
+
+16428 GoodOmen the Geomancer (level 12, -6/59 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 18, 2023.
+             Was an Elder of Vehumet.
+             Mangled by an eight-headed hydra (7 damage)
+             ... on level 12 of the Dungeon.
+             The game lasted 00:50:48 (13952 turns).
+
+GoodOmen the Geomancer (DEEE)                      Turns: 13952, Time: 00:50:50
+
+Health: -6/59      AC: 16    Str:  5    XL:     12   Next: 10%
+Magic:  30/30      EV: 11    Int: 26    God:    Vehumet [****..]
+Gold:   5          SH:  0    Dex: 15    Spells: 12/35 levels left
+
+rFire   . . .      SeeInvis .    S - +2 scimitar (flame)
+rCold   . . .      Faith    .    z - orb {light}
+rNeg    . . .      Spirit   .    O - +0 acid dragon scales
+rPois   .          Reflect  .    P - +0 helmet
+rElec   .          Rampage  .    r - +2 cloak
+rCorr   +                        j - +0 pair of gloves
+Will    +....                    R - +0 pair of boots
+Stlth   +                        L - amulet of magic regeneration
+HPRegen 0.29/turn                t - ring of wizardry
+MPRegen 0.62/turn                B - +4 ring of protection
+
+@: glowing
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 12 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+You also visited: Sewer and Bailey.
+
+You collected 683 gold pieces.
+You spent 678 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ S - a +2 scimitar of flaming (weapon)
+Armour
+ j - a +0 pair of gloves (worn)
+ r - a +2 cloak (worn)
+ z - an orb of light (worn)
+ O - +0 acid dragon scales (worn)
+ P - a +0 helmet (worn)
+ R - a +0 pair of boots (worn)
+Jewellery
+ t - a ring of wizardry (left hand)
+ B - a +4 ring of protection (right hand)
+ G - a ring of poison resistance
+ J - a ring of protection from fire
+ L - an amulet of magic regeneration (around neck)
+ M - a ring of willpower
+Wands
+ a - a wand of digging (7)
+ p - a wand of iceblast (5)
+ y - a wand of polymorph (9)
+ C - a wand of mindburst (18)
+ F - a wand of flame (18)
+ I - a wand of charming (10)
+Scrolls
+ d - 2 scrolls of amnesia
+ f - 3 scrolls of magic mapping
+ m - a scroll of immolation {unknown}
+ s - 2 scrolls of blinking
+ u - 3 scrolls of teleportation
+ v - a scroll of enchant armour {unknown}
+ K - a scroll of enchant weapon
+Potions
+ b - 4 potions of magic
+ e - 2 potions of resistance
+ h - a potion of berserk rage
+ i - 2 potions of heal wounds
+ k - 9 potions of curing
+ l - 4 potions of might
+ o - 8 potions of invisibility
+ q - 3 potions of haste
+ x - a potion of ambrosia {unknown}
+ D - 2 potions of brilliance {unknown}
+ E - a potion of flight {unknown}
+ H - 4 potions of cancellation {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 12.0 Spellcasting
+ * Level 13.5 Conjurations
+ - Level 1.3 Transmutations
+ * Level 14.1 Earth Magic
+
+
+You had 12 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           100%       2d20      1%          1
+b - Stone Arrow           Conj/Erth      100%       3d13      1%          3
+c - Iron Shot             Conj/Erth      36%        9d7       1%          6
+d - Petrify               Tmut/Erth      54%        N/A       1%          4
+e - Animate Armour        Summ/Erth      100%       N/A       1%          4
+f - Fireball              Conj/Fire      25%        3d11      1%          5
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           100%       1d8       1%          1
+ Passwall                 Tmut/Erth      45%        N/A       1%          2
+ Poisonous Vapours        Pois/Air       30%        N/A       1%          2
+ Mephitic Cloud           Conj/Pois/Air  39%        N/A       1%          3
+ Flame Wave               Conj/Fire      50%        2d12      1%          4
+ Sticky Flame             Conj/Fire      50%        2d7       1%          4
+ Sting                    Tmut/Pois      76%        1d6       2%          1
+ Inner Flame              Hex/Fire       15%        N/A       3%          3
+ Call Imp                 Summ           15%        N/A       4%          2
+ Ozocubu's Armour         Ice            15%        N/A       10%         3
+ Olgreb's Toxic Radiance  Pois           15%        N/A       10%         4
+ Blade Hands              Tmut           11%        N/A       45%         5
+ Ozocubu's Refrigeration  Ice            7%         4d9       99%         7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:7            Lair (0/5) D:9         
+  Sewer (visited)          Bailey (visited)         
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 [   D:6 [:(*:   D:8 [   D:10 *
+
+Annotations:
+D:12 Snorg
+
+Message History
+
+Your Spellcasting skill increases to level 12!
+Magic restored.
+HP restored.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You climb downwards.
+Level annotation: Snorg
+The centaur warrior simulacrum barely misses you.
+The centaur warrior simulacrum kicks you but does no damage.
+The eight-headed hydra bites you!
+The eight-headed hydra bites you but does no damage.
+The eight-headed hydra barely misses you.
+The eight-headed hydra bites you but does no damage.
+The eight-headed hydra completely misses you.
+The eight-headed hydra bites you.
+The eight-headed hydra bites you but does no damage.
+The eight-headed hydra bites you. The boulder beetle bites you!
+The electric eel shoots out a bolt of lightning at you!
+The bolt of electricity hits you but does no damage.
+The centaur warrior simulacrum hits you but does no damage.
+The centaur warrior simulacrum kicks you but does no damage.
+The eight-headed hydra bites you but does no damage. x2
+The eight-headed hydra bites you. The eight-headed hydra bites you!
+The eight-headed hydra bites you but does no damage.
+The eight-headed hydra barely misses you.
+The eight-headed hydra closely misses you.
+The eight-headed hydra bites you. The orc barely misses you.
+There is a stone staircase leading up, spattered with blood here.
+The boulder beetle bites you.
+The electric eel shoots out a bolt of lightning at you!
+The bolt of electricity hits you!
+* * * LOW HITPOINT WARNING * * *
+The eight-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The eight-headed hydra bites you.
+* * * LOW HITPOINT WARNING * * *
+The eight-headed hydra bites you but does no damage.
+The eight-headed hydra bites you!
+You die...
+
+                         #.
+                         #.
+  ..~~...  ..#           ##
+ .∩..~~~.# #..
+~....~...# #.#
+S....~~..# #o#
+~.~~.~...# #.#
+~..~.≈≈..# #.# .# .
+...~≈~.÷)###.# .##.
+~..~~~~[...))# .#'
+.~~~.~...)[..# ..###
+.~≈~.~B@D)[[.# 8.B.
+~~~~.~~oY[...# ..#
+~~.≈~~..Z.([)##)######
+......~......)[.......
+#.#.(......).)........
+.......##..........###
+###.... #.####.#####
+  #.... #.#  †..~
+  #...  #.#  .§.~≈#
+        #.   §.§.~#
+            .§.§..Y
+
+
+You could see a boulder beetle, an eight-headed hydra, an ice beast, an electric
+eel, a centaur warrior simulacrum and an orc.
+
+Vanquished Creatures
+  An ogre mage (D:12)
+  A boulder beetle (D:11)
+  2 two-headed ogres
+  Urug (D:12)
+  An orc knight (Bailey)
+  3 cyclopes
+  A manticore (D:11)
+  A gargoyle (D:11)
+  An unseen horror (D:12)
+  An efreet (D:12)
+  2 komodo dragons
+  3 meliai (D:10)
+  4 trolls
+  Prince Ribbit (D:8)
+  3 shadows
+  A wraith (D:11)
+  A centaur simulacrum (D:12)
+  20 yaks
+  3 wyverns
+  Grum (D:8)
+  An acid dragon (D:10)
+  A water moccasin (D:7)
+  4 ice beasts
+  7 orc warriors
+  2 wolves (D:8)
+  3 ogres
+  A centaur (D:8)
+  2 kobold brigands (Sewer)
+  3 bullfrogs
+  A gnoll sergeant (D:5)
+  4 scorpions
+  4 wights (D:9)
+  3 killer bees (D:10)
+  6 howler monkeys
+  3 electric eels
+  Crazy Yiuf (D:3)
+  7 orc priests
+  A gnoll bouda (D:7)
+  2 hounds
+  An iron imp (D:11)
+  2 jellies
+  5 iguanas
+  15 orc wizards
+  15 gnolls
+  12 adders
+  7 river rats
+  A shadow imp (D:7)
+  A white imp (D:6)
+  2 ufetubi (D:7)
+  A worm (D:3)
+  3 dart slugs
+  75 orcs
+  8 ball pythons
+  8 endoplasms
+  8 giant cockroaches
+  13 goblins
+  8 hobgoblins
+  8 jackals (D:1)
+  6 quokkas
+  8 bats
+  4 frilled lizards
+  19 kobolds
+  25 rats
+  A spectral orc (D:4)
+364 creatures vanquished.
+
+Vanquished Creatures (others)
+  23 fungi (D:9)
+  3 plants (D:9)
+26 creatures vanquished.
+
+Grand Total: 390 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   200 | D:1      | Reached XP level 2. HP: 15/15 MP: 5/8
+   408 | D:1      | Reached skill level 4 in Earth Magic
+   408 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/10
+   940 | D:2      | Learned a level 3 spell: Stone Arrow
+  1220 | D:2      | Reached skill level 1 in Conjurations
+  1295 | D:2      | Reached XP level 4. HP: 24/24 MP: 7/11
+  1981 | D:3      | Reached XP level 5. HP: 28/28 MP: 5/13
+  2066 | D:3      | Found a glowing drain.
+  2146 | Sewer    | Entered a sewer
+  2220 | Sewer    | Reached skill level 5 in Earth Magic
+  2515 | Sewer    | Reached XP level 6. HP: 32/32 MP: 10/15
+  2764 | Sewer    | Reached skill level 5 in Spellcasting
+  3251 | D:3      | Found a runed translucent door.
+  3252 | D:3      | Noticed Crazy Yiuf
+  3512 | D:3      | Reached skill level 6 in Earth Magic
+  3951 | D:3      | Killed Crazy Yiuf
+  4057 | D:4      | Reached XP level 7. HP: 36/36 MP: 13/17
+  4329 | D:4      | Found a glowing golden altar of the Shining One.
+  4398 | D:4      | Reached skill level 5 in Conjurations
+  4558 | D:4      | Found a basalt altar of Yredelemnul.
+  4600 | D:5      | Entered Level 5 of the Dungeon
+  4600 | D:5      | Found Vaok's Armour Emporium.
+  4723 | D:5      | Reached skill level 7 in Earth Magic
+  5475 | D:5      | Bought an orb of light for 192 gold pieces
+  5540 | D:6      | Found Girgh's Assorted Antiques.
+  5548 | D:6      | Found Otin's Book Shop.
+  5554 | D:6      | Reached XP level 8. HP: 41/41 MP: 17/19
+  5624 | D:6      | Found Culilieh's Antique Weapon Shoppe.
+  5824 | D:6      | Found a burning altar of Makhleb.
+  5869 | D:6      | Found Ageosuh's Antique Armour Shop.
+  5870 | D:6      | You fall into a shaft and drop 2 floors!
+  5951 | D:8      | Noticed Grum
+  5954 | D:8      | Killed Grum
+  5955 | D:8      | Reached skill level 8 in Earth Magic
+  6059 | D:8      | Found a shimmering blue altar of Sif Muna.
+  6243 | D:7      | Found a staircase to the Ecumenical Temple.
+  6249 | Temple   | Entered the Ecumenical Temple
+  6290 | Temple   | Became a worshipper of Vehumet
+  6372 | D:7      | Found an opulent altar of Gozag.
+  6577 | D:7      | Found a shadowy altar of Dithmenos.
+  6779 | D:7      | Reached XP level 9. HP: 45/45 MP: 18/22
+  6838 | D:7      | Reached skill level 9 in Earth Magic
+  7367 | D:6      | Found Leth's Book Shop.
+  7466 | D:6      | Found a bloodstained altar of Trog.
+  7851 | D:8      | Reached * piety under Vehumet
+  7851 | D:8      | Offered knowledge of Shock by Vehumet.
+  8269 | D:8      | Noticed Prince Ribbit
+  8275 | D:8      | Reached skill level 10 in Earth Magic
+  8307 | D:8      | Killed Prince Ribbit
+  8361 | D:8      | Reached XP level 10. HP: 50/50 MP: 15/24
+  8371 | D:8      | Reached skill level 10 in Conjurations
+  8415 | D:8      | Reached skill level 11 in Earth Magic
+  8598 | D:8      | Found Vuxasirr's Antique Armour Boutique.
+  8738 | D:9      | Found a flagged portal.
+  8746 | Bailey   | Entered a bailey
+  8885 | Bailey   | Noticed an orc knight
+  8891 | Bailey   | Killed an orc knight
+  9265 | D:9      | Noticed a two-headed ogre
+  9270 | D:9      | Noticed a two-headed ogre
+  9335 | D:8      | Killed a two-headed ogre
+  9459 | D:9      | Killed a two-headed ogre
+  9460 | D:9      | Reached skill level 10 in Spellcasting
+  9562 | D:9      | Found a staircase to the Lair.
+  9622 | D:9      | Reached ** piety under Vehumet
+  9651 | D:9      | Offered knowledge of Kiss of Death by Vehumet.
+  9652 | D:9      | Reached skill level 12 in Earth Magic
+  9653 | D:9      | Noticed a two-headed ogre
+  9844 | D:9      | Found a sacrificial altar of Ru.
+ 10057 | D:9      | Offered knowledge of Hailstorm by Vehumet.
+ 10072 | D:9      | Reached XP level 11. HP: 54/54 MP: 27/27
+ 10390 | D:10     | Entered Level 10 of the Dungeon
+ 10393 | D:10     | Found a blossoming altar of Fedhas.
+ 10488 | D:10     | Found an ancient bone altar of Kikubaaqudgha.
+ 10685 | D:10     | Found a glowing silver altar of Zin.
+ 10685 | D:10     | Found a hazy altar of Hepliaklqana.
+ 10689 | D:10     | Found a hide-covered altar of Uskayaw.
+ 10690 | D:10     | Found a snail-covered altar of Cheibriados.
+ 11253 | D:10     | Reached *** piety under Vehumet
+ 11327 | D:10     | Found a broken altar of Ashenzari.
+ 11376 | D:10     | Found Yreiroc's Assorted Antiques.
+ 11492 | D:6      | Bought a book of Iron for 432 gold pieces
+ 11499 | D:6      | Learned a level 6 spell: Iron Shot
+ 11504 | D:6      | Learned a level 4 spell: Petrify
+ 11509 | D:6      | Learned a level 4 spell: Animate Armour
+ 11950 | D:11     | Noticed a boulder beetle
+ 12107 | D:11     | Killed a boulder beetle
+ 12108 | D:11     | Reached skill level 13 in Earth Magic
+ 12378 | D:11     | Found a snail-covered altar of Cheibriados.
+ 12842 | D:11     | Identified the +4 spear of Misery {heavy, Str+2 Int+3
+                  | Dex+3}
+ 13029 | D:5      | Bought a +0 pair of boots for 54 gold pieces
+ 13237 | D:12     | Offered knowledge of Iskenderun's Mystic Blast by Vehumet.
+ 13278 | D:12     | Noticed a two-headed ogre
+ 13278 | D:12     | Noticed Snorg
+ 13361 | D:12     | Noticed Urug
+ 13361 | D:12     | Noticed a four-headed hydra
+ 13362 | D:12     | Noticed an ogre mage
+ 13365 | D:12     | Killed Urug
+ 13366 | D:12     | Noticed an eight-headed hydra
+ 13368 | D:12     | Noticed a four-headed hydra
+ 13371 | D:12     | Noticed a necromancer
+ 13444 | D:12     | Noticed an ogre mage
+ 13445 | D:12     | Noticed a boulder beetle
+ 13723 | D:12     | Reached **** piety under Vehumet
+ 13758 | D:12     | Killed an ogre mage
+ 13759 | D:12     | Reached skill level 14 in Earth Magic
+ 13759 | D:12     | Reached XP level 12. HP: 59/59 MP: 19/29
+ 13830 | D:12     | Offered knowledge of Fireball by Vehumet.
+ 13837 | D:12     | Learned a level 5 spell: Fireball
+ 13848 | D:12     | Noticed an eight-headed hydra
+ 13952 | D:12     | HP: 1/59 [eight-headed hydra (2)]
+ 13952 | D:12     | Mangled by an eight-headed hydra
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      amcnicky_arrival_abandoned_market, layout_basic
+D:2:      layout_loops_ring
+D:3:      layout_basic, serial_co_window_serial, co_window_paths_a,
+          co_window_corner_a, co_window_corner_a, co_window_corner_a,
+          co_window_corner_a, co_window_paths_a, co_window_2corner,
+          co_window_of_opportunity_c, co_window_of_opportunity_c,
+          co_window_broadway_a, glass_columns_b, glass_columns_b,
+          glass_columns_b, glass_columns_b, gup_sewer_entry_bubbles,
+          hangedman_decor_peaks_small, minmay_goblin_outpost,
+          uniq_crazy_yiuf_cottage
+D:4:      layout_rooms, yredelemnul_forgotten_temple_becter,
+          overflow_temple_1_default
+D:5:      layout_basic, serial_shops, nicolae_inconvenience_store
+D:6:      layout_rooms, mainiacjoe_overflow_concentric_impassable,
+          trog_butcher_becter, serial_shops, nicolae_shop_advertising_works
+          [nicolae_subvault_shop_adworks], shop, nicolae_shop_hallway_plus,
+          nicolae_stop_n_shop_2, nicolae_stop_n_shop_1, item_on_display_a
+D:7:      layout_basic, grunt_gozag_statues, overflow_temple_1_default,
+          temple_green, serial_park_tiny_pond, chequers_avenue,
+          minmay_increasing_density
+D:8:      layout_loops_ring, nicolae_overflow_crystal_walls, serial_shops, shop,
+          uniq_prince_ribbit1, uniq_grum
+D:9:      layout_basic, mainiacjoe_overflow_chevrons, dpeg_oklobed_lair,
+          enter_bailey_2, special_room [special_room_orc]
+D:10:     layout_loops_ring, mainiacjoe_overflow_small_starburst,
+          kennysheep_mini, mainiacjoe_overflow_alcove_3,
+          mainiacjoe_overflow_brackets, serial_shops,
+          nicolae_shop_window_shopping, kennysheep_cross_room
+D:11:     layout_small_grid, chei_slow_surprise
+D:12:     minmay_the_grid_square_5x5_5x5_mashed
+          [minmay_the_grid_square_5x5_gyroscope,
+          minmay_the_grid_square_5x5_inner_i,
+          minmay_the_grid_square_5x5_intrusive_squares,
+          minmay_the_grid_square_5x5_z,
+          minmay_the_grid_square_5x5_checkered_statues,
+          minmay_the_grid_square_5x5_one_wall,
+          minmay_the_grid_square_5x5_prize_junk,
+          minmay_the_grid_square_5x5_spiral,
+          minmay_the_grid_square_5x5_prize_pseudospiral,
+          minmay_the_grid_square_5x5_corner, minmay_the_grid_square_5x5_n_small,
+          minmay_the_grid_square_5x5_percent,
+          minmay_the_grid_square_5x5_prize_deathbox,
+          minmay_the_grid_square_5x5_fat_x, minmay_the_grid_square_5x5_two,
+          minmay_the_grid_square_5x5_hollow_slash,
+          minmay_the_grid_square_5x5_prize_waves,
+          minmay_the_grid_square_5x5_empty,
+          minmay_the_grid_square_5x5_prize_itemx,
+          minmay_the_grid_square_5x5_hourglass, minmay_the_grid_square_5x5_c,
+          minmay_the_grid_square_5x5_two_small, minmay_the_grid_square_5x5_comb,
+          minmay_the_grid_square_5x5_trominoes,
+          minmay_the_grid_square_5x5_three_small], layout_stronghold,
+          hiddenorc2_lemuel, serial_ice, serial_ice_j, serial_ice_f,
+          serial_ice_g, serial_ice_m, uniq_snorg, uniq_gastronok, uniq_urug
+Temple:   nicolae_temple_little_seven
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Earth Magic    |     4        5  6  7  8 10 12 14    | 14.1
+Conjurations   |        1  2  3  4  5  7  9 11 13    | 13.5
+Spellcasting   |           4     5  6  7  8 10 11 12 | 12.0
+Dodging        |                                     |  2.6
+Stealth        |                                     |  2.6
+Transmutations |                                     |  1.3
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+   Cast: Sandblast         |    59 |   114 |   104 |   142 ||   419
+         Stone Arrow       |       |     7 |    40 |    90 ||   137
+         Iron Shot         |       |       |       |    34 ||    34
+         Animate Armour    |       |       |       |     2 ||     2
+    Use: Scroll            |     1 |     6 |    11 |     5 ||    23
+         Potion            |       |       |     2 |     5 ||     7
+ Armour: Robe              |     6 |     6 |    20 |    12 ||    44
+         Acid dragon scale |       |       |       |    54 ||    54
+  Dodge: Dodged            |    18 |    29 |    28 |    82 ||   157
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  14240 |  13023 |   1217 |    158 |  10366 |  15 |  949.3 |
+       Dungeon |  12930 |  11713 |   1217 |    158 |   9467 |  12 | 1077.5 |
+        Temple |     49 |     49 |      0 |      0 |     33 |   1 |   49.0 |
+         Sewer |    760 |    760 |      0 |      0 |    591 |   1 |  760.0 |
+        Bailey |    499 |    499 |      0 |      0 |    274 |   1 |  499.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1623 daAuts
+     D:8: 1522 daAuts
+    D:10: 1473 daAuts
+     D:7: 1369 daAuts
+    D:11: 1213 daAuts
+     D:9: 1177 daAuts
+     D:5: 1118 daAuts
+     D:1: 927 daAuts
+     D:2: 875 daAuts
+   Sewer: 760 daAuts
+     D:6: 740 daAuts
+     D:4: 568 daAuts
+  Bailey: 499 daAuts
+    D:12: 319 daAuts
+  Temple: 49 daAuts
+

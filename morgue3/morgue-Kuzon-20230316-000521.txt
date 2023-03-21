@@ -1,0 +1,270 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16619788828738853852
+
+140 Kuzon the Ducker (level 5, 0/1 (35) HPs)
+             Began as a Djinni Fire Elementalist on Mar 15, 2023.
+             Killed from afar by an orc wizard (1 damage)
+             ... with a puff of flame
+             ... on level 3 of the Dungeon on Mar 16, 2023.
+             The game lasted 00:07:28 (1899 turns).
+
+Kuzon the Ducker (Djinni Fire Elementalist)         Turns: 1899, Time: 00:07:29
+
+HP:   0/1 (35)      AC:  5    Str:  7    XL:     5   Next: 47%
+Gold: 179           EV: 13    Int: 18    God:    
+                    SH:  0    Dex: 14
+
+rFire   + + .      SeeInvis .    l - +0 trident
+rCold   x . .      Faith    +    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   ∞          Reflect  .    g - +0 helmet
+rElec   .          Rampage  .    f - +0 cloak
+rCorr   .                        m - +0 pair of gloves
+Will    .....                    (boots unavailable)
+Stlth   ++                       i - amulet of faith
+HPRegen 0.20/turn                (no ring)
+MPRegen 0.00/turn                (no ring)
+
+@: flying, extremely drained
+A: sickness immunity, fire resistance 2, cold vulnerability 1, float, innate
+caster, HP casting, extra vitality 1
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 179 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ l - a +0 trident (weapon)
+Armour
+ a - a +0 robe (worn)
+ f - a +0 cloak (worn)
+ g - a +0 helmet (worn)
+ m - a +0 pair of gloves (worn)
+Jewellery
+ i - an amulet of faith (around neck)
+Wands
+ q - a wand of flame (13)
+Scrolls
+ b - 3 scrolls of identify {unknown}
+ d - 2 scrolls of immolation {unknown}
+ h - a scroll of brand weapon {unknown}
+ k - a scroll of noise {unknown}
+ n - 2 scrolls of magic mapping {unknown}
+ o - a scroll of blinking {unknown}
+Potions
+ c - a potion of haste {unknown}
+ e - 4 potions of curing {unknown}
+ j - 2 potions of mutation {unknown}
+ p - a potion of might {unknown}
+
+
+   Skills:
+ - Level 3.8 Dodging
+ - Level 3.0 Stealth
+ * Level 3.2 Spellcasting
+
+
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      56%        2x1d6     4%          1
+b - Scorch                Fire           28%        2d6       6%          2
+c - Kindle Blastsparks    Fire/Tloc/Air  28%        2d12      13%         3
+d - Inner Flame           Hex/Fire       14%        N/A       13%         3
+e - Flame Wave            Conj/Fire      14%        2d6       38%         4
+f - Kiss of Death         Conj/Necr      56%        2d9       4%          1
+g - Searing Ray           Conj           28%        2d5       6%          2
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Shops:
+D:1 ?[!
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+You are immune to poison.
+Your flesh is very heat resistant. (rF++)
+You are vulnerable to cold. (rC-)
+You float through the air rather than walking.
+You learn spells naturally, not from books.
+Your magical power is your life essence.
+You have superior vitality. (+4 MHP)
+
+Message History
+
+An orc wizard comes into view. It is wielding a +0 dagger.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+Unknown command.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+Unknown command.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+Unknown command.
+Unknown command.
+The hobgoblin misses you.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+Unknown command.
+Unknown command.
+Casting: Kiss of Death (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough health to cast this spell.
+The orc wizard shouts!
+You hit the hobgoblin.
+You kill the hobgoblin!
+An orc wizard is nearby!
+The orc wizard points at you and mumbles some strange words.
+The puff of flame hits you but does no damage.
+You resist.
+The orc wizard gestures at you while chanting.
+The puff of flame hits you. You resist.
+Ouch! That really hurt!
+You die...
+
+            ##############
+            #.).....))[)<#
+        #####)############
+        #.....#
+        #....@#
+ ########.....##########
+ #..........[...........
+##...####.....##.....#
+........#.....##.....#
+    #.........o...(..#
+    #.#.#####.##.o...#
+    # #........).....#
+      #.#.....#......!...
+      #.#######.#.##.....
+      #..    ...#..#.....
+      ...   ######.# ....
+
+
+You could see an orc wizard.
+
+Vanquished Creatures
+  Ijyb (D:3)
+  An orc wizard (D:3)
+  Robin (D:2)
+  A dart slug (D:1)
+  8 orcs (D:3)
+  9 bats
+  3 endoplasms (D:1)
+  A giant cockroach (D:2)
+  9 goblins
+  9 hobgoblins
+  3 jackals (D:1)
+  2 quokkas
+  2 ball pythons
+  5 frilled lizards
+  6 kobolds
+  6 rats
+67 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  6 foxfires (D:1)
+6 creatures vanquished.
+
+Vanquished Creatures (others)
+  126 foxfires
+126 creatures vanquished.
+
+Grand Total: 199 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Djinni Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Kuzon set off with the following spells memorised: Foxfire,
+                  | Scorch, Kindle Blastsparks, Inner Flame, Flame Wave.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 0/0
+    17 | D:1      | Found Boisae's Magic Scroll Boutique.
+    53 | D:1      | Reached XP level 2. HP: 10/21 MP: 0/0
+   221 | D:1      | Found Teasesi's Antique Armour Boutique.
+   580 | D:1      | Found Wacvixig's Distillery.
+   598 | D:1      | Reached XP level 3. HP: 16/25 MP: 0/0
+   598 | D:1      | Learned a level 1 spell: Kiss of Death
+  1156 | D:2      | Noticed Robin
+  1177 | D:2      | Killed Robin
+  1178 | D:2      | Reached XP level 4. HP: 20/31 MP: 0/0
+  1635 | D:3      | Reached XP level 5. HP: 23/35 MP: 0/0
+  1635 | D:3      | Learned a level 2 spell: Searing Ray
+  1724 | D:3      | Noticed Ijyb
+  1750 | D:3      | Killed Ijyb
+  1899 | D:3      | Killed from afar by an orc wizard
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_three_doors, layout_loops_cross, serial_shops, shop,
+          nicolae_shop_waterfront, nicolae_diamond_shop,
+          corexii_item_surrounded_by_moat, minmay_misc_feat_room,
+          minmay_hedge_maze
+D:2:      layout_rooms, due_unseen_surprise, uniq_robin
+D:3:      layout_basic, pdpol_temple_overflow_zin_treasury_gozag_greed,
+          lemuel_round_altar, minmay_stone_trees_small, glass_columns_c,
+          uniq_ijyb
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Stealth        |     2        3 |  3.0
+Dodging        |        3       |  3.8
+Spellcasting   |           3    |  3.2
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     1 |       ||     1
+         Trident           |       |     1 ||     1
+   Cast: Foxfire           |    60 |    17 ||    77
+         Scorch            |    10 |    11 ||    21
+         Kiss of Death     |       |     7 ||     7
+         Searing Ray       |       |     2 ||     2
+ Armour: Robe              |    13 |     8 ||    21
+  Dodge: Dodged            |    26 |    10 ||    36
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1899 |   1827 |     72 |      0 |   1349 |   3 |  633.0 |
+       Dungeon |   1899 |   1827 |     72 |      0 |   1349 |   3 |  633.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1002 daAuts
+     D:2: 700 daAuts
+     D:3: 196 daAuts
+

@@ -1,0 +1,611 @@
+GoodOmen
+
+Level 1 of the Dungeon
+[Shop] Viuse's Jewellery Emporium
+  the amulet "Xilosk" {Reflect rC+ Str+3 Dex-3 SH+5} (528 gold)
+    [amulet of reflection]
+    
+    It reflects blocked missile attacks.
+    Str:       It affects your strength (+3).
+    Dex:       It affects your dexterity (-3).
+    rC:        It protects you from cold.
+    SH:        It affects your SH (+5).
+  a ring of willpower (300 gold)
+  a ring of see invisible (180 gold)
+  an amulet of reflection (360 gold)
+  a +6 ring of dexterity (432 gold)
+  a ring of willpower (300 gold)
+  a +6 ring of dexterity (432 gold)
+  an amulet of faith (480 gold)
+  the ring "Woguz" {rElec rCorr Int+3 Slay-2 SInv} (390 gold)
+    [ring of see invisible]
+    
+    Int:       It affects your intelligence (+3).
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (-2).
+    rElec:     It insulates you from electricity.
+    SInv:      It lets you see invisible.
+    rCorr:     It protects you from acid and corrosion.
+(0, 0, D:1)
+  a +0 whip
+  a stone
+(2, -13, D:1)
+  a +0 whip
+(2, -12, D:1)
+  a +0 hand axe
+(5, 7, D:1)
+  a +0 club
+(12, -8, D:1)
+  7 stones
+(20, -6, D:1)
+  a +0 dagger
+(28, 5, D:1)
+  a +0 club
+(31, -1, D:1)
+  5 stones
+(32, -19, D:1)
+  a +0 trident
+(33, -23, D:1)
+  a +0 sling
+(34, -20, D:1)
+  a +0 dagger
+(35, -20, D:1)
+  a +0 spear
+(37, -4, D:1)
+  a +0 club
+(38, -9, D:1)
+  a +0 spear
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 spear
+(7, -1, D:2)
+  a +0 club
+(16, -4, D:2)
+  7 stones
+(21, -17, D:2)
+  a +0 leather armour
+(24, 5, D:2)
+  5 stones
+(29, -12, D:2)
+  2 stones
+(34, -38, D:2)
+  a +0 glaive
+(35, 3, D:2)
+  a +0 short sword
+(36, -2, D:2)
+  a +0 long sword
+(39, -37, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+[Shop] Puhoet's Antique Weapon Shop
+  a +1 heavy falchion (272 gold)
+  a +0 spear (66 gold)
+  the +7 halberd of the Twenty Ultimatums {protect, rElec rPois} (1276 gold)
+    rElec:     It insulates you from electricity.
+    rPois:     It protects you from poison.
+  a +0 dagger (44 gold)
+  a +0 sling (33 gold)
+  a +0 hand axe (66 gold)
+  a +0 spear (66 gold)
+(0, 0, D:3)
+  a +0 dagger
+(1, -6, D:3)
+  a staff of air
+(1, 34, D:3)
+  a +0 dagger
+  a +0 chain mail
+(1, 37, D:3)
+  a +0 robe
+(3, 36, D:3)
+  a +0 long sword
+(13, -2, D:3)
+  a +0 flail
+(18, 12, D:3)
+  a +0 whip
+(36, 37, D:3)
+  a +0 club
+  a +0 flail
+  a +0 spear
+(38, 14, D:3)
+  a +0 club
+(42, 29, D:3)
+  a +0 battleaxe
+(53, 22, D:3)
+  a +0 chain mail
+
+Level 4 of the Dungeon
+[Shop] Cilau's General Store
+  a +0 club (13 gold)
+  a wand of flame (2) (18 gold)
+  a tin of tremorstones (2/2) (520 gold)
+  Ozocubu's Autobiography (312 gold)
+  a potion of berserk rage (65 gold)
+  a scroll of amnesia (52 gold)
+  a scroll of identify (26 gold)
+  a +0 leather armour (26 gold)
+  a +0 plate armour (299 gold)
+(0, 0, D:4)
+  the +5 ring mail of Omoz {rCorr Dex-4 SInv Stlth-}
+    Dex:       It affects your dexterity (-4).
+    SInv:      It lets you see invisible.
+    rCorr:     It protects you from acid and corrosion.
+    Stlth:     It makes you less stealthy.
+(4, -7, D:4)
+  a +0 dagger
+(12, 12, D:4)
+  a +0 dagger
+(12, 13, D:4)
+  a +0 giant club
+(13, -16, D:4)
+  4 javelins
+(13, 15, D:4)
+  a +0 whip
+  6 poisoned darts
+(16, 1, D:4)
+  a +0 short sword
+(19, 16, D:4)
+  4 stones
+  a +0 whip
+(25, 17, D:4)
+  a +0 club
+(26, -2, D:4)
+  a +0 leather armour
+  a +0 mace
+(30, -11, D:4)
+  a +0 quarterstaff
+(32, -4, D:4)
+  a +0 halberd
+(35, -12, D:4)
+  a +0 short sword
+  a stone
+(41, -14, D:4)
+  a +0 spear
+(56, 15, D:4)
+  a +0 rapier
+
+Level 5 of the Dungeon
+(2, 39, D:5)
+  a +0 scale mail
+(13, 28, D:5)
+  a +0 giant spiked club
+(17, 33, D:5)
+  a +2 war axe of freezing
+  a +0 short sword
+  a +0 ring mail
+(22, 44, D:5)
+  a staff of earth
+(26, 29, D:5)
+  a +0 mace
+(29, 20, D:5)
+  a +1 dagger of holy wrath
+  8 stones
+  a +0 ring mail
+(30, 19, D:5)
+  a +0 leather armour
+(32, 2, D:5)
+  a staff of earth
+(33, 38, D:5)
+  5 stones
+(34, 5, D:5)
+  a +0 war axe
+(34, 15, D:5)
+  a +0 robe
+(35, 48, D:5)
+  a +0 shortbow
+(36, 9, D:5)
+  a +0 dagger
+(45, 15, D:5)
+  a +0 hand axe
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 leather armour
+(7, -43, D:6)
+  a book of Blood
+(7, -26, D:6)
+  a +0 dire flail
+(37, -32, D:6)
+  a +0 scale mail
+  a +0 flail
+(42, -16, D:6)
+  5 stones
+(42, 7, D:6)
+  a +3 antimagic flail
+  a +0 ring mail
+(45, -8, D:6)
+  a +0 whip
+(46, 8, D:6)
+  a staff of poison
+(56, 10, D:6)
+  the +0 short sword of Hadot {heavy, Dex+2}
+    Dex:       It affects your dexterity (+2).
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 leather armour
+  a +0 short sword
+(1, -1, D:7)
+  a +0 leather armour
+  a +0 club
+(1, 0, D:7)
+  a +0 trident
+(1, 2, D:7)
+  a +0 robe
+  a +0 dagger
+(3, 4, D:7)
+  a +0 robe
+  a +5 flail
+(3, 6, D:7)
+  a +0 robe
+  a +0 spear
+(4, 6, D:7)
+  a +0 robe
+  a +1 long sword
+(5, 6, D:7)
+  a +0 robe
+  a +1 scimitar
+(6, -5, D:7)
+  a +0 whip
+(15, 18, D:7)
+  a +0 halberd
+(15, 19, D:7)
+  a +0 whip
+  a +0 leather armour
+  a +0 flail
+(16, 18, D:7)
+  a +0 spear
+(18, 1, D:7)
+  a +0 club
+(24, 3, D:7)
+  a +0 club
+(25, -21, D:7)
+  a +0 giant spiked club
+(25, 3, D:7)
+  a +0 robe
+  a +0 dagger
+(29, -22, D:7)
+  a +0 war axe
+(31, 11, D:7)
+  a +1 whip of freezing
+(32, 1, D:7)
+  a +0 ring mail
+(32, 3, D:7)
+  a +0 dagger
+  a +0 robe
+(33, 8, D:7)
+  a +0 short sword
+  a +0 ring mail
+(37, -1, D:7)
+  a +0 dagger
+(39, -1, D:7)
+  a +0 dagger
+  a curare-tipped dart
+(44, -5, D:7)
+  a +0 falchion
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +1 dagger of distortion
+  a +0 robe
+(3, 1, D:8)
+  a +1 demon whip of venom
+(3, 5, D:8)
+  a +2 whip of freezing
+  a +0 robe
+(6, -26, D:8)
+  a +5 spear of freezing
+  a +0 robe
+  a +0 war axe
+  a +0 robe
+(7, -26, D:8)
+  a +4 halberd
+  a +0 robe
+(8, -27, D:8)
+  a +0 morningstar
+  a +0 robe
+(27, 26, D:8)
+  4 stones
+(29, -23, D:8)
+  a +0 club
+(30, -23, D:8)
+  a +0 dagger
+  a +0 scale mail
+(32, -23, D:8)
+  a +0 flail
+(32, -20, D:8)
+  a +0 halberd
+  a +0 plate armour
+(40, -17, D:8)
+  6 poisoned darts
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 spear
+  a +0 ring mail
+(0, 13, D:9)
+  a +0 dagger
+(0, 30, D:9)
+  a +0 whip
+(1, -4, D:9)
+  a +0 troll leather armour
+(5, 25, D:9)
+  a +0 scale mail
+(7, 11, D:9)
+  a +3 hand axe of freezing
+  a +0 robe
+(11, 7, D:9)
+  a +0 club
+  a +0 whip
+  a +0 leather armour
+(13, 8, D:9)
+  a +4 war axe
+  a +0 robe
+(13, 16, D:9)
+  a +0 robe
+  a +0 flail
+(14, 20, D:9)
+  a +0 club
+(15, 17, D:9)
+  a +0 robe
+  a +5 battleaxe
+(18, 10, D:9)
+  a +0 shortbow
+(20, 3, D:9)
+  a +0 flail
+(22, 33, D:9)
+  a +0 shortbow
+(23, 28, D:9)
+  a +0 flail
+  a +0 ring mail
+(23, 29, D:9)
+  a +0 dagger
+  a +0 robe
+(23, 30, D:9)
+  a +0 scimitar
+  a +0 chain mail
+(24, 24, D:9)
+  a +0 flail
+(24, 28, D:9)
+  a +0 short sword
+(25, -4, D:9)
+  a +0 halberd
+  a +0 spear
+(25, -1, D:9)
+  a +0 club
+(25, 1, D:9)
+  a +0 club
+(25, 25, D:9)
+  a +0 club
+  3 stones
+  a +0 flail
+(26, 26, D:9)
+  a +0 spear
+  a +0 ring mail
+  a +0 kite shield
+(27, -4, D:9)
+  a +0 whip
+  a +0 leather armour
+(32, 33, D:9)
+  a +0 long sword
+(33, 19, D:9)
+  3 stones
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 sling
+(19, -25, D:10)
+  a +0 great mace
+(19, 23, D:10)
+  6 poisoned darts
+(22, -23, D:10)
+  a +0 shortbow
+(23, -22, D:10)
+  a +1 hand axe of flaming
+  a +0 chain mail
+(23, -13, D:10)
+  a +0 war axe
+(26, -21, D:10)
+  a +0 hand axe
+  a +0 scale mail
+(27, -22, D:10)
+  a +0 battleaxe
+  a +0 plate armour
+(34, -15, D:10)
+  a +0 short sword
+  2 poisoned darts
+(35, -16, D:10)
+  a +0 whip
+  a +0 short sword
+  a stone
+(36, -17, D:10)
+  a +0 dagger of speed
+  6 poisoned darts
+(36, 13, D:10)
+  a +0 dagger
+  3 poisoned darts
+(37, 14, D:10)
+  a +0 giant club
+  a +0 giant club
+(38, -5, D:10)
+  a +0 club
+(39, -16, D:10)
+  the +6 trident "Vubbusuyki" {vamp, rPois Str+3 Int-4}
+    Str:       It affects your strength (+3).
+    Int:       It affects your intelligence (-4).
+    rPois:     It protects you from poison.
+(39, -7, D:10)
+  a +0 dagger
+  a curare-tipped dart
+  a +0 flail
+(39, -6, D:10)
+  a +0 short sword
+  a +0 short sword
+  4 poisoned darts
+  a +0 giant club
+  a +0 whip
+(39, -5, D:10)
+  a +0 giant club
+(40, -6, D:10)
+  a +0 club
+  a +0 club
+  8 poisoned darts
+(40, -2, D:10)
+  a +0 flail
+  a +0 chain mail
+  a +0 dagger
+  4 poisoned darts
+(40, 18, D:10)
+  a scroll of vulnerability
+(41, -4, D:10)
+  a +0 hand axe
+  a +0 giant club
+(41, -3, D:10)
+  a +0 spear
+  a +0 halberd
+  a +0 plate armour
+(47, -9, D:10)
+  4 stones
+(47, 15, D:10)
+  +0 acid dragon scales
+(52, 12, D:10)
+  a +0 scale mail
+
+Level 11 of the Dungeon
+[Shop] Epaheziguo's General Store
+  a +0 rapier (56 gold)
+  a scroll of teleportation (42 gold)
+  a stone (1 gold)
+  a scroll of identify (28 gold)
+  a scroll of magic mapping (105 gold)
+  a wand of polymorph (6) (117 gold)
+  a +0 spear (42 gold)
+  a +0 chain mail (63 gold)
+(0, 0, D:11)
+  a +0 longbow
+(4, -33, D:11)
+  a +0 mace
+(14, -18, D:11)
+  a +0 flail
+(17, -48, D:11)
+  a +0 rapier
+(23, -14, D:11)
+  a +0 ring mail
+(23, 2, D:11)
+  a +0 trident
+  a +0 scale mail
+(24, 1, D:11)
+  a +0 club
+  a +0 spear
+(25, -6, D:11)
+  a +0 club
+(27, -55, D:11)
+  a +0 whip
+(36, -45, D:11)
+  3 large rocks
+(39, -32, D:11)
+  a +0 shortbow
+(40, -30, D:11)
+  5 large rocks
+(46, -37, D:11)
+  a potion of lignification
+(46, -36, D:11)
+  11 gold pieces
+(47, -44, D:11)
+  the +0 ring mail of Qazlal's Envy {Drain rF+ rN+++ Stlth-}
+    rF:        It protects you from fire.
+    rN:        It renders you almost immune to negative energy.
+    Drain:     It drains your maximum health when unequipped.
+    Stlth:     It makes you less stealthy.
+(47, -37, D:11)
+  a +2 pair of boots
+  (unseen)
+(48, -37, D:11)
+  a ring of wizardry
+(57, -9, D:11)
+  a +0 mace
+(57, -8, D:11)
+  9 stones
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 plate armour
+(0, 26, D:12)
+  a +0 spear
+  a +0 ring mail
+  a +0 buckler
+(0, 29, D:12)
+  a +0 flail
+  a +0 leather armour
+  a +0 flail
+  a +0 halberd
+(1, 27, D:12)
+  a +2 heavy spear
+(1, 29, D:12)
+  a +0 dagger
+  a +0 robe
+  a +0 spear
+(13, 9, D:12)
+  a +0 dagger
+  a +0 robe
+(31, -12, D:12)
+  a +0 troll leather armour
+  a +0 robe
+(36, 8, D:12)
+  6 large rocks
+(45, 34, D:12)
+  a +0 kite shield
+(47, -9, D:12)
+  a +0 quarterstaff
+(53, 27, D:12)
+  a +0 shortbow
+(53, 28, D:12)
+  a +0 shortbow
+  a +0 shortbow
+  a +0 shortbow
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  3 large rocks
+(0, 1, D:13)
+  a +0 shortbow
+  a +0 barding
+  a centaur corpse
+(6, -44, D:13)
+  a +0 shortbow
+(8, -36, D:13)
+  a +2 scale mail of fire resistance
+(18, -23, D:13)
+  a shapeshifter corpse (skeletalised by now)
+(19, -27, D:13)
+  3 large rocks
+(29, -9, D:13)
+  a +0 troll leather armour
+(35, -43, D:13)
+  a +0 shortbow
+(35, -38, D:13)
+  a +3 shortbow of flaming
+(35, -13, D:13)
+  a +0 troll leather armour
+(35, -2, D:13)
+  a manticore corpse
+(37, -38, D:13)
+  a +0 shortbow
+(37, -8, D:13)
+  a +0 longbow
+  a +3 heavy hand axe
+  a centaur corpse
+(39, -8, D:13)
+  a +0 chain mail
+(44, -44, D:13)
+  a scroll of vulnerability
+(44, -10, D:13)
+  2 boomerangs
+(48, -4, D:13)
+  a +0 plate armour
+(53, -14, D:13)
+  a scroll of vulnerability
+
+the Ecumenical Temple
+

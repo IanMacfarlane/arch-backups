@@ -1,0 +1,337 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 7895715574921151139
+
+942 Bokogi the Shooter (level 7, -3/61 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Was an Initiate of Okawaru.
+             Succumbed to a water moccasin's poison
+             ... on level 5 of the Dungeon.
+             The game lasted 00:15:42 (4039 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 4039, Time: 00:15:42
+
+Health: -3/61      AC: 10    Str: 21    XL:     7   Next: 88%
+Magic:  6/6        EV: 12    Int:  6    God:    Okawaru [......]
+Gold:   247        SH:  0    Dex: 16    Spells: 6/6 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    q - +4 scale mail
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.30/turn                k - ring of flight
+MPRegen 0.10/turn                n - +6 ring of strength
+
+@: lethally poisoned (-3 -> -16), flying
+A: horns 2, retaliatory headbutt
+a: Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was noncommittal.
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+
+You collected 247 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour
+ q - a +4 scale mail (worn)
+Jewellery
+ k - a ring of flight (left hand)
+ n - a +6 ring of strength (right hand)
+ t - a +6 ring of intelligence
+Scrolls
+ b - 3 scrolls of immolation
+ d - 2 scrolls of noise {unknown}
+ e - 2 scrolls of identify {unknown}
+ f - a scroll of brand weapon {unknown}
+ h - 4 scrolls of teleportation {unknown}
+ l - a scroll of fear {unknown}
+ m - 2 scrolls of magic mapping {unknown}
+ p - a scroll of vulnerability {unknown}
+Potions
+ g - 2 potions of haste {unknown}
+ i - 2 potions of curing {unknown}
+ j - a potion of attraction {unknown}
+ o - a potion of might {unknown}
+ r - a potion of degeneration {unknown}
+ s - a potion of flight {unknown}
+ u - a potion of brilliance {unknown}
+
+
+   Skills:
+ + Level 5.4 Fighting
+ * Level 7.6 Ranged Weapons
+ + Level 4.9 Dodging
+ + Level 3.6 Stealth
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       91%         2
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       91%         2
+ Passwall                 Tmut/Erth      0%         N/A       91%         2
+ Frozen Ramparts          Ice            0%         1d1       99%         3
+ Kindle Blastsparks       Fire/Tloc/Air  0%         2d10      99%         3
+ Ozocubu's Armour         Ice            0%         N/A       99%         3
+ Swiftness                Air            0%         N/A       99%         3
+ Dispel Undead            Necr           0%         3d6       100%        4
+ Fulminant Prism          Conj/Hex       0%         3d5       100%        4
+ Ice Form                 Ice/Tmut       0%         N/A       100%        4
+ Iskenderun's Mystic Bla  Conj/Tloc      0%         2d3       100%        4
+ Lee's Rapid Deconstruct  Erth           0%         3d4*      100%        5
+ Ozocubu's Refrigeration  Ice            0%         4d7       100%        7
+ Summon Ice Beast         Ice/Summ       Unusable   N/A       N/A         4
+ Death Channel            Necr           Unusable   N/A       N/A         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 :
+
+Annotations:
+D:3 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Here: a water moccasin (lightly wounded)
+The floor.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+The floor.
+You shoot an arrow. The arrow hits the water moccasin.
+The water moccasin is moderately wounded.
+The water moccasin bites you.
+You are poisoned.
+The water moccasin poisons you! The water moccasin misses you.
+Fire: a) +0 shortbow
+Press: ? - help, Shift-Dir - straight line, f/p - water moccasin
+Aim: a water moccasin (moderately wounded, 50% to hit)
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: a water moccasin (moderately wounded)
+The floor.
+You are mildly poisoned (27 -> 19). You are flying. Your flying speed is
+average.
+Your attack delay is about 1.2 (and is slowed by your armour).
+Your damage rating with your +0 shortbow is about 13 (Base 9 x 115% (Dex) x
+125% (Skill)).
+Your base attributes are Str 15, Int 6, Dex 16.
+Unknown command.
+You feel sick.
+The water moccasin attacks as you move away!
+The water moccasin bites you. You feel sick.
+You feel sick.
+The water moccasin bites you but does no damage.
+The water moccasin attacks as you move away!
+The water moccasin bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The water moccasin poisons you!
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+The water moccasin bites you!
+* * * LOW HITPOINT WARNING * * *
+A water moccasin comes into view.
+You die...
+
+##.###.#####.############.#
+##.# #.#   #..............#   ###
+...# #.#####..###########.#####..
+#######.......#         #...[†...
+    #_#####...#         #.####..#
+   ##.##  #...#         #.......#
+  ##...## #...#         #.####..#
+  #..#..# #...#         #.#  ##..
+###.###.###...######### #.#   #.#
+.##.###.#..........S..# #.#   #.#
+##..._#.###.[...@##     .#[   ..#
+#_..^.#..'....#.##           #...
+##..._#†##..###S#            #.##
+###.###.###.# #.#    #########.
+# #.###.# #.# #W######...#...##
+###..#..###.###...W.##..#..#..##
+..##...##.......###....#..#..#_#
+..###.########### ###.#..#..#.##
+.## #_#             ##..###..###
+.#  ###              #### ####.#
+##  #.#########              #.#
+
+
+You could see 2 water moccasins and a phantom.
+
+Vanquished Creatures
+  Sigmund (D:4)
+  An ice beast (D:5)
+  A black bear (D:4)
+  2 scorpions
+  5 hounds
+  A jelly (D:5)
+  An iguana (D:4)
+  Natasha (D:3)
+  Robin (D:2)
+  4 gnolls (D:3)
+  11 adders
+  2 white imps (D:5)
+  2 ufetubi (D:5)
+  3 worms
+  A dart slug (D:4)
+  4 bats
+  2 endoplasms
+  3 giant cockroaches
+  9 hobgoblins
+  6 kobolds
+  5 quokkas
+  8 ball pythons
+  5 frilled lizards
+  16 goblins
+  5 rats
+100 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    63 | D:1      | Reached skill level 1 in Stealth
+    68 | D:1      | Reached XP level 2. HP: 22/25 MP: 1/1
+   591 | D:2      | Reached XP level 3. HP: 30/30 MP: 2/2
+   621 | D:2      | Found a faded altar of an unknown god.
+   749 | D:2      | Reached skill level 5 in Ranged Weapons
+   750 | D:2      | Reached XP level 4. HP: 36/38 MP: 3/3
+   829 | D:2      | Identified the +6 great sword "Qubbuo Ybyh" {heavy, rElec
+                  | rC- Dex+3}
+   947 | D:2      | Noticed Robin
+  1207 | D:2      | Killed Robin
+  1281 | D:3      | Found a stormy altar of Qazlal.
+  1286 | D:3      | Reached XP level 5. HP: 45/45 MP: 4/4
+  1288 | D:3      | Noticed an air elemental
+  1288 | D:3      | Noticed a fire elemental
+  1288 | D:3      | Noticed a water elemental
+  1571 | D:3      | Noticed Natasha
+  1579 | D:3      | Killed Natasha
+  1816 | D:3      | Noticed Natasha
+  2064 | D:4      | Noticed a black bear
+  2073 | D:4      | Killed a black bear
+  2074 | D:4      | Reached skill level 6 in Ranged Weapons
+  2074 | D:4      | Reached XP level 6. HP: 31/52 MP: 5/5
+  2676 | D:4      | Noticed Sigmund
+  2684 | D:4      | Killed Sigmund
+  2685 | D:4      | Reached XP level 7. HP: 54/60 MP: 6/6
+  2743 | D:4      | Found Veplazo's Tremendous Tomes.
+  2914 | D:5      | Entered Level 5 of the Dungeon
+  3017 | D:5      | Reached skill level 7 in Ranged Weapons
+  3052 | D:5      | Found a staircase to the Ecumenical Temple.
+  3076 | Temple   | Entered the Ecumenical Temple
+  3201 | Temple   | Became a worshipper of Warmaster Okawaru
+  3243 | D:5      | Reached skill level 5 in Fighting
+  3913 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  3913 | D:5      | Found a faded altar of an unknown god.
+  3922 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  3961 | D:5      | Found a snail-covered altar of Cheibriados.
+  3963 | D:5      | Found a burning altar of Makhleb.
+  4012 | D:5      | Found a white marble altar of Elyvilon.
+  4038 | D:5      | HP: 1/61 [water moccasin (8)]
+  4039 | D:5      | Succumbed to a water moccasin's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_stone_temple_mockup, layout_basic
+D:2:      layout_rooms, serial_aquarium, aquarium_bridge_long_separate
+          [aquarium_subvault_bridge, aquarium_subvault_window,
+          aquarium_subvault_bridge, aquarium_subvault_wall,
+          aquarium_subvault_bridge, aquarium_subvault_bridge],
+          aquarium_window_2, aquarium_window_2, aquarium_window_1,
+          aquarium_view_2a, aquarium_balcony_3a,
+          ebering_ecumenical_altar_abandoned, uniq_robin
+D:3:      layout_rooms, nicolae_qazlal_style_of_elements, uniq_natasha
+D:4:      layout_basic, nicolae_shop_i_like_big_books, st_stairs_6, uniq_sigmund
+D:5:      layout_loops_ring, chequers_temple_overflow_minitemple,
+          marbit_many_paths, minmay_temple_entry_offerings,
+          minmay_stone_trees_medium, nrook_uturn, minmay_misc_feat_encased
+Temple:   zaba_magenta_temple
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Stealth        |  1        2     3    |  3.6
+Fighting       |        3     4     5 |  5.4
+Ranged Weapons |        5     6     7 |  7.6
+Dodging        |        3        4    |  4.9
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+   Fire: Shortbow          |    86 |   141 |    80 ||   307
+ Armour: Leather armour    |     4 |    10 |       ||    14
+         Scale mail        |       |    20 |    42 ||    62
+  Dodge: Dodged            |    22 |    61 |    51 ||   134
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4134 |   3990 |    144 |      0 |   3028 |   6 |  689.0 |
+       Dungeon |   3993 |   3861 |    132 |      0 |   2979 |   5 |  798.6 |
+        Temple |    141 |    129 |     12 |      0 |     49 |   1 |  141.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1086 daAuts
+     D:5: 1009 daAuts
+     D:1: 648 daAuts
+     D:2: 640 daAuts
+     D:3: 609 daAuts
+  Temple: 141 daAuts
+

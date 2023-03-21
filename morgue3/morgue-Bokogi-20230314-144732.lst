@@ -1,0 +1,239 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  7 stones
+(5, 14, D:1)
+  a +0 club
+(7, 12, D:1)
+  a +0 club
+(12, 24, D:1)
+  a +0 club
+(14, 5, D:1)
+  a +0 club
+  a +0 dagger
+(18, 41, D:1)
+  a +0 whip
+(24, 5, D:1)
+  a +0 dagger
+(24, 15, D:1)
+  6 stones
+(34, 7, D:1)
+  a +0 leather armour
+(35, 10, D:1)
+  2 stones
+(43, 11, D:1)
+  a +0 spear
+(45, 31, D:1)
+  a +0 dagger
+(46, 7, D:1)
+  a +0 robe
+(46, 14, D:1)
+  a +0 leather armour
+(53, 28, D:1)
+  a +0 cloak
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 plate armour
+(11, -16, D:2)
+  a +0 spear
+  a +0 animal skin
+  a +0 helmet
+(15, -12, D:2)
+  a +0 dagger
+(17, -5, D:2)
+  a +0 dagger
+(18, -5, D:2)
+  a +0 club
+  a staff of conjuration
+(22, -5, D:2)
+  a +0 club
+(23, -7, D:2)
+  a +0 dagger
+(29, -6, D:2)
+  a +0 dagger
+(31, -2, D:2)
+  a +0 club
+(32, -4, D:2)
+  a +0 robe
+(32, -2, D:2)
+  a +0 club
+  a +0 sling
+(37, 5, D:2)
+  a +0 club
+(38, 4, D:2)
+  a +0 dagger
+(39, 5, D:2)
+  a +0 club
+  a +0 sling
+(42, -10, D:2)
+  the +6 great sword "Qubbuo Ybyh" {heavy, rElec rC- Dex+3}
+    Dex:       It affects your dexterity (+3).
+    rC:        It makes you vulnerable to cold.
+    rElec:     It insulates you from electricity.
+
+Level 3 of the Dungeon
+(8, -2, D:3)
+  a +0 hand axe of flaming
+(12, 23, D:3)
+  a +0 flail
+  a +0 flail
+  a +0 whip
+(16, 23, D:3)
+  a +0 spear
+(19, -12, D:3)
+  6 poisoned darts
+(24, 9, D:3)
+  a +0 scale mail
+(27, 3, D:3)
+  a +0 ring mail
+(30, 14, D:3)
+  a +0 helmet
+(31, 14, D:3)
+  a +0 dagger
+(37, -5, D:3)
+  a stone
+(41, 21, D:3)
+  a +0 club
+  2 stones
+(46, -12, D:3)
+  a +0 leather armour
+(46, 14, D:3)
+  a staff of cold
+(47, 7, D:3)
+  a +0 short sword
+  3 stones
+
+Level 4 of the Dungeon
+[Shop] Veplazo's Tremendous Tomes
+  the Collected Works on the Non-Euclidean Atmosphere (920 gold)
+    Spells                            Type                      Level
+     a - Gell's Gravitas               Translocation                 3
+     b - Vhi's Electric Charge         Translocation/Air             3
+     c - Iskenderun's Mystic Blast     Conjuration/Translocation     4
+     d - Arcjolt                       Conjuration/Air               5
+     e - Lightning Bolt                Conjuration/Air               5
+     f - Summon Forest                 Summoning/Translocation       5
+     g - Dispersal                     Translocation                 6
+     h - Malign Gateway                Summoning/Translocation       7
+  the Tome of the Heated Serac (820 gold)
+    Spells                            Type                      Level
+     a - Freeze                        Ice                           1
+     b - Scorch                        Fire                          2
+     c - Inner Flame                   Hexes/Fire                    3
+     d - Frozen Ramparts               Ice                           3
+     e - Ice Form                      Ice/Transmutation             4
+     f - Fireball                      Conjuration/Fire              5
+     g - Simulacrum                    Ice/Necromancy                6
+     h - Fire Storm                    Conjuration/Fire              9
+  Oraanuit's Annotations on the Icicle (920 gold)
+    Spells                            Type                      Level
+     a - Freeze                        Ice                           1
+     b - Ensorcelled Hibernation       Hexes/Ice                     2
+     c - Frozen Ramparts               Ice                           3
+     d - Freezing Cloud                Conjuration/Ice/Air           5
+     e - Metabolic Englaciation        Hexes/Ice                     5
+     f - Simulacrum                    Ice/Necromancy                6
+     g - Ozocubu's Refrigeration       Ice                           7
+     h - Polar Vortex                  Ice                           9
+  Sif Muna's Compilation of Modification and Black Mysteries (1097 gold)
+    Spells                            Type                      Level
+     a - Anguish                       Hexes/Necromancy              4
+     b - Yara's Violent Unravelling    Hexes/Transmutation           5
+     c - Alistair's Intoxication       Transmutation/Poison          5
+     d - Blade Hands                   Transmutation                 5
+     e - Haunt                         Necromancy/Summoning          7
+     f - Storm Form                    Transmutation/Air             7
+     g - Borgnjor's Revivification     Necromancy                    8
+     h - Infestation                   Necromancy                    8
+  Sif Muna's Compilation of Bombardment and Snow (700 gold)
+    Spells                            Type                      Level
+     a - Magic Dart                    Conjuration                   1
+     b - Static Discharge              Conjuration/Air               2
+     c - Momentum Strike               Conjuration/Translocation     2
+     d - Hailstorm                     Conjuration/Ice               3
+     e - Ozocubu's Armour              Ice                           3
+     f - Summon Ice Beast              Ice/Summoning                 4
+     g - Starburst                     Conjuration/Fire              6
+     h - Conjure Ball Lightning        Conjuration/Air               6
+  the Reference Book on Limned Forms (900 gold)
+    Spells                            Type                      Level
+     a - Static Discharge              Conjuration/Air               2
+     b - Sticky Flame                  Conjuration/Fire              4
+     c - Iskenderun's Mystic Blast     Conjuration/Translocation     4
+     d - Ice Form                      Ice/Transmutation             4
+     e - Fireball                      Conjuration/Fire              5
+     f - Blade Hands                   Transmutation                 5
+     g - Starburst                     Conjuration/Fire              6
+     h - Dragon Form                   Transmutation                 7
+  the Vellum of the Underground Gift (700 gold)
+    Spells                            Type                      Level
+     a - Sandblast                     Earth                         1
+     b - Sting                         Transmutation/Poison          1
+     c - Cigotuvi's Dreadful Rot       Necromancy/Poison/Air         2
+     d - Poisonous Vapours             Poison/Air                    2
+     e - Leda's Liquefaction           Hexes/Earth                   4
+     f - Borgnjor's Vile Clutch        Necromancy/Earth              5
+     g - Iron Shot                     Conjuration/Earth             6
+     h - Statue Form                   Transmutation/Earth           6
+  the Grimoire of Transmigration (820 gold)
+    Spells                            Type                      Level
+     a - Beastly Appendage             Transmutation                 1
+     b - Passwall                      Transmutation/Earth           2
+     c - Wereblood                     Transmutation                 2
+     d - Ice Form                      Ice/Transmutation             4
+     e - Irradiate                     Conjuration/Transmutation     5
+     f - Blade Hands                   Transmutation                 5
+     g - Dragon Form                   Transmutation                 7
+     h - Storm Form                    Transmutation/Air             7
+(0, 0, D:4)
+  a +0 scythe
+  a +0 robe of willpower
+(22, -32, D:4)
+  a +0 short sword
+(25, -5, D:4)
+  a +0 war axe
+(32, -22, D:4)
+  a +0 leather armour
+(41, -16, D:4)
+  a +0 short sword
+(43, -10, D:4)
+  a +0 short sword
+(52, -8, D:4)
+  a +0 robe
+(53, -14, D:4)
+  3 stones
+
+Level 5 of the Dungeon
+(0, 15, D:5)
+  a +0 dagger
+(6, 1, D:5)
+  a hound corpse
+(9, 24, D:5)
+  a +0 sling
+(11, -1, D:5)
+  a +0 robe
+(25, -1, D:5)
+  a +0 scale mail
+(27, -8, D:5)
+  a +0 leather armour
+(28, 32, D:5)
+  a +0 whip
+(30, 32, D:5)
+  5 poisoned darts
+(31, 37, D:5)
+  5 poisoned darts
+(32, 19, D:5)
+  a +0 hand axe
+(33, 30, D:5)
+  7 stones
+(35, -3, D:5)
+  6 stones
+(38, 17, D:5)
+  a +0 long sword
+(43, 24, D:5)
+  a +0 whip
+
+the Ecumenical Temple
+

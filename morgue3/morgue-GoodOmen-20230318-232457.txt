@@ -1,0 +1,236 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 9804046827789569840
+
+63 GoodOmen the Magician (level 3, -3/19 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 18, 2023.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (11 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:03:00 (1532 turns).
+
+GoodOmen the Magician (Deep Elf Earth Elementalist) Turns: 1532, Time: 00:03:02
+
+Health: -3/19      AC:  7    Str:  5    XL:     3   Next: 87%
+Magic:  4/10       EV: 13    Int: 21    God:    
+Gold:   84         SH:  0    Dex: 15    Spells: 6/10 levels left
+
+rFire   . . .      SeeInvis .    m - +2 dagger (protect)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    i - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                e - +4 ring of protection
+MPRegen 0.12/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 84 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ m - a +2 dagger of protection (weapon)
+Armour
+ a - a +0 robe (worn)
+ i - a +0 pair of boots (worn)
+Jewellery
+ e - a +4 ring of protection (left hand)
+Scrolls
+ c - a scroll of fog {unknown}
+ f - a scroll of amnesia {unknown}
+ g - a scroll of noise {unknown}
+ k - a scroll of identify {unknown}
+ l - a scroll of teleportation {unknown}
+ n - a scroll of immolation {unknown}
+Potions
+ b - a potion of magic
+ d - 4 potions of curing {unknown}
+ h - a potion of haste {unknown}
+ j - 2 potions of attraction {unknown}
+ o - a potion of heal wounds {unknown}
+ p - a potion of cancellation {unknown}
+
+
+   Skills:
+ - Level 2.7 Dodging
+ - Level 2.7 Stealth
+ + Level 4.3 Spellcasting
+ - Level 1.4 Transmutations
+ + Level 4.2 Earth Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           44%        2d11      1%          1
+b - Stone Arrow           Conj/Erth      26%        3d8       14%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      13%        N/A       5%          2
+ Petrify                  Tmut/Erth      16%        N/A       36%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Message History
+
+Aiming: Sandblast (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc
+Aim: an orc, wielding a +0 whip and wearing a +0 ring mail (85% to hit)
+The blast of sand hits the orc.
+The orc is heavily wounded.
+The orc hits you with a +0 whip.
+Casting: Sandblast (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 2% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc
+Aim: an orc, wielding a +0 whip and wearing a +0 ring mail (heavily wounded,
+85% to hit)
+The blast of sand hits the orc!
+You kill the orc!
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - orc
+Aim: an orc, wielding a +0 whip (83% to hit)
+The blast of sand misses the orc. The orc hits you with a +0 whip.
+The orc hits you but does no damage.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc
+Aim: an orc, wielding a +0 whip (83% to hit)
+The blast of sand hits the orc!
+You kill the orc!
+The orc throws a boomerang. The boomerang misses you. The orc priest closely
+misses you.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Sandblast (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - orc priest
+Aim: an orc priest, wielding a +0 trident (83% to hit)
+The blast of sand hits the orc priest!
+The orc priest is heavily wounded.
+The orc throws a boomerang. The boomerang barely misses you. The orc priest
+closely misses you.
+The orc priest invokes the aid of Beogh against you.
+Beogh smites you!
+Ouch! That really hurt!
+You die...
+
+     .....(.......#
+  #.#####.###..#.##
+.##..............##
+....###..............
+.....................
+..........###..######
+..........###..###
+..........'.......  .
+..........#####... ..
+..........#    ......
+....###'###     .....
+. ..  #@#       .....
+      #o#######......
+      #.o.oo..o......
+      #..............
+      #..............
+      ##..........###
+       #..........#
+       #..........#
+       #..........#
+       #..........#
+
+
+You could see an orc priest and an orc.
+
+Vanquished Creatures
+  2 adders
+  A worm (D:2)
+  A dart slug (D:3)
+  3 orcs (D:3)
+  6 endoplasms
+  A giant cockroach (D:1)
+  2 goblins (D:2)
+  4 hobgoblins
+  3 jackals (D:1)
+  A quokka (D:3)
+  3 ball pythons
+  3 bats (D:1)
+  A frilled lizard (D:3)
+  A kobold (D:2)
+  3 rats
+35 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   168 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   856 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/10
+   860 | D:2      | Learned a level 3 spell: Stone Arrow
+   997 | D:2      | Found a faded altar of an unknown god.
+  1368 | D:3      | Identified the +0 ring mail of Nihilism {rF- rCorr Dex+7
+                  | Stlth-}
+  1532 | D:3      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_shrine, layout_rooms, interstate_on_off
+D:2:      layout_basic, basic_ecumenical_altar
+D:3:      layout_basic, moated_statue
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Spellcasting   |        4 |  4.3
+Earth Magic    |        4 |  4.2
+Dodging        |          |  2.7
+Stealth        |          |  2.7
+Transmutations |          |  1.4
+
+Action                     || total
+---------------------------++-------
+   Cast: Sandblast         ||    48
+ Armour: Robe              ||     1
+  Dodge: Dodged            ||     8
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1554 |   1480 |     74 |      0 |   1239 |   3 |  518.0 |
+       Dungeon |   1554 |   1480 |     74 |      0 |   1239 |   3 |  518.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 721 daAuts
+     D:1: 568 daAuts
+     D:3: 264 daAuts
+

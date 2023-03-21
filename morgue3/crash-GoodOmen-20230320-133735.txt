@@ -1,0 +1,443 @@
+ERROR in 'menu.cc' at line 309: ASSERT failed: index of 1 out of range 0 (0) .. (int)m_menu->items.size() (1)
+
+Version: Dungeon Crawl Stone Soup 0.30-a0-879-ga8ba668304
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Seed: 12595741861874089341, deterministic pregen: 1
+Command line: ./crawl
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 26 stack frames.
+./crawl(_Z17write_stack_traceP8_IO_FILE+0x3a) [0x5609d92b1d8a]: write_stack_trace(_IO_FILE*)
+./crawl(_Z13do_crash_dumpv+0x40c) [0x5609d92bab9c]: do_crash_dump()
+./crawl(_Z20crash_signal_handleri+0x1cc) [0x5609d92b21dc]: crash_signal_handler(int)
+/usr/lib/libc.so.6(+0x38f50) [0x7fd3b6231f50]: 
+/usr/lib/libc.so.6(+0x878ec) [0x7fd3b62808ec]: 
+/usr/lib/libc.so.6(gsignal+0x18) [0x7fd3b6231ea8]: 
+./crawl(+0x447046) [0x5609d92ba046]: 
+./crawl(+0x44763f) [0x5609d92ba63f]: 
+./crawl(+0x72cf53) [0x5609d959ff53]: 
+./crawl(_ZN4Menu9line_downEv+0x75) [0x5609d95a1275]: Menu::line_down()
+./crawl(_ZN4Menu15process_commandE12command_type+0xa9) [0x5609d95aabd9]: Menu::process_command(command_type)
+./crawl(+0x72cc3b) [0x5609d959fc3b]: 
+./crawl(_ZN2ui6Widget8on_eventERKNS_5EventE+0x79) [0x5609d98b7df9]: ui::Widget::on_event(ui::Event const&)
+./crawl(_ZN2ui6UIRoot13deliver_eventERNS_5EventE+0x2fa) [0x5609d98b3b5a]: ui::UIRoot::deliver_event(ui::Event&)
+./crawl(_ZN2ui6UIRoot8on_eventER8wm_event+0x90) [0x5609d98b4cf0]: ui::UIRoot::on_event(wm_event&)
+./crawl(_ZN2ui11pump_eventsEi+0x94) [0x5609d98b9db4]: ui::pump_events(int)
+./crawl(_ZN4Menu7do_menuEv+0x33c) [0x5609d95a5c9c]: Menu::do_menu()
+./crawl(_ZN4Menu4showEb+0xa8) [0x5609d95a9e28]: Menu::show(bool)
+./crawl(_ZN6quiver6chooseERNS_13action_cyclerEb+0x51) [0x5609d9732831]: quiver::choose(quiver::action_cycler&, bool)
+./crawl(_ZN6quiver13action_cycler6targetEv+0x182) [0x5609d9732a82]: quiver::action_cycler::target()
+./crawl(+0xaf95eb) [0x5609d996c5eb]: 
+./crawl(+0xafa095) [0x5609d996d095]: 
+./crawl(main+0x189) [0x5609d9203b79]: 
+/usr/lib/libc.so.6(+0x23790) [0x7fd3b621c790]: 
+/usr/lib/libc.so.6(__libc_start_main+0x8a) [0x7fd3b621c84a]: 
+./crawl(_start+0x25) [0x5609d9204445]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 12.2.1 20230201
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -pthread -D_REENTRANT -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -isystem /usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -isystem /usr/include/SDL2 -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="/usr/share/fonts/TTF/DejaVuSans.ttf" -DMONOSPACED_FONT="/usr/share/fonts/TTF/DejaVuSansMono.ttf" -D_REENTRANT -DCLUA_BINDINGS
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 2
+
+Level id: D:2
+Level build method = , level layout type  = rooms, absdepth0 = 1
+Level vaults:
+    layout_basic
+    uniq_natasha
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, GoodOmen the Draconian Earth Elementalist.
+The heart of this dungeon contains the wondrous artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+b - a silvery potion
+You now have 15 gold pieces.
+A ball python comes into view.
+A ball python is nearby!
+The blast of sand hits the ball python!
+You kill the ball python!
+Magic restored.
+Found a robe.
+You see here a +0 robe.
+Okay, then.
+You aren't carrying any wearable armour.
+You see here a +0 robe.
+You aren't carrying any wearable armour.
+Unknown command.
+A kobold comes into view. It is wielding a +1 dagger of venom.
+The blast of sand hits the kobold but does no damage.
+The kobold closely misses you.
+The blast of sand hits the kobold.
+You kill the kobold!
+Things that are here:
+a +1 dagger of venom; a stone; a kobold corpse
+Your +1 dagger of venom begins to drip with poison!
+c - a +1 dagger of venom (weapon)
+Things that are here:
+a stone; a kobold corpse
+A quokka comes into view.
+Found a leather armour.
+Found 13 gold pieces.
+The blast of sand hits the quokka.
+The quokka is almost dead.
+The quokka bites you but does no damage.
+The blast of sand hits the quokka!
+You kill the quokka!
+You now have 28 gold pieces (gained 13).
+A ball python comes into view.
+The blast of sand hits the ball python!
+You kill the ball python!
+Found 2 stones.
+You see here a +0 leather armour.
+A rat and 2 ball pythons come into view.
+The ball python hisses angrily. x2
+There are monsters nearby!
+The blast of sand hits the ball python!
+You kill the ball python!
+The blast of sand hits the ball python.
+You kill the ball python!
+d - a scroll labelled FEMIUCV TYOHU
+Found a dagger.
+You now have 34 gold pieces (gained 6).
+A ball python comes into view.
+The blast of sand hits the ball python!
+You kill the ball python!
+You now have 37 gold pieces (gained 3).
+A kobold comes into view. It is wielding a +0 short sword.
+The kobold shouts!
+The kobold throws a stone. The stone closely misses you.
+Found 13 gold pieces. Found a stone staircase leading down.
+The blast of sand hits the kobold!
+You kill the kobold!
+You have reached level 2!
+You now have 50 gold pieces (gained 13).
+An endoplasm comes into view.
+Found a metallic sapphire potion and 9 gold pieces.
+An endoplasm is nearby!
+The blast of sand hits the endoplasm!
+You kill the endoplasm!
+e - a metallic sapphire potion
+You now have 59 gold pieces (gained 9).
+Found a spear.
+f - a scroll labelled WORUOZ KASCHE
+Your movement speed is average. Your attack delay is about 1.0.
+Your damage rating with your +1 dagger of venom is about 5 (Base 4 x 102% (Dex)
+x 100% (Skill) + 1 (Ench)).
+A giant cockroach comes into view.
+A giant cockroach is nearby!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You miscast Sandblast.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+The blast of sand hits the giant cockroach!
+You kill the giant cockroach!
+Your magical contamination has completely faded away.
+A bat and an endoplasm come into view.
+There are monsters nearby!
+The endoplasm quivers.
+Found a dented bone amulet.
+You see here a giant cockroach corpse.
+The blast of sand hits the endoplasm.
+The endoplasm is severely wounded.
+The blast of sand hits the endoplasm!
+You kill the endoplasm!
+Found a gold piece.
+The bat barely misses you.
+The blast of sand hits the bat!
+You kill the bat!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Found 5 gold pieces.
+You now have 60 gold pieces (gained 1).
+Found a stone staircase leading down.
+Found 10 gold pieces.
+Found 16 gold pieces.
+A quokka comes into view.
+You see here an amulet of guardian spirit.
+A ball python comes into view.
+The blast of sand hits the quokka.
+You kill the quokka!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+The blast of sand hits the ball python!
+You kill the ball python!
+g - an amulet of guardian spirit
+You start putting on your amulet.
+You continue putting on your amulet of guardian spirit. x5
+You finish putting on your amulet of guardian spirit.
+You feel your power drawn to a protective spirit.
+g - an amulet of guardian spirit (around neck)
+You now have 70 gold pieces (gained 10).
+You now have 86 gold pieces (gained 16).
+You now have 91 gold pieces (gained 5).
+You see here a quokka corpse.
+A giant cockroach comes into view.
+The blast of sand hits the giant cockroach!
+You kill the giant cockroach!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You see here a +0 spear.
+A bat comes into view.
+A bat is nearby!
+The bat closely misses you.
+The blast of sand hits the bat!
+You kill the bat!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+You see here a bat corpse.
+A dart slug comes into view.
+Found a stone staircase leading down.
+A rat comes into view.
+You miscast Sandblast.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+The blast of sand hits the dart slug.
+The dart slug is moderately wounded.
+The blast of sand hits the dart slug.
+The dart slug is severely wounded.
+The dart slug barely misses you. The rat barely misses you. The dart slug
+barely misses you.
+The blast of sand hits the dart slug.
+You kill the dart slug!
+The rat bites you but does no damage.
+The blast of sand hits the rat.
+You kill the rat!
+Your magical contamination has completely faded away.
+You are out of magic!
+You see here a rat corpse.
+h - a fizzy clear potion
+An endoplasm comes into view.
+An endoplasm is nearby!
+You see here 7 gold pieces.
+The blast of sand hits the endoplasm!
+You kill the endoplasm!
+You now have 98 gold pieces (gained 7).
+A goblin comes into view. It is wielding a +1 dagger of freezing.
+A goblin is nearby!
+The blast of sand hits the goblin!
+You kill the goblin!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+A goblin comes into view. It is wielding a +0 club.
+The goblin shouts!
+The blast of sand hits the goblin!
+You kill the goblin!
+You see here a +1 dagger of freezing.
+Things that are here:
+a +0 club; a goblin corpse
+Found a spear.
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a +0 leather armour.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+The blast of sand hits the rat!
+You kill the rat!
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+Done exploring.
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+Found a ring mail, 22 gold pieces and a slimy short sword.
+Found a stone staircase leading up.
+There is a stone staircase leading up here.
+A kobold comes into view. It is wielding a +0 club.
+The kobold throws a stone. The stone misses you.
+A kobold is nearby!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+The blast of sand hits the kobold!
+You kill the kobold!
+Found an escape hatch in the ceiling.
+Found 10 gold pieces.
+Found a scroll labelled APATSIOLASI.
+You now have 107 gold pieces (gained 9).
+You see here the +1 short sword of the Warrior {freeze, rPois rN+ rCorr}.
+Your +1 dagger of venom stops dripping with poison.
+The +1 short sword of the Warrior {freeze, rPois rN+ rCorr} glows with a cold
+blue light!
+i - the +1 short sword of the Warrior (weapon) {freeze, rPois rN+ rCorr}
+You drop a +1 dagger of venom.
+You now have 117 gold pieces (gained 10).
+You now have 130 gold pieces (gained 13).
+A quokka comes into view.
+A quokka is nearby!
+The blast of sand misses the quokka.
+A quokka is nearby!
+The blast of sand hits the quokka.
+You kill the quokka!
+Magic restored.
+Found a stone staircase leading down.
+A ball python comes into view.
+Found a scroll labelled WORUOZ KASCHE.
+The ball python hisses angrily.
+The blast of sand misses the ball python.
+The blast of sand hits the ball python!
+You kill the ball python!
+You now have 137 gold pieces (gained 7).
+f - 2 scrolls labelled WORUOZ KASCHE (gained 1)
+Found a stone staircase leading up.
+A hobgoblin comes into view.
+You see here a +1 dagger of venom.
+The blast of sand hits the hobgoblin.
+You kill the hobgoblin!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever. x2; Your scales feel tougher.
+This spell is extremely dangerous to cast!
+Memorise Stone Arrow, consuming 3 spell levels and leaving 2? 
+You start memorising the spell. You continue memorising. x3
+You finish memorising. Spell assigned to 'b'.
+c - a scroll labelled APATSIOLASI
+Casting: Sandblast (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Unknown command.
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - you
+That would be overly suicidal.
+Okay, then.
+You have nothing you can fire or use right now.
+Aiming: Sandblast (safe; 3% risk of failure)
+Press: ? - help, Q - select action
+Shift-Dir - straight line, f - you
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.30-a0-879-ga8ba668304
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_FIRE
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [GoodOmen]
+Species: Draconian
+Job:     Earth Elementalist
+
+HP: 26/26; mods: 0/0
+MP: 6/6; mod: 0
+Stats: 10 (10) 17 (17) 11 (11)
+Position: (24, 33), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |          X          |   0   |     0    |    0  |      0 | 0/42
+Short Blades    |          X          |   0   |     0    |    0  |      0 | 0/50
+Long Blades     |          X          |   0   |     0    |    0  |      0 | 0/50
+Axes            |          X          |   0   |     0    |    0  |      0 | 0/50
+Maces & Flails  |          X          |   0   |     0    |    0  |      0 | 0/50
+Polearms        |          X          |   0   |     0    |    0  |      0 | 0/50
+Staves          |          X          |   0   |     0    |    0  |      0 | 0/50
+Ranged Weapons  |          X          |   0   |     0    |    0  |      0 | 0/59
+Throwing        |          X          |   0   |     0    |    0  |      0 | 0/59
+Dodging         |          X          |   0   |     0    |    1  |    151 | 92/119
+Stealth         |          X          |   0   |     0    |    1  |    127 | 77/100
+Shields         |          X          |   0   |     0    |    0  |      0 | 0/50
+Unarmed Combat  |          X          |   0   |     0    |    0  |      0 | 0/50
+Spellcasting    |          X          |   1   |    20    |    2  |    265 | 87/178
+Conjurations    |          X          |   2   |    40    |    0  |      0 | 0/50
+Hexes           |          X          |   0   |     0    |    0  |      0 | 0/59
+Summonings      |          X          |   0   |     0    |    0  |      0 | 0/50
+Necromancy      |          X          |   0   |     0    |    0  |      0 | 0/50
+Translocations  |          X          |   0   |     0    |    0  |      0 | 0/50
+Transmutations  |          X          |   0   |     0    |    1  |     51 | 1/100
+Fire Magic      |          X          |   0   |     0    |    0  |      0 | 0/50
+Ice Magic       |          X          |   0   |     0    |    0  |      0 | 0/50
+Air Magic       |          X          |   0   |     0    |    0  |      0 | 0/50
+Earth Magic     |          X          |   2   |    40    |    3  |    476 | 176/200
+Poison Magic    |          X          |   0   |     0    |    0  |      0 | 0/50
+Invocations     |          X          |   0   |     0    |    0  |      0 | 0/42
+Evocations      |          X          |   0   |     0    |    0  |      0 | 0/50
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 137
+    #49: 146
+
+Mutations:
+    cold-blooded: 1 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #8: +1 short sword of the Warrior {freeze, rPois rN+ rCorr}
+    eq slot #9, inv slot #6: amulet of guardian spirit
+
+}}}}}}}}}}}
+
+
+Screenshot:
+...............#.#.#<.....#..
+###.##.#.##......#.#.......[..
+     #.#.##...............#....
+     #.#.##.##.......#..### ...
+     #<#.##.##.......#.....  ..
+     ###.##.##<..).......##.  #
+       ............#.#.#...
+       ..#.####......#.#.##.
+         #.   #....###.#..
+         #.   #..#.###
+              #......#
+              #####@##
+            .......†#
+            .........
+            ..........
+            ...........
+            ............
+            ##########.##
+                      .#
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

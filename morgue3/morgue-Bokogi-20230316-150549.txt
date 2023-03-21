@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 16853709479193513020
+
+4 Bokogi the Firebug (level 1, 16/16 HPs)
+             Began as an Ogre Fire Elementalist on Mar 16, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:05 (299 turns).
+
+Bokogi the Firebug (Ogre Fire Elementalist)          Turns: 299, Time: 00:01:06
+
+Health: 16/16      AC:  3    Str: 11    XL:     1   Next: 70%
+Magic:  0/4        EV:  9    Int: 16    God:    
+Gold:   18         SH:  0    Dex:  9    Spells: 4/5 levels left
+
+rFire   . . .      SeeInvis .    (no weapon)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   +          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth   +                        (no amulet)
+HPRegen 0.22/turn                f - ring of poison resistance
+MPRegen 0.09/turn                (no ring)
+
+@: very slightly contaminated
+A: large, unfitting armour, tough skin 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 18 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ f - a ring of poison resistance (left hand)
+Scrolls
+ c - a scroll of immolation {unknown}
+ d - a scroll of identify {unknown}
+Potions
+ b - 2 potions of magic
+ e - a potion of lignification {unknown}
+
+
+   Skills:
+ - Level 1.8 Dodging
+ - Level 1.4 Stealth
+ + Level 2.5 Spellcasting
+ * Level 1.1 Conjurations
+ * Level 2.8 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      32%        2x1d5     9%          1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Inner Flame              Hex/Fire       6%         N/A       32%         3
+ Kindle Blastsparks       Fire/Tloc/Air  8%         2d10      38%         3
+ Flame Wave               Conj/Fire      8%         2d5       65%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Shops:
+D:1 *(?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+Message History
+
+Your foxfire dissipates! x2
+You now have 18 gold pieces (gained 9).
+f - a ring of poison resistance
+f - a ring of poison resistance (left hand)
+Found a dagger.
+Found a stone staircase leading down.
+You see here a +0 leather armour.
+A kobold comes into view. It is wielding a +0 whip.
+A kobold is nearby!
+You conjure some foxfire!
+You conjure some foxfire!
+The kobold shouts!
+The kobold throws a stone. The stone barely misses you.
+You conjure some foxfire!
+You conjure some foxfire!
+Your foxfire dissipates!
+The foxfire hits the kobold but does no damage.
+Your foxfire dissipates!
+You are out of magic!
+Your foxfire dissipates!
+The foxfire hits the kobold.
+The kobold is heavily wounded.
+The foxfire hits the kobold.
+The kobold is severely wounded.
+The foxfire hits the kobold.
+You kill the kobold!
+A giant cockroach comes into view.
+A giant cockroach is nearby!
+You conjure some foxfire!
+You are out of magic!
+You are out of magic!
+You are out of magic!
+A giant cockroach is nearby!
+A giant cockroach is nearby!
+You miscast Foxfire.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+You are out of magic!
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..........####...#  #........#
+......>..........####........#
+........>....................#
+.............................#
+.................####........#
+...........###...## #........#
+........#.#.......#####.######
+.#........#.#...#.#...#.#
+#..###)[.##..#.#..#...#.#
+#.## #..###...∩...#.....#
+#.####..###..#.#.......##
+..##...###..#...#..@.B.#######
+.......##.........##.#.#.....###
+...........^....##........).....
+................##........###.##
+..~.~.~~.~..~...########....#
+~PPP~~~≈~~...####      #..###
+≈≈≈≈≈≈≈≈P≈~P≈≈         #..#
+~~~~≈≈≈≈≈≈≈≈≈≈≈        #..#
+~~~.~~~≈≈≈≈≈≈≈≈        #...
+                       ##.#.
+
+
+You could see a giant cockroach.
+
+Vanquished Creatures
+  A ball python (D:1)
+  A bat (D:1)
+  2 kobolds (D:1)
+4 creatures vanquished.
+
+Vanquished Creatures (others)
+  18 foxfires (D:1)
+18 creatures vanquished.
+
+Grand Total: 22 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Ogre Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+    10 | D:1      | Found a faded altar of an unknown god.
+    37 | D:1      | Found Wuxkudgh's Magic Scroll Shoppe.
+   127 | D:1      | Found Otry's Weapon Boutique.
+   135 | D:1      | Found Giqamoi's Assorted Antiques.
+   151 | D:1      | Reached skill level 1 in Conjurations
+   299 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_tiny_a, layout_rooms, serial_shops,
+          nicolae_shop_waterfront, nicolae_shop_advertising_works
+          [nicolae_subvault_shop_adworks], nicolae_shop_overgrown_old_shop,
+          shapermc_ecumenical_altar_mp_highgroup, minmay_misc_feat_roman,
+          chequers_big_river
+
+Skill      XL: |  1 |
+---------------+----+-----
+Conjurations   |  1 |  1.1
+Dodging        |    |  1.8
+Stealth        |    |  1.4
+Spellcasting   |    |  2.5
+Fire Magic     |    |  2.8
+
+Action                     || total
+---------------------------++-------
+   Cast: Foxfire           ||    11
+  Dodge: Dodged            ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    298 |    298 |      0 |      0 |    238 |   1 |  298.0 |
+       Dungeon |    298 |    298 |      0 |      0 |    238 |   1 |  298.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 298 daAuts
+

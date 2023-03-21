@@ -1,0 +1,289 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 103086133223194680
+
+364 Kuzon the Firebug (level 7, 0/46 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Succumbed to an adder's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:16:38 (4053 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)         Turns: 4053, Time: 00:16:38
+
+Health: 0/46       AC:  6    Str:  9    XL:     7   Next: 0%
+Magic:  7/12       EV: 12    Int: 17    God:    
+Gold:   306        SH:  0    Dex: 13    Spells: 10/13 levels left
+
+rFire   . . .      SeeInvis .    l - +0 dagger
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    n - +1 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        r - +1 Delatra's gloves {ID++}
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.27/turn                (no ring)
+MPRegen 0.13/turn                (no ring)
+
+@: lethally poisoned (0 -> 0)
+A: no striking features
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 306 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +6 trident of distortion
+ l - a +0 dagger (weapon)
+Armour
+ a - a +0 robe (worn)
+ n - a +1 helmet (worn)
+ r - the +1 Delatra's gloves (worn) {ID++}
+   (You found it on level 3 of the Dungeon)   
+   
+   ID++:      It heals its wearer when they drink unknown potions, and restores
+   their MP when they read unknown scrolls.
+Magical Staves
+ m - a staff of cold
+Scrolls
+ c - a scroll of silence
+ f - a scroll of noise {unknown}
+ i - a scroll of magic mapping {unknown}
+ t - 3 scrolls of identify
+Potions
+ b - a potion of heal wounds {unknown}
+ d - 2 potions of invisibility {unknown}
+ g - 2 potions of mutation {unknown}
+ h - 4 potions of attraction {unknown}
+ j - 3 potions of curing
+ o - a potion of cancellation {unknown}
+ p - 2 potions of flight {unknown}
+ s - a potion of berserk rage {unknown}
+
+
+   Skills:
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ + Level 3.5 Spellcasting
+ + Level 3.3 Conjurations
+ * Level 5.5 Fire Magic
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      72%        2x1d7     2%          1
+b - Scorch                Fire           42%        2d7       2%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       12%        N/A       16%         3
+ Kindle Blastsparks       Fire/Tloc/Air  18%        2d11      24%         3
+ Flame Wave               Conj/Fire      18%        2d7       26%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Zin
+
+Shops:
+D:2 *
+
+Annotations:
+D:4 Eustachio
+
+Message History
+
+You kill the goblin!
+You feel sick.
+You hear a shout! You hear an angry hiss.
+The adder completely misses you. Eustachio is poisoned.
+Eustachio mumbles some strange words.
+Casting: Scorch (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't have enough magic to cast this spell.
+Magic courses through your body. You feel sick.
+The adder is no longer more vulnerable to fire.
+The adder barely misses you. The ufetubus is poisoned. The adder bites you but
+does no damage.
+Eustachio is engulfed in poison gas. Eustachio looks even sicker.
+The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+This spell is quite dangerous to cast!
+Memorise Flame Wave, consuming 4 spell levels and leaving 5? 
+You feel sick. The ufetubus is engulfed in poison gas. The ufetubus looks even
+sicker.
+The adder closely misses you. Eustachio is engulfed in poison gas. Eustachio
+looks even sicker.
+The goblin hits you but does no damage. Your memorisation is interrupted.
+Casting: Scorch (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Unknown command.
+Casting: Scorch (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the adder.
+You kill the adder!
+You feel sick. The goblin barely misses you. Eustachio is engulfed in poison
+gas.
+Eustachio looks as sick as possible!
+You have reached level 7!
+Casting: Scorch (safe; 2% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the goblin.
+You kill the goblin!
+You feel sick.
+You hear an angry hiss.
+Eustachio is engulfed in poison gas. Eustachio looks as sick as possible!
+The kobold hits you with a +0 short sword.
+* * * LOW HITPOINT WARNING * * *
+You die...
+
+              ####
+          ####...###
+          #...$§....
+          #..§§§#.#
+###########5§§§§... g
+.☼g☼g§†@.Kgs@§§§#  ##
+.§§########hg§§§# #(#
+          #..§§§#.###
+          #.<..§.....
+          #...†.#.##
+          ###.#......
+            #@.......
+            #........
+            #........
+            #........
+            ##@.!....
+              ....#..
+
+
+You could see Eustachio (extremely poisoned), a scorpion, a hound, an ufetubus
+(summoned, very poisoned), 3 hobgoblins, a goblin and a kobold.
+
+Vanquished Creatures
+  A jelly (D:2)
+  Terence (D:3)
+  Natasha (thrice) (D:3)
+  3 adders
+  8 gnolls (D:3)
+  A worm (D:3)
+  3 dart slugs
+  An orc (D:3)
+  2 bats (D:1)
+  9 endoplasms
+  A giant cockroach (D:1)
+  17 hobgoblins
+  3 jackals (D:3)
+  4 quokkas
+  5 ball pythons
+  32 goblins
+  12 kobolds
+  4 rats
+110 creatures vanquished.
+
+Vanquished Creatures (others)
+  245 foxfires
+  3 fungi (D:2)
+  6 plants (D:2)
+  9 toadstools (D:2)
+263 creatures vanquished.
+
+Grand Total: 373 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   198 | D:1      | Reached XP level 2. HP: 19/19 MP: 3/5
+   223 | D:1      | Learned a level 2 spell: Scorch
+   627 | D:2      | Found Nuvu's General Store.
+   799 | D:2      | Reached XP level 3. HP: 4/24 MP: 4/6
+  1066 | D:2      | Identified the +5 ring mail of Narcissism {rElec Str+3
+                  | Int+5 Stlth-}
+  1590 | D:3      | Found the +1 Delatra's gloves {ID++}
+  1871 | D:2      | Reached skill level 4 in Fire Magic
+  1871 | D:2      | Reached XP level 4. HP: 30/30 MP: 0/8
+  2369 | D:3      | Noticed Terence
+  2382 | D:3      | Killed Terence
+  2383 | D:3      | Reached XP level 5. HP: 31/35 MP: 2/9
+  2498 | D:3      | Noticed Natasha
+  2501 | D:3      | Killed Natasha
+  3065 | D:3      | Reached XP level 6. HP: 41/41 MP: 5/10
+  3301 | D:3      | Reached skill level 5 in Fire Magic
+  3474 | D:3      | Noticed Natasha
+  3483 | D:3      | Killed Natasha
+  3742 | D:3      | Found a glowing silver altar of Zin.
+  3762 | D:3      | Noticed Natasha
+  3769 | D:3      | Killed Natasha
+  4036 | D:4      | Noticed Eustachio
+  4052 | D:4      | Reached XP level 7. HP: 5/46 MP: 9/12
+  4052 | D:4      | HP: 1/46 [kobold/+0 short sword (3)]
+  4053 | D:4      | Succumbed to an adder's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      wheals_arrival_shading, layout_rooms
+D:2:      cheibrodos_fertilizer, layout_basic, serial_shops,
+          nicolae_shop_crystal, nicolae_kite_square_tiling_tiny,
+          chequers_serial_rivers_micro_a, chequers_arboretum,
+          grunt_ministairs_12, minmay_misc_feat_plants, minmay_misc_feat_rows,
+          hex_intersection, serial_bayou_pond_a
+D:3:      minmay_goblin_kobold_castle, layout_rooms, zin_scriptorium,
+          uniq_terence, uniq_natasha
+D:4:      layout_rooms, led_sif_pool, minmay_surrounded, uniq_eustachio,
+          uniq_robin
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |        2        3 |  3.3
+Fire Magic     |        4        5 |  5.5
+Spellcasting   |              3    |  3.5
+Dodging        |                   |  2.0
+Stealth        |                   |  2.0
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Dagger            |    19 |       |       ||    19
+   Cast: Foxfire           |    29 |   106 |       ||   135
+         Scorch            |    12 |    13 |     1 ||    26
+    Use: Potion            |     1 |     2 |       ||     3
+         Scroll            |     2 |     4 |       ||     6
+ Armour: Robe              |     9 |    32 |       ||    41
+  Dodge: Dodged            |    35 |    74 |       ||   109
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4063 |   3924 |    139 |      0 |   3166 |   4 | 1015.8 |
+       Dungeon |   4063 |   3924 |    139 |      0 |   3166 |   4 | 1015.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1917 daAuts
+     D:2: 1504 daAuts
+     D:1: 618 daAuts
+     D:4: 23 daAuts
+

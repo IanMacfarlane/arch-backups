@@ -1,0 +1,84 @@
+Minos
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +3 dagger of draining
+(4, 3, D:1)
+  a +0 dagger
+  a +0 dagger of speed
+(12, 26, D:1)
+  a +0 club
+(14, 14, D:1)
+  a +0 club
+(14, 19, D:1)
+  6 stones
+(29, 0, D:1)
+  a +0 ring mail
+(30, -4, D:1)
+  a +0 hand axe
+(34, 5, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+[Shop] Eficrifu's Armour Emporium
+  a +3 ring mail (210 gold)
+  a +4 plate armour of fire resistance (500 gold)
+  a +0 ring mail (40 gold)
+  a +0 robe (7 gold)
+  a scarf of harm (90 gold)
+  a +0 leather armour (20 gold)
+  a +0 plate armour (230 gold)
+  the +5 chain mail of Sloth {Fly rF- SInv Stlth+} (386 gold)
+    rF:        It makes you vulnerable to fire.
+    SInv:      It lets you see invisible.
+    Fly:       It grants you flight.
+    Stlth:     It makes you more stealthy.
+  a +0 chain mail (45 gold)
+  a +0 robe (7 gold)
+(0, 0, D:2)
+  a +0 quarterstaff
+(3, -25, D:2)
+  a +0 dagger
+  3 stones
+(3, -18, D:2)
+  a +0 robe
+(5, -7, D:2)
+  a +0 sling
+(13, -26, D:2)
+  a +0 hand axe
+(16, -37, D:2)
+  4 stones
+(22, -12, D:2)
+  a +0 whip
+(35, -5, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  the +0 robe of Theory {+Blink Regen+}
+    +Blink:    It lets you blink.
+    Regen:     It increases your rate of health regeneration.
+(2, -48, D:3)
+  2 stones
+(14, 3, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  16 gold pieces
+(13, 4, D:4)
+  a scroll of poison
+(14, 4, D:4)
+  a javelin
+(21, 4, D:4)
+  a throwing net
+(24, 17, D:4)
+  an adder corpse
+(47, 21, D:4)
+  a +0 robe
+(52, 10, D:4)
+  a +0 flail
+  a +0 leather armour
+  8 stones
+  an orc corpse
+

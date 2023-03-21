@@ -1,0 +1,253 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8423325998855031654
+
+130 Bokogi the Shooter (level 4, 0/40 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Slain by a black bear (3 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:06:22 (2721 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 2721, Time: 00:06:22
+
+Health: 0/40       AC:  3    Str: 15    XL:     4   Next: 90%
+Magic:  3/3        EV: 12    Int:  6    God:    
+Gold:   192        SH:  0    Dex: 16    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   +                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        j - amulet of magic regeneration
+HPRegen 0.26/turn                o - ring of resist corrosion
+MPRegen 0.48/turn                (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 192 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+Jewellery
+ j - an amulet of magic regeneration (around neck)
+ k - an amulet of the acrobat
+ o - a ring of resist corrosion (left hand)
+Wands
+ e - a wand of mindburst (8)
+Scrolls
+ b - a scroll of immolation
+ i - 2 scrolls of enchant armour
+ l - a scroll of teleportation
+ m - a scroll of blinking
+ s - a scroll of magic mapping {unknown}
+Potions
+ d - a potion of mutation {unknown}
+ f - a potion of flight {unknown}
+ g - 4 potions of lignification {unknown}
+ h - a potion of ambrosia {unknown}
+ n - 5 potions of degeneration {unknown}
+ p - a potion of haste {unknown}
+ q - a potion of curing {unknown}
+ r - 2 potions of might {unknown}
+
+
+   Skills:
+ + Level 4.0 Fighting
+ * Level 6.2 Ranged Weapons
+ - Level 2.1 Dodging
+ - Level 0.7 Stealth
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Guardian Golem    Hex/Summ       0%         N/A       88%         3
+ Animate Dead             Necr           0%         N/A       99%         4
+ Haunt                    Necr/Summ      0%         N/A       100%        7
+ Orb of Destruction       Conj           0%         9d5       100%        7
+ Spellforged Servitor     Conj/Summ      0%         N/A       100%        7
+ Infestation              Necr           0%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:3 1 runed translucent door, Crazy Yiuf
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+Press: ? - help, v - describe, . - travel
+Here: a black bear (moderately wounded)
+The floor.
+Okay, then.
+Okay, then.
+Unknown command.
+You shoot an arrow. The arrow barely misses the black bear.
+You shoot an arrow.
+The arrow closely misses the black bear.
+You shoot an arrow.
+The arrow hits the black bear but does no damage.
+The black bear is moderately wounded.
+The black bear bites you but does no damage.
+The black bear closely misses you. The black bear claws you.
+You shoot an arrow.
+The arrow closely misses the black bear.
+The black bear bites you. The black bear claws you. The black bear closely
+misses you.
+The black bear bites you. The black bear claws you. The black bear barely
+misses you.
+You shoot an arrow. The arrow hits the black bear.
+The black bear is heavily wounded.
+The black bear misses you.
+The black bear claws you but does no damage.
+The black bear claws you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You shoot an arrow. The arrow hits the black bear!
+The black bear is severely wounded.
+The black bear goes berserk!
+You shoot an arrow. The arrow hits the black bear.
+The black bear is almost dead.
+The black bear closely misses you. The black bear barely misses you. The black
+bear claws you.
+The black bear bites you!
+* * * LOW HITPOINT WARNING * * *
+The black bear claws you but does no damage.
+The black bear claws you.
+* * * LOW HITPOINT WARNING * * *
+You shoot an arrow. The arrow barely misses the black bear. The black bear
+closely misses you.
+You furiously retaliate! You headbutt the black bear. The black bear barely
+misses you.
+The black bear claws you.
+You die...
+
+###
+#.##
+##.##          ###
+ ##.##        ##.#
+  ##.##      ##..#
+   #..##     #..##
+   ##>.###  ##..#
+    ##...####..##
+     ##.....<..#
+      #...^....#
+      #........#
+      #@......##
+......)h.....##
+#...........##
+###........##
+  #.....####
+  #...###
+  ..##
+ ..#
+
+
+You could see a black bear (berserk).
+
+Vanquished Creatures
+  Ijyb (D:3)
+  An adder (D:2)
+  A worm (D:2)
+  4 dart slugs
+  10 orcs
+  3 ball pythons (D:1)
+  4 bats
+  6 endoplasms
+  2 giant cockroaches
+  6 goblins
+  6 hobgoblins
+  9 jackals (D:2)
+  7 kobolds
+  A quokka (D:2)
+  5 frilled lizards
+  4 rats
+70 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+   197 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   647 | D:1      | Reached skill level 5 in Ranged Weapons
+   935 | D:2      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1520 | D:2      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1712 | D:3      | Noticed Ijyb
+  1859 | D:4      | Noticed a black bear
+  1874 | D:3      | Killed Ijyb
+  2057 | D:3      | Reached skill level 6 in Ranged Weapons
+  2338 | D:3      | Found a runed translucent door.
+  2339 | D:3      | Noticed Crazy Yiuf
+  2721 | D:4      | Slain by a black bear
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_molten_gateway, layout_basic, minmay_misc_feat_pillars,
+          minmay_tetromino_t4
+D:2:      layout_loops_ring
+D:3:      layout_rooms, uniq_ijyb, uniq_crazy_yiuf_cottage
+D:4:      layout_layer_cave
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |     3     4 |  4.0
+Ranged Weapons |     5     6 |  6.2
+Dodging        |             |  2.1
+Stealth        |             |  0.7
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+   Fire: Shortbow          |   138 |    86 ||   224
+    Use: Scroll            |     2 |     3 ||     5
+ Armour: Leather armour    |     8 |     4 ||    12
+  Dodge: Dodged            |    46 |    23 ||    69
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2779 |   2618 |    161 |      0 |   2193 |   4 |  694.8 |
+       Dungeon |   2779 |   2618 |    161 |      0 |   2193 |   4 |  694.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 926 daAuts
+     D:3: 889 daAuts
+     D:2: 766 daAuts
+     D:4: 197 daAuts
+

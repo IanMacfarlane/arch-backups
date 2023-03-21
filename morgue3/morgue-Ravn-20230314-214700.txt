@@ -1,0 +1,463 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17930767910793097841
+
+7545 Ravn the Cleaver (level 10, -6/139 HPs)
+             Began as a Minotaur Fighter on Mar 14, 2023.
+             Killed from afar by Erica (21 damage)
+             ... with a lance of force
+             ... on level 8 of the Dungeon.
+             The game lasted 00:32:42 (9230 turns).
+
+Ravn the Cleaver (Minotaur Fighter)                 Turns: 9230, Time: 00:32:42
+
+Health: -6/139     AC: 25    Str: 31    XL:     10   Next: 96%
+Magic:  9/9        EV:  2    Int:  5    God:    
+Gold:   276        SH: 10    Dex: 10    Spells: 9/9 levels left
+
+rFire   . . .      SeeInvis .    I - +4 hand axe (heavy)
+rCold   . . .      Faith    .    x - +0 kite shield
+rNeg    . . .      Spirit   .    q - melded +1 chain mail
+rPois   +          Reflect  .    (helmet currently unavailable)
+rElec   .          Rampage  .    J - melded +2 cloak
+rCorr   .          NoTele   +    M - melded +0 pair of gloves {Dex+3}
+Will    .....                    (boots currently unavailable)
+Stlth   +                        (no amulet)
+HPRegen 0.43/turn                n - +5 ring of evasion
+MPRegen 0.11/turn                o - +6 ring of strength
+
+@: tree-form, slowed, very slow
+A: stationary, stasis, torment immunity, boosted hp, (horns 2), (retaliatory
+headbutt)
+a: no special abilities
+
+
+You were on level 8 of the Dungeon.
+You were a tree.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You also visited: Bailey.
+
+You collected 491 gold pieces.
+You spent 215 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ H - a +0 broad axe
+ I - a +4 heavy hand axe (weapon)
+Missiles
+ e - 7 poisoned darts (quivered)
+ m - a throwing net
+Armour
+ q - a +1 chain mail (melded)
+ x - a +0 kite shield (worn)
+ J - a +2 cloak (melded)
+ M - a +0 pair of gloves of dexterity (melded)
+Jewellery
+ n - a +5 ring of evasion (left branch)
+ o - a +6 ring of strength (right branch)
+ E - a ring of flight
+ G - a ring of magical power
+Wands
+ j - a wand of polymorph (6)
+ y - a wand of flame (32)
+Scrolls
+ a - a scroll of blinking {unknown}
+ c - a scroll of fog
+ l - 4 scrolls of amnesia
+ r - 6 scrolls of teleportation
+ s - 4 scrolls of magic mapping
+ w - a scroll of noise
+ B - a scroll of immolation
+ K - a scroll of acquirement {unknown}
+Potions
+ b - 3 potions of berserk rage
+ d - 2 potions of might
+ f - a potion of cancellation
+ g - 6 potions of curing
+ h - 3 potions of brilliance
+ i - a potion of attraction
+ k - 2 potions of lignification
+ p - 2 potions of degeneration {unknown}
+ t - 2 potions of haste {unknown}
+ u - a potion of heal wounds {unknown}
+ v - a potion of flight
+ z - 2 potions of invisibility
+ A - 4 potions of magic {unknown}
+ C - a potion of ambrosia {unknown}
+ F - 2 potions of mutation {unknown}
+
+
+   Skills:
+ + Level 10.0 Fighting
+ * Level 13.2 Axes
+ + Level 10.0 Armour
+ + Level 8.8 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sting                    Tmut/Pois      0%         1d3       77%         1
+ Blink                    Tloc           0%         N/A       88%         2
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       88%         2
+ Lesser Beckoning         Tloc           0%         N/A       88%         2
+ Momentum Strike          Conj/Tloc      0%         3d8       88%         2
+ Passwall                 Tmut/Erth      0%         N/A       88%         2
+ Static Discharge         Conj/Air       0%         2-2/arc   88%         2
+ Inner Flame              Hex/Fire       0%         N/A       98%         3
+ Swiftness                Air            0%         N/A       98%         3
+ Vhi's Electric Charge    Tloc/Air       0%         N/A       98%         3
+ Flame Wave               Conj/Fire      0%         2d4       100%        4
+ Sticky Flame             Conj/Fire      0%         2d3       100%        4
+ Arcjolt                  Conj/Air       0%         1d10      100%        5
+ Blade Hands              Tmut           0%         N/A       100%        5
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+ Simulacrum               Ice/Necr       0%         N/A       100%        6
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Polar Vortex             Ice            0%         N/A       100%        9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6          Bailey (visited)         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:1 [:=*(   D:3 [![   D:7 (
+
+Annotations:
+D:8 Erica
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a tree.
+Your roots penetrate the ground, keeping you stationary.
+You cannot be teleported.
+You are immune to unholy pain and torment.
+Your maximum health is greatly increased.
+Your equipment is partially melded.
+((You have a pair of horns on your head.))
+((You reflexively headbutt those who attack you in melee.))
+
+Message History
+
+Deactivating autopickup; reactivate with Ctrl-A.
+You hear some strange, mumbled words.
+A lance of force appears from out of thin air!
+The lance of force hits you!!
+You are knocked back by the lance of force.
+No target in view!
+No target in view!
+You feel as though you will be slow longer.
+You block something's attack.
+You slash something! You block something's attack. Something hits you!
+Something burns you.
+You slice something!! Your headbutt misses something. Something hits you!
+Something burns you.
+You miss something. Something hits you. Something burns you.
+You hear some strange, mumbled words.
+You feel as though you will be slow longer.
+You hit something. Something hits you. Something burns you.
+You hit something but do no damage. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+Something burns you.
+* * * LOW HITPOINT WARNING * * *
+Something hits you!
+* * * LOW HITPOINT WARNING * * *
+Something burns you.
+* * * LOW HITPOINT WARNING * * *
+Press: ? - help, v - describe, . - travel
+The floor, spattered with blood.
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Okay, then.
+Really quaff the potion of lignification? 
+You turn into a tree. Your +2 cloak melds into your body.
+Your +0 pair of gloves of dexterity melds into your body.
+Your +1 chain mail melds into your body.
+You feel clumsy.
+Your roots penetrate the ground. You block something's attack.
+You hear some strange, mumbled words.
+A lance of force appears from out of thin air!
+The lance of force hits you!!
+You die...
+
+#............)..#   #.#     #...#
+#.#######..####.#####.#######...#
+#.#######..#  #.............#...#
+........#..##########.#####.#...#
+#.##.####..#................#...#
+#.##.####..#.#########.######...#
+.................>..............#
+#....####..#)#.......#..######..#
+#.##### #..#)#...........#####..#
+......###..#.#......#...........#
+#..........#.#......{..#.######.##
+.............#.##..♣##.##........#
+#.#.#####.#######..###..##########
+#)#.#   #.##...##..#...#.#
+#.#.#   #.##.#.##.)#..#..#
+#.#.#   #.##.#.##..#.#..##
+....#####.##.#.##..##..##
+...............##..#..#.##
+..######.###.#.##..#.#...#
+..#  #.#.###.#.##..#...#.#
+..####.#.......#<..##.#.##
+..##...........##.####_##
+..##.#.........#....####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 vault guards (Bailey)
+  A boulder beetle (D:8)
+  Maurice (D:8)
+  Psyche (D:8)
+  2 trolls (D:6)
+  A hornet (D:6)
+  Grinder (D:3)
+  Prince Ribbit (Bailey)
+  A shadow (D:6)
+  4 humans (Bailey)
+  A wraith (D:6)
+  A water moccasin (D:8)
+  Pargi (D:3)
+  3 sky beasts
+  2 ice beasts
+  5 ogres
+  A centaur (D:8)
+  3 phantoms
+  A kobold brigand (D:8)
+  5 bullfrogs (Bailey)
+  2 scorpions (D:5)
+  A gnoll sergeant (D:6)
+  5 wights (D:8)
+  3 howler monkeys (D:7)
+  2 hounds
+  A jelly (D:6)
+  5 orc priests
+  A gnoll bouda (D:8)
+  A sleepcap (D:5)
+  Jessica (D:3)
+  4 iguanas
+  Ijyb (D:5)
+  Terence (D:2)
+  6 orc wizards
+  Robin (D:2)
+  18 gnolls
+  5 adders
+  2 ufetubi
+  3 dart slugs
+  20 orcs
+  5 ball pythons
+  7 bats
+  9 endoplasms
+  4 giant cockroaches
+  21 goblins
+  14 hobgoblins
+  10 kobolds
+  2 quokkas
+  2 frilled lizards
+  5 rats
+  A spectral orc (D:8)
+201 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ravn the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    39 | D:1      | Found Esuwkom's Weapon Boutique.
+   137 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+   145 | D:1      | Reached skill level 3 in Axes
+   293 | D:1      | Found Nyti's Assorted Antiques.
+   364 | D:1      | Found Viedip's Book Shoppe.
+   369 | D:1      | Found Caest's Jewellery Emporium.
+   559 | D:1      | Found Ypnopn's Antique Armour Shoppe.
+   729 | D:2      | Reached XP level 3. HP: 18/33 MP: 2/2
+  1151 | D:2      | Noticed Terence
+  1161 | D:2      | Killed Terence
+  1162 | D:2      | Reached skill level 4 in Axes
+  1162 | D:2      | Reached XP level 4. HP: 25/41 MP: 3/3
+  1244 | D:2      | Got Laadahid's Essays on Transition
+  1413 | D:2      | Noticed Robin
+  1423 | D:2      | Killed Robin
+  1668 | D:2      | Reached XP level 5. HP: 33/47 MP: 4/4
+  2173 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2183 | D:3      | Noticed Jessica
+  2188 | D:3      | Killed Jessica
+  2189 | D:3      | Reached skill level 5 in Axes
+  2250 | D:3      | Found Jusooh's Antique Armour Shoppe.
+  2471 | D:3      | Found Buloor's Distillery.
+  2479 | D:3      | Bought a potion of might for 40 gold pieces
+  2479 | D:3      | Bought a potion of might for 40 gold pieces
+  2529 | D:3      | Found Wuapsy's Assorted Antiques.
+  2536 | D:3      | Identified the +0 robe of Precision Catastrophes {Will-
+                  | Str+3 Slay+2}
+  2626 | D:3      | Found a shimmering blue altar of Sif Muna.
+  2738 | D:3      | Noticed Pargi
+  2750 | D:3      | Killed Pargi
+  2751 | D:3      | Reached skill level 5 in Fighting
+  2751 | D:3      | Reached skill level 5 in Armour
+  2751 | D:3      | Reached XP level 6. HP: 34/56 MP: 5/5
+  2751 | D:3      | Found Vifoumul's Antique Armour Boutique.
+  2838 | D:3      | Noticed Grinder
+  2855 | D:3      | Killed Grinder
+  2856 | D:3      | Reached skill level 6 in Axes
+  3197 | D:4      | Found a broken altar of Ashenzari.
+  3279 | D:4      | Reached XP level 7. HP: 51/62 MP: 6/6
+  3478 | D:4      | Found a shadowy altar of Dithmenos.
+  3738 | D:4      | Found a burning altar of Makhleb.
+  3923 | D:5      | Entered Level 5 of the Dungeon
+  3953 | D:5      | Reached skill level 7 in Axes
+  4263 | D:5      | Reached skill level 8 in Axes
+  4266 | D:5      | Reached XP level 8. HP: 45/71 MP: 7/7
+  4434 | D:5      | Found an opulent altar of Gozag.
+  4462 | D:5      | Noticed Ijyb
+  4470 | D:5      | Killed Ijyb
+  4726 | D:6      | Noticed a troll
+  4735 | D:6      | Killed a troll
+  4736 | D:6      | Reached skill level 9 in Axes
+  4736 | D:6      | Reached skill level 5 in Shields
+  5122 | D:6      | Found a staircase to the Ecumenical Temple.
+  5230 | Temple   | Entered the Ecumenical Temple
+  5610 | D:6      | Reached XP level 9. HP: 79/79 MP: 8/8
+  5812 | D:6      | Reached skill level 10 in Axes
+  5861 | D:6      | Noticed a troll
+  5874 | D:6      | Killed a troll
+  6509 | D:7      | Found Kycosuc's Weapon Boutique.
+  6778 | D:7      | Found a flagged portal.
+  6784 | Bailey   | Entered a bailey
+  6851 | Bailey   | Reached skill level 11 in Axes
+  6922 | Bailey   | Noticed Prince Ribbit
+  6922 | Bailey   | Noticed a vault guard
+  6930 | Bailey   | Killed a vault guard
+  6931 | Bailey   | Reached XP level 10. HP: 56/90 MP: 9/9
+  6936 | Bailey   | Killed Prince Ribbit
+  7091 | Bailey   | Noticed a vault guard
+  7102 | Bailey   | Killed a vault guard
+  7103 | Bailey   | Reached skill level 12 in Axes
+  7695 | D:8      | Noticed Maurice
+  7697 | D:8      | Noticed Psyche
+  7710 | D:8      | Killed Psyche
+  7782 | D:8      | Killed Maurice
+  8111 | D:8      | Reached skill level 13 in Axes
+  8229 | D:8      | Noticed a boulder beetle
+  8270 | D:8      | Killed a boulder beetle
+  8271 | D:8      | Reached skill level 10 in Fighting
+  8271 | D:8      | Reached skill level 10 in Armour
+  8338 | D:8      | Found a basalt altar of Yredelemnul.
+  8388 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  8563 | D:8      | Found a snail-covered altar of Cheibriados.
+  9072 | D:3      | Bought a pair of embroidered gloves for 135 gold pieces
+  9218 | D:8      | Noticed Erica
+  9230 | D:8      | Killed from afar by Erica
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_tiny_i, layout_basic, serial_shops, shop_statue,
+          nicolae_shop_crystal, shop, nicolae_shop_behind_doors, shop,
+          feat_on_display
+D:2:      minmay_recursive_quarters, layout_loops_corners,
+          chequers_serial_rivers_room_a, uniq_terence, uniq_robin
+D:3:      layout_basic, nicolae_wu_jian_wuxing_cycle, old_standard_altar,
+          serial_shops, nicolae_shop_temple_entry_statues_fountains,
+          nicolae_square_shop, nicolae_shop_hallway_stairs, shop_statue,
+          uniq_jessica, uniq_grinder, uniq_pargi
+D:4:      layout_loops_corners, grunt_dithmenos_smoke, makhleb_heckhound_becter,
+          overflow_temple_1_default
+D:5:      layout_rooms, nicolae_gozag_cash_rules_everything_around_me, uniq_ijyb
+D:6:      nicolae_cairo_tiling_large_dashed, layout_basic, kb_rosetta
+D:7:      layout_loops_ring, enter_bailey_3, serial_shops,
+          nicolae_take_the_stairs, kennysheep_nub, kennysheep_generic_room_13
+D:8:      corexii_shack_village, layout_basic,
+          yredelemnul_forgotten_temple_becter,
+          mainiacjoe_overflow_six_doors_small, marbit_many_paths, uniq_psyche,
+          uniq_maurice, uniq_erica
+Temple:   minmay_temple_bridge_abc
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |     3  4     5  6  8  9 11 13 | 13.2
+Fighting       |     4        5     6  7  8 10 | 10.0
+Armour         |     4        5     6  7  8 10 | 10.0
+Shields        |                    4  5  7  8 |  8.8
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: War axe           |    65 |    85 |   173 |       ||   323
+         Headbutt          |     9 |    15 |    36 |    20 ||    80
+         Hand axe          |       |       |    14 |   130 ||   144
+         Broad axe         |       |       |       |    17 ||    17
+    Use: Scroll            |       |     4 |     7 |     1 ||    12
+         Potion            |       |     1 |     7 |     1 ||     9
+   Stab: Invisible         |       |       |     3 |       ||     3
+ Armour: Scale mail        |    26 |    19 |       |       ||    45
+         Chain mail        |       |    17 |    74 |    38 ||   129
+         Skin              |       |       |       |     9 ||     9
+  Dodge: Dodged            |    39 |    54 |   108 |    42 ||   243
+  Block: Buckler           |    12 |    21 |     4 |       ||    37
+         Kite shield       |       |       |    66 |    46 ||   112
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   9351 |   8685 |    666 |      0 |   6958 |  10 |  935.1 |
+       Dungeon |   8494 |   7854 |    640 |      0 |   6345 |   8 | 1061.8 |
+        Temple |    294 |    268 |     26 |      0 |    203 |   1 |  294.0 |
+        Bailey |    562 |    562 |      0 |      0 |    410 |   1 |  562.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:8: 1388 daAuts
+     D:2: 1359 daAuts
+     D:6: 1357 daAuts
+     D:4: 1062 daAuts
+     D:3: 1049 daAuts
+     D:7: 793 daAuts
+     D:5: 773 daAuts
+     D:1: 710 daAuts
+  Bailey: 562 daAuts
+  Temple: 294 daAuts
+

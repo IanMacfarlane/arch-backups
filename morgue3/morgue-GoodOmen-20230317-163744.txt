@@ -1,0 +1,320 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17639201703087615951
+
+1630 GoodOmen the Spear-Bearer (level 8, 0/66 HPs)
+             Began as a Minotaur Berserker on Mar 17, 2023.
+             Was an Elder of Trog.
+             Succumbed to a killer bee's poison
+             ... on level 5 of the Dungeon.
+             The game lasted 00:08:31 (4637 turns).
+
+GoodOmen the Spear-Bearer (Minotaur Berserker)      Turns: 4637, Time: 00:08:31
+
+Health: 0/66       AC: 13    Str: 23    XL:     8   Next: 65%
+Magic:  7/7        EV:  8    Int:  2    God:    Trog [****..]
+Gold:   359        SH:  5    Dex: 11    Spells: 7/7 levels left
+
+rFire   + . .      SeeInvis .    a - +0 spear
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    n - +0 chain mail
+rPois   .          Reflect  +    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        c - +0 pair of gloves
+Will    .....                    j - +1 pair of boots
+Stlth                            y - amulet of reflection
+HPRegen 0.31/turn                (no ring)
+MPRegen 0.10/turn                (no ring)
+
+@: lethally poisoned (0 -> -2), attractive
+A: horns 2, retaliatory headbutt, dopey 1, fire resistance 1, frail 1, shaggy
+fur 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 5 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You also visited: Ossuary.
+
+You collected 359 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ c - a +0 pair of gloves (worn)
+ j - a +1 pair of boots (worn)
+ n - a +0 chain mail (worn)
+Jewellery
+ y - an amulet of reflection (around neck)
+Scrolls
+ e - a scroll of silence
+ f - 2 scrolls of poison
+ g - 7 scrolls of teleportation
+ i - a scroll of immolation
+ p - 2 scrolls of fog
+ q - a scroll of brand weapon {unknown}
+ r - a scroll of enchant armour
+ u - 2 scrolls of noise
+ v - a scroll of blinking {unknown}
+ x - a scroll of summoning {unknown}
+Potions
+ b - 3 potions of lignification {unknown}
+ d - 2 potions of attraction
+ h - 2 potions of mutation
+ k - a potion of flight {unknown}
+ l - a potion of brilliance {unknown}
+ m - a potion of might {unknown}
+ o - 2 potions of heal wounds {unknown}
+ s - 3 potions of curing {unknown}
+ t - a potion of ambrosia {unknown}
+ w - a potion of degeneration {unknown}
+
+
+   Skills:
+ + Level 8.2 Fighting
+ * Level 10.9 Polearms
+ + Level 4.0 Armour
+ - Level 2.6 Dodging
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            Ossuary (visited)         
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Nemelex Xobeh
+Sif Muna
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+You are dopey. (Int -2)
+Your flesh is heat resistant. (rF+)
+You are frail. (-10% HP)
+You are covered in fur. (AC +1)
+
+Message History
+
+You kill the killer bee!
+Trog accepts your kill.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The killer bee stings you.
+* * * LOW HITPOINT WARNING * * *
+The killer bee stings you but does no damage.
+Your Armour skill increases to level 4!
+You closely miss the killer bee. Your headbutt misses the killer bee.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The killer bee closely misses you. The killer bee barely misses
+you.
+You furiously retaliate! You headbutt the killer bee. The killer bee barely
+misses you.
+You hit the killer bee.
+The killer bee is moderately wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. You block the killer bee's attack. The killer bee barely misses
+you.
+The killer bee stings you but does no damage.
+You closely miss the killer bee.
+The killer bee is moderately wounded.
+Your surroundings suddenly seem different.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Okay, then.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a stone staircase leading up here.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You climb upwards.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+There is a stone staircase leading down here.
+It was a potion of mutation. You feel extremely strange.
+Fur sprouts all over your body. You feel frail. You feel stupid. You feel
+resistant to heat.
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+It was a potion of attraction.
+You feel attractive to monsters.
+You die...
+
+>......### #....#######~~##.####.##.#
+.........# #...##     ##~~#...#...#.###
+.......#.###.###       #~~#...#.#......
+########.....#######   ##~#............
+      ##....##.....#    #~####~#......#
+      #....###.....#    #~~# #~#.#.....
+      #..)..##.....#    #~~# #~######..
+      #####..#.....# ####~~# #~~#   #..
+          ##.......# #~#~~## #~~#   #..
+           ###.....###~#~~####~~#   #..
+             #......##~~~###~##~#   ##.
+             #.....@.#~~~# #~##~#    #.
+             #......###~~# #~##~#    #.
+             ######...##~# #~##~#    ##
+                  #....#~###~~#~#     #
+                  #.#..#~~~~#~#~#     #
+                  #....#~~~~#~#~#     #
+                  ####.##~#~#~~##     #
+                     ##.#~###~~~#     #
+                      #.### ###~#     #
+                      ###     #~###   #
+  #############               ###.#   #
+  #...........### ###############.##  #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An ice beast (D:5)
+  2 phantoms (D:5)
+  3 elf zombies (Ossuary)
+  2 scorpions
+  A killer bee (D:6)
+  2 howler monkeys
+  6 centaur zombies (Ossuary)
+  2 jellies
+  3 hounds
+  3 human zombies (Ossuary)
+  An orc priest (D:3)
+  Jessica (D:2)
+  3 orc wizards
+  6 iguanas
+  A sleepcap (D:6)
+  4 mummies
+  7 adders
+  An ufetubus (D:4)
+  2 dart slugs
+  13 orcs
+  8 ball pythons
+  5 bats
+  3 endoplasms
+  3 giant cockroaches
+  4 goblins (D:2)
+  9 hobgoblins
+  13 jackals
+  4 quokkas
+  3 frilled lizards
+  8 kobolds
+  A rat (D:1)
+125 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   115 | D:1      | Reached XP level 2. HP: 15/27 MP: 1/1
+   539 | D:1      | Reached skill level 4 in Polearms
+   782 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+  1096 | D:2      | Reached ** piety under Trog
+  1099 | D:2      | Noticed Jessica
+  1103 | D:2      | Killed Jessica
+  1123 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1186 | D:2      | Reached skill level 5 in Polearms
+  1419 | D:2      | Reached XP level 5. HP: 37/47 MP: 4/4
+  2007 | D:3      | Found a white marble altar of Elyvilon.
+  2128 | D:3      | Reached skill level 5 in Fighting
+  2128 | D:3      | Reached skill level 6 in Polearms
+  2420 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2733 | D:4      | Reached XP level 6. HP: 51/56 MP: 5/5
+  2803 | D:4      | Found a shimmering blue altar of Sif Muna.
+  3012 | D:4      | Reached skill level 7 in Polearms
+  3053 | D:4      | Reached *** piety under Trog
+  3362 | D:4      | Found a broken altar of Ashenzari.
+  3553 | D:5      | Entered Level 5 of the Dungeon
+  3571 | D:5      | Reached skill level 8 in Polearms
+  3571 | D:5      | Reached XP level 7. HP: 50/63 MP: 6/6
+  3639 | D:5      | Found a sand-covered staircase.
+  3651 | Ossuary  | Entered an ossuary
+  3739 | Ossuary  | Reached skill level 9 in Polearms
+  3837 | Ossuary  | Reached XP level 8. HP: 71/73 MP: 7/7
+  3920 | D:5      | Reached skill level 10 in Polearms
+  4287 | D:5      | Found a snail-covered altar of Cheibriados.
+  4451 | D:5      | Reached **** piety under Trog
+  4634 | D:6      | HP: 3/74 [poisoned by a killer bee]
+  4635 | D:5      | HP: 1/74 [poisoned by a killer bee]
+  4636 | D:5      | Gained mutation: You are covered in fur. (AC +1) [potion of
+                  | mutation]
+  4636 | D:5      | Gained mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+  4636 | D:5      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  4636 | D:5      | Gained mutation: Your flesh is heat resistant. (rF+)
+                  | [potion of mutation]
+  4637 | D:5      | Succumbed to a killer bee's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      saegor_arrival_miasma, layout_basic
+D:2:      layout_basic, minmay_hexomino_p4, uniq_jessica
+D:3:      layout_loops_ring, elyvilon_altar_3, nemelex_diamond_rough_becter
+D:4:      layout_basic, mainiacjoe_overflow_small_starburst,
+          kennysheep_mini_moat, kennysheep_cross_bottleneck
+D:5:      layout_rooms, slow_altar_1, nicolae_ossuary_entry_ruins,
+          chequers_serial_rivers_large_b
+D:6:      layout_basic, kennysheep_flooded_box, uniq_grinder
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Fighting       |     4        5  6  7  8 |  8.2
+Polearms       |     4     5  6  8  9 10 | 10.9
+Armour         |                       4 |  4.0
+Dodging        |                         |  2.6
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Spear             |    78 |   229 |   262 ||   569
+         Headbutt          |    10 |    40 |    63 ||   113
+         Punch             |     1 |     2 |     5 ||     8
+    Use: Scroll            |       |     6 |     5 ||    11
+         Potion            |       |       |     2 ||     2
+   Stab: Distracted        |       |       |     1 ||     1
+ Armour: Animal skin       |    15 |    10 |       ||    25
+         Chain mail        |       |    52 |    93 ||   145
+  Dodge: Dodged            |    35 |    67 |    55 ||   157
+  Block: Other             |       |       |    10 ||    10
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4505 |   4282 |    223 |     40 |   3425 |   7 |  643.6 |
+       Dungeon |   4314 |   4091 |    223 |     40 |   3344 |   6 |  719.0 |
+       Ossuary |    191 |    191 |      0 |      0 |     81 |   1 |  191.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1134 daAuts
+     D:4: 943 daAuts
+     D:5: 720 daAuts
+     D:3: 712 daAuts
+     D:1: 708 daAuts
+ Ossuary: 191 daAuts
+     D:6: 95 daAuts
+

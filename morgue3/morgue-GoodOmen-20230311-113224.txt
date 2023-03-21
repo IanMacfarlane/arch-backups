@@ -1,0 +1,349 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 8740418065788572858
+
+3855 Good Omen the Cruncher (level 9, -3/82 HPs)
+             Began as a Minotaur Berserker on Mar 11, 2023.
+             Was an Elder of Trog.
+             Slain by a boulder beetle (21 damage)
+             ... on level 8 of the Dungeon.
+             The game lasted 00:51:10 (6676 turns).
+
+Good Omen the Cruncher (Minotaur Berserker)         Turns: 6676, Time: 00:51:11
+
+Health: -3/82      AC: 20    Str: 31    XL:     9   Next: 99%
+Magic:  8/8        EV: 10    Int:  7    God:    Trog [****..]
+Gold:   539        SH:  0    Dex:  9    Spells: 8/8 levels left
+
+rFire   . . .      SeeInvis .   r - +5 war axe (freeze)
+rCold   . . .      Faith    +   (no shield)
+rNeg    . . .      Spirit   .   k - +2 chain mail
+rPois   .          Reflect  .   (helmet restricted)
+rElec   .          Harm     .   h - +2 cloak {Will+}
+rCorr   .          Rampage  .   (no gloves)
+Will    ++++.                   d - +2 pair of boots
+Stlth   ..........              m - amulet "Ketaf" {Faith Will+++ Str+4 Int+3 Slay+2}
+HPRegen 0.23/turn               (no ring)
+MPRegen 0.11/turn               (no ring)
+
+@: no status effects
+A: horns 2, retaliatory headbutt
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You visited 1 branch of the dungeon, and saw 8 of its levels.
+
+You collected 539 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +4 quarterstaff of electrocution
+ r - a +5 war axe of freezing (weapon)
+Armour
+ d - a +2 pair of boots (worn)
+ h - a +2 cloak of willpower (worn)
+ k - a +2 chain mail (worn)
+Jewellery
+ m - the amulet "Ketaf" (around neck) {Faith Will+++ Str+4 Int+3 Slay+2}
+   (You found it on level 5 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   Str:       It affects your strength (+4).
+   Int:       It affects your intelligence (+3).
+   Slay:      It affects your accuracy & damage with ranged weapons and melee
+   (+2).
+   Will:      It greatly increases your willpower.
+Wands
+ p - a wand of mindburst (9)
+Scrolls
+ b - a scroll of blinking
+ n - a scroll of teleportation
+ s - 2 scrolls of fog
+Potions
+ a - 3 potions of flight
+ c - 4 potions of attraction {unknown}
+ e - a potion of magic {unknown}
+ f - a potion of curing {unknown}
+ g - a potion of berserk rage {unknown}
+ j - a potion of might {unknown}
+ l - 2 potions of lignification {unknown}
+ o - 2 potions of degeneration {unknown}
+ q - a potion of mutation {unknown}
+
+
+   Skills:
+ + Level 8.5 Fighting
+ + Level 6.6 Axes
+ + Level 10.3 Staves
+ + Level 8.8 Armour
+ + Level 4.0 Dodging
+ + Level 2.3 Stealth
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Magic Dart               Conj           0%         1d3       88%         1
+ Sting                    Tmut/Pois      0%         1d3       88%         1
+ Summon Small Mammal      Summ           0%         N/A       88%         1
+ Call Imp                 Summ           0%         N/A       95%         2
+ Poisonous Vapours        Pois/Air       0%         N/A       95%         2
+ Call Canine Familiar     Summ           0%         N/A       99%         3
+ Inner Flame              Hex/Fire       0%         N/A       99%         3
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       99%         3
+ Summon Guardian Golem    Hex/Summ       0%         N/A       99%         3
+ Cause Fear               Hex            0%         N/A       100%        4
+ Leda's Liquefaction      Hex/Erth       0%         N/A       100%        4
+ Olgreb's Toxic Radiance  Pois           0%         N/A       100%        4
+ Lee's Rapid Deconstruct  Erth           0%         3d5*      100%        5
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Discord                  Hex            0%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (0/1) D:6            Lair (0/6) D:8
+
+Altars:
+Yredelemnul
+
+Shops:
+D:1 :
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The killer bee barely misses you.
+You closely miss the killer bee. The killer bee misses you.
+The killer bee stings you but does no damage. x2
+You slash the killer bee! You freeze the killer bee.
+You kill the killer bee!
+Trog accepts your kill.
+You see here a killer bee corpse.
+You see here a killer bee corpse.
+You see here a killer bee corpse.
+A boulder beetle comes into view.
+Found a scroll of identify.
+Found a trident.
+Found a sapphire potion.
+You see here a +0 trident.
+You see here a scroll of identify.
+Found a scroll labelled PUX FUZUOKHIFA.
+You see here a scroll of identify.
+The boulder beetle bites you!
+You see here a scroll of identify.
+You hit the boulder beetle but do no damage.
+The boulder beetle bites you but does no damage.
+You barely miss the boulder beetle. The boulder beetle misses you.
+You hit the boulder beetle. You freeze the boulder beetle.
+The boulder beetle is lightly wounded.
+The boulder beetle waves its antennae.
+The boulder beetle closely misses you. You furiously retaliate!
+You headbutt the boulder beetle, but do no damage.
+You hit the boulder beetle but do no damage.
+The boulder beetle is lightly wounded.
+The boulder beetle leaps!
+The boulder beetle leaps!
+The boulder beetle barely misses you.
+You hit the boulder beetle but do no damage.
+The boulder beetle leaps!
+The boulder beetle curls into a ball and begins rolling!
+The boulder beetle hits you!!
+* * * LOW HITPOINT WARNING * * *
+The boulder beetle stops rolling and uncurls.
+You barely miss the boulder beetle. The boulder beetle bites you!!
+You die...
+
+.....+...........#
+[....#...!.......#
+.....#...##......#
+)....#...##......#
+.)...#...##...?..#
+.)...#..)##......#
+.....#....#......#
+.....+....#......#
+.....#....#......#
+.....#....#......#
+.....#...##.##..@#
+.....#...##.##..B#
+.....#.......#..0#
+.....#.......#...#
+######.......#...#
++............#...#
+#...##......##...#
+#...##########...#
+.............#
+#####........#
+...##........#
+
+
+You could see a boulder beetle.
+
+Vanquished Creatures
+  Joseph (D:7)
+  Grinder (D:5)
+  Sigmund (D:6)
+  A wyvern (D:7)
+  Menkaure (D:5)
+  Edmund (D:4)
+  Duvessa (D:5)
+  An ice beast (D:7)
+  2 sky beasts
+  2 black bears
+  An ogre (D:5)
+  2 centaurs
+  A kobold brigand (D:8)
+  A bullfrog (D:6)
+  2 scorpions (D:6)
+  A water moccasin zombie (D:6)
+  Dowan (D:5)
+  2 water moccasin skeletons (D:4)
+  9 killer bees
+  5 wights (D:8)
+  2 howler monkeys (D:7)
+  2 hounds (D:4)
+  2 jellies (D:6)
+  A centaur skeleton (D:6)
+  4 orc priests
+  2 gnoll shamans
+  Crazy Yiuf (D:3)
+  A bullfrog skeleton (D:6)
+  4 iguanas
+  2 orc wizards (D:4)
+  13 gnolls
+  6 adders
+  A shadow imp (D:6)
+  An ufetubus (D:3)
+  An adder skeleton (D:4)
+  A worm (D:3)
+  2 dart slugs
+  14 orcs
+  9 ball pythons
+  4 endoplasms
+  3 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  12 jackals
+  9 kobolds
+  5 quokkas
+  6 bats
+  A frilled lizard (D:3)
+  5 rats
+166 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Good Omen the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   199 | D:1      | Reached XP level 2. HP: 14/27 MP: 1/1
+   240 | D:1      | Found a faded altar of an unknown god.
+   343 | D:1      | Found Xiring's Book Shop.
+   845 | D:2      | Reached XP level 3. HP: 29/33 MP: 2/2
+   936 | D:2      | Reached ** piety under Trog
+  1393 | D:3      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1476 | D:3      | Reached skill level 5 in Axes
+  1917 | D:3      | Found a runed translucent door.
+  1918 | D:3      | Noticed Crazy Yiuf
+  1927 | D:3      | Killed Crazy Yiuf
+  1928 | D:3      | Reached XP level 5. HP: 15/46 MP: 4/4
+  2260 | D:4      | Noticed Edmund
+  2269 | D:4      | Killed Edmund
+  2270 | D:4      | Reached skill level 5 in Fighting
+  2270 | D:4      | Reached skill level 1 in Staves
+  2270 | D:4      | Reached XP level 6. HP: 56/56 MP: 5/5
+  2442 | D:4      | Reached skill level 2 in Staves
+  2485 | D:4      | Reached *** piety under Trog
+  2499 | D:4      | Reached XP level 7. HP: 10/61 MP: 6/6
+  2501 | D:4      | HP: 2/61 [gnoll (9)]
+  2545 | D:4      | Reached skill level 3 in Staves
+  3512 | D:5      | Entered Level 5 of the Dungeon
+  3519 | D:5      | Reached skill level 4 in Staves
+  3519 | D:5      | Reached skill level 5 in Armour
+  3702 | D:5      | Identified the amulet "Ketaf" {Faith Will+++ Str+4 Int+3
+                  | Slay+2}
+  3808 | D:5      | Noticed Dowan
+  3824 | D:5      | Killed Dowan
+  3825 | D:5      | Reached skill level 1 in Stealth
+  3872 | D:5      | Noticed Menkaure
+  3879 | D:5      | Killed Menkaure
+  3968 | D:5      | Noticed Duvessa
+  3982 | D:5      | Killed Duvessa
+  3983 | D:5      | Reached skill level 5 in Staves
+  3983 | D:5      | Reached XP level 8. HP: 54/70 MP: 7/7
+  4095 | D:5      | Identified the +1 quarterstaff of Wyrd {freeze, *Noise MP+9
+                  | Int+3}
+  4104 | D:5      | Noticed Grinder
+  4119 | D:5      | Killed Grinder
+  4120 | D:5      | Reached skill level 6 in Staves
+  4218 | D:5      | Found the +8 storm bow {elec, penet}
+  4635 | D:6      | Noticed Sigmund
+  4643 | D:6      | Killed Sigmund
+  4703 | D:6      | Reached skill level 7 in Staves
+  4896 | D:6      | Found a staircase to the Ecumenical Temple.
+  5139 | D:6      | Reached XP level 9. HP: 74/78 MP: 8/8
+  5238 | D:6      | Reached skill level 8 in Staves
+  5244 | D:6      | Reached **** piety under Trog
+  5406 | D:7      | Noticed Joseph
+  5426 | D:7      | Killed Joseph
+  5427 | D:7      | Reached skill level 9 in Staves
+  5652 | D:7      | Found a basalt altar of Yredelemnul.
+  6093 | D:8      | Found a staircase to the Lair.
+  6476 | D:8      | Reached skill level 10 in Staves
+  6624 | D:8      | Noticed a boulder beetle
+  6676 | D:8      | Slain by a boulder beetle
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_split_and_join, layout_basic, serial_shops,
+          nicolae_shop_waterfront, ebering_ecumenical_altar_hall
+D:2:      layout_rooms
+D:3:      layout_rooms, glass_columns_c, uniq_crazy_yiuf_cottage
+D:4:      layout_layer_cave, minmay_tree_intersection,
+          minmay_misc_feat_nine_boxes, uniq_edmund
+D:5:      layout_loops_ring, solitary_fountain, grunt_decor_fettered,
+          uniq_duvessa, uniq_grinder, uniq_menkaure
+D:6:      layout_basic, minmay_temple_entry_tees, uniq_sigmund
+D:7:      layout_rooms, yredelemnul_altar_generic, uniq_joseph
+D:8:      layout_gridville, dpeg_oklobed_lair, minmay_misc_feat_enclosed
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Axes           |     4     5  6             |  6.6
+Fighting       |     4        5     6     8 |  8.5
+Armour         |           3     4  5  7  8 |  8.8
+Staves         |              1  2  5  7 10 | 10.3
+Dodging        |                 3        4 |  4.0
+Stealth        |                    1  2    |  2.3
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Hand axe          |    67 |    38 |       ||   105
+       Headbutt          |    10 |     6 |    28 ||    44
+       Quarterstaff      |       |    55 |   195 ||   250
+       War axe           |       |       |    19 ||    19
+Invok: Trog's Hand       |       |     2 |     3 ||     5
+       Berserk           |       |     2 |     2 ||     4
+  Use: Scroll            |     2 |     2 |    11 ||    15
+ Stab: Paralysed         |       |       |     2 ||     2
+Armor: Animal skin       |     1 |       |       ||     1
+       Scale mail        |    24 |    36 |       ||    60
+       Chain mail        |       |    14 |   125 ||   139
+Dodge: Dodged            |    45 |    59 |    58 ||   162
+

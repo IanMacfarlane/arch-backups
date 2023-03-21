@@ -1,0 +1,604 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(21, -34, D:1)
+  a +0 whip
+(25, -38, D:1)
+  9 stones
+(26, -6, D:1)
+  a +0 falchion
+(39, -8, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  3 stones
+(8, -6, D:2)
+  a +0 dagger
+(12, 6, D:2)
+  a book of Displacement
+(17, 6, D:2)
+  a scroll of fog
+(25, 0, D:2)
+  a +0 chain mail
+(37, 11, D:2)
+  a +0 club
+(40, -22, D:2)
+  5 stones
+(50, 7, D:2)
+  a +0 club
+(51, 4, D:2)
+  4 stones
+(52, -29, D:2)
+  9 stones
+(54, 12, D:2)
+  a +0 pair of gloves
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a scroll of vulnerability
+(0, 1, D:3)
+  a +0 dagger
+(14, 21, D:3)
+  a +0 club
+(23, -4, D:3)
+  a +0 ring mail
+(24, 8, D:3)
+  a +0 club
+(27, -3, D:3)
+  a +0 plate armour
+(29, -6, D:3)
+  a +0 pair of boots
+(45, 4, D:3)
+  a +0 club
+(47, 2, D:3)
+  a stone
+(47, 12, D:3)
+  a +0 ring mail
+(50, -6, D:3)
+  a +0 club
+(52, -23, D:3)
+  a +0 scythe
+(52, -6, D:3)
+  a +0 dagger of draining
+  a +0 dagger
+  a +0 club
+  a +0 club
+(52, -5, D:3)
+  a +0 animal skin
+  a +0 club
+  a +0 helmet
+  a +0 club
+  a +0 club
+(52, -2, D:3)
+  a +1 pair of boots
+(53, -6, D:3)
+  a +0 dagger
+(54, -17, D:3)
+  a +0 club
+(63, 10, D:3)
+  a scroll of vulnerability
+(65, 15, D:3)
+  a +0 short sword of protection
+  a +0 scale mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 club
+  a +0 leather armour
+(6, -17, D:4)
+  a +0 dagger
+(22, -8, D:4)
+  a scroll of fog
+(23, -8, D:4)
+  a scroll of teleportation
+(25, 13, D:4)
+  a +0 dagger
+  a +0 ring mail
+(28, 16, D:4)
+  a +0 short sword
+  a stone
+(35, -5, D:4)
+  a +0 club
+(38, 8, D:4)
+  a +0 short sword
+(41, 5, D:4)
+  a +0 robe
+(46, 14, D:4)
+  a +0 dagger
+(53, -9, D:4)
+  a +0 spear
+(53, -8, D:4)
+  a +0 club
+  a +0 flail
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 pair of gloves
+(3, -11, D:5)
+  6 stones
+(4, -3, D:5)
+  a staff of cold
+(13, 1, D:5)
+  a +0 club
+  a +0 leather armour
+(13, 2, D:5)
+  a +0 club
+(13, 3, D:5)
+  a +0 spear
+(13, 12, D:5)
+  a book of Vapours
+(14, 1, D:5)
+  a +0 spear
+(14, 3, D:5)
+  a +0 halberd
+(15, 1, D:5)
+  a +0 whip
+(15, 18, D:5)
+  5 stones
+(35, 34, D:5)
+  a +0 dagger
+(38, 23, D:5)
+  7 stones
+(38, 34, D:5)
+  a scroll of vulnerability
+(40, 30, D:5)
+  a +0 whip
+  a +1 spear of venom
+  a +0 hand axe
+(41, 30, D:5)
+  a +0 club
+(41, 45, D:5)
+  2 stones
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 morningstar
+(6, 26, D:6)
+  a +0 flail
+(7, 15, D:6)
+  a book of Vapours
+(16, 1, D:6)
+  a +0 spear
+(16, 13, D:6)
+  a staff of air
+(17, 18, D:6)
+  7 stones
+(23, 29, D:6)
+  a +0 ring mail
+(27, 23, D:6)
+  a +0 spear
+(28, 20, D:6)
+  a +0 giant spiked club
+(28, 22, D:6)
+  a +0 halberd
+(28, 23, D:6)
+  a +0 whip
+  a +5 trident of venom
+  3 stones
+  a +0 ring mail
+(29, 23, D:6)
+  a +0 falchion
+  a +0 leather armour
+(30, 11, D:6)
+  a +0 robe
+(30, 23, D:6)
+  a +0 whip
+(30, 24, D:6)
+  a +0 whip
+(35, 12, D:6)
+  7 stones
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 robe
+  a +1 flail of freezing
+(0, 1, D:7)
+  a +0 robe
+  a +3 hand axe of freezing
+(0, 3, D:7)
+  a +0 robe
+  a +0 scimitar
+  a +0 robe
+  a +4 hand axe
+(1, -23, D:7)
+  a +2 spectral quarterstaff
+(2, -24, D:7)
+  7 stones
+(4, -25, D:7)
+  an amulet of the acrobat
+  a +2 animal skin
+(10, -10, D:7)
+  a +0 leather armour
+(13, 30, D:7)
+  6 stones
+(28, -27, D:7)
+  an Inescapable Atlas
+(39, 14, D:7)
+  20 gold pieces
+(40, 15, D:7)
+  12 gold pieces
+(40, 16, D:7)
+  19 gold pieces
+(41, 15, D:7)
+  a scroll of poison
+(57, -13, D:7)
+  a +0 whip
+  10 stones
+(57, -12, D:7)
+  a +0 flail
+  a +0 whip
+  a +0 leather armour
+  a +0 whip
+(57, -4, D:7)
+  a +0 hand axe
+  a +0 animal skin
+(67, 1, D:7)
+  a +0 club
+
+Level 8 of the Dungeon
+[Shop] Itasabb's Distillery
+  a potion of brilliance (44 gold)
+  a potion of attraction (33 gold)
+  a potion of attraction (33 gold)
+[Shop] Ysoviadgh's Magic Scroll Shop
+  a scroll of enchant weapon (90 gold)
+  a scroll of amnesia (48 gold)
+  a scroll of identify (24 gold)
+  a scroll of noise (12 gold)
+  a scroll of enchant armour (90 gold)
+  a scroll of teleportation (36 gold)
+  a scroll of identify (24 gold)
+(0, 0, D:8)
+  a +2 dagger of chaos
+  a +0 robe
+(2, -4, D:8)
+  a book of Air
+(3, -43, D:8)
+  a +0 long sword
+(6, -23, D:8)
+  a +0 mace
+(10, -26, D:8)
+  a +0 dagger of venom
+  5 stones
+  a +0 dagger
+  a +0 dagger
+  a +0 dagger
+  a +0 dagger
+  a +0 short sword
+  a +3 shortbow
+(11, -26, D:8)
+  a +0 short sword
+(12, -18, D:8)
+  a +0 leather armour
+(19, -39, D:8)
+  a +0 mace
+(19, -35, D:8)
+  a +0 chain mail
+(22, -27, D:8)
+  a +0 flail
+(23, -54, D:8)
+  a +0 dagger
+  a +0 robe
+(23, -51, D:8)
+  a +0 dagger
+  a +0 robe
+(24, -43, D:8)
+  a +0 arbalest
+  a +0 club
+  a +0 scale mail
+(25, -45, D:8)
+  a +0 buckler
+(25, -43, D:8)
+  a +0 ring mail
+(25, -42, D:8)
+  a +0 shortbow
+(37, -9, D:8)
+  6 stones
+(39, -14, D:8)
+  a +0 rapier
+(40, -49, D:8)
+  a +0 hand axe
+(42, -55, D:8)
+  a scroll of noise
+(43, -56, D:8)
+  a scroll of noise
+(43, -6, D:8)
+  a potion of brilliance
+(52, -18, D:8)
+  a +2 whip of electrocution
+(52, -17, D:8)
+  a +0 flail
+(53, -18, D:8)
+  a +0 club
+(54, -18, D:8)
+  a +0 flail
+  a +0 spear
+  a +0 ring mail
+(62, -28, D:8)
+  a +1 whip of freezing
+  a +0 robe
+
+Level 9 of the Dungeon
+[Shop] Aseteg's Weapon Shop
+  a +0 mace (36 gold)
+  6 stones (7 gold)
+  a +0 arbalest (54 gold)
+  a +0 quarterstaff (48 gold)
+  8 stones (9 gold)
+  a +0 giant club (20 gold)
+  a +0 great sword (78 gold)
+  5 stones (6 gold)
+  a +6 falchion of electrocution (474 gold)
+  a +3 morningstar of draining (290 gold)
+(0, 0, D:9)
+  a +0 buckler
+(4, -19, D:9)
+  a +0 whip
+(6, -28, D:9)
+  a +0 falchion
+(8, -24, D:9)
+  a book of Conjurations
+(9, -16, D:9)
+  a +0 whip
+(9, -1, D:9)
+  a +0 flail
+(10, -14, D:9)
+  a +0 club
+  a +0 flail
+(11, -14, D:9)
+  a +0 plate armour
+  a +2 vampiric short sword
+  a +0 leather armour
+  a +0 short sword
+(11, -6, D:9)
+  a +1 flail of protection
+(12, -21, D:9)
+  a +0 buckler
+(12, -14, D:9)
+  a +0 short sword
+  a +0 falchion
+(12, -12, D:9)
+  5 stones
+  a +0 spear
+(12, -10, D:9)
+  3 stones
+  a +0 short sword
+(12, -9, D:9)
+  a +0 club
+(12, -8, D:9)
+  a +0 spear
+(13, -13, D:9)
+  a +0 scale mail
+  a +2 heavy spear
+  a +2 buckler
+(13, -12, D:9)
+  a +0 spear
+(13, -11, D:9)
+  a +0 ring mail
+  a +0 dagger
+  a +0 ring mail
+  a +0 spear
+(13, -10, D:9)
+  a +0 short sword
+(13, -9, D:9)
+  a +0 whip
+(14, -14, D:9)
+  a +0 club
+(15, -8, D:9)
+  a +0 halberd
+(20, -12, D:9)
+  a condenser vane
+(26, -13, D:9)
+  a +0 dagger
+(28, -12, D:9)
+  a +0 short sword
+(33, -27, D:9)
+  a +0 chain mail
+  a +0 long sword
+(33, -26, D:9)
+  a +0 scale mail
+  a +0 leather armour
+  a +0 dagger
+  a +0 flail
+  a +0 chain mail
+  a +0 club
+(37, -17, D:9)
+  a +0 whip
+(38, -17, D:9)
+  a +0 whip
+(38, -13, D:9)
+  a +0 short sword
+(39, -17, D:9)
+  a +0 short sword
+(39, -16, D:9)
+  a +0 whip
+  a +6 quick blade of flaming
+  3 stones
+(39, -15, D:9)
+  a +0 dagger
+(40, -32, D:9)
+  7 stones
+(40, -17, D:9)
+  a +0 short sword
+(42, -39, D:9)
+  a +0 whip
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+
+Level 10 of the Dungeon
+[Shop] Gatunoen's Weapon Emporium
+  a +0 flail (52 gold)
+  7 stones (10 gold)
+  5 stones (7 gold)
+  6 silver boomerangs (540 gold)
+  a +0 club (15 gold)
+  a +0 rapier (60 gold)
+  a +0 quarterstaff (60 gold)
+  a +0 quarterstaff (60 gold)
+  a +0 morningstar (60 gold)
+(0, 0, D:10)
+  9 stones
+(1, 21, D:10)
+  a +0 great sword
+(4, 7, D:10)
+  8 stones
+(6, 15, D:10)
+  a +0 ring mail
+(11, -18, D:10)
+  a +0 cloak
+(13, -27, D:10)
+  a +0 chain mail
+(22, -10, D:10)
+  a book of Dreams
+(27, 9, D:10)
+  a +0 scale mail
+(28, -9, D:10)
+  5 stones
+(32, -27, D:10)
+  3 stones
+(33, -21, D:10)
+  a tin of tremorstones (2/2)
+(42, 11, D:10)
+  +0 steam dragon scales
+(43, -3, D:10)
+  a +0 shortbow
+(52, -31, D:10)
+  a +2 flail of protection
+(53, 4, D:10)
+  a +0 ring mail
+(55, -17, D:10)
+  a +4 great mace of draining
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a ring of flight
+(0, 1, Lair:1)
+  a +4 scimitar of freezing
+  (unseen)
+(1, 1, Lair:1)
+  a scroll of amnesia
+(2, 0, Lair:1)
+  the +1 cloak of the Two of Cups {rPois rN+ rCorr Slay-2}
+    Slay:      It affects your accuracy & damage with ranged weapons and melee
+    (-2).
+    rPois:     It protects you from poison.
+    rN:        It protects you from negative energy.
+    rCorr:     It protects you from acid and corrosion.
+  (unseen)
+(2, 1, Lair:1)
+  13 gold pieces
+(9, 36, Lair:1)
+  a scroll of immolation
+(14, 41, Lair:1)
+  2 stones
+(18, 41, Lair:1)
+  a +0 robe
+(23, 3, Lair:1)
+  a +0 chain mail
+(30, 6, Lair:1)
+  a +0 ring mail
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 plate armour
+(3, 7, Lair:2)
+  a +0 flail
+(4, 1, Lair:2)
+  a +0 dagger
+(9, 1, Lair:2)
+  a +0 chain mail
+(11, 9, Lair:2)
+  a +0 trident
+(13, 12, Lair:2)
+  a +0 sling
+(25, -24, Lair:2)
+  a +0 leather armour
+(26, 10, Lair:2)
+  2 stones
+(27, -8, Lair:2)
+  2 potions of brilliance
+(30, 5, Lair:2)
+  a +2 scale mail of fire resistance
+(37, 1, Lair:2)
+  a +0 short sword
+(38, 3, Lair:2)
+  a +0 dire flail of draining
+(39, 2, Lair:2)
+  a +0 battleaxe
+(52, 0, Lair:2)
+  a +0 flail
+
+Level 3 of the Lair of Beasts
+(9, 10, Lair:3)
+  a tin of tremorstones (2/2)
+(12, 32, Lair:3)
+  a +5 heavy trident
+(15, 9, Lair:3)
+  +0 steam dragon scales
+(16, -13, Lair:3)
+  a +0 spear
+(18, 28, Lair:3)
+  a -2 demon whip of venom
+(29, 23, Lair:3)
+  a scroll of vulnerability
+(30, 34, Lair:3)
+  a +0 short sword
+(31, 0, Lair:3)
+  a scroll of immolation
+(31, 22, Lair:3)
+  a scroll of enchant weapon
+  3 scrolls of amnesia
+(32, 28, Lair:3)
+  a book of Necromancy
+(42, 24, Lair:3)
+  an amulet of regeneration
+(51, 16, Lair:3)
+  a +0 vampiric bardiche
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a dream sheep corpse
+  a dream sheep corpse
+  a dream sheep corpse
+(0, 1, Lair:4)
+  a dream sheep corpse
+(5, -38, Lair:4)
+  3 stones
+(9, -30, Lair:4)
+  9 gold pieces
+(36, -38, Lair:4)
+  a book of Geomancy
+(36, -22, Lair:4)
+  a +0 trident
+(40, -6, Lair:4)
+  an elephant corpse
+(40, -5, Lair:4)
+  a water moccasin corpse
+  an elephant corpse
+(41, 0, Lair:4)
+  a yak corpse
+  a yak corpse
+  a yak corpse
+  a yak corpse
+  a yak corpse
+(44, -31, Lair:4)
+  a cane toad corpse (skeletalised by now)
+  a wolf corpse (skeletalised by now)
+  a wolf corpse (skeletalised by now)
+  a black mamba corpse (skeletalised by now)
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a +0 leather armour
+(18, -15, Lair:5)
+  a catoblepas corpse (skeletalised by now)
+(26, -7, Lair:5)
+  a +0 trident
+

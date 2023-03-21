@@ -1,0 +1,242 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 1148032850680780939
+
+72 Bokogi the Firebug (level 4, 0/30 HPs)
+             Began as a Human Fire Elementalist on Mar 14, 2023.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (12 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:09:50 (2283 turns).
+
+Bokogi the Firebug (Human Fire Elementalist)        Turns: 2283, Time: 00:09:51
+
+Health: 0/30       AC:  2    Str:  8    XL:     4   Next: 48%
+Magic:  0/7        EV: 12    Int: 18    God:    
+Gold:   73         SH:  0    Dex: 13    Spells: 5/8 levels left
+
+rFire   . . .      SeeInvis .    f - +1 dagger (elec)
+rCold   + . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    l - scarf {repulsion}
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.25/turn                m - ring of protection from cold
+MPRegen 0.10/turn                (no ring)
+
+@: repel missiles
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 73 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 club
+ f - a +1 dagger of electrocution (weapon)
+Armour
+ a - a +0 robe (worn)
+ l - a scarf of repulsion (worn)
+Jewellery
+ m - a ring of protection from cold (left hand)
+ n - an amulet of guardian spirit
+Scrolls
+ c - 2 scrolls of teleportation
+ i - a scroll of fog
+ j - 2 scrolls of enchant weapon
+ o - a scroll of blinking {unknown}
+ p - a scroll of silence {unknown}
+ q - a scroll of identify
+ s - a scroll of magic mapping {unknown}
+Potions
+ b - 3 potions of magic
+ d - a potion of curing {unknown}
+ g - 2 potions of heal wounds {unknown}
+ h - 2 potions of haste {unknown}
+ k - a potion of brilliance {unknown}
+ r - a potion of attraction {unknown}
+
+
+   Skills:
+ + Level 2.5 Dodging
+ + Level 2.6 Stealth
+ + Level 2.5 Spellcasting
+ + Level 1.9 Conjurations
+ * Level 3.5 Fire Magic
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      48%        2x1d6     5%          1
+b - Scorch                Fire           28%        2d6       6%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Small Mammal      Summ           8%         N/A       17%         1
+ Inner Flame              Hex/Fire       8%         N/A       26%         3
+ Ignite Poison            Fire/Tmut/Pois 6%         N/A       32%         3
+ Kindle Blastsparks       Fire/Tloc/Air  12%        2d11      32%         3
+ Call Canine Familiar     Summ           2%         N/A       45%         3
+ Summon Guardian Golem    Hex/Summ       2%         N/A       45%         3
+ Flame Wave               Conj/Fire      12%        2d6       50%         4
+ Sticky Flame             Conj/Fire      12%        2d4       50%         4
+ Ignition                 Fire           7%         3d4       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Message History
+
+You miscast Foxfire.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen. The orc priest misses you.
+The orc priest attacks as you move away!
+The orc priest hits you with a +0 club.
+Things that are here:
+18 gold pieces; a bat corpse
+The orc priest attacks as you move away!
+The orc priest hits you but does no damage.
+The orc priest miscasts a cantrip.
+Your magical contamination has completely faded away.
+The orc priest invokes the aid of Beogh against you.
+Pain shoots through your body!
+The orc priest mumbles some strange prayers to Beogh against you.
+Pain shoots through your body!
+Casting: Foxfire (safe; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! The orc barely misses you.
+You hit the orc but do no damage.
+The foxfire hits the orc but does no damage.
+The orc priest hits you with a +0 club. The orc misses you.
+The foxfire hits the orc priest.
+The orc priest is lightly wounded.
+You closely miss the orc priest.
+The orc priest is lightly wounded.
+The orc priest looks satisfied for a moment.
+The orc hits you with a +0 dagger.
+You barely miss the orc priest.
+The orc priest is lightly wounded.
+The orc priest barely misses you. The orc hits you but does no damage.
+Sorry, you're not good enough to have a special ability.
+Casting: Foxfire (safe; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Casting: Foxfire (safe; 5% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire!
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+
+    ....)).........
+     # #.).....####
+     #.#...........
+     #.#$##########
+     #...........
+  ######..#########
+###....o....)......
+#....#####.########
+#.................
+#...o.####$.######
+#..o@v............
+###.#v..#######...
+  #.#<........   .
+  #.##########
+  #..
+  ....
+  .....
+ #......
+ ##......
+  .#.#####
+
+
+You could see an orc priest and an orc (ally target).
+
+Vanquished Creatures
+  4 adders
+  A dart slug (D:1)
+  3 orcs (D:3)
+  5 ball pythons
+  3 bats
+  2 endoplasms (D:2)
+  2 goblins (D:1)
+  3 hobgoblins
+  2 quokkas
+  A frilled lizard (D:1)
+  3 kobolds
+  A rat (D:2)
+30 creatures vanquished.
+
+Vanquished Creatures (others)
+  36 foxfires
+  2 plants (D:2)
+38 creatures vanquished.
+
+Grand Total: 68 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   223 | D:1      | Reached XP level 2. HP: 19/19 MP: 0/5
+   238 | D:1      | Learned a level 2 spell: Scorch
+  1213 | D:2      | Reached XP level 3. HP: 24/24 MP: 1/6
+  1810 | D:2      | Reached XP level 4. HP: 30/30 MP: 2/7
+  2283 | D:3      | Killed from afar by an orc priest
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      minmay_arrival_floating_metal, layout_basic, minmay_liquid_box,
+          minmay_ruptured
+D:2:      layout_basic, serial_bayou_lagoon_b
+D:3:      layout_basic, grunt_gozag_breadcrumbs
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Club              |     1 |       ||     1
+         Dagger            |     3 |     3 ||     6
+   Cast: Foxfire           |    13 |     8 ||    21
+         Scorch            |    13 |     5 ||    18
+    Use: Scroll            |     3 |       ||     3
+   Stab: Sleeping          |     2 |       ||     2
+ Armour: Robe              |       |     2 ||     2
+  Dodge: Dodged            |     1 |     6 ||     7
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2327 |   2221 |    106 |      0 |   1833 |   3 |  775.7 |
+       Dungeon |   2327 |   2221 |    106 |      0 |   1833 |   3 |  775.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1232 daAuts
+     D:2: 1025 daAuts
+     D:3: 68 daAuts
+

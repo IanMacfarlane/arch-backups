@@ -1,0 +1,131 @@
+Rock
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 short sword
+  3 stones
+(6, -2, D:1)
+  3 stones
+(12, -22, D:1)
+  a +0 leather armour
+(12, 2, D:1)
+  a +0 whip
+(20, 6, D:1)
+  6 stones
+(21, 2, D:1)
+  a +0 club
+(23, 5, D:1)
+  a +0 dagger
+(27, -20, D:1)
+  a stone
+  a +0 leather armour
+(42, -9, D:1)
+  a +0 dagger
+(52, 12, D:1)
+  6 stones
+
+Level 2 of the Dungeon
+(4, -17, D:2)
+  3 stones
+(4, 12, D:2)
+  a +0 helmet
+(15, 6, D:2)
+  a +0 sling
+(20, -1, D:2)
+  a +0 dagger
+  3 stones
+(25, 2, D:2)
+  a +0 club
+(36, 16, D:2)
+  a +0 whip
+(39, 5, D:2)
+  5 stones
+(47, -29, D:2)
+  a +3 dagger
+(47, -8, D:2)
+  a +0 short sword
+(49, -12, D:2)
+  a +0 whip
+  a +0 dagger
+  a +0 dagger
+  a +0 dagger
+(49, 9, D:2)
+  a +0 scale mail
+(61, -26, D:2)
+  a +0 club
+  a +3 dagger
+
+Level 3 of the Dungeon
+[Shop] Fely Puino's Jewellery Shop
+  an amulet of regeneration (390 gold)
+  a ring of protection from fire (325 gold)
+  a +6 ring of intelligence (468 gold)
+  an amulet of the acrobat (390 gold)
+  a +4 ring of protection (468 gold)
+  a ring of ice (325 gold)
+  the Hermit's Pendant {Faith Invo=14 Evo=0 MP+5} (747 gold)
+    [amulet of faith]
+    
+    Invo=14:   It sets your Invocations skill to 14.
+    Evo=0:     It sets your Evocations skill to 0.
+    
+    It allows you to gain divine favour quickly.
+    MP:        It affects your magic capacity (+5).
+  a ring of positive energy (260 gold)
+  an amulet of magic regeneration (390 gold)
+  a ring of protection from cold (325 gold)
+  a ring of see invisible (195 gold)
+(0, 0, D:3)
+  a +0 leather armour
+(1, -8, D:3)
+  6 silver javelins
+(1, 10, D:3)
+  3 poisoned darts
+(2, 11, D:3)
+  a frilled lizard skeleton
+(3, 10, D:3)
+  a +0 sling
+  a +0 club
+(12, 26, D:3)
+  2 stones
+(13, -7, D:3)
+  a +0 club
+  a +0 animal skin
+  a +0 club
+  a +0 club
+  a +0 dagger
+(14, -7, D:3)
+  a +0 dagger
+(15, -7, D:3)
+  a +0 dagger
+  a +0 dagger
+(19, 12, D:3)
+  a +0 club
+  a +0 short sword
+  an orc corpse (skeletalised by now)
+(21, 12, D:3)
+  a +0 short sword
+  a +0 ring mail
+  an orc corpse (skeletalised by now)
+(34, -8, D:3)
+  8 stones
+(35, -9, D:3)
+  5 stones
+  a +0 dagger
+(37, 5, D:3)
+  a +0 club
+(38, 2, D:3)
+  a +0 whip
+(39, 4, D:3)
+  a +0 club
+  a +0 leather armour
+(40, -4, D:3)
+  7 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+  a +0 sling
+(22, 3, D:4)
+  5 stones
+

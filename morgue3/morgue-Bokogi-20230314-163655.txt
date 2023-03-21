@@ -1,0 +1,256 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 15737936003466670885
+
+109 Bokogi the Ruffian (level 4, 0/44 HPs)
+             Began as a Troll Gladiator on Mar 14, 2023.
+             Slain by Robin
+             ... wielding a +0 trident
+              (4 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:02:43 (981 turns).
+
+Bokogi the Ruffian (Troll Gladiator)                 Turns: 981, Time: 00:02:44
+
+Health: 0/44       AC:  4    Str: 24    XL:     4   Next: 60%
+Magic:  3/3        EV: 10    Int:  4    God:    
+Gold:   82         SH:  0    Dex: 11    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .      - Unarmed
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    b - +0 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth   +                        (no amulet)
+HPRegen 1.07/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 82 gold pieces.
+
+Inventory:
+
+Missiles
+ c - 5 throwing nets (quivered)
+ d - a large rock
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+Scrolls
+ e - a scroll of amnesia {unknown}
+ f - 2 scrolls of teleportation {unknown}
+ g - a scroll of poison {unknown}
+ h - a scroll of enchant armour {unknown}
+ k - 3 scrolls of noise {unknown}
+Potions
+ i - 2 potions of brilliance {unknown}
+ j - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 2.4 Fighting
+ - Level 2.3 Throwing
+ - Level 2.8 Dodging
+ * Level 4.2 Unarmed Combat
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Robin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+The goblin is heavily wounded.
+The goblin hits you with a +0 dagger. The goblin hits you but does no damage.
+The goblin closely misses you.
+You closely miss the goblin.
+The goblin is heavily wounded.
+The goblin misses you. The goblin closely misses you. The goblin hits you with
+a +0 club.
+You barely miss the goblin.
+The goblin is heavily wounded.
+The goblin no longer looks unusually strong.
+Robin barely misses you. The goblin closely misses you. The goblin hits you
+with a +0 dagger.
+The goblin misses you.
+You barely miss the goblin. You claw the goblin.
+You kill the goblin!
+The goblin barely misses you. The goblin closely misses you.
+You claw the goblin!
+You kill the goblin!
+Robin says, "Bow before me, strongest of all the hobgoblins!"
+Robin barely misses you. The goblin hits you with a +0 dagger. The goblin hits
+you with a +0 club.
+The goblin attacks as you move away! The goblin hits you but does no damage.
+Robin hits you with a +0 trident. The goblin hits you but does no damage.
+Items here: )))) †.
+The goblin no longer looks unusually strong. x2
+Robin roars a battlecry!
+The goblins go into a battle-frenzy!
+The goblin hits you with a +0 club.
+You see here a frilled lizard corpse.
+You barely miss Robin. Robin throws the goblin at you! The goblin barely misses
+you.
+The goblin hits you with a +0 club.
+You scratch Robin.
+Robin is lightly wounded.
+Robin hits you with a +0 trident!
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you with a +0 dagger.
+* * * LOW HITPOINT WARNING * * *
+The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+You closely miss Robin.
+Robin is lightly wounded.
+Robin hits you with a +0 trident.
+You die...
+
+     #.............
+    .#.............#
+     .g............#    ###########
+      ..>..........+    ...........
+       #...........#    ##......##.
+    .###...........#     #......##.
+    ...............#    .........#.
+       #........#       .####....#.
+       ##.......#           #....##
+        #..?....#           #.....#
+        #.......##         #.###..#
+        #.....g@g####.#   #.#  #.#.
+     ##########)g.....#  #.#   #.#.
+     #.....(# #)####..###.# ####...
+     #.####.# #.#  #.....#  #......
+     #.#  #.# #)#   #....#  #......
+     #.#  #.# #.#   #....####....#.
+######.####.# #.#   #............#.
+#..........†# #.#   ##...#####.....
+#.#####.##### #.#    #...#   ######
+#.#....†<#    #.#### #...#
+#.#..†#.##    #)...#####.##
+#.##+##'##### #.†....###..#
+
+
+You could see Robin and 2 goblins.
+
+Vanquished Creatures
+  Natasha (D:2)
+  3 gnolls (D:2)
+  A worm (D:2)
+  2 dart slugs
+  A ball python (D:2)
+  6 endoplasms
+  3 giant cockroaches
+  11 goblins
+  4 hobgoblins
+  A quokka (D:2)
+  4 bats
+  3 frilled lizards
+  A kobold (D:2)
+  6 rats
+47 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:1)
+1 creature vanquished.
+
+Grand Total: 48 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Noticed an orb of fire
+     1 | D:1      | Noticed a shadow dragon
+     3 | D:1      | Noticed a tentacled monstrosity
+     5 | D:1      | Noticed a large abomination
+     7 | D:1      | Noticed an orb of fire
+     8 | D:1      | Noticed a large abomination
+     9 | D:1      | Noticed a large abomination
+    11 | D:1      | Noticed an ice dragon
+    13 | D:1      | Noticed a shadow dragon
+    13 | D:1      | Noticed a tentacled monstrosity
+    15 | D:1      | Noticed a large abomination
+    17 | D:1      | Noticed an orb of fire
+    17 | D:1      | Noticed a large abomination
+    19 | D:1      | Noticed a large abomination
+    19 | D:1      | Noticed a shadow dragon
+   183 | D:1      | Reached XP level 2. HP: 28/28 MP: 1/1
+   698 | D:2      | Noticed Natasha
+   700 | D:2      | Noticed a crimson imp
+   707 | D:2      | Killed Natasha
+   708 | D:2      | Reached XP level 3. HP: 11/35 MP: 2/2
+   805 | D:2      | Reached XP level 4. HP: 32/42 MP: 3/3
+   925 | D:2      | Reached skill level 4 in Unarmed Combat
+   942 | D:2      | Noticed Robin
+   981 | D:2      | Slain by Robin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      shiori_arrival_whats_in_store_for_you, layout_basic, kennysheep_boxes
+D:2:      layout_basic, hellmonk_ecumenical_altar_inner_sanctum, basic_altar,
+          minivault_24, nrook_mini_backslash, kennysheep_generic_room_13,
+          uniq_robin, uniq_natasha
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Throwing       |  2          |  2.3
+Fighting       |     2       |  2.4
+Unarmed Combat |           4 |  4.2
+Dodging        |             |  2.8
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |    71 |    48 ||   119
+         Punch             |     1 |     2 ||     3
+   Stab: Sleeping          |       |     1 ||     1
+ Armour: Robe              |    22 |    15 ||    37
+  Dodge: Dodged            |    31 |    38 ||    69
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |    979 |    964 |     15 |      0 |    690 |   2 |  489.5 |
+       Dungeon |    979 |    964 |     15 |      0 |    690 |   2 |  489.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 583 daAuts
+     D:2: 396 daAuts
+

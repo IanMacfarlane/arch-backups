@@ -1,0 +1,266 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 8427004287132743850
+
+232 Bokogi the Firebug (level 5, -1/28 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Slain by an iguana (4 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:07:32 (3614 turns).
+
+Bokogi the Firebug (Deep Elf Fire Elementalist)     Turns: 3614, Time: 00:07:33
+
+Health: -1/28      AC:  7    Str:  5    XL:     5   Next: 73%
+Magic:  6/13       EV: 12    Int: 22    God:    
+Gold:   143        SH:  0    Dex: 15    Spells: 9/12 levels left
+
+rFire   + . .      SeeInvis .    g - +2 short sword (protect)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    q - +2 animal skin
+rPois   +          Reflect  .    p - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        h - +1 pair of gloves
+Will    .....                    (no boots)
+Stlth   ++                       d - amulet of magic regeneration
+HPRegen 0.24/turn                f - ring of protection from fire
+MPRegen 0.53/turn                j - ring of poison resistance
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 143 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +2 short sword of protection (weapon)
+Armour
+ h - a +1 pair of gloves (worn)
+ p - a +0 helmet (worn)
+ q - a +2 animal skin (worn)
+Jewellery
+ d - an amulet of magic regeneration (around neck)
+ f - a ring of protection from fire (left hand)
+ j - a ring of poison resistance (right hand)
+Scrolls
+ a - a scroll of vulnerability {unknown}
+ i - a scroll of identify {unknown}
+ n - a scroll of fog {unknown}
+ o - a scroll of immolation {unknown}
+Potions
+ b - a potion of magic
+ c - 3 potions of curing
+ k - 2 potions of degeneration {unknown}
+ l - a potion of brilliance {unknown}
+ m - a potion of haste {unknown}
+
+
+   Skills:
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 4.4 Spellcasting
+ * Level 3.9 Conjurations
+ * Level 5.1 Fire Magic
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      96%        2x1d8     1%          1
+b - Scorch                Fire           54%        2d7       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       16%        N/A       12%         3
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  8%         N/A       16%         2
+ Kindle Blastsparks       Fire/Tloc/Air  24%        2d12      16%         3
+ Flame Wave               Conj/Fire      24%        2d8       17%         4
+ Dispel Undead            Necr           4%         3d7       71%         4
+ Death Channel            Necr           2%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Trog
+
+Shops:
+D:2 !
+
+Message History
+
+You see here a ring of fire.
+The iguana attacks as you move away! The iguana closely misses you.
+The iguana bites you but does no damage.
+Something hits you.
+The iguana attacks as you move away!
+The iguana bites you but does no damage.
+The iguana attacks as you move away! The iguana barely misses you.
+There is a stone staircase leading up here.
+The iguana bites you! Something hits you but does no damage.
+You climb upwards.
+Reactivating autopickup.
+There is a stone staircase leading down here.
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash something. Something hits you but does no damage.
+Deactivating autopickup; reactivate with Ctrl-A.
+The iguana closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash something.
+Reactivating autopickup.
+You feel a bit more experienced. The iguana bites you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the iguana.
+The iguana is lightly wounded.
+The iguana's fire resistance burns away.
+The iguana bites you!
+* * * LOW HITPOINT WARNING * * *
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the iguana. The iguana is burned terribly!
+The iguana is moderately wounded.
+The iguana closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the iguana. The iguana is burned terribly!
+The iguana is almost dead.
+The iguana bites you.
+You die...
+
+######
+.....#    #######
+.###+######..(..#
+................#
+...........^...)#
+.....(..........#
+.......####.....#
+..#+#+#####.....#####
+...[......'.....'.)@#
+.<#.#######.....###l#
+..#.#######.....###.#
+..+.............##..#
+..#.............#...#
+..#...............#.#
+#.#........###..###.#
+#.############>## #.#
+#.#      ##....####.#
+†.########..........#
+##......##..........#
+ #......##..........#
+
+
+You could see an iguana (combustible).
+
+Vanquished Creatures
+  An orc priest (D:4)
+  Jessica (D:3)
+  2 orc wizards (D:3)
+  Robin (D:3)
+  2 adders
+  A worm (D:2)
+  4 dart slugs
+  6 orcs
+  5 endoplasms
+  A giant cockroach (D:3)
+  7 hobgoblins
+  3 jackals (D:3)
+  A kobold (D:2)
+  7 quokkas
+  5 ball pythons
+  7 bats
+  5 frilled lizards
+  13 goblins
+  8 rats
+80 creatures vanquished.
+
+Vanquished Creatures (others)
+  200 foxfires
+200 creatures vanquished.
+
+Grand Total: 280 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   138 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   142 | D:1      | Learned a level 2 spell: Scorch
+   436 | D:1      | You fall into a shaft and drop 1 floor!
+   588 | D:2      | Found Aneorphi's Distillery.
+   900 | D:1      | Reached XP level 3. HP: 19/19 MP: 6/9
+  2113 | D:2      | Found a bloodstained altar of Trog.
+  2451 | D:2      | Reached skill level 4 in Fire Magic
+  2663 | D:3      | Noticed Robin
+  2670 | D:3      | Reached XP level 4. HP: 24/24 MP: 5/11
+  2943 | D:3      | Killed Robin
+  3261 | D:3      | Reached XP level 5. HP: 28/28 MP: 9/13
+  3387 | D:3      | Noticed Jessica
+  3391 | D:3      | Killed Jessica
+  3594 | D:4      | Reached skill level 5 in Fire Magic
+  3614 | D:3      | Slain by an iguana
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_shelter, layout_basic
+D:2:      layout_basic, serial_shops, shop, basic_altar,
+          roderic_nine_men_s_morris
+D:3:      layout_basic, uniq_robin, uniq_jessica
+D:4:      layout_rooms, minmay_temple_entry_butterflies, nicolae_shop_gadgets,
+          uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Conjurations   |     2     3    |  3.9
+Fire Magic     |        4     5 |  5.1
+Spellcasting   |           4    |  4.4
+Dodging        |                |  2.6
+Stealth        |                |  2.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Short sword       |     3 |     1 ||     4
+   Cast: Foxfire           |    72 |    46 ||   118
+         Scorch            |    15 |    21 ||    36
+    Use: Potion            |     2 |     1 ||     3
+         Scroll            |     2 |       ||     2
+ Armour: Robe              |     2 |     4 ||     6
+         Animal skin       |       |    17 ||    17
+  Dodge: Dodged            |     5 |    24 ||    29
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   3614 |   3414 |    200 |      0 |   2902 |   4 |  903.5 |
+       Dungeon |   3614 |   3414 |    200 |      0 |   2902 |   4 |  903.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 1385 daAuts
+     D:2: 1372 daAuts
+     D:3: 831 daAuts
+     D:4: 24 daAuts
+

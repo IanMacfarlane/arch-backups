@@ -1,0 +1,360 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 2683307007201141190
+
+6715 Bokogi the Grappler (level 10, -4/96 HPs)
+             Began as a Troll Berserker on Mar 13, 2023.
+             Was a High Priest of Trog.
+             Slain by a yak (12 damage)
+             ... on level 9 of the Dungeon.
+             The game lasted 00:21:39 (6672 turns).
+
+Bokogi the Grappler (Troll Berserker)               Turns: 6672, Time: 00:21:39
+
+Health: -4/96      AC:  5    Str: 31    XL:     10   Next: 74%
+Magic:  9/9        EV: 11    Int:  3    God:    Trog [*****.]
+Gold:   546        SH:  0    Dex:  9    Spells: 9/9 levels left
+
+rFire   + . .      SeeInvis +      - Unarmed
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +1 animal skin
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (gloves unavailable)
+Will    ++...                    (boots unavailable)
+Stlth   ++                       (no amulet)
+HPRegen 2.16/turn                o - ring of protection from fire
+MPRegen 0.11/turn                v - ring of see invisible
+
+@: strong-willed, on berserk cooldown, regenerating, slowed, very slow
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion, Berserk, Trog's Hand, Brothers in Arms
+
+
+You were on level 9 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You visited 1 branch of the dungeon, and saw 10 of its levels.
+
+You collected 574 gold pieces.
+You spent 28 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ u - 2 throwing nets (quivered)
+Armour
+ a - a +1 animal skin (worn)
+Jewellery
+ o - a ring of protection from fire (left claw)
+ v - a ring of see invisible (right claw)
+Wands
+ d - a wand of roots (7)
+ i - a wand of mindburst (13)
+ r - a wand of light (2)
+Scrolls
+ b - 5 scrolls of teleportation
+ c - 3 scrolls of poison
+ h - 3 scrolls of enchant armour
+ k - 2 scrolls of blinking
+ m - a scroll of amnesia
+ n - 2 scrolls of enchant weapon
+ w - 3 scrolls of identify
+ x - a scroll of noise {unknown}
+ y - a scroll of fog {unknown}
+ A - a scroll of fear {unknown}
+Potions
+ e - 2 potions of berserk rage
+ f - 8 potions of curing
+ g - a potion of might
+ j - a potion of attraction {unknown}
+ l - a potion of flight
+ p - a potion of brilliance {unknown}
+ q - a potion of degeneration {unknown}
+ s - a potion of invisibility {unknown}
+ t - a potion of cancellation {unknown}
+ z - a potion of magic {unknown}
+
+
+   Skills:
+ + Level 5.3 Fighting
+ + Level 6.3 Dodging
+ + Level 2.1 Stealth
+ + Level 13.5 Unarmed Combat
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (0/1) D:5            Lair (0/5) D:8         
+   Orc: D:9-12      
+
+Altars:
+Elyvilon
+Gozag
+Qazlal
+
+Shops:
+D:3 *   D:6 :
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You mangle the yak!!
+The yak is almost dead.
+The yak gores you! The yak closely misses you. The yak gores you!
+You barely miss the yak.
+The yak is almost dead.
+You closely miss the yak. Your claw misses the yak.
+The yak is almost dead.
+The yak gores you but does no damage. x2; The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+You barely miss the yak. Your claw misses the yak.
+The yak is almost dead.
+You barely miss the yak.
+The yak is almost dead.
+The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+The yak gores you!
+* * * LOW HITPOINT WARNING * * *
+The yak gores you but does no damage.
+You mangle the yak!!
+You feel the power of Trog in you as your rage grows.
+You kill the yak!
+Trog accepts your kill.
+The yak misses you. The yak gores you.
+* * * LOW HITPOINT WARNING * * *
+There is a stone staircase leading up, spattered with blood here.
+You feel a strong urge to attack something.
+The yak barely misses you. The yak gores you.
+* * * LOW HITPOINT WARNING * * *
+You climb upwards.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+There is a stone staircase leading down here.
+Okay, then.
+Your skin crawls.
+You feel strong-willed.
+The yak gores you.
+* * * LOW HITPOINT WARNING * * *
+The yak gores you!
+You die...
+
+.#####....).....#
+.#   #..........#
+.#   #..........#
+.#   #..........#
+.#   #....).....#
+.#   #..........#
+.#   #..........#
+.#   #..........#
+.#   #######.)######
+.#         #..)....#
+.#   #######..####Y#
+.#   #...........Y@#
+.#   #.#############
+.#   #.#
+.#   #.#
+.#   #.#
+.#   #.#
+.#   #.#
+.#   #.#
+##   #.#
+     #.#
+######.#
+.......#
+
+
+You could see 2 yaks.
+
+Vanquished Creatures
+  2 trolls (D:9)
+  Prince Ribbit (D:7)
+  Sigmund (D:4)
+  14 yaks
+  3 wyverns
+  A steam dragon (D:4)
+  A water moccasin (D:7)
+  3 wargs (D:8)
+  Duvessa (D:5)
+  3 ice beasts
+  2 orc warriors
+  A sky beast (D:8)
+  A black bear (D:4)
+  An ogre (D:4)
+  5 centaurs
+  4 kobold brigands
+  4 bullfrogs
+  5 wights (D:9)
+  Dowan (D:5)
+  An electric eel (D:8)
+  6 howler monkeys
+  Crazy Yiuf (D:4)
+  2 orc priests (D:8)
+  A gnoll bouda (D:8)
+  A jelly (D:8)
+  A sleepcap (D:7)
+  4 iguanas
+  3 orc wizards
+  Robin (D:4)
+  4 gnolls (D:8)
+  6 adders
+  A shadow imp (D:6)
+  2 white imps (D:6)
+  An ufetubus (D:6)
+  A worm (D:4)
+  3 dart slugs
+  20 orcs
+  7 bats
+  4 endoplasms
+  4 giant cockroaches
+  18 goblins
+  9 hobgoblins
+  31 kobolds
+  6 quokkas
+  5 ball pythons
+  8 frilled lizards
+  3 rats
+208 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   200 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+   830 | D:2      | Reached XP level 3. HP: 36/36 MP: 2/2
+   988 | D:2      | Reached ** piety under Trog
+  1084 | D:2      | Reached XP level 4. HP: 44/45 MP: 3/3
+  1264 | D:2      | Reached skill level 4 in Unarmed Combat
+  1488 | D:3      | Found Honnit's General Store.
+  1496 | D:3      | Bought a scroll of identify for 28 gold pieces
+  1977 | D:3      | Found an opulent altar of Gozag.
+  2039 | D:4      | Noticed an ice beast
+  2049 | D:4      | Killed an ice beast
+  2050 | D:4      | Reached skill level 5 in Unarmed Combat
+  2050 | D:4      | Reached XP level 5. HP: 47/53 MP: 4/4
+  2105 | D:4      | Found a runed translucent door.
+  2106 | D:4      | Noticed Crazy Yiuf
+  2112 | D:4      | Killed Crazy Yiuf
+  2113 | D:4      | Reached XP level 6. HP: 56/61 MP: 5/5
+  2154 | D:4      | Noticed Sigmund
+  2162 | D:4      | Killed Sigmund
+  2163 | D:4      | Reached skill level 6 in Unarmed Combat
+  2195 | D:4      | Reached *** piety under Trog
+  2215 | D:4      | Reached XP level 7. HP: 67/67 MP: 6/6
+  2239 | D:4      | Found a white marble altar of Elyvilon.
+  2316 | D:4      | Found a stormy altar of Qazlal.
+  2332 | D:4      | Noticed Robin
+  2370 | D:4      | Killed Robin
+  2406 | D:4      | Noticed a steam dragon
+  2423 | D:4      | Killed a steam dragon
+  2424 | D:4      | Reached skill level 7 in Unarmed Combat
+  2752 | D:5      | Entered Level 5 of the Dungeon
+  2896 | D:5      | Found a staircase to the Ecumenical Temple.
+  3092 | D:5      | Noticed Duvessa
+  3092 | D:5      | Noticed Dowan
+  3103 | D:5      | Killed Duvessa
+  3109 | D:5      | Killed Dowan
+  3439 | D:6      | Reached XP level 8. HP: 78/78 MP: 7/7
+  3461 | D:6      | Reached skill level 8 in Unarmed Combat
+  3605 | D:6      | Found Uchyreff's Book Emporium.
+  3749 | D:6      | You fall into a shaft and drop 3 floors!
+  3754 | D:8      | Found a staircase to the Lair.
+  3774 | D:8      | Reached skill level 9 in Unarmed Combat
+  3817 | D:8      | Reached skill level 1 in Stealth
+  3920 | D:7      | Identified the +4 scale mail of the Slightly Bent {-Tele
+                  | +Inv rElec rN++}
+  4216 | D:7      | Reached XP level 9. HP: 85/85 MP: 8/8
+  4234 | D:7      | Reached **** piety under Trog
+  4259 | D:7      | Reached skill level 10 in Unarmed Combat
+  4326 | D:7      | Noticed Prince Ribbit
+  4348 | D:7      | Killed Prince Ribbit
+  4349 | D:7      | Reached skill level 5 in Dodging
+  4934 | D:8      | Reached skill level 11 in Unarmed Combat
+  5453 | D:9      | Reached skill level 12 in Unarmed Combat
+  5453 | D:9      | Reached XP level 10. HP: 90/94 MP: 9/9
+  5559 | D:9      | Reached skill level 5 in Fighting
+  6093 | D:9      | Reached skill level 13 in Unarmed Combat
+  6171 | D:9      | Reached ***** piety under Trog
+  6653 | D:10     | Entered Level 10 of the Dungeon
+  6672 | D:9      | Slain by a yak
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_simple_fountains, layout_basic,
+          roderic_cross_of_infinity, grunt_decor_one_mirror
+D:2:      minmay_skewed_foursquare, layout_basic, minmay_lizard_pond
+D:3:      layout_basic, marbit_many_paths, serial_shops, shop
+D:4:      nicolae_cairo_tiling_large, layout_rooms, grunt_qazlal_sundering,
+          old_standard_altar, uniq_sigmund, uniq_robin, uniq_crazy_yiuf_cottage
+D:5:      layout_loops_ring, temple_fountains, uniq_duvessa
+D:6:      layout_loops_ring, serial_shops, shop
+D:7:      layout_basic, uniq_prince_ribbit1
+D:8:      layout_cave_pools, erik_lair_orcish_takeover, kennysheep_crisscross,
+          minmay_liquid_box
+D:9:      layout_basic
+D:10:     nicolae_hexawheel, layout_rooms, chequers_temple_overflow_minitemple,
+          minmay_orc_entry_temple_small, ebering_ghost_gozag,
+          nicolae_figureground_pulse, uniq_erolcha, uniq_grum, uniq_harold
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |        3              4     5 |  5.3
+Unarmed Combat |           5     6  7  9 12 13 | 13.5
+Dodging        |           3        4     5  6 |  6.3
+Stealth        |                       1     2 |  2.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |    84 |   103 |   248 |   108 ||   543
+         Punch             |       |     1 |    12 |     5 ||    18
+ Invoke: Berserk           |       |     1 |     3 |     1 ||     5
+         Trog's Hand       |       |       |     1 |     1 ||     2
+    Use: Scroll            |     4 |     2 |     6 |       ||    12
+         Potion            |       |       |     2 |       ||     2
+   Stab: Sleeping          |       |       |     1 |       ||     1
+         Distracted        |       |       |       |     1 ||     1
+ Armour: Animal skin       |    28 |    24 |    41 |    30 ||   123
+  Dodge: Dodged            |    39 |    42 |   107 |    51 ||   239
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   6614 |   6275 |    339 |      0 |   4867 |  10 |  661.4 |
+       Dungeon |   6614 |   6275 |    339 |      0 |   4867 |  10 |  661.4 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:9: 1216 daAuts
+     D:8: 779 daAuts
+     D:1: 722 daAuts
+     D:2: 717 daAuts
+     D:4: 693 daAuts
+     D:5: 663 daAuts
+     D:7: 624 daAuts
+     D:3: 615 daAuts
+     D:6: 571 daAuts
+    D:10: 10 daAuts
+

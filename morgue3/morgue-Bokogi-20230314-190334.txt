@@ -1,0 +1,458 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 12620282438248871050
+
+7082 Bokogi the Marksminotaur (level 10, -2/87 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Was a Believer of Hepliaklqana.
+             Slain by a troll (9 damage)
+             ... on level 10 of the Dungeon.
+             The game lasted 00:48:18 (10244 turns).
+
+Bokogi the Marksminotaur (Minotaur Hunter)         Turns: 10244, Time: 00:48:18
+
+Health: -2/87      AC:  4    Str: 17    XL:     10   Next: 84%
+Magic:  9/9        EV: 12    Int:  6    God:    Hepliaklqana [**....]
+Gold:   442        SH:  0    Dex: 17    Spells: 9/9 levels left
+
+rFire   + + .      SeeInvis .    I - +0 arbalest
+rCold   x x .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    s - +1 robe {Will+}
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    +....                    g - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.34/turn                f - ring of fire
+MPRegen 0.11/turn                z - ring of fire
+
+@: about to teleport
+A: reduced essence, horns 2, retaliatory headbutt
+a: Renounce Religion, Recall Ancestor, Ancestor Identity
+
+
+You were on level 10 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was pleased with you.
+You visited 2 branches of the dungeon, and saw 11 of its levels.
+You also visited: Sewer.
+
+You collected 442 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 shortbow
+ I - a +0 arbalest (weapon)
+Armour
+ g - a +0 pair of boots (worn)
+ s - a +1 robe of willpower (worn)
+ F - +0 steam dragon scales
+Jewellery
+ f - a ring of fire (left hand)
+ z - a ring of fire (right hand)
+Wands
+ n - a wand of polymorph (5)
+ D - a wand of digging (4)
+ E - a wand of charming (5)
+ H - a wand of light (16)
+Scrolls
+ b - 4 scrolls of immolation
+ c - 4 scrolls of silence
+ d - a scroll of butterflies
+ e - 4 scrolls of noise
+ h - 2 scrolls of poison
+ j - 3 scrolls of teleportation
+ q - a scroll of identify
+ t - 3 scrolls of fear
+ v - 3 scrolls of fog
+ w - a scroll of blinking {unknown}
+ x - a scroll of enchant weapon
+ y - 2 scrolls of amnesia
+ B - a scroll of magic mapping
+Potions
+ i - 2 potions of heal wounds
+ k - a potion of flight {unknown}
+ l - 2 potions of mutation {unknown}
+ m - 7 potions of curing
+ o - a potion of ambrosia {unknown}
+ p - 2 potions of brilliance
+ r - a potion of lignification {unknown}
+ A - 3 potions of might {unknown}
+ C - 4 potions of haste {unknown}
+
+
+   Skills:
+ + Level 11.8 Fighting
+ * Level 15.3 Ranged Weapons
+ - Level 2.1 Dodging
+ - Level 0.7 Stealth
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Beastly Appendage        Tmut           0%         N/A       45%         1
+ Foxfire                  Conj/Fire      0%         2x1d4     45%         1
+ Ensorcelled Hibernation  Hex/Ice        0%         N/A       58%         2
+ Wereblood                Tmut           0%         N/A       58%         2
+ Ignite Poison            Fire/Tmut/Pois 0%         N/A       83%         3
+ Kindle Blastsparks       Fire/Tloc/Air  0%         2d10      83%         3
+ Spider Form              Tmut/Pois      0%         N/A       83%         3
+ Tukima's Dance           Hex            0%         N/A       83%         3
+ Anguish                  Hex/Necr       0%         N/A       99%         4
+ Passage of Golubria      Tloc           0%         N/A       99%         4
+ Petrify                  Tmut/Erth      0%         N/A       99%         4
+ Summon Lightning Spire   Summ/Air       0%         N/A       99%         4
+ Fireball                 Conj/Fire      0%         3d3       100%        5
+ Freezing Cloud           Conj/Ice/Air   0%         6-21      100%        5
+ Metabolic Englaciation   Hex/Ice        0%         N/A       100%        5
+ Yara's Violent Unravell  Hex/Tmut       0%         3d3       100%        5
+ Starburst                Conj/Fire      0%         6d3       100%        6
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Storm Form               Tmut/Air       0%         N/A       100%        7
+ Maxwell's Capacitive Co  Air            0%         ∞         100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:7           Sewer (visited)         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:3 !   D:5 :
+
+Annotations:
+D:8 3 runed translucent doors, Minos's ghost, novice MiBe
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The gnoll sergeant hits Chakide with a +0 trident!
+Chakide is destroyed!
+A purple ugly thing comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a purple ugly thing
+The floor.
+Unknown command.
+The purple ugly thing closely misses you.
+The purple ugly thing tail-slaps you!!
+Found a stone staircase leading down. The purple ugly thing tail-slaps you!
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Unknown command.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: a purple ugly thing
+The floor, spattered with blood.
+You feel much better. The purple ugly thing tail-slaps you!
+The purple ugly thing attacks as you move away!
+The purple ugly thing tail-slaps you!
+The purple ugly thing attacks as you move away!
+The purple ugly thing tail-slaps you.
+The purple ugly thing closely misses you.
+The purple ugly thing attacks as you move away!
+The purple ugly thing tail-slaps you!!
+Okay, then.
+Okay, then.
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable. The purple ugly thing tail-slaps you!
+* * * LOW HITPOINT WARNING * * *
+You feel much better. The purple ugly thing tail-slaps you!
+* * * LOW HITPOINT WARNING * * *
+The troll attacks as you move away! The troll bites you!!
+* * * LOW HITPOINT WARNING * * *
+The troll misses you. The troll claws you!
+You die...
+
+......#   #......#
+......#   #......#
+......#   #......#
+......#   #......#
+......#####....[.######
+...................>..
+.....)#####.....g##.#######
+####...)........T..........
+   #.##############.######
+####.#######   ####.#######
+...........#   #...uT......
+##.....##.)### #.##@#####.#
+ #......).)..# #.##.#
+ #....###.##.###.##.#
+ #........##..##.##.#
+ #....######..##.##.#
+ #....#    #.....##.#
+ #....#   ###...###.#
+ #....#   #.....)†#.#
+ #....#   #....[))..#
+ #.....   #......#..#
+ #.....   #......#..#
+ ####..   #......#..#
+
+
+You could see a purple ugly thing and a troll.
+
+Vanquished Creatures
+  Maggie (D:7)
+  A troll (D:9)
+  A shadow (D:10)
+  Sigmund (D:3)
+  3 wyverns
+  10 yaks
+  Eustachio (D:6)
+  A steam dragon (D:7)
+  3 orc warriors
+  A black bear (D:4)
+  2 ice beasts
+  2 sky beasts
+  2 ogres
+  2 centaurs
+  A phantom (D:5)
+  2 kobold brigands
+  5 bullfrogs
+  A gnoll sergeant (D:9)
+  A scorpion (D:5)
+  2 killer bees (D:9)
+  2 howler monkeys
+  5 orc priests
+  2 hounds
+  A gnoll bouda (D:6)
+  2 iguanas
+  3 iron imps (D:8)
+  Terence (D:2)
+  5 orc wizards
+  A centaur simulacrum (D:9)
+  6 gnolls
+  3 river rats (Sewer)
+  7 adders
+  A shadow imp (D:7)
+  4 white imps
+  An ufetubus (D:3)
+  2 worms
+  A dart slug (D:1)
+  17 orcs
+  7 bats
+  10 endoplasms
+  3 giant cockroaches
+  12 goblins
+  4 hobgoblins
+  2 quokkas (D:5)
+  11 ball pythons
+  8 frilled lizards
+  17 kobolds
+  22 rats
+203 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Nergalle (D:10)
+  A steam dragon (D:7)
+  A water moccasin (D:9)
+  2 ice beasts (D:9)
+  A centaur (D:6)
+  A kobold brigand (Sewer)
+  A killer bee (D:9)
+  2 howler monkeys
+  An orc priest (D:10)
+  An iguana (D:6)
+  3 orc wizards
+  A centaur simulacrum (D:9)
+  4 gnolls
+  3 adders
+  3 orcs
+  An endoplasm (Sewer)
+  6 kobolds (Sewer)
+  2 rats (Sewer)
+  A butterfly (D:7)
+36 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 knights
+  8 ancestors
+  9 plants
+20 creatures vanquished.
+
+Grand Total: 259 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    77 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   253 | D:1      | Reached skill level 5 in Ranged Weapons
+   572 | D:2      | Reached XP level 3. HP: 29/31 MP: 2/2
+   837 | D:2      | Found a faded altar of an unknown god.
+  1001 | D:2      | Noticed Terence
+  1080 | D:2      | Killed Terence
+  1081 | D:2      | Reached XP level 4. HP: 40/40 MP: 3/3
+  1460 | D:3      | Reached skill level 6 in Ranged Weapons
+  1471 | D:3      | Noticed Sigmund
+  1680 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  1694 | D:3      | Found Kemmam's Distillery.
+  1765 | D:3      | Found an ornate altar of the Wu Jian Council.
+  1824 | D:3      | Killed Sigmund
+  1825 | D:3      | Reached skill level 7 in Ranged Weapons
+  1825 | D:3      | Reached XP level 5. HP: 26/47 MP: 4/4
+  1825 | D:3      | Reached XP level 6. HP: 29/53 MP: 5/5
+  1962 | D:3      | Found a shimmering altar of Xom.
+  2711 | D:3      | HP: 1/55 [ogre/+0 giant club (15)]
+  2953 | D:3      | Reached skill level 5 in Fighting
+  3148 | D:4      | Reached skill level 8 in Ranged Weapons
+  3150 | D:4      | Reached XP level 7. HP: 61/61 MP: 6/6
+  3281 | D:4      | Found a broken altar of Ashenzari.
+  3613 | D:4      | Found a snail-covered altar of Cheibriados.
+  3673 | D:4      | Found a shimmering blue altar of Sif Muna.
+  3815 | D:4      | Found a hazy altar of Hepliaklqana.
+  4054 | D:4      | Became a worshipper of Hepliaklqana the Forgotten
+  4100 | D:5      | Entered Level 5 of the Dungeon
+  4437 | D:5      | Found Vireojia's Book Shoppe.
+  4460 | D:5      | Reached skill level 9 in Ranged Weapons
+  5019 | D:6      | Found a glowing drain.
+  5022 | D:6      | Reached * piety under Hepliaklqana
+  5047 | D:6      | Reached XP level 8. HP: 63/63 MP: 7/7
+  5114 | Sewer    | Entered a sewer
+  5464 | Sewer    | Reached skill level 10 in Ranged Weapons
+  5880 | D:6      | Noticed Eustachio
+  5914 | D:6      | Killed Eustachio
+  6147 | D:6      | Reached skill level 11 in Ranged Weapons
+  6505 | D:7      | Noticed Maggie
+  6602 | D:7      | Found a staircase to the Ecumenical Temple.
+  6627 | D:7      | Killed Maggie
+  6628 | D:7      | Reached XP level 9. HP: 34/73 MP: 8/8
+  6807 | Temple   | Entered the Ecumenical Temple
+  6901 | D:7      | Reached skill level 12 in Ranged Weapons
+  7177 | D:7      | Found a sacrificial altar of Ru.
+  7864 | D:8      | Found a flagged portal.
+  7881 | D:8      | Noticed a ten-headed hydra
+  7888 | D:8      | Found a runed translucent gate.
+  7902 | D:8      | Reached skill level 13 in Ranged Weapons
+  7941 | D:8      | Reached skill level 10 in Fighting
+  7986 | D:8      | Found a runed translucent gate.
+  7986 | D:8      | Found a runed translucent gate.
+  7990 | D:8      | Noticed Minos's ghost (novice MiBe)
+  8019 | D:8      | Found a burning altar of Makhleb.
+  8159 | D:8      | Reached XP level 10. HP: 68/84 MP: 9/9
+  8291 | D:8      | Found an iron altar of Okawaru.
+  8341 | D:8      | Reached ** piety under Hepliaklqana
+  8342 | D:8      | Remembered your ancestor Chakide as a knight
+  9161 | D:9      | Found a basalt altar of Yredelemnul.
+  9386 | D:9      | Reached skill level 14 in Ranged Weapons
+  9864 | D:10     | Entered Level 10 of the Dungeon
+  9986 | D:10     | Noticed Nergalle
+  9992 | D:10     | Killed Nergalle
+  9993 | D:10     | Reached skill level 15 in Ranged Weapons
+ 10227 | D:10     | Noticed a purple ugly thing
+ 10244 | D:10     | Slain by a troll
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      spicycebolla_arrival_clurvy, layout_basic, item_on_display_a
+D:2:      layout_loops_corners, shapermc_ecumenical_altar_acropolis,
+          uniq_terence
+D:3:      layout_basic, mainiacjoe_overflow_brackets, general_overflow_altar,
+          lemuel_crystal_altar, serial_shops, nicolae_shop_stone,
+          mrwooster_statue_mirror, uniq_sigmund
+D:4:      layout_loops_cross, lemuel_round_altar, nicolae_ashenzari_panopticon,
+          mainiacjoe_overflow_catwalk_spiral, kennysheep_generic_room_2
+D:5:      layout_basic, serial_shops, kennysheep_mini_moat
+D:6:      layout_basic, gup_sewer_entry_glass, uniq_eustachio
+D:7:      layout_layer_cave, nicolae_ru_the_path_less_chosen,
+          minmay_temple_entry_butterflies, uniq_maggie
+D:8:      layout_basic, amcnicky_altar_gilded, demons_altar, enter_bailey_5,
+          gammafunk_ghost_hydra_chop
+D:9:      layout_roguey, mainiacjoe_overflow_boulevard, serial_ice,
+          serial_ice_h, serial_ice_n, serial_ice_g, serial_ice_a,
+          nicolae_straight_to_the_point
+D:10:     layout_basic, serial_shops, shop, uniq_nergalle
+Temple:   minmay_freezing_vapour_temple
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |     3     4     5  6  8 10 11 | 11.8
+Ranged Weapons |     5     7     8  9 11 13 15 | 15.3
+Dodging        |                               |  2.1
+Stealth        |                               |  0.7
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+---------------------------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |     2 |       |       |       ||     2
+   Fire: Shortbow          |    94 |    83 |   427 |    13 ||   617
+         Arbalest          |       |       |       |   119 ||   119
+ Invoke: Ancestor Identity |       |       |     2 |       ||     2
+         Recall Ancestor   |       |       |     2 |     1 ||     3
+         Ancestor Life: Kn |       |       |       |     1 ||     1
+    Use: Scroll            |       |     5 |    11 |     3 ||    19
+         Potion            |       |       |     6 |     3 ||     9
+ Armour: Leather armour    |    12 |     6 |       |       ||    18
+         Skin              |     1 |       |       |       ||     1
+         Robe              |       |     3 |    14 |     2 ||    19
+  Dodge: Dodged            |    28 |    23 |    65 |    16 ||   132
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  10294 |   9525 |    769 |      0 |   7445 |  12 |  857.8 |
+       Dungeon |   9618 |   8849 |    769 |      0 |   6977 |  10 |  961.8 |
+        Temple |     87 |     87 |      0 |      0 |     56 |   1 |   87.0 |
+         Sewer |    587 |    587 |      0 |      0 |    411 |   1 |  587.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 1481 daAuts
+     D:8: 1288 daAuts
+     D:7: 1195 daAuts
+     D:4: 1150 daAuts
+     D:2: 990 daAuts
+     D:6: 983 daAuts
+     D:5: 891 daAuts
+     D:9: 746 daAuts
+   Sewer: 587 daAuts
+     D:1: 503 daAuts
+    D:10: 387 daAuts
+  Temple: 87 daAuts
+

@@ -1,0 +1,158 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 2947132781845356298
+
+0 Kuzon the Firebug (level 1, -2/13 HPs)
+             Began as a Human Fire Elementalist on Mar 10, 2023.
+             Slain by a hobgoblin (3 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:03:10 (242 turns).
+
+Kuzon the Firebug (Human Fire Elementalist)          Turns: 242, Time: 00:03:11
+
+Health: -2/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    
+Gold:   16         SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire   . . .      SeeInvis .   (no weapon)
+rCold   . . .      Faith    .   (no shield)
+rNeg    . . .      Spirit   .   a - +0 robe
+rPois   .          Reflect  .   (no helmet)
+rElec   .          Harm     .   (no cloak)
+rCorr   .          Rampage  .   (no gloves)
+Will    .....                   (no boots)
+Stlth   ++........              (no amulet)
+HPRegen 0.04/turn               (no ring)
+MPRegen 0.08/turn               (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 16 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.0 Fire Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      28%        2x1d5     10%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Scorch                   Fire           20%        2d6       10%         2
+ Conjure Flame            Conj/Fire      7%         6-21      28%         3
+ Inner Flame              Hex/Fire       6%         N/A       34%         3
+ Flame Wave               Conj/Fire      7%         2d5       67%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The hobgoblin hits you.
+You barely miss the hobgoblin.
+The hobgoblin is moderately wounded.
+You hit the hobgoblin but do no damage.
+The hobgoblin is moderately wounded.
+The hobgoblin closely misses you.
+You hit the hobgoblin but do no damage.
+The hobgoblin is moderately wounded.
+The hobgoblin barely misses you.
+You barely miss the hobgoblin.
+The hobgoblin is moderately wounded.
+The hobgoblin closely misses you.
+You closely miss the hobgoblin.
+The hobgoblin is moderately wounded.
+The hobgoblin barely misses you.
+You hit the hobgoblin but do no damage.
+The hobgoblin is moderately wounded.
+The hobgoblin hits you but does no damage.
+You barely miss the hobgoblin.
+The hobgoblin is moderately wounded.
+The hobgoblin barely misses you.
+You hit the hobgoblin but do no damage.
+The hobgoblin is moderately wounded.
+The hobgoblin hits you but does no damage.
+You hit the hobgoblin.
+The hobgoblin is heavily wounded.
+The hobgoblin hits you.
+You hit the hobgoblin but do no damage.
+The hobgoblin is heavily wounded.
+The hobgoblin hits you.
+You closely miss the hobgoblin.
+The hobgoblin is heavily wounded.
+The hobgoblin barely misses you.
+You hit the hobgoblin.
+The hobgoblin is severely wounded.
+The hobgoblin hits you.
+* * * LOW HITPOINT WARNING * * *
+You see here a scroll labelled KANYOLAOSTRE.
+You open the door. The hobgoblin hits you.
+You die...
+
+                    .....
+                     ....
+                     ...
+                     ...
+                     #.# #
+          ###        #.#.#
+    #.    #...########.#.#
+    #..   +...'@g.?....#.##
+    #..## #...#######.....#  #..
+    #........       +.....## #..
+    #....############......#  ..
+    #.#...............#+##.#   .
+    #..........######.#.#....
+    ..................#.#.#.##
+    #.####..###########.#.#.##
+    #.##.....0.......##.#.#..#
+#####.##......0......##.#.##.#
+ ......#......00..........##.#
+
+
+You could see a hobgoblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Human Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   242 | D:1      | Slain by a hobgoblin
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      onia_arrival_pentagram, layout_basic, chequers_ecumenical_altar_grove
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    13
+Armor: Robe              ||     2
+Dodge: Dodged            ||    10
+

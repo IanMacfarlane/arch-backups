@@ -1,0 +1,304 @@
+Ravn
+
+Level 1 of the Dungeon
+(10, -20, D:1)
+  a +0 leather armour
+(13, -21, D:1)
+  a staff of air
+(16, 10, D:1)
+  a +0 dagger
+(19, -10, D:1)
+  a +0 sling
+(21, -16, D:1)
+  a +0 leather armour
+(31, 1, D:1)
+  a +0 helmet
+(41, 11, D:1)
+  6 poisoned darts
+(45, 0, D:1)
+  a +1 dagger of draining
+  2 stones
+(63, 14, D:1)
+  a +0 leather armour
+(65, 18, D:1)
+  a +0 dagger
+(65, 33, D:1)
+  4 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 whip
+(2, 24, D:2)
+  a +0 dagger
+(9, -9, D:2)
+  a book of Spatial Translocations
+(21, 34, D:2)
+  6 stones
+(31, 1, D:2)
+  a +0 leather armour
+(42, 26, D:2)
+  a +2 tower shield of positive energy
+(45, -6, D:2)
+  a +0 club
+(45, 3, D:2)
+  a +0 dagger
+(53, -1, D:2)
+  a book of the Hunter
+(57, 3, D:2)
+  2 stones
+(58, -3, D:2)
+  a +0 short sword
+  2 stones
+
+Level 3 of the Dungeon
+[Shop] Niryxta's Antique Weapon Shop
+  a +0 heavy mace (111 gold)
+  a +0 spear (45 gold)
+  a +0 sling (22 gold)
+  a +0 short sword (45 gold)
+  a +1 morningstar of holy wrath (213 gold)
+  a +2 heavy spear (261 gold)
+(0, 0, D:3)
+  a +0 whip
+(0, 1, D:3)
+  a +0 hand axe
+(2, 1, D:3)
+  a +0 dagger
+  a +0 robe
+  a +0 flail
+(13, -18, D:3)
+  a +0 ring mail
+(25, 10, D:3)
+  a +0 dagger of venom
+(26, 8, D:3)
+  a +0 dagger
+  a +0 club
+  a +0 club
+  a +0 dagger
+  a +0 helmet
+  a +0 animal skin
+  a +0 mace
+(26, 10, D:3)
+  a +0 club
+  a +0 club
+(27, 10, D:3)
+  a +0 dagger
+  a +0 club
+(31, -24, D:3)
+  a +0 short sword
+  3 stones
+(34, -3, D:3)
+  a +0 hand axe
+(35, -7, D:3)
+  a +0 dagger
+(39, -9, D:3)
+  5 stones
+(44, 8, D:3)
+  a +0 robe
+(46, -10, D:3)
+  a +0 whip
+(51, -26, D:3)
+  a +0 flail
+(57, -2, D:3)
+  4 stones
+(57, 6, D:3)
+  a ring of wizardry
+
+Level 4 of the Dungeon
+[Shop] Feazaxoz's Book Shop
+  (Shop contents are unknown)
+(0, 0, D:4)
+  a +0 dagger
+(7, -19, D:4)
+  a +0 flail
+(9, 5, D:4)
+  a +0 dagger
+(12, -19, D:4)
+  a +0 flail
+  a +0 whip
+  a +0 club
+(13, -18, D:4)
+  a +0 spear
+(13, 14, D:4)
+  a +0 club
+  a +0 sling
+(18, -18, D:4)
+  a +1 heavy long sword
+(19, -5, D:4)
+  a +0 club
+(19, -3, D:4)
+  a +0 short sword of electrocution
+(24, 8, D:4)
+  a +0 dagger
+(25, -27, D:4)
+  a +0 leather armour
+  a +0 ring mail
+(36, -24, D:4)
+  Maxwell's Memoranda
+(43, -24, D:4)
+  a +0 animal skin
+  a +2 war axe of draining
+  a +0 hand axe
+(52, -13, D:4)
+  a potion of mutation
+  a potion of lignification
+(57, -5, D:4)
+  the +8 dagger of Girchoz {heavy, rN++}
+    rN:        It greatly protects you from negative energy.
+
+Level 5 of the Dungeon
+[Shop] Vig Jyl's Weapon Boutique
+  a +0 spear (30 gold)
+  a +0 quarterstaff (40 gold)
+  a +0 falchion (30 gold)
+  the +2 mace of the Exiled Things {venom, rElec Will+++ Dex+3 Stlth-} (605 gold)
+    Dex:       It affects your dexterity (+3).
+    rElec:     It insulates you from electricity.
+    Will:      It greatly increases your willpower.
+    Stlth:     It makes you less stealthy.
+  a +0 falchion (30 gold)
+(0, 0, D:5)
+  a +0 leather armour
+(3, -13, D:5)
+  a +0 sling
+(11, -38, D:5)
+  a +0 shortbow
+(11, -12, D:5)
+  a +0 robe
+(13, 0, D:5)
+  a +0 sling
+(30, -40, D:5)
+  a +0 dagger
+(31, -40, D:5)
+  a +0 mace
+  a +0 scale mail
+(31, -39, D:5)
+  a +0 war axe
+  a +0 leather armour
+(41, -15, D:5)
+  a +0 short sword
+(47, -9, D:5)
+  a +0 shortbow
+(49, -7, D:5)
+  a +0 ring mail
+(52, -46, D:5)
+  6 stones
+(56, -38, D:5)
+  a +0 short sword
+  a +0 ring mail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a scroll of immolation
+(2, 6, D:6)
+  4 stones
+(18, -15, D:6)
+  a +0 trident
+(26, -22, D:6)
+  a +0 great sword
+(32, -13, D:6)
+  4 stones
+(36, 2, D:6)
+  a +0 mace
+(36, 29, D:6)
+  a +0 falchion
+(37, 23, D:6)
+  a +0 club
+(41, 9, D:6)
+  a +0 whip
+  a +0 morningstar
+(41, 22, D:6)
+  a +0 giant spiked club
+(42, 8, D:6)
+  a +0 whip
+(42, 9, D:6)
+  a +0 long sword
+  a +0 plate armour
+(43, 6, D:6)
+  a +0 chain mail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a potion of lignification
+(2, -10, D:7)
+  a +0 robe
+(7, 21, D:7)
+  5 stones
+(9, 2, D:7)
+  a +0 flail
+  a +0 spear
+  a +0 flail
+(9, 3, D:7)
+  a +0 club
+  a +0 robe
+(9, 4, D:7)
+  a +0 spear
+(10, -12, D:7)
+  a +0 halberd
+(11, 2, D:7)
+  a +0 hand axe
+(12, 1, D:7)
+  a +0 flail
+(12, 2, D:7)
+  a +0 war axe
+  a +0 ring mail
+(13, 2, D:7)
+  3 stones
+(20, 5, D:7)
+  a +0 leather armour
+  a +0 short sword
+(21, 5, D:7)
+  a +0 trident
+(22, 2, D:7)
+  a +1 flail of holy wrath
+  4 stones
+  a +0 chain mail
+(25, 21, D:7)
+  a +0 dagger
+  a +0 leather armour
+(26, 21, D:7)
+  a +0 short sword
+  a +0 ring mail
+  a +0 hand axe
+  a +0 leather armour
+(27, 21, D:7)
+  a +0 hand axe
+(30, -10, D:7)
+  a +0 whip
+(37, -6, D:7)
+  a +0 leather armour
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  an amulet of magic regeneration
+(3, -4, D:8)
+  a +0 robe
+(6, -7, D:8)
+  a +0 trident
+(6, 1, D:8)
+  a +0 whip
+  a +0 club
+  a +0 flail
+  a +0 flail
+  a +0 robe
+  a +0 club
+(7, 0, D:8)
+  a +0 spear
+(9, -6, D:8)
+  a potion of mutation
+(16, 1, D:8)
+  3 stones
+(22, -6, D:8)
+  a +0 giant club
+  a +0 giant club
+  a wolf corpse
+(27, -3, D:8)
+  8 stones
+(29, 3, D:8)
+  a +2 dagger of chaos
+  a +0 robe
+(30, 2, D:8)
+  a +0 scale mail
+
+the Ecumenical Temple
+

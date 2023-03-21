@@ -1,0 +1,259 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 9434682782646044571
+
+92 Bokogi the Ruffian (level 4, -4/44 HPs)
+             Began as a Troll Gladiator on Mar 14, 2023.
+             Was an Initiate of Elyvilon.
+             Slain by Crazy Yiuf
+             ... wielding a +3 quarterstaff of chaos
+              (10 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:55 (1342 turns).
+
+Bokogi the Ruffian (Troll Gladiator)                Turns: 1342, Time: 00:04:55
+
+Health: -4/44      AC:  4    Str: 24    XL:     4   Next: 35%
+Magic:  3/3        EV: 10    Int:  4    God:    Elyvilon [......]
+Gold:   80         SH:  0    Dex: 11    Spells: 3/3 levels left
+
+rFire   . . .      SeeInvis .      - Unarmed
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    b - +0 hat
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth   +                        (no amulet)
+HPRegen 1.07/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: lethally poisoned (-4 -> -6)
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Elyvilon.
+Elyvilon was noncommittal.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 80 gold pieces.
+
+Inventory:
+
+Missiles
+ c - 3 throwing nets
+ d - a large rock
+ l - 6 silver boomerangs (quivered)
+ m - 4 poisoned darts
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+Wands
+ q - a wand of iceblast (8)
+Scrolls
+ f - 2 scrolls of teleportation {unknown}
+ n - 2 scrolls of torment {unknown}
+ o - a scroll of fog {unknown}
+ r - a scroll of identify {unknown}
+Potions
+ e - 2 potions of curing {unknown}
+ g - 2 potions of invisibility {unknown}
+ h - a potion of berserk rage {unknown}
+ i - a potion of degeneration {unknown}
+ j - 2 potions of attraction {unknown}
+ k - a potion of heal wounds {unknown}
+ p - a potion of cancellation {unknown}
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.0 Throwing
+ - Level 2.4 Dodging
+ * Level 4.5 Unarmed Combat
+
+
+You had 3 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Sublimation of Blood     Necr           0%         N/A       65%         2
+ Wereblood                Tmut           0%         N/A       65%         2
+ Summon Hydra             Summ           0%         N/A       100%        7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Elyvilon
+Trog
+
+Shops:
+D:3 [
+
+Annotations:
+D:3 Crazy Yiuf
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You claw Crazy Yiuf!
+Crazy Yiuf is moderately wounded.
+Crazy Yiuf hits you with a +3 quarterstaff of chaos!
+You blink.
+You closely miss Crazy Yiuf.
+Crazy Yiuf is moderately wounded.
+You closely miss Crazy Yiuf.
+Crazy Yiuf is moderately wounded.
+Crazy Yiuf barely misses you.
+You closely miss Crazy Yiuf.
+Crazy Yiuf is moderately wounded.
+Crazy Yiuf yells, "Citrus high return to song!"
+Crazy Yiuf hits you but does no damage.
+You closely miss Crazy Yiuf.
+Crazy Yiuf is moderately wounded.
+Crazy Yiuf barely misses you.
+You scratch Crazy Yiuf.
+Crazy Yiuf is heavily wounded.
+Crazy Yiuf yells, "Goldfish hand down!"
+Crazy Yiuf hits you with a +3 quarterstaff of chaos!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You claw Crazy Yiuf!
+Crazy Yiuf is almost dead.
+Crazy Yiuf hits you with a +3 quarterstaff of chaos!
+* * * LOW HITPOINT WARNING * * *
+You scratch Crazy Yiuf but do no damage.
+You claw Crazy Yiuf.
+Crazy Yiuf is almost dead.
+Crazy Yiuf whimpers, "Gnoll blue action!"
+Crazy Yiuf hits you with a +3 quarterstaff of chaos.
+* * * LOW HITPOINT WARNING * * *
+You are poisoned.
+You scratch Crazy Yiuf.
+Crazy Yiuf is almost dead.
+You feel sick.
+Crazy Yiuf hits you with a +3 quarterstaff of chaos!
+You die...
+
+#...#      #..##....#      #...
+#...###### #.###(...##    ##...
+#........###...†.....######....
+###......##..###.....#...#.....
+  #..........# #.....##..##)[..
+  #.......##)###.†.......##.##.
+  #....>............####....##.
+  #......########.###  #....##.
+  ########      #..#   #.##....
+                ##.#####.######
+         #####   #.....#.......
+         #.@)#  #####......####
+         #.g.#  #.........##..†
+         #...#  #........######
+         ##'##  #........##^###
+         ♣♣.♣   #........##....
+         ♣.♣♣   #........##..._
+        ♣♣.♣    ##.######.##.).
+        ♣.♣♣     #.#    #..##..
+        ♣♣.♣♣    #.#    #....#.
+        ♣...♣♣   #.#    #....#.
+        ♣....♣   #.#    #.<.##.
+        #....#  ##.#    #...##.
+
+
+You could see Crazy Yiuf.
+
+Vanquished Creatures
+  2 adders (D:2)
+  3 worms (D:2)
+  3 dart slugs
+  An orc (D:3)
+  7 ball pythons
+  4 endoplasms
+  2 giant cockroaches
+  6 goblins
+  7 hobgoblins
+  4 jackals (D:3)
+  5 kobolds
+  A quokka (D:3)
+  A bat (D:2)
+  5 frilled lizards
+  2 rats
+53 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    61 | D:1      | Reached XP level 2. HP: 28/28 MP: 1/1
+   130 | D:1      | You fall into a shaft and drop 1 floor!
+   277 | D:2      | Reached XP level 3. HP: 35/35 MP: 2/2
+   343 | D:2      | Reached skill level 4 in Unarmed Combat
+   706 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+   793 | D:3      | Found a bloodstained altar of Trog.
+  1018 | D:3      | Found a runed translucent door.
+  1019 | D:3      | Noticed Crazy Yiuf
+  1136 | D:3      | Found Cuiddyuck's Armour Boutique.
+  1183 | D:3      | Found a white marble altar of Elyvilon.
+  1214 | D:3      | Became a worshipper of Elyvilon the Healer
+  1342 | D:3      | Slain by Crazy Yiuf
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ebering_hopf_link, layout_basic
+D:2:      layout_basic
+D:3:      layout_basic, old_standard_altar, trog_butcher_becter, serial_shops,
+          shop, uniq_crazy_yiuf_cottage
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |     2       |  2.4
+Unarmed Combat |        4    |  4.5
+Throwing       |           2 |  2.0
+Dodging        |             |  2.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |    87 |    53 ||   140
+         Punch             |     2 |     1 ||     3
+  Throw: Boomerang         |     1 |       ||     1
+   Stab: Sleeping          |     1 |       ||     1
+ Armour: Robe              |    23 |    13 ||    36
+  Dodge: Dodged            |    42 |    24 ||    66
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1331 |   1283 |     48 |      0 |    922 |   3 |  443.7 |
+       Dungeon |   1331 |   1283 |     48 |      0 |    922 |   3 |  443.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 658 daAuts
+     D:3: 544 daAuts
+     D:1: 128 daAuts
+

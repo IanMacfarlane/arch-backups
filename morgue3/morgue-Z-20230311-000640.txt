@@ -1,0 +1,516 @@
+ Dungeon Crawl Stone Soup version 0.28.0 (console) character file.
+
+Game seed: 7859127890136477457
+
+36362 Z the Basher (level 13, -4/118 HPs)
+             Began as a Minotaur Gladiator on Mar 10, 2023.
+             Was a High Priest of Nemelex Xobeh.
+             Shot with an arrow by a deep elf archer (17 damage)
+             ... on level 2 of the Elven Halls on Mar 11, 2023.
+             The game lasted 02:55:16 (15100 turns).
+
+Z the Basher (Minotaur Gladiator)                  Turns: 15100, Time: 02:55:17
+
+Health: -4/118     AC: 23    Str: 26    XL:     13   Next: 52%
+Magic:  12/12      EV: 10    Int:  9    God:    Nemelex Xobeh [*****.]
+Gold:   420        SH:  0    Dex: 14    Spells: 12/12 levels left
+
+rFire   + . .      SeeInvis +   x - +10 dark maul {vorpal}
+rCold   . . .      Faith    .   (shield currently unavailable)
+rNeg    . . .      Spirit   .   p - +5 plate armour of Festooned Creativity {*Corrode rPois Dex+2 SInv}
+rPois   +          Reflect  .   c - +0 hat
+rElec   .          Harm     .   y - +0 cloak
+rCorr   .          Rampage  .   i - +1 pair of gloves
+Will    +....                   l - +1 pair of boots "Moangy" {rF+ Regen+ Int+4}
+Stlth   ..........              k - amulet of magic regeneration
+HPRegen 1.09/turn               e - +4 ring of protection
+MPRegen 0.53/turn               g - ring of willpower
+
+@: corroded
+A: horns 2, retaliatory headbutt, strong 1
+a: Renounce Religion, Draw Escape, Draw Destruction, Draw Summoning, Triple
+Draw, Deal Four, Stack Five
+
+
+You were on level 2 of the Elven Halls.
+You worshipped Nemelex Xobeh.
+Nemelex Xobeh was extremely pleased with you.
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+
+You collected 1580 gold pieces.
+You spent 1160 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ s - a +7 vorpal battleaxe
+ x - the +10 dark maul (weapon) {vorpal}
+   (You took it off a two-headed ogre on level 10 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+Armour
+ c - a +0 hat (worn)
+ i - a +1 pair of gloves (worn)
+ l - the +1 pair of boots "Moangy" (worn) {rF+ Regen+ Int+4}
+   (You acquired it on level 3 of the Dungeon)   
+   
+   Int:       It affects your intelligence (+4).
+   rF:        It protects you from fire.
+   Regen:     It increases your rate of health regeneration.
+ p - the +5 plate armour of Festooned Creativity (worn) {*Corrode rPois Dex+2 SInv}
+   (You found it on level 5 of the Dungeon)   
+   
+   Dex:       It affects your dexterity (+2).
+   rPois:     It protects you from poison.
+   SInv:      It lets you see invisible.
+   *Corrode:  It may corrode you when you take damage.
+ y - a +0 cloak (worn)
+Jewellery
+ e - a +4 ring of protection (left hand)
+ g - a ring of willpower (right hand)
+ k - an amulet of magic regeneration (around neck)
+Wands
+ a - a wand of charming (5)
+ n - a wand of flame (34)
+ o - a wand of paralysis (5)
+ q - a wand of acid (6)
+Scrolls
+ b - 2 scrolls of teleportation
+ d - 3 scrolls of identify
+ m - 2 scrolls of fear
+Potions
+ f - 2 potions of flight
+ h - a potion of ambrosia
+ j - 2 potions of curing
+
+
+   Skills:
+ + Level 12.0 Fighting
+ + Level 13.7(16.4) Axes
+ + Level 14.8(17.0) Maces & Flails
+ + Level 2.2 Throwing
+ + Level 12.2 Armour
+ + Level 6.1 Dodging
+ + Level 1.6 Stealth
+ + Level 8.3 Shields
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Pain                     Necr           0%         1d4       97%         1
+ Sublimation of Blood     Necr           0%         N/A       99%         2
+ Wereblood                Tmut           0%         N/A       99%         2
+ Call Canine Familiar     Summ           0%         N/A       100%        3
+ Confusing Touch          Hex            0%         N/A       100%        3
+ Portal Projectile        Hex/Tloc       0%         N/A       100%        3
+ Airstrike                Air            0%         N/A       100%        4
+ Leda's Liquefaction      Hex/Erth       0%         N/A       100%        4
+ Summon Lightning Spire   Summ/Air       0%         N/A       100%        4
+ Fireball                 Conj/Fire      0%         3d3       100%        5
+ Iskenderun's Battlesphe  Conj           0%         2d6       100%        5
+ Lee's Rapid Deconstruct  Erth           0%         3d5*      100%        5
+ Lightning Bolt           Conj/Air       0%         1d11      100%        5
+ Yara's Violent Unravell  Hex/Tmut       0%         3d3       100%        5
+ Conjure Ball Lightning   Conj/Air       0%         3x3d6     100%        6
+ Statue Form              Tmut/Erth      0%         N/A       100%        6
+ Enfeeble                 Hex            0%         N/A       100%        7
+ Orb of Destruction       Conj           0%         9d5       100%        7
+ Summon Hydra             Summ           0%         N/A       100%        7
+ Necromutation            Tmut/Necr      0%         N/A       100%        8
+ Death's Door             Necr           0%         N/A       100%        9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)              Lair (0/6) D:8             Orc (2/2) D:10
+    Elf (2/3) Orc:2       
+Temple: D:4-7       
+
+Altars:
+Nemelex Xobeh
+Beogh
+
+Shops:
+D:2 !   Orc:1 [(   Orc:2 =*?(   Elf:1 *?([
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+Your muscles are strong. (Str +2)
+
+Message History
+
+The deep elf zephyrmancer barely misses you.
+The fire elemental hits you. The fire elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+The deep elf zephyrmancer closely misses you.
+The fire elemental hits you.
+You sock the deep elf zephyrmancer!
+Your headbutt misses the deep elf zephyrmancer.
+The deep elf zephyrmancer is almost dead.
+The fire elemental barely misses you. You furiously retaliate! You headbutt the
+fire elemental!
+The deep elf zephyrmancer hits you with a +0 long sword.
+* * * LOW HITPOINT WARNING * * *
+The fire elemental barely misses you.
+The deep elf archer unwields a +0 longbow.
+The deep elf archer wields a +0 short sword.
+The deep elf archer misses you.
+The deep elf zephyrmancer hits you but does no damage.
+The fire elemental hits you.
+The deep elf archer mumbles some strange words.
+The deep elf archer blinks!
+You thump the deep elf zephyrmancer!
+You kill the deep elf zephyrmancer!
+The fire elemental hits you. The fire elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+The fire elemental closely misses you. The fire elemental hits you. The fire
+elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+Your Fighting skill increases to level 12!
+You closely miss the fire elemental. You headbutt the fire elemental.
+The fire elemental is moderately damaged.
+The fire elemental hits you. The fire elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+The fire elemental hits you. The fire elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+The fire elemental hits you. The fire elemental burns you! You resist.
+* * * LOW HITPOINT WARNING * * *
+You draw a card... You have drawn the Cloud. Clouds appear around you!
+The deep elf archer unwields a +0 short sword.
+The deep elf archer wields a +0 longbow.
+The deep elf archer shoots an arrow. The arrow hits you!
+You die...
+Your body glows with a rainbow of weird colours and disappears.
+
+*****             **,,,,,,,*
+,,,,**             ****+*,,*  ***
+,,,,,**      ###      *,*******,,
+,,,,,,*    ###.###    *,* ***,,,,
+,,,,,,*  ###.....###  *,***,,,,,,
+,,,,,,***#.>)......#  *,*,,,,,,,>
+,,,,,,+,,+.<)</....#  *,***,,,,,,
+,,,,,,***#...000..0#  *,* **+,,,,
+,,,,,**  #...0e00>0#  *,***,**,,,
+,,,,*+** #[...000E0#  *,**,***+**
+**+***,**###..00@#0####+#+** *,*
+ *,* **,** ###0####E00...#*  *,*
+ *,*  **,**  ###  #e......#  *,*
+ *,*   **,** ***  #.......#  *,*
+**+***  **,***,***#....e..#  *,*
+,,,,,*   **+,,,,,*##......# **+**
+,,,,,*   *,,,,,,,,.#!.....#**,,,*
+,,,,,*****<,,,,,,,.#.....##*\,,,,
+,,,,,+,,,+,,,,,,,..####### *,,,,,
+,,,,,*****,,,,,,,,,*       *,,,,,
+******   *,,,,,,,,,*       **,,,*
+
+
+You could see a deep elf archer (repels missiles) and a fire elemental
+(summoned).
+
+Vanquished Creatures
+  A deep elf demonologist (Elf:1)
+  Azrael (Elf:1)
+  A deep elf death mage (Elf:1)
+  A deep elf high priest (Elf:1)
+  Harold (D:7)
+  5 two-headed ogres
+  2 dancing weapons (Elf:1)
+  3 deep elf knights
+  3 orc knights (Orc:2)
+  6 deep elf pyromancers
+  3 deep elf archers (Elf:1)
+  7 deep elf zephyrmancers
+  9 orc sorcerers
+  An ugly thing (D:9)
+  A cyclops (D:10)
+  Joseph (D:10)
+  Maggie (D:7)
+  5 large abominations (Elf:1)
+  3 trolls
+  An air elemental (Elf:1)
+  2 water elementals
+  A wraith (D:7)
+  15 yaks
+  A wyvern (D:8)
+  2 fire elementals (Elf:1)
+  A steam dragon (D:9)
+  A basilisk (D:8)
+  8 wargs
+  Duvessa (D:7)
+  4 water moccasins
+  2 hell hounds (Elf:1)
+  A sky beast (D:8)
+  14 orc warriors
+  An ice beast (D:8)
+  A black bear (D:8)
+  4 necrophages
+  13 ogres
+  6 centaurs
+  2 phantoms
+  2 elf zombies (Elf:1)
+  4 gnoll sergeants
+  4 kobold brigands
+  A bullfrog (D:7)
+  A scorpion (D:8)
+  An earth elemental (Elf:1)
+  A wyvern skeleton (D:5)
+  Dowan (D:7)
+  3 killer bees (D:7)
+  12 wights
+  12 howler monkeys
+  A centaur zombie (D:6)
+  A hound (D:5)
+  Crazy Yiuf (D:2)
+  9 orc priests
+  A gnoll shaman (Orc:2)
+  Jessica (D:2)
+  4 iguanas
+  43 orc wizards
+  A killer bee zombie (D:8)
+  A hound skeleton (D:4)
+  2 howler monkey zombies
+  12 gnolls
+  7 adders
+  An ufetubus (D:5)
+  An adder skeleton (D:4)
+  A worm (D:2)
+  4 dart slugs
+  77 orcs
+  3 bats (D:3)
+  8 endoplasms
+  5 giant cockroaches
+  13 goblins
+  7 hobgoblins
+  4 jackals (D:3)
+  33 kobolds
+  3 quokkas (D:4)
+  8 ball pythons
+  28 rats
+458 creatures vanquished.
+
+Vanquished Creatures (others)
+  A gnoll (D:7)
+  4 fungi (D:8)
+  69 plants
+74 creatures vanquished.
+
+Grand Total: 532 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Z the Minotaur Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+    94 | D:1      | Reached XP level 2. HP: 22/25 MP: 1/1
+   782 | D:2      | Noticed Jessica
+   788 | D:2      | Killed Jessica
+   789 | D:2      | Reached XP level 3. HP: 26/30 MP: 2/2
+  1014 | D:2      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1124 | D:2      | Found Tuopy's Distillery.
+  1158 | D:2      | Reached skill level 1 in Armour
+  1485 | D:2      | Found a runed translucent door.
+  1486 | D:2      | Noticed Crazy Yiuf
+  1492 | D:2      | Killed Crazy Yiuf
+  1493 | D:2      | Reached skill level 5 in Axes
+  1568 | D:3      | Reached XP level 5. HP: 18/45 MP: 4/4
+  1750 | D:3      | Identified a scroll of acquirement
+  1751 | D:3      | Acquired the +1 pair of boots "Moangy" {rF+ Regen+ Int+4}
+  2236 | D:3      | Found a faded altar of an unknown god.
+  2241 | D:3      | Prayed at the altar of an unknown god.
+  2241 | D:3      | Became a worshipper of Nemelex Xobeh the Trickster
+  2241 | D:3      | Reached * piety under Nemelex Xobeh
+  2241 | D:3      | Received a gift from Nemelex Xobeh
+  2468 | D:4      | Noticed an ogre
+  2482 | D:4      | Killed an ogre
+  2716 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/5
+  2783 | D:4      | Reached skill level 1 in Stealth
+  2925 | D:4      | Reached ** piety under Nemelex Xobeh
+  3168 | D:4      | Reached XP level 7. HP: 58/58 MP: 6/6
+  4001 | D:5      | Entered Level 5 of the Dungeon
+  4041 | D:5      | Identified the +5 plate armour of Festooned Creativity
+                  | {*Corrode rPois Dex+2 SInv}
+  4365 | D:5      | Reached skill level 5 in Dodging
+  4564 | D:5      | Reached skill level 5 in Fighting
+  4564 | D:5      | Reached XP level 8. HP: 63/68 MP: 7/7
+  4840 | D:6      | Reached *** piety under Nemelex Xobeh
+  4884 | D:6      | Reached skill level 1 in Shields
+  4893 | D:6      | Reached skill level 5 in Armour
+  4919 | D:6      | Received a gift from Nemelex Xobeh
+  5076 | D:6      | Noticed a two-headed ogre
+  5090 | D:6      | HP: 3/69 [two-headed ogre (17)]
+  5129 | D:6      | Killed a two-headed ogre
+  5130 | D:6      | Reached skill level 10 in Axes
+  5130 | D:6      | Reached XP level 9. HP: 46/75 MP: 8/8
+  5943 | D:6      | Received a gift from Nemelex Xobeh
+  6230 | D:7      | Noticed Dowan
+  6247 | D:7      | Killed Dowan
+  6248 | D:7      | Noticed Duvessa
+  6261 | D:7      | Killed Duvessa
+  6275 | D:7      | Got the Disquisition on Unstable Lightness
+  6409 | D:7      | Gained mutation: Your muscles are strong. (Str +2) [potion
+                  | of mutation]
+  6498 | D:7      | Reached skill level 1 in Maces & Flails
+  6641 | D:7      | Noticed Maggie
+  6662 | D:7      | Reached skill level 2 in Maces & Flails
+  6675 | D:7      | Reached skill level 3 in Maces & Flails
+  6690 | D:7      | Killed Maggie
+  6691 | D:7      | Reached skill level 4 in Maces & Flails
+  7164 | D:7      | Noticed Harold
+  7189 | D:7      | Killed Harold
+  7190 | D:7      | Reached XP level 10. HP: 40/86 MP: 9/9
+  7504 | D:8      | Reached skill level 5 in Maces & Flails
+  7558 | D:8      | Found a staircase to the Lair.
+  7576 | D:8      | Reached skill level 5 in Shields
+  7595 | D:8      | Reached skill level 6 in Maces & Flails
+  8103 | D:8      | Found a flagged portal.
+  8112 | D:8      | Reached **** piety under Nemelex Xobeh
+  8130 | D:8      | Received a gift from Nemelex Xobeh
+  8344 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  8560 | D:8      | Reached skill level 7 in Maces & Flails
+  8866 | D:9      | Noticed a cyan ugly thing
+  8879 | D:9      | Killed a cyan ugly thing
+  9373 | D:9      | Reached XP level 11. HP: 94/94 MP: 10/10
+  9515 | D:10     | Entered Level 10 of the Dungeon
+  9560 | D:10     | Received a gift from Nemelex Xobeh
+  9568 | D:10     | Noticed Joseph
+  9589 | D:10     | Killed Joseph
+  9710 | D:10     | Found a staircase to the Orcish Mines.
+ 10215 | D:10     | Noticed a two-headed ogre
+ 10218 | D:10     | Noticed a two-headed ogre
+ 10220 | D:10     | Noticed a two-headed ogre
+ 10295 | D:10     | Killed a two-headed ogre
+ 10300 | D:10     | Killed a two-headed ogre
+ 10304 | D:10     | Killed a two-headed ogre
+ 10547 | D:10     | Received a gift from Nemelex Xobeh
+ 11104 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 11130 | Orc:1    | Noticed an orc sorcerer
+ 11136 | Orc:1    | Noticed a two-headed ogre
+ 11138 | Orc:1    | Noticed a sixfirhy
+ 11156 | Orc:1    | Found Saseel's Weapon Boutique.
+ 11198 | Orc:1    | Killed a two-headed ogre
+ 11201 | Orc:1    | Paralysed by an orc sorcerer for 5 turns
+ 11206 | Orc:1    | Killed an orc sorcerer
+ 11207 | Orc:1    | Reached skill level 8 in Maces & Flails
+ 11211 | Orc:1    | Reached skill level 10 in Armour
+ 11714 | Orc:1    | Found Tyin's Armour Shop.
+ 11902 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 12230 | Orc:2    | Received a gift from Nemelex Xobeh
+ 12254 | Orc:2    | Noticed an orc knight
+ 12276 | Orc:2    | Killed an orc knight
+ 12277 | Orc:2    | Reached XP level 12. HP: 94/106 MP: 11/11
+ 12420 | Orc:2    | Reached skill level 9 in Maces & Flails
+ 12557 | Orc:2    | Found Vunt's Antique Weapon Boutique.
+ 12557 | Orc:2    | Found Wawunamn's Magic Scroll Shoppe.
+ 12559 | Orc:2    | Paralysed by an orc sorcerer for 7 turns
+ 12569 | Orc:2    | Paralysed by an orc sorcerer for 6 turns
+ 12570 | Orc:2    | Reached skill level 10 in Fighting
+ 12609 | Orc:2    | Bought a scroll of teleportation for 39 gold pieces
+ 12609 | Orc:2    | Bought a scroll of teleportation for 39 gold pieces
+ 12609 | Orc:2    | Bought a scroll of fog for 26 gold pieces
+ 12609 | Orc:2    | Bought a scroll of identify for 26 gold pieces
+ 12609 | Orc:2    | Bought a scroll of identify for 26 gold pieces
+ 12609 | Orc:2    | Bought a scroll of fog for 26 gold pieces
+ 12714 | Orc:2    | Reached ***** piety under Nemelex Xobeh
+ 12802 | Orc:2    | Noticed an orc warlord
+ 12813 | Orc:2    | Reached skill level 10 in Maces & Flails
+ 12986 | Orc:2    | Found a staircase to the Elven Halls.
+ 13139 | Orc:2    | Reached skill level 11 in Maces & Flails
+ 13572 | Orc:2    | Found Loophes's Assorted Antiques.
+ 13572 | Orc:2    | Found Joletz's Jewellery Shoppe.
+ 13580 | Orc:2    | Bought a scroll labelled QAMOIS NUZODGHEPU for 29 gold
+                  | pieces
+ 13580 | Orc:2    | Bought a scroll labelled QAMOIS NUZODGHEPU for 29 gold
+                  | pieces
+ 13580 | Orc:2    | Bought a scroll labelled HYTIDI KECUIF for 29 gold pieces
+ 13595 | Orc:2    | Bought the ring of Odoxu {rPois rF+ rC- rCorr Str-5} for
+                  | 350 gold pieces
+ 13736 | Elf:1    | Entered Level 1 of the Elven Halls
+ 13736 | Elf:1    | Received a gift from Nemelex Xobeh
+ 13748 | Elf:1    | Reached skill level 12 in Maces & Flails
+ 13749 | Elf:1    | Paralysed by an air elemental for 1 turns
+ 13868 | Elf:1    | Found Lilunton's Magic Scroll Boutique.
+ 13887 | Elf:1    | Bought a scroll of fear for 49 gold pieces
+ 13887 | Elf:1    | Bought a scroll of blinking for 105 gold pieces
+ 13887 | Elf:1    | Bought a scroll of fog for 28 gold pieces
+ 13887 | Elf:1    | Bought a scroll of identify for 28 gold pieces
+ 14044 | Elf:1    | Noticed a deep elf high priest
+ 14057 | Elf:1    | Killed a deep elf high priest
+ 14083 | Elf:1    | Reached skill level 13 in Maces & Flails
+ 14157 | Elf:1    | Noticed a deep elf demonologist
+ 14158 | Elf:1    | Noticed a green death
+ 14158 | Elf:1    | Found Ucoom's Assorted Antiques.
+ 14160 | Elf:1    | Killed a deep elf demonologist
+ 14161 | Elf:1    | Reached XP level 13. HP: 116/116 MP: 12/12
+ 14167 | Elf:1    | Bought a silvery potion for 34 gold pieces
+ 14213 | Elf:1    | Noticed Azrael
+ 14225 | Elf:1    | Killed Azrael
+ 14377 | Elf:1    | Noticed a deep elf death mage
+ 14396 | Elf:1    | Killed a deep elf death mage
+ 14463 | Elf:1    | Got the Tome of Black Magic
+ 14527 | Elf:1    | Reached skill level 14 in Maces & Flails
+ 14760 | Elf:1    | Found Taakhlymp's Armour Shop.
+ 14778 | Elf:1    | Bought a +2 helmet for 297 gold pieces
+ 14906 | Elf:1    | Found Foammagg's Antique Weapon Emporium.
+ 15100 | Elf:2    | Shot with an arrow by a deep elf archer
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      scummos_arrival_simple_fountains, layout_rooms
+D:2:      layout_loops_ring, serial_shops, shop, uniq_crazy_yiuf_cottage,
+          uniq_jessica
+D:3:      layout_loops_cross, shapermc_ecumenical_altar_petra
+D:4:      kennysheep_kobold_camp, layout_basic, minmay_rat_hole
+D:5:      layout_rooms, kennysheep_cross_bottleneck, skrybe_limestone_x
+D:6:      cheibrodos_thug_alley, layout_basic, minmay_temple_entry_nine_rooms
+D:7:      layout_basic, uniq_duvessa, uniq_maggie, uniq_harold
+D:8:      layout_gridville, nemelex_xobeh_ov_fountains_minmay,
+          minmay_lair_entry_grove, enter_bailey_5,
+          hangedman_abyss_or_decor_clamps
+D:9:      layout_roguey
+D:10:     layout_irregular_city, kennysheep_orc_monster_closet_entryway,
+          hellmonk_guarded_unrand_dark_maul, uniq_joseph
+Orc:1:    layout_caves, serial_shops, shop, shop_fountains
+Orc:2:    st_orc_town, layout_caves, abandoned_shop
+Elf:1:    elf_arrival_001, layout_geoelf_diagonals, serial_shops, shop,
+          nicolae_square_shop, shop, nicolae_shop_stone, minmay_elf_necromancy,
+          uniq_azrael
+Elf:2:    nicolae_elf_blades_splatter_lattice [nicolae_blade_entry_antechamber],
+          layout_geoelf_octagon, serial_shops, shop, nicolae_shop_waterfront
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Axes           |  4        5  6  7  8 10 11 12 13       | 13.7
+Fighting       |        3           5  6  7  8  9 11 12 | 12.0
+Armour         |           1  2  3  4  5  8  9 10 11 12 | 12.2
+Dodging        |           4        5           6       |  6.1
+Stealth        |                 1                      |  1.6
+Shields        |                       2  4  6  8       |  8.3
+Maces & Flails |                          4  7  8 13 14 | 14.8
+Throwing       |                                        |  2.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |    59 |   110 |   240 |   245 |       ||   654
+       Headbutt          |     6 |    19 |    51 |    85 |     9 ||   170
+       Punch             |       |     2 |     1 |       |       ||     3
+       Flail             |       |       |    47 |    45 |       ||    92
+       Maul              |       |       |       |   190 |    71 ||   261
+Invok: Draw Escape       |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |       |     1 ||     1
+  Use: Scroll            |     3 |     5 |     8 |    12 |     7 ||    35
+       Potion            |     1 |     2 |     4 |     7 |       ||    14
+Armor: Leather armour    |    16 |    25 |       |       |       ||    41
+       Scale mail        |       |    66 |    21 |       |       ||    87
+       Plate armour      |       |       |   192 |   451 |   101 ||   744
+Dodge: Dodged            |    49 |    99 |   124 |   266 |    58 ||   596
+Block: Kite shield       |       |       |   110 |   172 |       ||   282
+

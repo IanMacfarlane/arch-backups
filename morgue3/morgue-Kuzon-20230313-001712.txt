@@ -1,0 +1,319 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (console) character file.
+
+Game seed: 6335672789528606869
+
+443 Kuzon the Magician (level 6, -5/32 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 12, 2023.
+             Killed by an exploding orc wizard (37 damage)
+             ... ignited by their inner flame
+             ... on level 4 of the Dungeon on Mar 13, 2023.
+             The game lasted 00:29:40 (4920 turns).
+
+Kuzon the Magician (Deep Elf Fire Elementalist)     Turns: 4920, Time: 00:29:47
+
+Health: -5/32      AC:  3    Str:  3 (4)  XL:     6   Next: 71%
+Magic:  2/17       EV: 12    Int: 26      God:    
+Gold:   228        SH:  0    Dex: 13 (14) Spells: 4/17 levels left
+
+rFire   . . .      SeeInvis .    f - +0 halberd
+rCold   . . .      Faith    +    (shield currently unavailable)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    g - +0 helmet
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       d - amulet of faith
+HPRegen 0.25/turn                (no ring)
+MPRegen 0.15/turn                (no ring)
+
+@: very slightly contaminated
+A: clever 1, screaming 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 272 gold pieces.
+You spent 44 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 halberd (weapon)
+ h - a +0 quarterstaff
+ i - a +2 dagger of venom
+Missiles
+ k - 2 throwing nets
+Armour
+ a - a +0 robe (worn)
+ g - a +0 helmet (worn)
+Jewellery
+ d - an amulet of faith (around neck)
+ j - a ring of ice
+Scrolls
+ c - a scroll of teleportation
+ l - a scroll of immolation
+ m - a scroll of enchant weapon {unknown}
+ n - a scroll of magic mapping {unknown}
+ p - a scroll of silence {unknown}
+ r - a scroll of blinking {unknown}
+ s - a scroll of enchant armour {unknown}
+Potions
+ b - a potion of magic
+ e - 5 potions of curing
+ o - 3 potions of heal wounds
+ q - a potion of might
+
+
+   Skills:
+ - Level 0.4 Staves
+ - Level 2.5 Dodging
+ - Level 2.7 Stealth
+ + Level 6.3 Spellcasting
+ + Level 2.6 Conjurations
+ + Level 2.1 Summonings
+ + Level 5.6 Fire Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           74%        2d9       1%          2
+c - Call Canine Familiar  Summ           19%        N/A       9%          3
+d - Flame Wave            Conj/Fire      29%        2d9       12%         4
+e - Inner Flame           Hex/Fire       22%        N/A       6%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Summon Small Mammal      Summ           76%        N/A       2%          1
+ Freeze                   Ice            32%        1d5       7%          1
+ Sting                    Tmut/Pois      32%        1d4       7%          1
+ Kindle Blastsparks       Fire/Tloc/Air  36%        2d13      10%         3
+ Poisonous Vapours        Pois/Air       16%        N/A       11%         2
+ Summon Guardian Golem    Hex/Summ       13%        N/A       13%         3
+ Olgreb's Toxic Radiance  Pois           8%         N/A       56%         4
+ Summon Cactus Giant      Summ           9%         N/A       99%         6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:3 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your mind is acute. (Int +4, Str/Dex -1)
+You occasionally shout uncontrollably at your foes.
+
+Message History
+
+Flames lash the orc.
+You kill the orc!
+An orc wizard comes into view. It is wielding a +0 dagger.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (dangerous; 6% risk of failure)
+Press: ? - help, Dir - move target, f - orc wizard
+Aim: an orc wizard, wielding a +0 dagger and wearing a +0 robe (chance to
+affect: 78%)
+The orc wizard is filled with an inner flame.
+An orc comes into view. It is wielding a +0 war axe.
+Casting: Inner Flame (dangerous; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (12% risk of failure)! Continue anyway?
+Casting: Flame Wave (quite dangerous; 12% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+You miscast Flame Wave.
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+Casting: Flame Wave (quite dangerous; 12% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+The spell is quite dangerous to miscast (12% risk of failure)! Continue anyway?
+Casting: Flame Wave (quite dangerous; 12% risk of failure)
+Press: ? - help, Dir - look around, f - activate
+A wave of flame ripples out! The flame wave engulfs your foxfire.
+Your foxfire completely resists.
+The flame wave engulfs the orc wizard! Flame seeps out of the orc wizard.
+The orc wizard is severely wounded.
+(Press . to intensify the flame waves.)
+An adder comes into view.
+A wave of flame ripples out! The flame wave engulfs your foxfire.
+Your foxfire completely resists.
+The flame wave engulfs the orc wizard! The flame wave engulfs the orc!
+You kill the orc!
+The flame wave engulfs the orc.
+The orc is severely wounded.
+The flame wave engulfs the orc!
+You kill the orc! The orc wizard explodes!
+The fiery explosion engulfs you!!!
+Ouch! That really hurt!
+You die...
+
+###########>..+...'.......##
+          #.###...#.#.###...
+          #.# #...#.#.# ###.
+          #.# #...#.#.######
+          #.# #...#.#.......
+          #.# #...#.#######.
+          #.# #...#.#     #.
+          #.# #...#.#######.
+          #.#     #.##......
+          #v#       #.....#.
+          #@#    .........#.
+          #0#    ^#.<.....#.
+          0o0     #.#.....#.
+         .....   .........#.
+        .......  ####.....#.
+       .........    #.....#.
+      ..........#   #.....#
+     .S.........#####
+                #...#   ####
+                #...#   #...
+                #...#   #...
+
+
+You could see an adder and an orc (ally target).
+
+Vanquished Creatures
+  A scorpion (D:4)
+  A jelly (D:4)
+  Jessica (D:2)
+  2 iguanas (D:4)
+  An orc wizard (D:4)
+  Robin (D:2)
+  10 gnolls
+  8 adders
+  A worm (D:2)
+  A dart slug (D:1)
+  3 orcs (D:4)
+  3 endoplasms
+  6 giant cockroaches
+  9 hobgoblins
+  7 kobolds
+  5 quokkas
+  5 ball pythons
+  4 bats
+  6 frilled lizards
+  22 goblins
+  5 rats
+102 creatures vanquished.
+
+Vanquished Creatures (others)
+  49 foxfires
+  3 plants (D:2)
+52 creatures vanquished.
+
+Grand Total: 154 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   296 | D:1      | Reached XP level 2. HP: 7/15 MP: 6/8
+   301 | D:1      | Learned a level 2 spell: Scorch
+  1261 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/10
+  1564 | D:2      | Reached skill level 4 in Spellcasting
+  1675 | D:2      | Learned a level 3 spell: Call Canine Familiar
+  1896 | D:2      | Reached XP level 4. HP: 24/24 MP: 9/12
+  2255 | D:2      | Found a faded altar of an unknown god.
+  2265 | D:2      | Got Plato's Directory of Hypothermia
+  2281 | D:2      | Noticed Robin
+  2289 | D:2      | Killed Robin
+  2290 | D:2      | Reached skill level 5 in Spellcasting
+  2695 | D:2      | Noticed Jessica
+  2699 | D:2      | Killed Jessica
+  2700 | D:2      | Reached XP level 5. HP: 28/28 MP: 10/15
+  3016 | D:3      | Gained mutation: You have large cloven feet. [potion of
+                  | mutation]
+  3016 | D:3      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [potion of mutation]
+  3016 | D:3      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  3018 | D:3      | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [potion of mutation]
+  3018 | D:3      | Lost mutation: You have large cloven feet. [potion of
+                  | mutation]
+  3018 | D:3      | Lost mutation: You have a pair of small horns on your head.
+                  | [potion of mutation]
+  3018 | D:3      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  3018 | D:3      | Gained mutation: Your mind is acute. (Int +4, Str/Dex -1)
+                  | [potion of mutation]
+  3061 | D:3      | Reached skill level 5 in Fire Magic
+  3079 | D:3      | Learned a level 4 spell: Flame Wave
+  3355 | D:3      | Found Azi Woorph's Assorted Antiques.
+  3361 | D:3      | Bought a scroll labelled DEHOAT JACOUWN for 22 gold pieces
+  3361 | D:3      | Bought a scroll labelled ROSYHUWIPT for 22 gold pieces
+  3551 | D:3      | Reached skill level 1 in Summonings
+  4133 | D:3      | Learned a level 3 spell: Inner Flame
+  4172 | D:4      | Reached XP level 6. HP: 28/32 MP: 6/16
+  4249 | D:4      | Reached skill level 6 in Spellcasting
+  4608 | D:4      | Identified the +2 chain mail "Qadajouf" {Int+6 Slay+2}
+  4920 | D:4      | Killed by an exploding orc wizard... ignited by their inner
+                  | flame
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_arrival_noodles, layout_basic, nicolae_hexahallways
+D:2:      layout_basic, shapermc_ecumenical_altar_rom_forum,
+          minmay_crystal_room, minmay_pentomino_s4, uniq_robin, uniq_jessica
+D:3:      layout_basic, serial_shops, shop
+D:4:      layout_basic
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fire Magic     |        4     5    |  5.6
+Spellcasting   |        4  5     6 |  6.3
+Summonings     |              1  2 |  2.1
+Conjurations   |              2    |  2.6
+Staves         |                   |  0.4
+Dodging        |                   |  2.5
+Stealth        |                   |  2.7
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |     4 |       ||     4
+         Quarterstaff      |       |     6 ||     6
+   Cast: Foxfire           |    22 |     9 ||    31
+         Scorch            |    31 |    78 ||   109
+         Inner Flame       |       |     1 ||     1
+         Flame Wave        |       |     1 ||     1
+    Use: Scroll            |     2 |     3 ||     5
+         Potion            |       |     5 ||     5
+ Armour: Robe              |     7 |     4 ||    11
+  Dodge: Dodged            |    16 |    12 ||    28
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4918 |   4718 |    200 |      0 |   3991 |   4 | 1229.5 |
+       Dungeon |   4918 |   4718 |    200 |      0 |   3991 |   4 | 1229.5 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1647 daAuts
+     D:1: 1355 daAuts
+     D:3: 1130 daAuts
+     D:4: 785 daAuts
+

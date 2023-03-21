@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17178835285617736438
+
+89 Bokogi the Scratcher (level 4, -3/21 HPs)
+             Began as a Felid Fighter on Mar 13, 2023.
+             Killed from afar by Dowan (10 damage)
+             ... with a puff of frost
+             ... on level 4 of the Dungeon.
+             The game lasted 00:16:03 (3296 turns).
+
+Bokogi the Scratcher (Felid Fighter)                Turns: 3296, Time: 00:16:03
+
+Health: -3/21      AC:  5    Str: 12    XL:     4   Next: 31%
+Magic:  5/5        EV: 19    Int: 10    God:    
+Gold:   196        SH:  0    Dex: 17    Spells: 2/3 levels left
+                                        Lives:  0   Deaths: 1
+
+rFire   . . .      SeeInvis +      - Unarmed
+rCold   . . .      Faith    .    (shield unavailable)
+rNeg    . . .      Spirit   .    (body armour unavailable)
+rPois   .          Reflect  .    (helmet unavailable)
+rElec   .          Rampage  .    (cloak unavailable)
+rCorr   +                        (gloves unavailable)
+Will    .....                    (boots unavailable)
+Stlth   ++                       n - amulet of magic regeneration
+HPRegen 0.23/turn                c - +4 ring of protection
+MPRegen 0.49/turn                g - ring of resist corrosion
+
+@: quick
+A: very small, claws 1, fangs 3, see invisible, speed 1, shaggy fur 1, stealthy
+paws, no weapons or thrown items, no armour, multi-lived
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 196 gold pieces.
+
+Inventory:
+
+Jewellery
+ c - a +4 ring of protection (left paw)
+ g - a ring of resist corrosion (right paw)
+ n - an amulet of magic regeneration (around neck)
+Wands
+ b - a wand of paralysis (4)
+ j - a wand of iceblast (4)
+Scrolls
+ e - 2 scrolls of fog
+ m - a scroll of teleportation
+ q - a scroll of silence
+ r - a scroll of blinking
+Potions
+ a - a potion of might
+ d - 2 potions of curing
+ f - a potion of magic {unknown}
+ h - 4 potions of flight
+ i - 2 potions of ambrosia {unknown}
+ k - a potion of invisibility {unknown}
+ l - 2 potions of attraction {unknown}
+ p - a potion of mutation {unknown}
+
+
+   Skills:
+ + Level 3.5 Fighting
+ + Level 5.1 Dodging
+ + Level 1.8 Stealth
+ + Level 5.7 Unarmed Combat
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Magic Dart            Conj           0%         1d3       36%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       50%         2
+ Searing Ray              Conj           0%         2d4       50%         2
+ Dispel Undead            Necr           0%         3d6       98%         4
+ Fulminant Prism          Conj/Hex       0%         3d5       98%         4
+ Death Channel            Necr           0%         N/A       100%        6
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Makhleb
+
+Shops:
+D:1 (
+
+Annotations:
+D:3 1 runed translucent door, LiterOCola's ghost, novice GrFi
+D:4 Dowan; Duvessa
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You cover ground quickly. (Speed+)
+You are covered in fur. (AC +1)
+Your paws help you pounce on unaware monsters.
+You are incapable of wielding weapons or throwing items.
+You cannot wear armour.
+You gain extra lives every three experience levels.
+
+Message History
+
+You are very lightly contaminated with residual magic.
+Nothing appears to happen.
+Casting: Magic Dart (safe; 36% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart (safe; 36% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Dowan
+Aim: Dowan, wielding a +4 dagger of freezing and wearing a +0 robe (100% to
+hit)
+The magic dart hits Dowan but does no damage.
+You barely miss Dowan. You claw Dowan.
+Dowan is moderately wounded.
+Dowan closely misses you.
+You closely miss Dowan.
+Dowan is moderately wounded.
+Dowan hits you with a +4 dagger of freezing!
+Dowan freezes you.
+* * * LOW HITPOINT WARNING * * *
+You scratch Dowan. You bite Dowan, but do no damage.
+Dowan is moderately wounded.
+Dowan completely misses you.
+You scratch Dowan.
+Dowan is moderately wounded.
+Dowan misses you.
+You scratch Dowan.
+Dowan is heavily wounded.
+Dowan gestures at you while chanting.
+The puff of frost misses you.
+You scratch Dowan.
+Dowan is heavily wounded.
+You scratch Dowan.
+Dowan is severely wounded.
+Dowan drinks a potion. Dowan is healed!
+Your magical contamination has completely faded away.
+You scratch Dowan.
+Dowan is severely wounded.
+Dowan closely misses you.
+You barely miss Dowan.
+Dowan is severely wounded.
+Dowan casts a spell at you.
+The puff of frost hits you!
+You die...
+
+...##      #.##.#...#  #.#
+.###       #.##.###.## #.#
+.#         #.##.##.#.###.#
+.#         #.##...###....#
+.#         #.#####.#.#####
+.#         #.#   ##.##
+.#         #.#    #.#
+e#         #.#    #.#
+.#######   #.#    #.#
+.......##  #.#  ###.#
+#####.#.####.####.#e##
+####.###.#........@..#
+....## ##..######.#..#
+.###.###.###    #.#..#
+   ##.#.##      #.#..#
+.#####.#######  #.#...
+..............  #.#.###
+####...##...##  #.#.#
+  #....#  ...#  #.#.#
+  #...##   ...  #.#
+  #...#     .#  #.#
+  #...#      .
+  #...#
+
+
+You could see Dowan.
+
+Vanquished Creatures
+  Ijyb (D:4)
+  Natasha (thrice) (D:3)
+  2 adders (D:2)
+  A worm (D:2)
+  2 dart slugs (D:2)
+  An orc (D:3)
+  5 endoplasms
+  4 giant cockroaches
+  5 goblins
+  4 hobgoblins
+  5 jackals (D:3)
+  6 kobolds
+  2 quokkas (D:2)
+  A ball python (D:1)
+  5 bats
+  4 frilled lizards
+  4 rats
+55 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Felid Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 2/2
+   378 | D:1      | Reached XP level 2. HP: 14/14 MP: 3/3
+   733 | D:1      | Found Mafuliv's Antique Weapon Shoppe.
+   996 | D:2      | Reached XP level 3. HP: 17/17 MP: 4/4
+  1370 | D:2      | Reached skill level 5 in Unarmed Combat
+  1743 | D:3      | Found a runed translucent door.
+  1743 | D:3      | Noticed LiterOCola's ghost (novice GrFi)
+  1806 | D:3      | Noticed Natasha
+  1813 | D:3      | Killed Natasha
+  1814 | D:3      | Reached skill level 1 in Stealth
+  1814 | D:3      | Reached XP level 4. HP: 21/21 MP: 5/5
+  1884 | D:3      | Noticed Natasha
+  1898 | D:3      | Killed Natasha
+  2010 | D:3      | Noticed Natasha
+  2022 | D:3      | Killed Natasha
+  2023 | D:3      | Reached XP level 5. HP: 12/24 MP: 6/6
+  2119 | D:3      | Reached skill level 5 in Dodging
+  2500 | D:3      | Found a burning altar of Makhleb.
+  2519 | D:3      | Identified the +3 robe of Couc {Int+3}
+  3117 | D:4      | Noticed Ijyb
+  3132 | D:4      | Killed Ijyb
+  3185 | D:4      | Noticed Duvessa
+  3185 | D:4      | Noticed Dowan
+  3240 | D:4      | Slain by Duvessa
+  3241 | D:4      | Reached XP level 4. HP: -4/21 MP: 5/5
+  3261 | D:4      | Learned a level 1 spell: Magic Dart
+  3296 | D:4      | Killed from afar by Dowan
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_refuge, layout_basic, serial_shops, shop,
+          serial_co_window_serial, co_window_paths_b,
+          co_window_of_opportunity_a, co_window_corner_a, co_window_corner_a,
+          co_window_corner_a, co_window_corner_b, co_window_broadway_b,
+          co_window_2corner, co_window_4corner_a, glass_columns_b,
+          chequers_jeans
+D:2:      layout_basic, kennysheep_doodads, kennysheep_generic_room_2
+D:3:      layout_loops_ring, bloody_makhleb, gammafunk_ghost_grave, uniq_natasha
+D:4:      layout_loops_ring, minmay_shop_grid_forest, dilly_guarded_unrand_morg,
+          uniq_duvessa, uniq_ijyb
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Unarmed Combat |        5       |  5.7
+Stealth        |        1       |  1.8
+Dodging        |              5 |  5.1
+Fighting       |                |  3.5
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |   112 |    78 ||   190
+         Punch             |     5 |     5 ||    10
+         Bite              |     6 |     5 ||    11
+   Cast: Magic Dart        |       |     1 ||     1
+    Use: Scroll            |     1 |     7 ||     8
+   Stab: Sleeping          |     3 |     1 ||     4
+ Armour: Skin              |    14 |    11 ||    25
+  Dodge: Dodged            |    76 |    67 ||   143
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2737 |   2640 |     97 |      0 |   1937 |   4 |  684.2 |
+       Dungeon |   2737 |   2640 |     97 |      0 |   1937 |   4 |  684.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1004 daAuts
+     D:3: 749 daAuts
+     D:1: 634 daAuts
+     D:4: 348 daAuts
+

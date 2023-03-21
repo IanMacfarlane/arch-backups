@@ -1,0 +1,318 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 14592275237324156698
+
+1025 Kuzon the Firebug (level 8, -2/41 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 16, 2023.
+             Slain by an orc warrior
+             ... wielding a +0 dire flail
+              (10 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:14:57 (5559 turns).
+
+Kuzon the Firebug (Deep Elf Fire Elementalist)      Turns: 5559, Time: 00:14:58
+
+Health: -2/41      AC:  4    Str:  5    XL:     8   Next: 2%
+Magic:  17/28      EV: 12    Int: 23    God:    
+Gold:   78         SH:  0    Dex: 15    Spells: 7/19 levels left
+
+rFire   + . .      SeeInvis +    y - +7 quarterstaff {protect, meekguard}
+rCold   + . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    e - scarf {rC+ rF+}
+rCorr   .                        l - +0 pair of gloves
+Will    .....                    p - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                n - ring of magical power
+MPRegen 0.21/turn                s - ring of see invisible
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You also visited: Sewer.
+
+You collected 378 gold pieces.
+You spent 300 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ w - a +1 short sword of venom
+ y - the +7 staff of the Meek (weapon) {protect, meekguard}
+   (You found it on level 5 of the Dungeon)
+Armour
+ a - a +0 robe (worn)
+ e - a scarf of resistance (worn)
+ l - a +0 pair of gloves (worn)
+ p - a +0 pair of boots (worn)
+Jewellery
+ n - a ring of magical power (left hand)
+ s - a ring of see invisible (right hand)
+Wands
+ t - a wand of iceblast (6)
+Scrolls
+ c - 2 scrolls of identify
+ m - a scroll of immolation {unknown}
+ q - a scroll of acquirement {unknown}
+ r - a scroll of fog
+ v - 2 scrolls of enchant weapon {unknown}
+Potions
+ b - a potion of magic
+ d - a potion of attraction {unknown}
+ g - 6 potions of curing {unknown}
+ h - a potion of cancellation {unknown}
+ i - 2 potions of flight {unknown}
+ j - a potion of mutation {unknown}
+ k - a potion of haste {unknown}
+ o - a potion of ambrosia {unknown}
+ u - 3 potions of heal wounds {unknown}
+ x - a potion of invisibility {unknown}
+ z - a potion of lignification {unknown}
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 6.2 Spellcasting
+ * Level 6.4 Conjurations
+ * Level 7.2 Fire Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           80%        2d9       1%          2
+c - Flame Wave            Conj/Fire      38%        2d10      4%          4
+d - Fireball              Conj/Fire      19%        3d9       14%         5
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Inner Flame              Hex/Fire       23%        N/A       5%          3
+ Kindle Blastsparks       Fire/Tloc/Air  36%        2d13      10%         3
+ Portal Projectile        Hex/Tloc       14%        N/A       26%         3
+ Tukima's Dance           Hex            7%         N/A       26%         3
+ Starburst                Conj/Fire      19%        6d7       61%         6
+ Blade Hands              Tmut           3%         N/A       93%         5
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:5           Sewer (visited)         
+
+Altars:
+Cheibriados
+
+Shops:
+D:2 :
+
+Message History
+
+The orc warrior's fire resistance burns away.
+The foxfire hits the orc warrior but does no damage.
+The orc warrior is moderately wounded.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc warrior but do no damage.
+The orc warrior hits you with a +0 dire flail.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc warrior. The orc warrior is burned terribly!
+The orc warrior is heavily wounded.
+You hear an angry hiss.
+Your foxfire dissipates!
+The orc warrior hits you with a +0 dire flail.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc warrior but do no damage.
+An iguana comes into view.
+The orc warrior misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc warrior but do no damage.
+The orc warrior closely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the orc warrior. The orc warrior is burned terribly!
+The orc warrior is severely wounded.
+The orc warrior hits you with a +0 dire flail!
+The orc warrior attacks as you move away!
+The orc warrior hits you with a +0 dire flail!
+The iguana bites you.
+* * * LOW HITPOINT WARNING * * *
+Okay, then.
+Okay, then.
+Really read the scroll of poison? 
+The air fills with toxic fumes!
+As you read the scroll of poison, it crumbles to dust.
+The iguana bites you but does no damage.
+The orc warrior hits you with a +0 dire flail!
+You die...
+
+.......####..............#
+.....###  #.............##
+...###    #............##
+.###      #...........##
+##        #..........###
+          #............#
+          #....######..#####
+          #....#   .##.##..##
+          #.8'8#   .§#......#
+####     ##.#§######§#......#
+...#######..#§§§§§§§l#......#
+............#§§§§§§@§#......#
+......#####.#§######o#......#
+.....##   #.8'8#.._.§#......#
+.....##   #....#⌠..?##......#
+.###..##  #....######......##
+## ##..####...............##
+    ##...#####...........######
+     ##.......................#
+     ##...#######............##
+     #...##     ###.....######
+     #####        ##.####
+                   ###
+
+
+You could see an orc warrior (combustible) and an iguana.
+
+Vanquished Creatures
+  Menkaure (D:5)
+  A water moccasin (D:5)
+  A black bear (D:5)
+  A phantom (D:5)
+  A kobold brigand (Sewer)
+  A scorpion (D:4)
+  3 hounds
+  3 orc priests (D:4)
+  An iguana (D:5)
+  3 orc wizards (D:4)
+  Natasha (D:3)
+  8 adders
+  3 river rats (Sewer)
+  An ufetubus (D:4)
+  5 worms
+  A dart slug (D:3)
+  8 orcs
+  3 endoplasms
+  A giant cockroach (D:2)
+  9 goblins
+  7 hobgoblins
+  11 kobolds
+  2 quokkas
+  9 ball pythons
+  4 bats
+  3 frilled lizards
+  10 rats
+102 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A goblin (D:4)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  323 foxfires
+  2 fungi (D:3)
+  4 toadstools (D:3)
+329 creatures vanquished.
+
+Grand Total: 432 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kuzon the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   381 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   439 | D:1      | Learned a level 2 spell: Scorch
+  1216 | D:2      | Found Gennuav's Book Shoppe.
+  1400 | D:2      | Reached XP level 3. HP: 19/19 MP: 5/9
+  1658 | D:2      | Reached skill level 4 in Fire Magic
+  2276 | D:3      | Noticed Natasha
+  2280 | D:3      | Reached XP level 4. HP: 19/24 MP: 11/11
+  2752 | D:3      | Killed Natasha
+  3114 | D:4      | Reached XP level 5. HP: 28/28 MP: 13/13
+  3187 | D:4      | Reached skill level 5 in Fire Magic
+  3285 | D:4      | Reached XP level 6. HP: 32/32 MP: 11/15
+  3619 | D:4      | Reached skill level 5 in Spellcasting
+  3800 | D:5      | Entered Level 5 of the Dungeon
+  3815 | D:5      | Reached skill level 5 in Conjurations
+  3815 | D:5      | Reached skill level 6 in Fire Magic
+  3849 | D:5      | Reached XP level 7. HP: 36/36 MP: 16/16
+  3897 | D:5      | Found a glowing drain.
+  3909 | D:5      | Noticed Menkaure
+  3915 | D:5      | Killed Menkaure
+  3993 | Sewer    | Entered a sewer
+  4693 | D:2      | Bought a book of Fire for 300 gold pieces
+  4788 | D:5      | Learned a level 4 spell: Flame Wave
+  4794 | D:5      | Learned a level 5 spell: Fireball
+  4842 | D:5      | Reached skill level 7 in Fire Magic
+  5013 | D:5      | Found a large runed translucent door.
+  5014 | D:5      | Found a large runed translucent door.
+  5092 | D:5      | Found the +7 staff of the Meek {protect, meekguard}
+  5228 | D:5      | Found a staircase to the Ecumenical Temple.
+  5270 | D:5      | Reached XP level 8. HP: 41/41 MP: 19/19
+  5498 | D:5      | Found a snail-covered altar of Cheibriados.
+  5559 | D:5      | Slain by an orc warrior
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_arrival_round_a, layout_basic
+D:2:      layout_basic, serial_shops, shop, grunt_decor_one_mirror,
+          grunt_decor_mini_mirrors
+D:3:      layout_loops_ring, minmay_gold_behind_fungi, uniq_natasha
+D:4:      cheibrodos_pilgrimage, layout_loops_cross
+D:5:      layout_cave_pods, jmf_multi_god_temple2,
+          minmay_temple_entry_drinking_statues, cheibrodos_sewer_entry_sluice,
+          uniq_menkaure
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     2     3  4  5  6 |  6.4
+Fire Magic     |        4     5  6  7 |  7.2
+Spellcasting   |           4     5  6 |  6.2
+Dodging        |                      |  2.4
+Stealth        |                      |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+  Melee: Dagger            |       |     2 |       ||     2
+   Cast: Foxfire           |    59 |    56 |    73 ||   188
+         Scorch            |    12 |    19 |    14 ||    45
+    Use: Scroll            |     2 |     5 |     1 ||     8
+ Armour: Robe              |     5 |     7 |     5 ||    17
+  Dodge: Dodged            |     6 |     9 |    17 ||    32
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5643 |   5420 |    223 |      0 |   4442 |   6 |  940.5 |
+       Dungeon |   4990 |   4767 |    223 |      0 |   4019 |   5 |  998.0 |
+         Sewer |    653 |    653 |      0 |      0 |    423 |   1 |  653.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1089 daAuts
+     D:2: 1077 daAuts
+     D:1: 1011 daAuts
+     D:4: 973 daAuts
+     D:3: 839 daAuts
+   Sewer: 653 daAuts
+

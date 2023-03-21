@@ -1,0 +1,304 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 6245481796508507615
+
+1198 GoodOmen the Digger (level 8, 0/41 HPs)
+             Began as a Deep Elf Earth Elementalist on Mar 17, 2023.
+             Slain by a centaur zombie (4 damage)
+             ... in an ossuary.
+             The game lasted 00:12:12 (5588 turns).
+
+GoodOmen the Digger (Deep Elf Earth Elementalist)   Turns: 5588, Time: 00:12:13
+
+Health: 0/41       AC:  2    Str:  5    XL:     8   Next: 20%
+Magic:  2/19       EV: 12    Int: 23    God:    
+Gold:   216        SH:  0    Dex: 15    Spells: 16/20 levels left
+
+rFire   . . .      SeeInvis +    f - +0 short sword
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                c - ring of see invisible
+MPRegen 0.16/turn                (no ring)
+
+@: marked
+A: no striking features
+a: no special abilities
+
+
+You were in an ossuary.
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+You also visited: Ossuary.
+
+You collected 216 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +0 short sword (weapon)
+Missiles
+ m - 2 throwing nets
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ c - a ring of see invisible (left hand)
+Scrolls
+ e - a scroll of fear
+ i - a scroll of poison
+ j - a scroll of amnesia
+ l - a scroll of identify
+Potions
+ d - a potion of mutation
+ g - 4 potions of curing
+ h - 2 potions of flight
+ k - a potion of cancellation
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 6.5 Spellcasting
+ * Level 6.2 Conjurations
+ - Level 1.1 Transmutations
+ * Level 7.8 Earth Magic
+
+
+You had 16 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           86%        2d18      1%          1
+b - Stone Arrow           Conj/Erth      80%        3d12      1%          3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      23%        N/A       1%          2
+ Lesser Beckoning         Tloc           14%        N/A       12%         2
+ Petrify                  Tmut/Erth      28%        N/A       13%         4
+ Gell's Gravitas          Tloc           7%         N/A       24%         3
+ Inner Flame              Hex/Fire       7%         N/A       24%         3
+ Teleport Other           Tloc           7%         N/A       24%         3
+ Cause Fear               Hex            3%         N/A       63%         4
+ Manifold Assault         Tloc           7%         N/A       63%         4
+ Dispersal                Tloc           3%         N/A       100%        6
+ Discord                  Hex            3%         N/A       100%        8
+ Disjunction              Tloc           3%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            Ossuary (1/1)             
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+Fedhas
+Gozag
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Yredelemnul
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+The centaur zombie kicks you but does no damage.
+A rat zombie comes into view.
+The kobold zombie misses you. The centaur zombie hits you.
+* * * LOW HITPOINT WARNING * * *
+The centaur zombie kicks you but does no damage.
+The centaur zombie attacks as you move away!
+The centaur zombie hits you but does no damage.
+The centaur zombie closely misses you. The centaur zombie hits you.
+* * * LOW HITPOINT WARNING * * *
+The centaur zombie barely misses you.
+The centaur zombie attacks as you move away!
+The centaur zombie barely misses you. The centaur zombie closely misses you.
+The centaur zombie completely misses you.
+The centaur zombie kicks you but does no damage.
+Casting: Sandblast (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Stone Arrow (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - centaur zombie
+Aim: a centaur zombie (100% to hit)
+The stone arrow hits the centaur zombie!
+The centaur zombie is heavily damaged.
+The centaur zombie hits you but does no damage.
+The centaur zombie kicks you.
+* * * LOW HITPOINT WARNING * * *
+The centaur zombie hits you but does no damage.
+The centaur zombie closely misses you.
+The centaur zombie attacks as you move away!
+The centaur zombie closely misses you.
+The centaur zombie kicks you but does no damage.
+The centaur zombie hits you.
+* * * LOW HITPOINT WARNING * * *
+The centaur zombie misses you.
+The centaur zombie attacks as you move away!
+The centaur zombie barely misses you. The centaur zombie closely misses you.
+The centaur zombie barely misses you.
+The centaur zombie kicks you but does no damage.
+The centaur zombie attacks as you move away!
+The centaur zombie hits you.
+You die...
+
+######################
+#....@....∩∩.........#
+#...Z................#
+#...##############...#
+#...#    #...#   #...#
+#...#    #...#   #...#
+#..Z#    M...+####...#
+#.Z.#    #.∩.....#...#
+#...#    #.......#...#
+#...#    #.......#...#
+#...#Z####.......#...#
+#...#.Z...Z...ZZ.#...#
+#...#Z####ZZ####.#...#
+
+
+You could see a centaur zombie.
+
+Vanquished Creatures
+  Grinder (D:4)
+  An ice beast (D:5)
+  A sky beast (D:6)
+  A black bear (D:5)
+  2 ogres (D:5)
+  An elf zombie (Ossuary)
+  A gnoll sergeant (D:5)
+  3 centaur zombies (Ossuary)
+  A hound (D:4)
+  2 iguanas
+  2 orc wizards (D:5)
+  4 gnolls (D:5)
+  5 adders
+  3 ufetubi
+  An adder zombie (Ossuary)
+  4 worms
+  3 dart slugs
+  2 orcs (D:5)
+  7 ball pythons
+  3 bats (D:1)
+  6 endoplasms
+  5 giant cockroaches
+  7 goblins
+  4 hobgoblins
+  A jackal (D:3)
+  2 quokkas (D:1)
+  2 frilled lizards
+  2 goblin zombies (D:6)
+  6 hobgoblin zombies (Ossuary)
+  A jackal zombie (Ossuary)
+  5 kobolds
+  8 kobold zombies (Ossuary)
+  8 orc zombies (Ossuary)
+  6 rats
+111 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+    99 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/8
+   284 | D:1      | Reached skill level 4 in Earth Magic
+   745 | D:2      | Found an opulent altar of Gozag.
+   761 | D:2      | Reached XP level 3. HP: 19/19 MP: 6/10
+   765 | D:2      | Learned a level 3 spell: Stone Arrow
+  1038 | D:2      | Found a faded altar of an unknown god.
+  1939 | D:3      | Found an iron altar of Okawaru.
+  1951 | D:3      | Reached skill level 1 in Conjurations
+  2052 | D:3      | Found a hide-covered altar of Uskayaw.
+  2214 | D:3      | Reached XP level 4. HP: 24/24 MP: 9/11
+  2563 | D:3      | Found a blossoming altar of Fedhas.
+  2564 | D:3      | Found a snail-covered altar of Cheibriados.
+  2567 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2610 | D:4      | Reached skill level 5 in Earth Magic
+  2747 | D:4      | Reached XP level 5. HP: 28/28 MP: 11/13
+  3006 | D:4      | Found a hazy altar of Hepliaklqana.
+  3008 | D:4      | Found a shimmering blue altar of Sif Muna.
+  3095 | D:4      | Noticed Grinder
+  3100 | D:4      | Killed Grinder
+  3101 | D:4      | Reached skill level 5 in Spellcasting
+  3101 | D:4      | Reached XP level 6. HP: 32/32 MP: 1/15
+  3543 | D:4      | Reached skill level 6 in Earth Magic
+  3726 | D:5      | Entered Level 5 of the Dungeon
+  4052 | D:5      | Reached XP level 7. HP: 35/36 MP: 1/17
+  4273 | D:5      | Found a bloodstained altar of Trog.
+  4279 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  4279 | D:5      | Found a basalt altar of Yredelemnul.
+  4426 | D:5      | Reached skill level 5 in Conjurations
+  4426 | D:5      | Reached skill level 7 in Earth Magic
+  5069 | D:6      | Reached XP level 8. HP: 41/41 MP: 12/19
+  5073 | D:6      | Found a sand-covered staircase.
+  5149 | Ossuary  | Entered an ossuary
+  5588 | Ossuary  | Slain by a centaur zombie
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      ebering_trefoil_twist, layout_loops_ring
+D:2:      layout_basic, chequers_ecumenical_altar_simple_redux, basic_altar
+D:3:      minmay_diamond_boxcup, layout_rooms, mainiacjoe_overflow_boulevard,
+          minitemple
+D:4:      layout_loops_corners, chequers_temple_overflow_statue_of_worship,
+          uniq_grinder
+D:5:      layout_basic, gammafunk_temple_overflow_forgotten, hex_medium
+D:6:      layout_loops_ring, jmf_multi_god_temple2, enter_ossuary_4,
+          grunt_tough_drop, uniq_edmund, uniq_menkaure
+Ossuary:  ossuary_tomb_1
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Earth Magic    |     4     5     6  7    |  7.8
+Conjurations   |        1  2  3  4  5  6 |  6.2
+Spellcasting   |           4  5     6    |  6.5
+Dodging        |                         |  2.4
+Stealth        |                         |  2.4
+Transmutations |                         |  1.1
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+   Cast: Sandblast         |    51 |    32 |    22 ||   105
+         Stone Arrow       |       |    13 |    42 ||    55
+    Use: Scroll            |     6 |     3 |     3 ||    12
+         Potion            |       |     1 |     1 ||     2
+ Armour: Robe              |     1 |     1 |    17 ||    19
+  Dodge: Dodged            |     2 |     9 |    30 ||    41
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   5638 |   5466 |    172 |    128 |   4630 |   7 |  805.4 |
+       Dungeon |   5193 |   5021 |    172 |     62 |   4349 |   6 |  865.5 |
+       Ossuary |    444 |    444 |      0 |     66 |    281 |   1 |  444.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:5: 1254 daAuts
+     D:2: 1203 daAuts
+     D:4: 1151 daAuts
+     D:1: 758 daAuts
+     D:3: 651 daAuts
+ Ossuary: 444 daAuts
+     D:6: 174 daAuts
+

@@ -1,0 +1,227 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 2849330428270853285
+
+63 GoodOmen the Firebug (level 3, -23/19 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 17, 2023.
+             Killed by an exploding hobgoblin (42 damage)
+             ... ignited by their inner flame
+             ... on level 3 of the Dungeon.
+             The game lasted 00:04:48 (2153 turns).
+
+GoodOmen the Firebug (Deep Elf Fire Elementalist)   Turns: 2153, Time: 00:04:50
+
+Health: -23/19     AC:  2    Str:  5    XL:     3   Next: 89%
+Magic:  7/10       EV: 12    Int: 21    God:    
+Gold:   116        SH:  0    Dex: 15    Spells: 6/9 levels left
+
+rFire   . . .      SeeInvis .    f - +1 short sword (drain)
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.12/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 116 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ f - a +1 short sword of draining (weapon)
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ g - an amulet of reflection
+Potions
+ b - a potion of magic
+ c - 2 potions of might
+ e - a potion of brilliance
+ h - a potion of cancellation {unknown}
+ k - 2 potions of flight
+
+
+   Skills:
+ - Level 2.4 Dodging
+ - Level 2.4 Stealth
+ + Level 3.7 Spellcasting
+ * Level 2.7 Conjurations
+ * Level 4.2 Fire Magic
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      72%        2x1d7     3%          1
+b - Scorch                Fire           42%        2d7       3%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Freeze                   Ice            12%        1d3       12%         1
+ Inner Flame              Hex/Fire       12%        N/A       16%         3
+ Kindle Blastsparks       Fire/Tloc/Air  18%        2d11      21%         3
+ Hailstorm                Conj/Ice       9%         3d4       22%         3
+ Flame Wave               Conj/Fire      18%        2d7       30%         4
+ Frozen Ramparts          Ice            6%         1d1       36%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Message History
+
+There is an open door here.
+There is an open door here.
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+As you read the scroll of identify, it crumbles to dust.
+k - 2 potions of flight
+As you read the scroll labelled ISEIRHA WUGU, it crumbles to dust.
+You assume a fearsome visage. Nothing appears to happen. It was a scroll of
+fear.
+As you read the scroll labelled BYXZAI PACU, it crumbles to dust.
+It is a scroll of amnesia.
+Forget Freeze, freeing 1 spell level for a total of 6? 
+[Y]es or [N]o only, please.
+Forget Freeze, freeing 1 spell level for a total of 6? 
+Your memory of Freeze unravels.
+As you read the scroll labelled EHURUR TEUD, it crumbles to dust.
+You feel strangely unstable. It was a scroll of teleportation.
+No target in view!
+Your surroundings suddenly seem different.
+A hobgoblin, a ball python and a giant cockroach come into view.
+Found a stone staircase leading down.
+As you read the scroll labelled YLEPUZ IDWOF, it crumbles to dust.
+The creatures around you are filled with an inner flame!
+It was a scroll of immolation.
+Casting: Scorch (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash the ball python.
+The ball python explodes!
+You conjure some foxfire!
+Found 15 gold pieces. The foxfire hits the hobgoblin. Flame seeps out of the
+hobgoblin.
+The hobgoblin is heavily wounded.
+The foxfire hits the giant cockroach. Flame seeps out of the giant cockroach.
+The giant cockroach is almost dead.
+The giant cockroach is engulfed in blazing flames.
+The giant cockroach explodes!
+The hobgoblin is engulfed in blazing flames.
+The hobgoblin explodes!
+The fiery explosion engulfs you!!!
+Ouch! That really hurt!
+You die...
+
+       ......#
+       ......+
+       #.....#
+########.§§..
+.........§§.
+.......>.§######
+$..............#
+......§@§§§....#
+......§○§○§....+
+.#########§....#
+          ......
+           ####.
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 adders (D:2)
+  2 worms (D:2)
+  A dart slug (D:2)
+  3 ball pythons
+  An endoplasm (D:1)
+  3 giant cockroaches
+  3 goblins
+  5 hobgoblins
+  2 jackals (D:2)
+  8 kobolds
+  2 quokkas (D:1)
+  4 bats (D:1)
+  2 frilled lizards (D:2)
+38 creatures vanquished.
+
+Vanquished Creatures (others)
+  48 foxfires
+48 creatures vanquished.
+
+Grand Total: 86 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   299 | D:1      | Reached XP level 2. HP: 15/15 MP: 6/8
+   325 | D:1      | Learned a level 2 spell: Scorch
+   327 | D:1      | Learned a level 1 spell: Freeze
+  1028 | D:2      | Reached XP level 3. HP: 19/19 MP: 0/9
+  1172 | D:2      | Reached skill level 4 in Fire Magic
+  2153 | D:3      | Killed by an exploding hobgoblin... ignited by their inner
+                  | flame
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      nzn_arrival_water_spiral, layout_basic
+D:2:      layout_loops_corners
+D:3:      layout_basic
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Conjurations   |     2    |  2.7
+Fire Magic     |        4 |  4.2
+Dodging        |          |  2.4
+Stealth        |          |  2.4
+Spellcasting   |          |  3.7
+
+Action                     || total
+---------------------------++-------
+   Cast: Foxfire           ||    30
+         Scorch            ||    26
+         Freeze            ||     7
+    Use: Scroll            ||     7
+ Armour: Robe              ||     3
+  Dodge: Dodged            ||    12
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2152 |   2076 |     76 |      0 |   1846 |   3 |  717.3 |
+       Dungeon |   2152 |   2076 |     76 |      0 |   1846 |   3 |  717.3 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 1223 daAuts
+     D:1: 915 daAuts
+     D:3: 12 daAuts
+

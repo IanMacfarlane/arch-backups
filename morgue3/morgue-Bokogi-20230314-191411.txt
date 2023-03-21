@@ -1,0 +1,213 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 7680202640249665619
+
+40 Bokogi the Shooter (level 3, -1/31 HPs)
+             Began as a Minotaur Hunter on Mar 14, 2023.
+             Succumbed to an adder's poison
+             ... on level 4 of the Dungeon.
+             The game lasted 00:03:10 (1037 turns).
+
+Bokogi the Shooter (Minotaur Hunter)                Turns: 1037, Time: 00:03:11
+
+Health: -1/31      AC:  4    Str: 15    XL:     3   Next: 30%
+Magic:  2/2        EV: 12    Int:  6    God:    
+Gold:   78         SH:  0    Dex: 15    Spells: 2/2 levels left
+
+rFire   . . .      SeeInvis .    a - +0 shortbow
+rCold   . . .      Faith    .    (shield currently unavailable)
+rNeg    . . .      Spirit   .    c - +0 leather armour
+rPois   .          Reflect  .    (helmet restricted)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        f - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.25/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: lethally poisoned (-1 -> -12)
+A: horns 2, retaliatory headbutt
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 78 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+Armour
+ c - a +0 leather armour (worn)
+ f - a +0 pair of gloves (worn)
+Scrolls
+ b - a scroll of immolation
+ d - a scroll of magic mapping {unknown}
+ g - a scroll of amnesia {unknown}
+ i - a scroll of noise {unknown}
+ j - a scroll of poison {unknown}
+ k - 2 scrolls of identify {unknown}
+ l - a scroll of vulnerability {unknown}
+Potions
+ e - a potion of lignification {unknown}
+ h - a potion of attraction {unknown}
+ m - a potion of flight {unknown}
+
+
+   Skills:
+ + Level 3.2 Fighting
+ * Level 5.3 Ranged Weapons
+ - Level 2.2 Dodging
+ - Level 0.8 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Cigotuvi's Dreadful Rot  Necr/Pois/Air  0%         N/A       67%         2
+ Poisonous Vapours        Pois/Air       0%         N/A       67%         2
+ Mephitic Cloud           Conj/Pois/Air  0%         N/A       88%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of horns on your head.
+You reflexively headbutt those who attack you in melee.
+
+Message History
+
+The goblin attacks as you move away! The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The goblin attacks as you move away! The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The goblin attacks as you move away! The goblin hits you but does no damage.
+The goblin attacks as you move away! The goblin barely misses you.
+The goblin attacks as you move away! The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The goblin attacks as you move away! The goblin closely misses you.
+The goblin attacks as you move away! The goblin barely misses you.
+Found a scroll labelled MIOLUI GYAXA.
+The goblin attacks as you move away! The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The goblin attacks as you move away! The goblin closely misses you. You
+furiously retaliate!
+You headbutt the goblin!
+You kill the goblin!
+A goblin comes into view. It is wielding a +0 club.
+The goblin shouts!
+Found 14 gold pieces. The goblin hits you with a +0 club.
+* * * LOW HITPOINT WARNING * * *
+The adder attacks as you move away! The adder misses you.
+Found a stone staircase leading down. The adder bites you but does no damage.
+The adder attacks as you move away! The adder barely misses you.
+An endoplasm comes into view.
+The adder barely misses you. You furiously retaliate! You headbutt the adder.
+The adder attacks as you move away! The adder bites you but does no damage.
+The adder attacks as you move away! The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are lethally poisoned!
+The adder poisons you!
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder misses you.
+There is a stone staircase leading down here.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+You climb downwards.
+You die...
+
+           #
+          .#
+      ####.##
+      #.....###
+      #........
+      #@....#
+S.B....SJ#.##
+...#######
+
+
+You could see a jelly (asleep), 2 adders and a giant cockroach (asleep).
+
+Vanquished Creatures
+  An adder (D:2)
+  4 ball pythons
+  2 endoplasms (D:1)
+  2 giant cockroaches (D:1)
+  5 goblins
+  5 hobgoblins (D:1)
+  A kobold (D:1)
+  2 quokkas (D:1)
+  2 bats (D:1)
+  2 frilled lizards (D:1)
+  2 rats (D:1)
+28 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Minotaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 0/0
+   200 | D:1      | Reached XP level 2. HP: 25/25 MP: 1/1
+   442 | D:1      | Reached skill level 5 in Ranged Weapons
+   659 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1036 | D:3      | HP: 1/31 [adder (1)]
+  1037 | D:4      | Succumbed to an adder's poison
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      elethiomel_arrival_quiet, layout_basic, minmay_liquid_box
+D:2:      layout_basic, minmay_pentomino_x2
+D:3:      layout_loops_ring, grunt_temple_overflow_lords_of_destruction,
+          nicolae_gozag_zags_fifth_avenue, hangedman_decor_opposing,
+          minmay_misc_feat_tiny
+D:4:      layout_loops_ring, trog_ov_bears_minmay, kennysheep_little_box,
+          hangedman_minor_gate_pass
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fighting       |     3 |  3.2
+Ranged Weapons |     5 |  5.3
+Dodging        |       |  2.2
+Stealth        |       |  0.8
+
+Action                     || total
+---------------------------++-------
+   Fire: Shortbow          ||    74
+ Armour: Leather armour    ||    12
+  Dodge: Dodged            ||    22
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1059 |   1031 |     28 |      0 |    829 |   4 |  264.8 |
+       Dungeon |   1059 |   1031 |     28 |      0 |    829 |   4 |  264.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 844 daAuts
+     D:2: 175 daAuts
+     D:3: 40 daAuts
+

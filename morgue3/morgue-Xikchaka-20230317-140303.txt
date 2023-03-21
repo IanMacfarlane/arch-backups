@@ -1,0 +1,250 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 5724676408256699296
+
+305 Xikchaka the Shield-Bearer (level 6, -1/49 HPs)
+             Began as a Formicid Fighter on Mar 17, 2023.
+             Shot with an arrow by a centaur (10 damage)
+             ... on level 5 of the Dungeon.
+             The game lasted 00:04:00 (2115 turns).
+
+Xikchaka the Shield-Bearer (Formicid Fighter)       Turns: 2115, Time: 00:04:00
+
+Health: -1/49      AC:  8    Str: 23    XL:     6   Next: 66%
+Magic:  6/6        EV:  9    Int:  7    God:    
+Gold:   150        SH: 10    Dex: 13    Spells: 5/5 levels left
+
+rFire   . . .      SeeInvis +    a - +0 quarterstaff
+rCold   + . .      Faith    .    c - +0 buckler
+rNeg    . . .      Spirit   .    b - +0 scale mail
+rPois   .          Reflect  +    (helmet unavailable)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        j - +0 pair of gloves
+Will    .....                    (no boots)
+Stlth                            m - amulet of reflection
+HPRegen 0.28/turn                k - ring of protection from cold
+MPRegen 0.10/turn                (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, antennae 3, four strong arms
+a: Dig, Shaft Self
+
+
+You were on level 5 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 150 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 buckler (worn)
+ j - a +0 pair of gloves (worn)
+Jewellery
+ k - a ring of protection from cold (left hand)
+ m - an amulet of reflection (around neck)
+Wands
+ n - a wand of flame (10)
+Scrolls
+ l - 4 scrolls of identify {unknown}
+Potions
+ d - 2 potions of berserk rage {unknown}
+ e - a potion of curing {unknown}
+ f - a potion of brilliance {unknown}
+ g - a potion of attraction {unknown}
+ h - 2 potions of flight {unknown}
+ i - 2 potions of invisibility {unknown}
+
+
+   Skills:
+ + Level 4.4 Fighting
+ * Level 4.3 Staves
+ + Level 4.5 Armour
+ + Level 5.4 Shields
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+You have a pair of large antennae on your head. (SInv)
+Your four strong arms can wield two-handed weapons with a shield.
+
+Message History
+
+You sense a monster nearby.
+You sense a monster nearby.
+A scorpion comes into view.
+Found a scroll labelled XERAUM KEMO.
+You block the scorpion's attack.
+You closely miss the scorpion. The scorpion stings you.
+You hit the scorpion.
+The scorpion is lightly wounded.
+The scorpion stings you.
+You hit the scorpion but do no damage.
+The scorpion is lightly wounded.
+The scorpion stings you but does no damage. x2
+You closely miss the scorpion.
+The scorpion is lightly wounded.
+You block the scorpion's attack.
+You sock the scorpion!
+The scorpion is severely wounded.
+You block the scorpion's attack.
+You hit the scorpion.
+The scorpion is almost dead.
+The scorpion closely misses you. x2
+You hit the scorpion.
+You kill the scorpion!
+No target in view!
+Found 6 poisoned darts.
+l - 3 scrolls labelled XERAUM KEMO (gained 1)
+You sense a monster nearby.
+You sense a monster nearby.
+l - 4 scrolls labelled XERAUM KEMO (gained 1)
+A centaur comes into view.
+The centaur wields a +0 shortbow. The centaur shoots an arrow. The arrow hits
+you!
+The centaur shoots an arrow. The arrow hits you!
+The centaur shoots an arrow. The arrow barely misses you. The centaur shoots an
+arrow.
+The arrow hits you!
+The centaur shoots an arrow. The arrow hits you!
+* * * LOW HITPOINT WARNING * * *
+The centaur shoots an arrow. The arrow hits you.
+* * * LOW HITPOINT WARNING * * *
+The centaur shoots an arrow. The arrow hits you!
+You die...
+
+................#  {
+...........#....#
+######..........###
+     ##...........#
+      ###.........#
+        ##.......##
+         ##......#{
+         ##......#
+         #....#.##
+         #......#{
+        ##....#.#
+        #.....@.##
+        #....##..#{  {
+        #........+
+       #..c......#
+       #.........#
+      #.....#......
+      #....#######.
+      #....#      .
+        ..         #
+
+
+You could see a centaur.
+
+Vanquished Creatures
+  A scorpion (D:5)
+  A hound (D:6)
+  An iguana (D:5)
+  6 gnolls (D:2)
+  7 adders
+  A shadow imp (D:5)
+  An ufetubus (D:5)
+  2 dart slugs
+  4 orcs (D:5)
+  4 ball pythons
+  2 bats (D:2)
+  4 endoplasms
+  A giant cockroach (D:1)
+  5 goblins (D:1)
+  5 hobgoblins
+  2 jackals (D:2)
+  4 quokkas
+  3 frilled lizards
+  4 kobolds
+  2 rats
+60 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:2)
+1 creature vanquished.
+
+Grand Total: 61 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xikchaka the Formicid Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+   241 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+   380 | D:1      | Reached XP level 3. HP: 24/29 MP: 3/3
+   846 | D:2      | Reached XP level 4. HP: 23/37 MP: 4/4
+  1135 | D:2      | Reached XP level 5. HP: 33/42 MP: 5/5
+  1459 | D:2      | Found a faded altar of an unknown god.
+  1688 | D:3      | Reached skill level 5 in Shields
+  1751 | D:3      | You fall into a shaft and drop 3 floors!
+  1814 | D:6      | Reached XP level 6. HP: 43/48 MP: 6/6
+  1827 | D:5      | Entered Level 5 of the Dungeon
+  2115 | D:5      | Shot with an arrow by a centaur
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      dpeg_cavernosity, layout_rooms
+D:2:      layout_basic, dreamdust_ecumenical_altar_hidden_monk_grotto
+D:3:      layout_basic, wad_orctagon
+D:5:      corexii_shantytown, layout_cave_pods
+D:6:      layout_loops_ring, lemuel_zombie_altar_kikubaaqudgha,
+          dk_noncrumbling_2, minmay_small_thing
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Staves         |           3     4 |  4.3
+Fighting       |              4    |  4.4
+Armour         |              4    |  4.5
+Shields        |              5    |  5.4
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Quarterstaff      |    67 |   141 ||   208
+    Use: Scroll            |     1 |       ||     1
+         Potion            |       |     1 ||     1
+ Armour: Scale mail        |    31 |    73 ||   104
+  Dodge: Dodged            |    43 |    67 ||   110
+  Block: Buckler           |    16 |    55 ||    71
+         Reflection        |       |     1 ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2149 |   2102 |     47 |    133 |   1446 |   5 |  429.8 |
+       Dungeon |   2149 |   2102 |     47 |    133 |   1446 |   5 |  429.8 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:2: 917 daAuts
+     D:1: 752 daAuts
+     D:5: 292 daAuts
+     D:3: 109 daAuts
+     D:6: 77 daAuts
+

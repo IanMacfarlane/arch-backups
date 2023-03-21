@@ -1,0 +1,263 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 17726355709354562939
+
+91 GoodOmen the Digger (level 4, 24/24 HPs)
+             Began as a Gargoyle Earth Elementalist on Mar 19, 2023.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:04:27 (1855 turns).
+
+GoodOmen the Digger (Gargoyle Earth Elementalist)   Turns: 1855, Time: 00:04:28
+
+Health: 24/24      AC:  6    Str: 12    XL:     4   Next: 57%
+Magic:  7/7        EV: 12    Int: 17    God:    
+Gold:   201        SH:  0    Dex: 10    Spells: 4/8 levels left
+
+rFire   . . .      SeeInvis .    g - +2 short sword
+rCold   . . .      Faith    .    (no shield)
+rNeg    + . .      Spirit   .    a - +1 robe
+rPois   ∞          Reflect  .    (no helmet)
+rElec   +          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    +....                    (no boots)
+Stlth   ++                       (no amulet)
+HPRegen 0.24/turn                f - ring of willpower
+MPRegen 0.10/turn                (no ring)
+
+@: no status effects
+A: sickness immunity, AC +3, negative energy resistance 1, electricity
+resistance, torment resistance 1, petrification resistance
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 201 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ g - a +2 short sword (weapon)
+Armour
+ a - a +1 robe (worn)
+Jewellery
+ f - a ring of willpower (left hand)
+Wands
+ m - a wand of charming (10)
+Scrolls
+ c - a scroll of amnesia
+ k - a scroll of vulnerability {unknown}
+ l - a scroll of identify {unknown}
+Potions
+ b - 3 potions of magic
+ d - 2 potions of brilliance {unknown}
+ e - 2 potions of degeneration {unknown}
+ h - a potion of mutation {unknown}
+ i - 2 potions of flight {unknown}
+ j - a potion of berserk rage {unknown}
+ n - a potion of attraction {unknown}
+ o - a potion of haste {unknown}
+
+
+   Skills:
+ - Level 1.7 Dodging
+ - Level 2.4 Stealth
+ + Level 2.6 Spellcasting
+ * Level 1.7 Conjurations
+ - Level 1.0 Transmutations
+ * Level 4.9 Earth Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Sandblast             Erth           36%        2d10      2%          1
+b - Stone Arrow           Conj/Erth      26%        3d8       14%         3
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Passwall                 Tmut/Erth      10%        N/A       9%          2
+ Shock                    Conj/Air       20%        1d4       13%         1
+ Poisonous Vapours        Pois/Air       4%         N/A       28%         2
+ Hailstorm                Conj/Ice       5%         3d4       36%         3
+ Petrify                  Tmut/Erth      12%        N/A       47%         4
+ Ice Form                 Ice/Tmut       4%         N/A       82%         4
+ Simulacrum               Ice/Necr       1%         N/A       100%        6
+ Necromutation            Tmut/Necr      2%         N/A       100%        8
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Fedhas
+Qazlal
+Uskayaw
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to sickness and miasma.
+Your stone body is resilient. (AC +3)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You are resistant to unholy torment.
+You are immune to petrification.
+
+Message History
+
+The blast of sand hits the rat!
+You kill the rat!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+A frilled lizard is nearby!
+The frilled lizard misses you.
+You see here a rat corpse.
+The frilled lizard bites you.
+The blast of sand hits the frilled lizard.
+You kill the frilled lizard!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+A goblin comes into view. It is wielding a +0 club and quivering boomerangs of
+dispersal.
+m - a wand of charming (10)
+Unknown command.
+The blast of sand hits the goblin!
+You kill the goblin!
+You can't see any susceptible monsters within range! (Use Z to cast anyway.)
+Things that are here:
+a +0 club; 2 boomerangs of dispersal; a goblin corpse
+There is a blossoming altar of Fedhas here.
+n - a green potion
+A kobold comes into view. It is wielding a +0 club and quivering poisoned
+darts.
+Found a ruby potion.
+A kobold is nearby!
+You see here 11 gold pieces.
+The blast of sand hits the kobold!
+You kill the kobold!
+Okay, then.
+Unknown command.
+You now have 201 gold pieces (gained 11).
+o - a ruby potion
+Things that are here:
+a +0 club; 5 poisoned darts; a kobold corpse
+You pick up a book of the Tundra and begin reading...
+You add the spells Hailstorm, Ice Form and Simulacrum to your library.
+Saving game... please wait.
+Welcome back, GoodOmen the Gargoyle Earth Elementalist.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##.###...###  #..#.###...#
+..........#   #..#.#.....##
+..........#####..#...#....#
+..........##..............#
+........>.#..##..####.#####
+............###..####.###
+..........##............
+..........##..........##
+......................###
+....########.............
+####   #####.(........###
+...   ...........@......?
+###   ######..........###
+#          #..........#
+           #..........#
+           ############
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A gnoll (D:1)
+  3 adders (D:2)
+  An orc (D:3)
+  5 endoplasms (D:1)
+  5 hobgoblins
+  5 kobolds
+  2 quokkas
+  6 ball pythons
+  4 bats
+  5 frilled lizards
+  8 goblins
+  6 rats
+51 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fungus (D:3)
+1 creature vanquished.
+
+Grand Total: 52 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | GoodOmen the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+    78 | D:1      | Reached skill level 1 in Transmutations
+    78 | D:1      | Reached XP level 2. HP: 15/15 MP: 1/5
+   181 | D:1      | Reached skill level 4 in Earth Magic
+   345 | D:1      | Reached XP level 3. HP: 19/19 MP: 1/6
+   360 | D:1      | Learned a level 3 spell: Stone Arrow
+   407 | D:1      | Got Weesm's Parchment of the Twisted Atmosphere
+   956 | D:2      | Reached skill level 1 in Conjurations
+   974 | D:2      | Reached XP level 4. HP: 22/24 MP: 3/7
+  1580 | D:3      | Found a blossoming altar of Fedhas.
+  1603 | D:3      | Found a hide-covered altar of Uskayaw.
+  1656 | D:3      | Found a stormy altar of Qazlal.
+  1855 | D:3      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      mrwooster_arrival_statue, layout_rooms
+D:2:      layout_rooms
+D:3:      layout_rooms, mainiacjoe_overflow_catwalk, fedhas_altar_3,
+          nicolae_overflow_crystal_walls, mainiacjoe_overflow_boulevard,
+          minmay_puff
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Transmutations |  1       |  1.0
+Earth Magic    |     4    |  4.9
+Conjurations   |        1 |  1.7
+Dodging        |          |  1.7
+Stealth        |          |  2.4
+Spellcasting   |          |  2.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Short sword       |     8 |       ||     8
+   Cast: Sandblast         |    43 |    28 ||    71
+    Use: Scroll            |     6 |     2 ||     8
+ Armour: Robe              |     5 |     2 ||     7
+  Dodge: Dodged            |    13 |     7 ||    20
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   1889 |   1857 |     32 |     97 |   1463 |   3 |  629.7 |
+       Dungeon |   1889 |   1857 |     32 |     97 |   1463 |   3 |  629.7 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 864 daAuts
+     D:2: 580 daAuts
+     D:3: 444 daAuts
+

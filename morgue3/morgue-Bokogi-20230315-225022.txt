@@ -1,0 +1,161 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 7856775685252804894
+
+1 Bokogi the Chopper (level 1, 18/18 HPs)
+             Began as a Hill Orc Reaver on Mar 15, 2023.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:27 (14 turns).
+
+Bokogi the Chopper (Hill Orc Reaver)                  Turns: 14, Time: 00:00:27
+
+Health: 18/18      AC:  3    Str: 14    XL:     1   Next: 20%
+Magic:  3/3        EV: 11    Int: 13    God:    
+Gold:   0          SH:  0    Dex:  9    Spells: 2/3 levels left
+
+rFire   . . .      SeeInvis .    a - +0 hand axe
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    b - +0 leather armour
+rPois   .          Reflect  .    (no helmet)
+rElec   .          Rampage  .    (no cloak)
+rCorr   .                        (no gloves)
+Will    .....                    (no boots)
+Stlth   +                        (no amulet)
+HPRegen 0.23/turn                (no ring)
+MPRegen 0.08/turn                (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Armour
+ b - a +0 leather armour (worn)
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 4.0 Axes
+ + Level 1.5 Dodging
+ + Level 1.5 Spellcasting
+ + Level 3.0 Conjurations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Kiss of Death         Conj/Necr      16%        2d6       19%         1
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Momentum Strike          Conj/Tloc      8%         3d8       28%         2
+ Hailstorm                Conj/Ice       4%         3d4       50%         3
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Bokogi the Hill Orc Reaver.
+If you return without finding the Orb of Zot, so far below, it's all over!
+Press ? for a list of commands and other information.
+Found an escape hatch in the floor.
+Found a staircase leading out of the dungeon.
+Casting: Kiss of Death (safe; 19% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Unknown command.
+You open the large door.
+An endoplasm comes into view.
+The endoplasm quivers.
+There is a large open door here.
+You barely miss the endoplasm. The endoplasm hits you.
+You hit the endoplasm.
+The endoplasm is heavily wounded.
+The endoplasm barely misses you.
+You hit the endoplasm.
+The endoplasm is almost dead.
+The endoplasm barely misses you.
+You hit the endoplasm.
+You kill the endoplasm!
+Okay, then.
+Unknown command.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+             §≈#
+  §§  ####  ≈≈§#
+ ≈≈§≈≈#><#§§≈≈≈#
+ ≈≈#≈≈#..#≈≈#≈≈#
+ ≈≈§§§#§.#≈≈≈§§#
+ ≈≈§≈≈≈..≈≈≈§§≈#
+ #≈§§§≈..≈≈≈§≈##
+ #≈≈≈#≈§§§#≈§§#
+ ##≈≈≈≈§§≈§≈≈##
+  ###≈≈.§§§###
+#######''######
+.......@........
+####.......#....
+   #.#####.#  ..
+   #.     ...
+   #      .....
+           ....
+           .###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An endoplasm (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Hill Orc Reaver began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+    14 | D:1      | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lightli_molten_gateway, layout_basic,
+          chequers_ecumenical_altar_island, minmay_small_reverse_x
+
+Action                     || total
+---------------------------++-------
+  Melee: Hand axe          ||     4
+  Dodge: Dodged            ||     2
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |     14 |     14 |      0 |      0 |      8 |   1 |   14.0 |
+       Dungeon |     14 |     14 |      0 |      0 |      8 |   1 |   14.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:1: 14 daAuts
+

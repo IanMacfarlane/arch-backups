@@ -1,0 +1,1202 @@
+ERROR in 'menu.cc' at line 309: ASSERT failed: index of 1 out of range 0 (0) .. (int)m_menu->items.size() (1)
+
+Version: Dungeon Crawl Stone Soup 0.30-a0-879-ga8ba668304
+Platform: unix
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Seed: 6928027461273903639, deterministic pregen: 1
+Command line: ./crawl
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #6: Aborted
+
+Obtained 25 stack frames.
+./crawl(_Z17write_stack_traceP8_IO_FILE+0x3a) [0x55ed82ccdd8a]: write_stack_trace(_IO_FILE*)
+./crawl(_Z13do_crash_dumpv+0x40c) [0x55ed82cd6b9c]: do_crash_dump()
+./crawl(_Z20crash_signal_handleri+0x1cc) [0x55ed82cce1dc]: crash_signal_handler(int)
+/usr/lib/libc.so.6(+0x38f50) [0x7ff2b9851f50]: 
+/usr/lib/libc.so.6(+0x878ec) [0x7ff2b98a08ec]: 
+/usr/lib/libc.so.6(gsignal+0x18) [0x7ff2b9851ea8]: 
+./crawl(+0x447046) [0x55ed82cd6046]: 
+./crawl(+0x44763f) [0x55ed82cd663f]: 
+./crawl(+0x72cf53) [0x55ed82fbbf53]: 
+./crawl(_ZN4Menu9line_downEv+0x75) [0x55ed82fbd275]: Menu::line_down()
+./crawl(_ZN4Menu15process_commandE12command_type+0xa9) [0x55ed82fc6bd9]: Menu::process_command(command_type)
+./crawl(+0x72cc3b) [0x55ed82fbbc3b]: 
+./crawl(_ZN2ui6Widget8on_eventERKNS_5EventE+0x79) [0x55ed832d3df9]: ui::Widget::on_event(ui::Event const&)
+./crawl(_ZN2ui6UIRoot13deliver_eventERNS_5EventE+0x2fa) [0x55ed832cfb5a]: ui::UIRoot::deliver_event(ui::Event&)
+./crawl(_ZN2ui6UIRoot8on_eventER8wm_event+0x90) [0x55ed832d0cf0]: ui::UIRoot::on_event(wm_event&)
+./crawl(_ZN2ui11pump_eventsEi+0x94) [0x55ed832d5db4]: ui::pump_events(int)
+./crawl(_ZN4Menu7do_menuEv+0x33c) [0x55ed82fc1c9c]: Menu::do_menu()
+./crawl(_ZN4Menu4showEb+0xa8) [0x55ed82fc5e28]: Menu::show(bool)
+./crawl(_Z10macro_menuv+0x42) [0x55ed82f516f2]: macro_menu()
+./crawl(+0xaf95eb) [0x55ed833885eb]: 
+./crawl(+0xafa095) [0x55ed83389095]: 
+./crawl(main+0x189) [0x55ed82c1fb79]: 
+/usr/lib/libc.so.6(+0x23790) [0x7ff2b983c790]: 
+/usr/lib/libc.so.6(__libc_start_main+0x8a) [0x7ff2b983c84a]: 
+./crawl(_start+0x25) [0x55ed82c20445]: 
+
+gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 12.2.1 20230201
+Build platform: x86_64-pc-linux-gnu
+Platform: x86_64-pc-linux-gnu
+CFLAGS: -O2 -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -pthread -D_REENTRANT -Wall -Wformat-security -Wundef -Wextra -Wno-missing-field-initializers -Wno-implicit-fallthrough -Wno-type-limits -Wno-uninitialized -Wno-array-bounds -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -isystem /usr/include/lua5.1 -isystem /usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-4 -isystem /usr/include/SDL2 -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="/usr/share/fonts/TTF/DejaVuSans.ttf" -DMONOSPACED_FONT="/usr/share/fonts/TTF/DejaVuSansMono.ttf" -D_REENTRANT -DCLUA_BINDINGS
+LDFLAGS: -rdynamic -fuse-ld=gold -O2
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 5
+
+Level id: D:5
+Level build method = , level layout type  = narrow_caves, absdepth0 = 4
+Level vaults:
+    layout_layer_cave
+    lemuel_mausoleum_altar_kikubaaqudgha
+    serial_shops
+    nicolae_diamond_shop
+    shop
+    nicolae_shop_advertising_works [nicolae_subvault_shop_adworks]
+    nicolae_shop_hallway_plus
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+No target in view!
+No target in view!
+No target in view!
+Unknown command.
+There is an escape hatch in the floor here.
+Found a club.
+You see here a +0 club.
+n - a scroll labelled QUMUTI WANYITH
+A giant cockroach comes into view.
+You scratch the giant cockroach.
+The giant cockroach is almost dead.
+The giant cockroach bites you but does no damage.
+You closely miss the giant cockroach.
+The giant cockroach is almost dead.
+The giant cockroach barely misses you.
+You claw the giant cockroach!
+You kill the giant cockroach!
+Found a leather armour.
+You see here a +0 leather armour.
+An adder comes into view.
+The adder hisses angrily.
+You claw the adder!
+You kill the adder!
+You have reached level 4!
+Found a stone staircase leading down.
+As you open the door, it creaks loudly!
+There is an open door here.
+You open the door.
+There is an open door here.
+You open the door.
+There is an open door here.
+A giant cockroach comes into view.
+A giant cockroach is nearby!
+You scratch the giant cockroach.
+The giant cockroach is almost dead.
+The giant cockroach bites you but does no damage.
+The giant cockroach barely misses you.
+You claw the giant cockroach!
+You kill the giant cockroach!
+No target in view!
+You see here a giant cockroach corpse.
+An endoplasm comes into view.
+The endoplasm quivers.
+The endoplasm hits you but does no damage.
+You barely miss the endoplasm. The endoplasm barely misses you.
+You claw the endoplasm!
+You kill the endoplasm!
+Found Ceri's Armour Shoppe.
+No target in view!
+Found a stone staircase leading up.
+There is an entrance to Ceri's Armour Shoppe here.
+There is a stone staircase leading up here.
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+There is a stone staircase leading down here.
+You climb downwards.
+Found 24 gold pieces, a sling, a lumpy silvery potion and a scroll labelled
+SYINUTEUBIRGH.
+There is a stone staircase leading up here.
+You now have 119 gold pieces (gained 14).
+g - 2 lumpy silvery potions (gained 1)
+Found a stone staircase leading down.
+You now have 131 gold pieces (gained 12).
+e - 2 scrolls labelled WOUWUG FIGYU (gained 1)
+A frilled lizard comes into view.
+There is a stone staircase leading up here.
+The frilled lizard closely misses you.
+You completely miss the frilled lizard. The frilled lizard misses you.
+You claw the frilled lizard!
+You kill the frilled lizard!
+There is a stone staircase leading up here.
+As you read the scroll labelled WOUWUG FIGYU, it crumbles to dust.
+The air around you briefly surges with heat, but it dissipates.
+It was a scroll of immolation.
+You see here a +0 sling.
+Found a dagger.
+o - a scroll labelled SYINUTEUBIRGH
+You see here a +0 sling.
+You now have 141 gold pieces (gained 10).
+Found a sling.
+You now have 150 gold pieces (gained 9).
+You now have 159 gold pieces (gained 9).
+p - a scroll labelled AMNANE GUKKETIE
+Found a robe.
+You see here a +0 robe.
+As you open the door, it creaks loudly!
+Found a stone staircase leading down.
+Found a stone staircase leading down.
+Found an escape hatch in the floor.
+q - a fuming pink potion
+A kobold comes into view. It is wielding a +0 dagger of venom.
+Found a book of the Hunter.
+The kobold shouts!
+The kobold closely misses you.
+You miss the kobold.
+The kobold hits you with a +0 dagger of venom.
+You are poisoned.
+You claw the kobold!
+You kill the kobold!
+You feel sick.
+No target in view!
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+HP restored.
+Things that are here:
+a +0 dagger of venom; a kobold corpse
+You pick up a book of the Hunter and begin reading...
+You add the spells Call Canine Familiar, Portal Projectile and Leda's
+Liquefaction to your library.
+Found an escape hatch in the ceiling.
+Found a stone staircase leading up.
+You now have 166 gold pieces (gained 7).
+l - 2 scrolls labelled HOT NOTWEL SYC (gained 1)
+A giant cockroach comes into view.
+A giant cockroach is nearby!
+Okay, then.
+The giant cockroach closely misses you. x2
+You claw the giant cockroach!
+You kill the giant cockroach!
+No target in view!
+You see here a giant cockroach corpse.
+You see here a giant cockroach corpse.
+An orc comes into view. It is wielding a +0 morningstar.
+The orc shouts!
+An orc is nearby!
+The orc hits you but does no damage.
+You claw the orc!
+You kill the orc!
+No target in view!
+No target in view!
+You see here a +0 morningstar.
+Found a robe.
+You see here a +0 robe.
+An endoplasm comes into view.
+The endoplasm quivers.
+You see here 16 gold pieces.
+An endoplasm is nearby!
+You claw the endoplasm!
+You kill the endoplasm!
+No target in view!
+You now have 182 gold pieces (gained 16).
+You now have 189 gold pieces (gained 7).
+A jackal comes into view.
+The jackal barks!
+A jackal comes into view.
+The jackal moves out of view.
+A jackal comes into view.
+There are monsters nearby!
+A jackal comes into view.
+The jackal barks!
+The jackal barks!
+You claw the jackal!
+You kill the jackal!
+You claw the jackal!
+You kill the jackal!
+The jackal bites you but does no damage.
+Things that are here:
+a jackal corpse; a jackal corpse
+You barely miss the jackal. The jackal barely misses you.
+You barely miss the jackal. The jackal misses you.
+You closely miss the jackal.
+The jackal bites you but does no damage.
+You claw the jackal!
+You kill the jackal!
+The jackal bites you but does no damage.
+You claw the jackal!
+You kill the jackal!
+No target in view!
+Things that are here:
+a jackal corpse; a jackal corpse
+Things that are here:
+a jackal corpse; a jackal corpse
+Things that are here:
+a jackal corpse; a jackal corpse
+Found a stone staircase leading up.
+You open the door.
+There is an open door here.
+There is a fountain of clear blue water here.
+You open the door.
+There is an open door here.
+Found a quarterstaff.
+You see here a +0 quarterstaff.
+There is an open door here.
+There is an open door here.
+Found a scale mail.
+You see here a +0 scale mail.
+A rat comes into view.
+The rat bites you but does no damage.
+You claw the rat!
+You kill the rat!
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Okay, then.
+You throw a throwing net. The throwing net hits the scorpion. The scorpion is
+caught in the net!
+The scorpion struggles against the net.
+The scorpion struggles against the net. x2
+A quokka comes into view.
+The scorpion struggles against the net.
+You scratch the scorpion but do no damage.
+The scorpion struggles against the net.
+The net rips apart, and the scorpion comes free!
+You claw the scorpion!
+The scorpion is heavily wounded.
+The scorpion stings you.
+You are poisoned.
+The scorpion poisons you!
+You claw the scorpion!
+You kill the scorpion!
+You feel very sick.
+Your Unarmed Combat skill increases to level 5!
+You have reached level 5!
+You feel very sick.
+You feel sick. The quokka bites you.
+You scratch the quokka.
+The quokka is severely wounded.
+You feel sick. The quokka bites you.
+You claw the quokka!
+You kill the quokka!
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+There is a stone staircase leading up here.
+You feel sick.
+You are no longer poisoned.
+You climb upwards.
+There is a stone staircase leading down here.
+HP restored.
+Done exploring.
+Okay, then.
+You climb downwards.
+There is a stone staircase leading up here.
+The air fills with toxic fumes!
+As you read the scroll labelled HOT NOTWEL SYC, it crumbles to dust.
+It was a scroll of poison.
+You see here a scorpion corpse.
+r - a scroll labelled CIPTYT COOCVO
+You now have 206 gold pieces (gained 17).
+A jackal comes into view.
+The jackal barks! You hear a bark!
+A jackal comes into view.
+You barely miss the jackal. You claw the jackal.
+The jackal is heavily wounded.
+The jackal bites you.
+You claw the jackal!
+You kill the jackal!
+You scratch the jackal.
+The jackal is heavily wounded.
+The jackal barely misses you.
+You claw the jackal!
+You kill the jackal!
+No target in view!
+Things that are here:
+a jackal corpse; a jackal corpse
+Found 4 stones.
+Found a barding.
+r - 2 scrolls labelled CIPTYT COOCVO (gained 1)
+A goblin comes into view. It is wielding a +0 dagger.
+Found 11 gold pieces.
+A goblin is nearby!
+The goblin shouts!
+A worm comes into view.
+You scratch the goblin.
+The goblin is severely wounded.
+The goblin closely misses you.
+You barely miss the goblin.
+The goblin is severely wounded.
+The goblin hits you but does no damage.
+You scratch the goblin.
+You kill the goblin!
+You see here a +0 dagger.
+You claw the worm!
+You kill the worm!
+No target in view!
+You now have 217 gold pieces (gained 11).
+Found a leather armour.
+A scorpion comes into view.
+You claw the scorpion!
+The scorpion is heavily wounded.
+The scorpion barely misses you.
+You closely miss the scorpion.
+The scorpion is heavily wounded.
+The scorpion stings you!
+You are poisoned.
+The scorpion poisons you!
+You barely miss the scorpion.
+The scorpion is heavily wounded.
+You feel sick. The scorpion closely misses you.
+You claw the scorpion!
+The scorpion is almost dead.
+You feel sick. The scorpion closely misses you.
+You barely miss the scorpion.
+The scorpion is almost dead.
+You feel sick. The scorpion stings you.
+You are more poisoned.
+The scorpion poisons you!
+You closely miss the scorpion.
+The scorpion is almost dead.
+You feel very sick.
+The scorpion stings you but does no damage.
+You scratch the scorpion but do no damage.
+The scorpion is almost dead.
+You feel sick. The scorpion stings you.
+You claw the scorpion!
+You kill the scorpion!
+You feel sick.
+No target in view!
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+HP restored.
+s - an inky potion
+p - 2 scrolls labelled AMNANE GUKKETIE (gained 1)
+Menkaure, Prince of Dust comes into view.
+Menkaure moves out of view.
+Okay, then.
+Found a ring mail. Found a stone staircase leading up.
+You claw Menkaure!
+Menkaure is severely damaged.
+Menkaure barely misses you.
+You claw Menkaure!
+You destroy Menkaure!
+Your Fighting skill increases to level 3!
+Your Unarmed Combat skill increases to level 6!
+You have reached level 6!
+You feel stronger.
+There is a shaft here.
+Found a stone staircase leading down.
+t - a scroll labelled IDGHA ZIRHEEPAU
+You now have 231 gold pieces (gained 14).
+You see here a +0 mace.
+There is a stone staircase leading down here.
+Found a stone staircase leading down.
+There is a stone staircase leading down here.
+Found a stone staircase leading down.
+A giant cockroach comes into view.
+You claw the giant cockroach!
+You kill the giant cockroach!
+No target in view!
+There is a stone staircase leading down here.
+Found 2 stones.
+Found a stone staircase leading up.
+An orc comes into view. It is wielding a +0 hand axe.
+An orc is nearby!
+An orc comes into view. It is wielding a +0 short sword.
+The orc shouts! x2
+An orc comes into view. It is wielding a +0 trident.
+The orc completely misses you.
+You barely miss the orc. The orc hits you with a +0 hand axe.
+You claw the orc!
+You kill the orc!
+The orc barely misses you.
+The orc hits you from afar with a +0 trident.
+You claw the orc!
+You kill the orc!
+The orc hits you from afar with a +0 trident!
+The orc hits you but does no damage.
+Things that are here:
+a +0 hand axe; a +0 leather armour; an orc corpse
+You scratch the orc but do no damage.
+You scratch the orc.
+The orc is almost dead.
+The orc barely misses you.
+You scratch the orc.
+You kill the orc!
+u - a scroll labelled IWICEM VOIRO
+Found a chain mail.
+Found a staircase to the Ecumenical Temple.
+Key pressed, stopping explore.
+There is a staircase to the Ecumenical Temple here.
+There are no items here.
+Unknown command.
+You climb downwards. Welcome to the Ecumenical Temple!
+Found seven altars. Found two transporters.
+There is a staircase back to the Dungeon here.
+Found two transporters.
+Found a sacrificial altar of Ru.
+Found four altars.
+Found a hazy altar of Hepliaklqana and a stormy altar of Qazlal.
+Found a glowing silver altar of Zin.
+There is a transporter here.
+You enter the transporter and appear at another place.
+Found a burning altar of Makhleb.
+Partly explored, unvisited transporter.
+There is a transporter landing site here.
+There is a transporter here.
+You enter the transporter and appear at another place.
+Found a glowing golden altar of the Shining One.
+There is a transporter here.
+You enter the transporter and appear at another place.
+Partly explored, unvisited transporter.
+Partly explored, unvisited transporter.
+There is a transporter here.
+There is a transporter here.
+There is a transporter here.
+You enter the transporter and appear at another place.
+There is a burning altar of Makhleb here.
+There is a transporter here.
+You enter the transporter and appear at another place.
+There is a glowing golden altar of the Shining One here.
+You kneel at the altar of the Shining One.
+The Shining One welcomes you!
+Okay, then.
+There is a transporter here.
+There is a snail-covered altar of Cheibriados here.
+There is a shimmering blue altar of Sif Muna here.
+You kneel at the altar of Sif Muna.
+There is a transporter here.
+You enter the transporter and appear at another place.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a staircase back to the Dungeon here.
+You climb upwards. Welcome back to the Dungeon!
+There is a staircase to the Ecumenical Temple here.
+Unknown command.
+There is a stone staircase leading up here.
+There is a shaft here.
+You pick up a book of Touch and begin reading...
+You add the spells Kiss of Death, Confusing Touch and Dispel Undead to your
+library.
+Done exploring.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+(D) Dungeon   (T) Temple    
+Where to? (Enter - Temple @ (x,y), ? - help) 
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Press: ? - help, v - describe, . - travel
+A staircase to the Ecumenical Temple.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+Search for what [Enter for "flail", or ? for help]? 
+Okay, then.
+You climb downwards.
+Found 2 emerald potions. Found an escape hatch in the floor.
+There is a stone staircase leading up here.
+Found a scroll labelled FOEJ OFAOH.
+Found 6 stones.
+The phantom hits you but does no damage.
+You closely miss the phantom.
+You claw the phantom!
+The phantom is heavily damaged.
+The phantom hits you but does no damage.
+You claw the phantom!
+The phantom is almost destroyed.
+The phantom hits you but does no damage.
+You scratch the phantom but do no damage.
+The phantom is almost destroyed.
+The phantom hits you but does no damage.
+You closely miss the phantom.
+The phantom is severely damaged.
+The phantom hits you but does no damage.
+You scratch the phantom but do no damage.
+Your claw misses the phantom.
+The phantom is severely damaged.
+The phantom hits you. The phantom blinks! You blink.
+The phantom hits you.
+You miss the phantom.
+The phantom is severely damaged.
+The phantom closely misses you.
+You claw the phantom!
+You destroy the phantom!
+The Shining One accepts your kill.
+Found 8 stones.
+There is a stone staircase leading up here.
+Okay, then.
+Found Qeluiw's Weapon Boutique.
+v - a scroll labelled FOEJ OFAOH
+Okay, then.
+There is an entrance to Qeluiw's Weapon Boutique here.
+No target in view!
+j - 3 emerald potions (gained 2)
+Found Lepan's Assorted Antiques.
+You open the door.
+There is an open door here.
+There is an entrance to Lepan's Assorted Antiques here.
+As you read the scroll labelled AMNANE GUKKETIE, it crumbles to dust.
+It is a scroll of identify.
+k - a scroll of noise
+Why would you want to do that?
+Why would you want to do that?
+Why would you want to do that?
+There is an entrance to Lepan's Assorted Antiques here.
+As you read the scroll of identify, it crumbles to dust.
+n - a scroll of torment
+There is an entrance to Lepan's Assorted Antiques here.
+You open the door.
+Found a stone staircase leading down.
+You drop a scroll of noise.
+You drop a scroll of torment.
+There is an open door here.
+An orc comes into view. It is wielding a +0 war axe.
+The orc shouts!
+An orc is nearby!
+The orc hits you but does no damage.
+You claw the orc!
+You kill the orc!
+No target in view!
+No target in view!
+g - 3 lumpy silvery potions (gained 1)
+A jackal comes into view.
+Found an escape hatch in the ceiling.
+The jackal barks!
+A jackal is nearby!
+A jackal comes into view.
+You barely miss the jackal. The jackal barely misses you.
+You claw the jackal!
+You kill the jackal!
+The jackal bites you but does no damage. x2
+You see here a jackal corpse.
+You closely miss the jackal. The jackal bites you.
+You barely miss the jackal. The jackal bites you.
+You barely miss the jackal. The jackal closely misses you.
+You scratch the jackal but do no damage.
+The jackal barely misses you. The jackal bites you.
+You barely miss the jackal.
+The jackal bites you but does no damage.
+You completely miss the jackal. The jackal bites you.
+You mangle the jackal!!
+You kill the jackal!
+No target in view!
+HP restored.
+You see here a jackal corpse.
+Found a leather armour and a fine ring mail.
+Saving game... please wait.
+Welcome back, Bokogi the Troll Gladiator.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Found a stone staircase leading down.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+Okay, then.
+No target in view!
+No target in view!
+Unknown command.
+Unknown command.
+Found a stone staircase leading up.
+You see here a +0 leather armour.
+You see here the +1 ring mail of Vyoqustre {Drain rC++ Stlth+}.
+Unknown command.
+There is a stone staircase leading down here.
+An ice beast comes into view.
+The ice beast moves out of view.
+An ice beast is nearby!
+You closely miss the ice beast. The ice beast barely misses you.
+You claw the ice beast!
+The ice beast is heavily wounded.
+The ice beast hits you but does no damage.
+You claw the ice beast!
+You kill the ice beast!
+An iguana comes into view.
+The iguana hisses angrily.
+The iguana bites you.
+You mangle the iguana!!
+You kill the iguana!
+You have reached level 7!
+HP restored.
+You see here an iguana corpse.
+Found a stone staircase leading down.
+Search for what [Enter for "flail", or ? for help]? throw
+There is a stone staircase leading down here.
+You see here 6 stones.
+An adder comes into view.
+The adder hisses angrily.
+Found a worn lead wand. The adder closely misses you. The adder bites you.
+You claw the adder!
+You kill the adder!
+v - 2 scrolls labelled FOEJ OFAOH (gained 1)
+You see here an adder corpse.
+k - a wand of acid (9)
+You see here 8 stones.
+A jelly comes into view.
+The jelly quivers.
+A jelly is nearby!
+You barely miss the jelly. The jelly hits you. You are splashed with acid!
+You mangle the jelly!!
+You kill the jelly!
+Found Jameunn's Magic Scroll Emporium.
+There is an entrance to Jameunn's Magic Scroll Emporium here.
+Okay, then.
+n - a scroll of identify; e - 2 scrolls of immolation (gained 1)
+n - 2 scrolls of identify (gained 1)
+v - 3 scrolls of teleportation (gained 1)
+l - 2 scrolls of poison (gained 1)
+Thank you for shopping at Jameunn's Magic Scroll Emporium!
+As you read the scroll of identify, it crumbles to dust.
+o - a scroll of vulnerability
+As you read the scroll of identify, it crumbles to dust.
+r - 2 scrolls of blinking
+Okay, then.
+Okay, then.
+Okay, then.
+You drop a scroll of vulnerability.
+An adder comes into view.
+The adder hisses angrily.
+You scratch the adder.
+The adder is moderately wounded.
+The adder barely misses you.
+You completely miss the adder.
+The adder is moderately wounded.
+The adder bites you.
+You are poisoned.
+The adder poisons you!
+You closely miss the adder.
+The adder is moderately wounded.
+You feel sick. The adder barely misses you. The adder closely misses you.
+You scratch the adder.
+The adder is heavily wounded.
+You feel sick. The adder closely misses you.
+You closely miss the adder. You claw the adder, but do no damage.
+The adder is moderately wounded.
+You feel sick. The adder bites you but does no damage.
+You mangle the adder!!
+You kill the adder!
+Your Unarmed Combat skill increases to level 7!
+You feel sick.
+You feel sick.
+You feel sick.
+You are no longer poisoned.
+You see here an adder corpse.
+An orc comes into view. It is wielding a +0 flail.
+Found a stone staircase leading up.
+The orc shouts!
+An orc is nearby!
+The orc misses you.
+You claw the orc!
+You kill the orc!
+No target in view!
+There is a stone staircase leading up, spattered with blood here.
+You see here a +0 flail.
+A gnoll comes into view. It is wielding a +0 flail of holy wrath.
+The gnoll shouts!
+A gnoll comes into view. It is wielding a +0 halberd.
+The gnoll moves out of view.
+A gnoll sergeant comes into view. It is wielding a +0 spear.
+A gnoll comes into view. It is wielding a +0 spear.
+The gnoll shouts!
+The gnoll closely misses you.
+The gnoll hits you with a +0 flail of holy wrath!
+The gnoll attacks as you move away!
+The gnoll hits you with a +0 flail of holy wrath.
+The gnoll attacks as you move away!
+The gnoll hits you with a +0 flail of holy wrath.
+You claw the gnoll!
+You kill the gnoll!
+The gnoll sergeant hits you from afar with a +0 spear.
+The gnoll sergeant hits you with a +0 spear.
+The gnoll hits you from afar with a +0 halberd!
+The gnoll hits you from afar with a +0 spear.
+You scratch the gnoll sergeant but do no damage.
+The gnoll barely misses you.
+The gnoll hits you from afar with a +0 spear.
+The gnoll sergeant hits you with a +0 spear!
+You closely miss the gnoll sergeant. The gnoll sergeant closely misses you.
+The gnoll hits you from afar with a +0 spear.
+The gnoll barely misses you.
+The gnoll sergeant attacks as you move away!
+The gnoll sergeant closely misses you.
+The gnoll sergeant hits you from afar with a +0 spear.
+The gnoll sergeant hits you from afar with a +0 spear!
+There is a stone staircase leading up, spattered with blood here.
+You see here a +0 flail.
+The gnoll sergeant hits you but does no damage.
+You climb upwards.
+There is a stone staircase leading down here.
+HP restored.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A jelly comes into view.
+The jelly quivers.
+A jelly is nearby!
+The jelly hits you but does no damage.
+You claw the jelly! Your claws burn!
+The jelly is almost dead.
+The jelly closely misses you.
+You barely miss the jelly.
+The jelly is almost dead.
+The jelly hits you but does no damage.
+You mangle the jelly!!
+You kill the jelly!
+Found a robe.
+You see here a +0 robe.
+As you open the door, it creaks loudly!
+There is an open door here.
+You open the door.
+A necrophage comes into view.
+You barely miss the necrophage. You claw the necrophage.
+The necrophage is lightly damaged.
+The necrophage hits you.
+You closely miss the necrophage.
+The necrophage is lightly damaged.
+The necrophage hits you but does no damage.
+You closely miss the necrophage.
+The necrophage is lightly damaged.
+The necrophage hits you.
+You mangle the necrophage!!
+The necrophage is almost destroyed.
+You scratch the necrophage.
+The necrophage is almost destroyed.
+The necrophage hits you.
+You claw the necrophage!
+You destroy the necrophage!
+The Shining One accepts your kill.
+Your Fighting skill increases to level 4!
+HP restored.
+You open the door.
+A wight comes into view. It is wielding a +3 mace.
+You scratch the wight but do no damage. The wight closely misses you.
+You scratch the wight.
+The wight is lightly damaged.
+The wight hits you with a +3 mace!
+You mangle the wight!!
+You destroy the wight!
+The Shining One accepts your kill.
+No target in view!
+There is an open door here.
+Things that are here:
+a +3 mace; a +0 robe
+You open the door.
+A bullfrog zombie comes into view.
+You claw the bullfrog zombie! Your claw misses the bullfrog zombie.
+The bullfrog zombie is moderately damaged.
+The bullfrog zombie completely misses you.
+You scratch the bullfrog zombie but do no damage.
+You claw the bullfrog zombie!
+The bullfrog zombie is severely damaged.
+The bullfrog zombie hits you.
+You claw the bullfrog zombie!
+You destroy the bullfrog zombie!
+The Shining One accepts your kill.
+You open the door.
+A killer bee zombie comes into view.
+The killer bee zombie barely misses you.
+You closely miss the killer bee zombie. The killer bee zombie hits you.
+You claw the killer bee zombie!
+The killer bee zombie is severely damaged.
+The killer bee zombie hits you but does no damage.
+The killer bee zombie barely misses you.
+You scratch the killer bee zombie.
+The killer bee zombie is severely damaged.
+The killer bee zombie hits you but does no damage.
+You closely miss the killer bee zombie.
+The killer bee zombie is severely damaged.
+The killer bee zombie hits you. x2
+You mangle the killer bee zombie!!
+You destroy the killer bee zombie!
+The Shining One accepts your kill.
+No target in view!
+You open the door.
+A water moccasin zombie comes into view.
+You claw the water moccasin zombie!
+The water moccasin zombie is moderately damaged.
+The water moccasin zombie barely misses you.
+You claw the water moccasin zombie!
+The water moccasin zombie is heavily damaged.
+The water moccasin zombie barely misses you.
+You scratch the water moccasin zombie. You claw the water moccasin zombie!!
+You destroy the water moccasin zombie!
+The Shining One accepts your kill.
+There is an open door here.
+You open the door.
+A centaur zombie comes into view.
+The centaur zombie hits you but does no damage.
+The centaur zombie barely misses you.
+You claw the centaur zombie!
+The centaur zombie is heavily damaged.
+The centaur zombie barely misses you.
+The centaur zombie kicks you but does no damage.
+You mangle the centaur zombie!!
+You destroy the centaur zombie!
+The Shining One accepts your kill.
+There is an open door here.
+You open the door.
+A bullfrog zombie comes into view.
+The bullfrog zombie closely misses you.
+You claw the bullfrog zombie!
+The bullfrog zombie is heavily damaged.
+The bullfrog zombie barely misses you.
+You scratch the bullfrog zombie.
+The bullfrog zombie is heavily damaged.
+The bullfrog zombie barely misses you.
+You scratch the bullfrog zombie.
+The bullfrog zombie is severely damaged.
+The bullfrog zombie hits you.
+You claw the bullfrog zombie!
+The bullfrog zombie is almost destroyed.
+The bullfrog zombie hits you.
+You claw the bullfrog zombie!
+You destroy the bullfrog zombie!
+The Shining One accepts your kill.
+You open the door.
+A howler monkey zombie comes into view.
+You scratch the howler monkey zombie.
+The howler monkey zombie is lightly damaged.
+The howler monkey zombie barely misses you.
+You mangle the howler monkey zombie!!
+You destroy the howler monkey zombie!
+The Shining One accepts your kill.
+Your Unarmed Combat skill increases to level 8!
+There is an open door here.
+You open the door.
+You and your allies can now gain power from killing the unholy and evil.
+You can now call upon the Shining One for a divine shield.
+A scorpion zombie comes into view.
+You claw the scorpion zombie!
+The scorpion zombie is heavily damaged.
+The scorpion zombie closely misses you.
+You scratch the scorpion zombie.
+The scorpion zombie is severely damaged.
+The scorpion zombie hits you.
+You scratch the scorpion zombie.
+The scorpion zombie is almost destroyed.
+The scorpion zombie hits you.
+You claw the scorpion zombie!
+You destroy the scorpion zombie!
+The Shining One accepts your kill.
+You open the door.
+An adder zombie comes into view.
+You completely miss the adder zombie.
+The adder zombie bites you but does no damage.
+You mangle the adder zombie!!
+You destroy the adder zombie!
+The Shining One accepts your kill.
+There is an open door here.
+You open the door.
+A mummy comes into view.
+You claw the mummy!
+The mummy is severely damaged.
+The mummy hits you!
+You claw the mummy!
+You destroy the mummy!
+The Shining One accepts your kill.
+There is an open door here.
+You open the door.
+A human zombie comes into view.
+Found an ancient bone altar of Kikubaaqudgha.
+You mangle the human zombie!!
+The human zombie is moderately damaged.
+The human zombie barely misses you.
+You completely miss the human zombie.
+The human zombie is moderately damaged.
+The human zombie hits you.
+You scratch the human zombie.
+The human zombie is moderately damaged.
+You claw the human zombie!
+The human zombie is severely damaged.
+The human zombie hits you.
+You mangle the human zombie!!
+The human zombie is almost destroyed.
+The human zombie hits you.
+You scratch the human zombie.
+You destroy the human zombie!
+The Shining One accepts your kill.
+There is an open door here.
+A gnoll sergeant is nearby!
+You swing at nothing.
+The gnoll sergeant shouts!
+You swing at nothing.
+Unknown command.
+Unknown command.
+You swing at nothing.
+The gnoll shouts! You hear a shout!
+You swing at nothing.
+Search for what [Enter for "throw", or ? for help]? 
+Okay, then.
+Unknown command.
+Unknown command.
+The gnoll hits you from afar with a +0 halberd!
+There is an open door here.
+The gnoll hits you with a +0 spear.
+The gnoll hits you from afar with a +0 halberd.
+There is an open door here.
+You claw the gnoll!
+The gnoll is heavily wounded.
+The gnoll hits you with a +0 spear. The gnoll sergeant barely misses you.
+The gnoll closely misses you.
+You barely miss the gnoll. You claw the gnoll.
+You kill the gnoll!
+The gnoll barely misses you.
+The gnoll sergeant hits you from afar with a +0 spear!
+The gnoll hits you with a +0 halberd!
+The gnoll sergeant hits you with a +0 spear.
+Things that are here:
+a +0 spear; a gnoll corpse
+You mangle the gnoll!!
+You kill the gnoll!
+The gnoll sergeant barely misses you.
+The gnoll sergeant blocks your attack.
+The gnoll sergeant hits you with a +0 spear.
+You claw the gnoll sergeant!
+The gnoll sergeant is heavily wounded.
+You scratch the gnoll sergeant.
+The gnoll sergeant is severely wounded.
+The gnoll sergeant hits you with a +0 spear!
+You scratch the gnoll sergeant.
+The gnoll sergeant is severely wounded.
+The gnoll sergeant hits you with a +0 spear.
+You claw the gnoll sergeant!
+You kill the gnoll sergeant!
+You have reached level 8!
+Things that are here:
+a +0 halberd; a gnoll corpse
+Items here: ) ? [[.
+Things that are here:
+a +0 halberd; a gnoll corpse
+Unknown command.
+You swing at nothing.
+You swing at nothing.
+A wight comes into view. It is wielding a +2 hand axe.
+A wight comes into view. It is wielding a +2 trident.
+Found Tufioss's Jewellery Emporium. The wight moves out of view.
+You barely miss the wight. The wight closely misses you. The wight hits you
+with a +2 hand axe.
+You scratch the wight.
+The wight is moderately damaged.
+The wight hits you from afar with a +2 trident.
+The wight hits you with a +2 hand axe.
+You scratch the wight.
+The wight is heavily damaged.
+The wight hits you from afar with a +2 trident.
+The wight hits you with a +2 hand axe!
+You scratch the wight but do no damage.
+The wight is heavily damaged.
+The wight barely misses you. The wight hits you with a +2 hand axe!
+You claw the wight!
+You destroy the wight!
+The Shining One accepts your kill.
+The wight barely misses you.
+A wight comes into view. It is wielding a +4 war axe.
+Press: ? - help, v - describe, . - travel
+Here: a wight, wielding a +2 trident and wearing a +0 robe
+The floor, spattered with blood.
+Unknown command.
+You see here a murky ruby potion.
+The wight closely misses you.
+You claw the wight!
+The wight is heavily damaged.
+You claw the wight!
+You destroy the wight!
+The Shining One accepts your kill.
+The wight barely misses you.
+The wight hits you from afar with a +2 trident!
+The wight barely misses you.
+Things that are here:
+a +4 war axe; a +0 robe; a murky ruby potion
+You claw the wight!
+You destroy the wight!
+The Shining One accepts your kill.
+You feel better.
+Things that are here:
+a +2 trident; a +0 robe
+n - a murky ruby potion
+Things that are here:
+a +4 war axe; a +0 robe
+Things that are here:
+a +2 trident; a +0 robe
+Things that are here:
+a +4 war axe; a +0 robe
+Things that are here:
+a +2 trident; a +0 robe
+Things that are here:
+a +2 hand axe; a +0 robe
+There is an entrance to Tufioss's Jewellery Emporium here.
+Saving game... please wait.
+Welcome back, Bokogi the Troll Gladiator.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.30-a0-879-ga8ba668304
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_MACRO_MENU
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [Bokogi]
+Species: Troll
+Job:     Gladiator
+
+HP: 79/79; mods: 0/0
+MP: 7/7; mod: 0
+Stats: 25 (25) 7 (7) 11 (11)
+Position: (70, 32), god: the Shining One (2), turn_is_over: 0, banished: 0
+Standing on/in/over feature: shop
+
+Skills (mode: manual)
+Name            | can_currently_train | train | training | level | points | progress
+Fighting        |          X          |   1   |    33    |    4  |   1037 | 330/353
+Short Blades    |          X          |   0   |     0    |    0  |      0 | 0/70
+Long Blades     |          X          |   0   |     0    |    0  |      0 | 0/70
+Axes            |          X          |   0   |     0    |    0  |      0 | 0/70
+Maces & Flails  |          X          |   0   |     0    |    0  |      0 | 0/59
+Polearms        |          X          |   0   |     0    |    0  |      0 | 0/70
+Staves          |          X          |   0   |     0    |    0  |      0 | 0/70
+Ranged Weapons  |          X          |   0   |     0    |    0  |      0 | 0/100
+Throwing        |          X          |   0   |     0    |    1  |    151 | 92/119
+Armour          |          X          |   0   |     0    |    0  |      0 | 0/70
+Dodging         |          X          |   0   |     0    |    2  |    301 | 89/212
+Stealth         |          X          |   0   |     0    |    0  |      0 | 0/118
+Shields         |          X          |   0   |     0    |    0  |      0 | 0/59
+Unarmed Combat  |          X          |   2   |    66    |    8  |   2126 | 326/450
+Spellcasting    |          X          |   0   |     0    |    0  |      0 | 0/118
+Conjurations    |          X          |   0   |     0    |    0  |      0 | 0/84
+Hexes           |          X          |   0   |     0    |    0  |      0 | 0/100
+Summonings      |          X          |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |          X          |   0   |     0    |    0  |      0 | 0/70
+Translocations  |          X          |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |          X          |   0   |     0    |    0  |      0 | 0/84
+Fire Magic      |          X          |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |          X          |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |          X          |   0   |     0    |    0  |      0 | 0/100
+Earth Magic     |          X          |   0   |     0    |    0  |      0 | 0/59
+Poison Magic    |          X          |   0   |     0    |    0  |      0 | 0/84
+Invocations     |          X          |   0   |     0    |    0  |      0 | 0/59
+Evocations      |          X          |   0   |     0    |    0  |      0 | 0/84
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 231
+    #13: 165
+    #49: 248
+
+Mutations:
+    claws: 3 (innate)
+    regeneration: 1 (innate)
+    shaggy fur: 1 (innate)
+    tough skin: 1 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #1, inv slot #7: +0 cloak
+    eq slot #2, inv slot #1: +0 hat
+    eq slot #6, inv slot #0: +0 robe
+    eq slot #7, inv slot #12: ring "Coqis" {rC+ rN+ Will+ Int+3}
+
+}}}}}}}}}}}
+
+
+Screenshot:
+  #.....###..## ##...#
+###.##.## ##..###....#
+#..###.#   ##..##....####
+.####.##    ##......))..#
+#.###.#      #.####..####
+####..#     ##.#  #..#
+#..#..#   ###..#  #..#   #.
+#...#.####.....#####[###..#
+....#.......##.....#.....#
+#...#....#####....#.#....#
+######..##   ##..#...#.##..#
+     #..#       #..@..##  #.
+    ##..#     #..#...#.#
+   ##...#     #...#.#..#
+   #....##    #....#.....
+   ##....##   #..## .......
+   #......## ##..   ......#
+   #.......#.....   ......#
+   ###.........#    ....###
+ ######.......#
+##.##........##
+#.............#
+#..............
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

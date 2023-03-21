@@ -1,0 +1,330 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 3947760180095545560
+
+679 Bokogi the Firebug (level 7, -10/36 HPs)
+             Began as a Deep Elf Fire Elementalist on Mar 15, 2023.
+             Was a Believer of Okawaru.
+             Mangled by Duvessa
+             ... wielding a +0 short sword
+              (15 damage)
+             ... on level 4 of the Dungeon.
+             The game lasted 00:11:57 (4670 turns).
+
+Bokogi the Firebug (Deep Elf Fire Elementalist)     Turns: 4670, Time: 00:11:58
+
+Health: -10/36     AC:  6    Str:  5    XL:     7   Next: 34%
+Magic:  1/16       EV: 15    Int: 22    God:    Okawaru [**....]
+Gold:   195        SH:  0    Dex: 15    Spells: 13/16 levels left
+
+rFire   x . .      SeeInvis .    k - +1 short sword
+rCold   + . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    h - +0 hat
+rElec   .          Rampage  .    s - +0 cloak
+rCorr   .                        r - +0 pair of gloves
+Will    .....                    g - +0 pair of boots
+Stlth   ++                       (no amulet)
+HPRegen 0.26/turn                m - ring of ice
+MPRegen 0.15/turn                (no ring)
+
+@: lit by a corona, heroic, glowing
+A: no striking features
+a: Renounce Religion, Heroism
+
+
+You were on level 4 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was pleased with you.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 288 gold pieces.
+You spent 93 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ k - a +1 short sword (weapon)
+Armour
+ a - a +0 robe (worn)
+ g - a +0 pair of boots (worn)
+ h - a +0 hat (worn)
+ r - a +0 pair of gloves (worn)
+ s - a +0 cloak (worn)
+Jewellery
+ j - an amulet of faith
+ m - a ring of ice (left hand)
+Scrolls
+ d - 2 scrolls of poison
+ f - a scroll of teleportation
+ i - 2 scrolls of magic mapping
+ l - a scroll of vulnerability
+Potions
+ b - a potion of magic
+ c - 2 potions of degeneration {unknown}
+ e - a potion of lignification {unknown}
+ n - 2 potions of invisibility {unknown}
+ o - a potion of attraction {unknown}
+ p - a potion of flight {unknown}
+ q - a potion of cancellation {unknown}
+
+
+   Skills:
+ - Level 2.4(7.4) Dodging
+ - Level 2.4(7.4) Stealth
+ + Level 5.2 Spellcasting
+ * Level 5.2 Conjurations
+ * Level 6.2 Fire Magic
+ + Level 2.8 Invocations
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Foxfire               Conj/Fire      100%       2x1d9     1%          1
+b - Scorch                Fire           66%        2d8       1%          2
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Shock                    Conj/Air       68%        1d7       3%          1
+ Inner Flame              Hex/Fire       19%        N/A       9%          3
+ Flame Wave               Conj/Fire      30%        2d9       10%         4
+ Kindle Blastsparks       Fire/Tloc/Air  28%        2d12      13%         3
+ Sublimation of Blood     Necr           5%         N/A       16%         2
+ Wereblood                Tmut           5%         N/A       16%         2
+ Ozocubu's Armour         Ice            8%         N/A       30%         3
+ Portal Projectile        Hex/Tloc       10%        N/A       30%         3
+ Swiftness                Air            5%         N/A       30%         3
+ Airstrike                Air            2%         2d(1-17)  69%         4
+ Leda's Liquefaction      Hex/Erth       2%         N/A       69%         4
+ Ozocubu's Refrigeration  Ice            4%         4d8       100%        7
+ Call Canine Familiar     Summ           Unusable   N/A       N/A         3
+ Summon Hydra             Summ           Unusable   N/A       N/A         7
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Okawaru
+Uskayaw
+Wu Jian
+Zin
+
+Shops:
+D:4 [
+
+Annotations:
+D:2 1 runed translucent door, Crazy Yiuf
+D:4 Duvessa
+
+Message History
+
+Duvessa is lightly wounded.
+The gnoll hits you but does no damage.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash Duvessa.
+Duvessa is moderately wounded.
+Duvessa's fire resistance burns away. The gnoll completely misses you. Duvessa
+barely misses you.
+Casting: Scorch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Flames lash Duvessa. Duvessa is burned terribly!
+Duvessa is heavily wounded.
+Duvessa hits you with a +0 short sword. The gnoll barely misses you.
+You conjure some foxfire! Duvessa hits you with a +0 short sword.
+The gnoll hits you from afar with a +4 spear.
+Duvessa hits you but does no damage.
+You conjure some foxfire!
+The foxfire hits Duvessa but does no damage.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa is burned terribly!
+Duvessa is heavily wounded.
+Duvessa hits you with a +0 short sword. The gnoll barely misses you.
+You are too injured to fight recklessly!
+The foxfire hits Duvessa but does no damage.
+Duvessa is heavily wounded.
+The foxfire hits Duvessa. Duvessa is burned terribly!
+Duvessa is severely wounded.
+Duvessa rages.
+Duvessa misses you.
+You are too injured to fight recklessly!
+Casting: Foxfire (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You conjure some foxfire! Duvessa hits you with a +0 short sword. The gnoll
+closely misses you.
+The foxfire hits Duvessa. Duvessa is burned terribly!
+Duvessa is severely wounded.
+The foxfire hits Duvessa but does no damage.
+Duvessa is severely wounded.
+Duvessa hits you with a +0 short sword!
+* * * LOW HITPOINT WARNING * * *
+Duvessa attacks as you move away! Duvessa hits you with a +0 short sword!
+You die...
+
+........#............§.............####
+##.#####.#####)#####.#...#######.#.....
+ #.#   #.#   #.#   ###.####### #....###
+ #.#   #.#   #.#  ###..###...###§<.....
+##############.#  #....##.....##§##.###
+...............# ##....#......)#.##.#
+#...#...#...##.# #.....#.......#.##.#
+...............# #....##.!.....#.##.#
+#..(#...#...######)...###.....##....#
+...............(.#.)### ##...###.####
+##################.########'####.#    #
+                 #.@eg.........########
+                 #...g.).......#.......
+                 #...).........########
+                 ####'########.#      #
+         ##       ##...## ###..#
+          .      ##.....###..).#
+      .#  #.     #.......##....#
+      ...##.###  #.......#.....########
+       #..e...#  #.......#....###.....#
+      ..e##.#.#####.....##....##.......
+      ......e....###...###..####....#.#
+      #####.#.#### #######.##  ##.#.#.#
+
+
+You could see Duvessa (berserk, combustible) and 2 gnolls.
+
+Vanquished Creatures
+  A phantom (D:4)
+  Blork the orc (D:4)
+  A scorpion (D:4)
+  Dowan (D:4)
+  A gnoll bouda (D:4)
+  A hound (D:4)
+  2 jellies (D:4)
+  2 orc priests (D:4)
+  2 iguanas (D:4)
+  Terence (D:2)
+  An orc wizard (D:4)
+  2 gnolls (D:4)
+  5 adders
+  2 worms (D:2)
+  5 dart slugs
+  2 orcs (D:4)
+  7 endoplasms
+  3 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  4 jackals
+  2 quokkas
+  7 ball pythons
+  4 bats
+  6 frilled lizards
+  5 kobolds
+  5 rats
+88 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A foxfire (D:3)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  258 foxfires
+258 creatures vanquished.
+
+Grand Total: 347 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Deep Elf Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+   175 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/8
+   184 | D:1      | Learned a level 2 spell: Scorch
+   914 | D:2      | Reached XP level 3. HP: 19/19 MP: 2/9
+  1242 | D:2      | Reached skill level 4 in Fire Magic
+  1323 | D:2      | Found a faded altar of an unknown god.
+  1339 | D:2      | Prayed at the altar of an unknown god.
+  1339 | D:2      | Became a worshipper of Warmaster Okawaru
+  1339 | D:2      | Reached * piety under Okawaru
+  1540 | D:2      | Noticed Terence
+  1577 | D:2      | Killed Terence
+  1578 | D:2      | Reached XP level 4. HP: 14/24 MP: 2/11
+  1768 | D:2      | Found a runed translucent door.
+  1769 | D:2      | Noticed Crazy Yiuf
+  2278 | D:3      | Reached skill level 1 in Invocations
+  2328 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2669 | D:3      | Reached XP level 5. HP: 27/28 MP: 6/13
+  3105 | D:4      | Noticed Blork the orc
+  3134 | D:4      | Killed Blork the orc
+  3219 | D:4      | Reached skill level 5 in Fire Magic
+  3296 | D:4      | Found a hide-covered altar of Uskayaw.
+  3528 | D:4      | Reached XP level 6. HP: 32/32 MP: 11/14
+  3558 | D:4      | Found Zatasmu's Armour Shoppe.
+  3564 | D:4      | Bought a +0 hat for 44 gold pieces
+  3564 | D:4      | Bought a +0 cloak for 49 gold pieces
+  3642 | D:4      | Reached ** piety under Okawaru
+  4025 | D:4      | Found a glowing silver altar of Zin.
+  4124 | D:4      | Reached skill level 5 in Spellcasting
+  4124 | D:4      | Reached XP level 7. HP: 34/36 MP: 8/16
+  4127 | D:4      | Reached skill level 6 in Fire Magic
+  4368 | D:4      | Reached skill level 5 in Conjurations
+  4403 | D:4      | Noticed Duvessa
+  4448 | D:4      | Noticed Dowan
+  4660 | D:4      | Killed Dowan
+  4670 | D:4      | Mangled by Duvessa
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      lemuel_arrival_lava_pool, layout_basic
+D:2:      layout_rooms, nicolae_ecumenical_lake_church, serial_corexii_hall,
+          corexii_hall_statues_l, corexii_hall_statues_x, uniq_terence,
+          uniq_crazy_yiuf_cottage
+D:3:      layout_loops_ring, nicolae_overflow_crystal_walls
+D:4:      minmay_opposing_rooms, layout_loops_ring,
+          lemuel_coloured_pillars_altar, mainiacjoe_overflow_brackets,
+          serial_shops, shop, minmay_statues_item, uniq_duvessa,
+          uniq_blork_the_orc
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     2     3  4     5 |  5.2
+Fire Magic     |        4     5     6 |  6.2
+Invocations    |           1     2    |  2.8
+Spellcasting   |           4     5    |  5.2
+Dodging        |                      |  2.4
+Stealth        |                      |  2.4
+
+Action                     |  1- 3 |  4- 6 |  7- 9 || total
+---------------------------+-------+-------+-------++-------
+   Cast: Foxfire           |    73 |    66 |    13 ||   152
+         Scorch            |    12 |    28 |     9 ||    49
+ Invoke: Heroism           |       |     1 |     1 ||     2
+    Use: Scroll            |     2 |     6 |     1 ||     9
+         Potion            |       |     1 |       ||     1
+ Armour: Robe              |     4 |     6 |     2 ||    12
+  Dodge: Dodged            |     8 |    36 |     9 ||    53
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   4669 |   4607 |     62 |      0 |   3844 |   4 | 1167.2 |
+       Dungeon |   4669 |   4607 |     62 |      0 |   3844 |   4 | 1167.2 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:4: 1600 daAuts
+     D:2: 1240 daAuts
+     D:3: 937 daAuts
+     D:1: 890 daAuts
+

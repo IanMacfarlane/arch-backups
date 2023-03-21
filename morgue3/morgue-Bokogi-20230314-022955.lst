@@ -1,0 +1,737 @@
+Bokogi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 chain mail
+(23, 8, D:1)
+  a +0 club
+(25, 17, D:1)
+  a +0 leather armour
+  a +0 ring mail
+(27, -5, D:1)
+  3 poisoned darts
+(39, 2, D:1)
+  6 stones
+(43, 32, D:1)
+  a +0 dagger
+(49, -5, D:1)
+  a +0 hand axe
+(50, 24, D:1)
+  5 stones
+  a +0 dagger
+
+Level 2 of the Dungeon
+[Shop] Vontat's Assorted Antiques
+  a +0 leather armour (50 gold)
+  a potion of magic (200 gold)
+  a scroll of teleportation (75 gold)
+  a +0 ring mail (100 gold)
+  a scroll of teleportation (75 gold)
+  a scroll of poison (100 gold)
+  a potion of invisibility (200 gold)
+  a scroll of immolation (100 gold)
+[Shop] Josiyn's Weapon Shoppe
+  the +9 glaive "Qetoses" {pain, Int+6} (808 gold)
+    Int:       It affects your intelligence (+6).
+  6 boomerangs (120 gold)
+  a +0 mace (30 gold)
+  the +11 dagger of Silly Responsibility {heavy, rF+} (726 gold)
+    rF:        It protects you from fire.
+  a +0 club (10 gold)
+  a +0 club (10 gold)
+  a +0 sling (15 gold)
+  5 stones (5 gold)
+  8 stones (8 gold)
+  a +0 battleaxe (65 gold)
+[Shop] Banypt's Armour Shoppe
+  a +4 chain mail of fire resistance (346 gold)
+  a +0 ring mail (44 gold)
+  a +0 ring mail (44 gold)
+  a +0 chain mail of cold resistance (126 gold)
+  a +0 leather armour (22 gold)
+  the +1 ring mail of Misanthropy {Dex+3} (245 gold)
+    Dex:       It affects your dexterity (+3).
+  a +3 ring mail of fire resistance (286 gold)
+  a +0 ring mail (44 gold)
+(0, 0, D:2)
+  a +0 short sword
+(21, -10, D:2)
+  a stone
+  a +2 dagger of venom
+(26, 11, D:2)
+  a +0 falchion
+(27, -17, D:2)
+  a +0 leather armour
+(27, 25, D:2)
+  a +0 short sword
+(31, -17, D:2)
+  a +0 short sword
+(31, 11, D:2)
+  a +0 club
+(33, -1, D:2)
+  a +0 ring mail
+(37, 13, D:2)
+  a +0 dagger
+(40, 7, D:2)
+  a +0 scythe
+  a +0 robe
+(51, 11, D:2)
+  a +0 war axe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  6 boomerangs
+(1, 28, D:3)
+  a +0 dagger
+(2, 22, D:3)
+  a +0 mace
+(9, 4, D:3)
+  a +0 giant club
+(12, -16, D:3)
+  a +0 dagger
+  a stone
+(19, -16, D:3)
+  a +0 leather armour
+(23, -15, D:3)
+  a +2 helmet
+(32, -8, D:3)
+  a +0 war axe
+(37, 22, D:3)
+  a +0 short sword
+  2 stones
+(50, -6, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+[Shop] Quvieg Fyexu's Tremendous Tomes
+  the Almanac of the Tiger (1316 gold)
+    Spells                            Type                      Level
+     a - Shock                         Conjuration/Air               1
+     b - Static Discharge              Conjuration/Air               2
+     c - Hailstorm                     Conjuration/Ice               3
+     d - Freezing Cloud                Conjuration/Ice/Air           5
+     e - Iskenderun's Battlesphere     Conjuration                   5
+     f - Orb of Destruction            Conjuration                   7
+     g - Spellforged Servitor          Conjuration/Summoning         7
+     h - Fire Storm                    Conjuration/Fire              9
+  the Incunable of Incineration (1120 gold)
+    Spells                            Type                      Level
+     a - Foxfire                       Conjuration/Fire              1
+     b - Scorch                        Fire                          2
+     c - Ignite Poison                 Fire/Transmutation/Poison     3
+     d - Inner Flame                   Hexes/Fire                    3
+     e - Sticky Flame                  Conjuration/Fire              4
+     f - Fireball                      Conjuration/Fire              5
+     g - Starburst                     Conjuration/Fire              6
+     h - Ignition                      Fire                          8
+  the Omnibus of Percussion and Modification (980 gold)
+    Spells                            Type                      Level
+     a - Foxfire                       Conjuration/Fire              1
+     b - Magic Dart                    Conjuration                   1
+     c - Sting                         Transmutation/Poison          1
+     d - Ignite Poison                 Fire/Transmutation/Poison     3
+     e - Ice Form                      Ice/Transmutation             4
+     f - Freezing Cloud                Conjuration/Ice/Air           5
+     g - Irradiate                     Conjuration/Transmutation     5
+     h - Orb of Destruction            Conjuration                   7
+  Sif Muna's Almanac of the Glacier and Translocation (1092 gold)
+    Spells                            Type                      Level
+     a - Lesser Beckoning              Translocation                 2
+     b - Portal Projectile             Hexes/Translocation           3
+     c - Frozen Ramparts               Ice                           3
+     d - Ozocubu's Armour              Ice                           3
+     e - Teleport Other                Translocation                 3
+     f - Freezing Cloud                Conjuration/Ice/Air           5
+     g - Simulacrum                    Ice/Necromancy                6
+     h - Dispersal                     Translocation                 6
+  Sif Muna's Almanac of Atmospheric Fire (1092 gold)
+    Spells                            Type                      Level
+     a - Scorch                        Fire                          2
+     b - Mephitic Cloud                Conjuration/Poison/Air        3
+     c - Kindle Blastsparks            Fire/Translocation/Air        3
+     d - Airstrike                     Air                           4
+     e - Flame Wave                    Conjuration/Fire              4
+     f - Arcjolt                       Conjuration/Air               5
+     g - Lightning Bolt                Conjuration/Air               5
+     h - Freezing Cloud                Conjuration/Ice/Air           5
+  Vaistraid's Papyrus of Cold Obstruction (896 gold)
+    Spells                            Type                      Level
+     a - Slow                          Hexes                         1
+     b - Freeze                        Ice                           1
+     c - Dazzling Flash                Conjuration/Hexes             3
+     d - Portal Projectile             Hexes/Translocation           3
+     e - Inner Flame                   Hexes/Fire                    3
+     f - Ozocubu's Armour              Ice                           3
+     g - Summon Mana Viper             Hexes/Summoning               5
+     h - Silence                       Hexes/Air                     5
+  Sif Muna's Verses on the Inconstant Band (980 gold)
+    Spells                            Type                      Level
+     a - Sting                         Transmutation/Poison          1
+     b - Beastly Appendage             Transmutation                 1
+     c - Call Imp                      Summoning                     2
+     d - Spider Form                   Transmutation/Poison          3
+     e - Summon Lightning Spire        Summoning/Air                 4
+     f - Irradiate                     Conjuration/Transmutation     5
+     g - Summon Mana Viper             Hexes/Summoning               5
+     h - Statue Form                   Transmutation/Earth           6
+  the Parchment of Planar Incandescence (812 gold)
+    Spells                            Type                      Level
+     a - Foxfire                       Conjuration/Fire              1
+     b - Apportation                   Translocation                 1
+     c - Blink                         Translocation                 2
+     d - Lesser Beckoning              Translocation                 2
+     e - Kindle Blastsparks            Fire/Translocation/Air        3
+     f - Portal Projectile             Hexes/Translocation           3
+     g - Gell's Gravitas               Translocation                 3
+     h - Starburst                     Conjuration/Fire              6
+(0, 0, D:4)
+  a +1 whip of flaming
+  a +0 robe
+(5, 26, D:4)
+  a +0 club
+(6, 40, D:4)
+  a +0 hammer
+(7, 36, D:4)
+  a +0 hammer
+(7, 37, D:4)
+  a +3 quarterstaff of chaos
+  a +1 cloak
+(8, 11, D:4)
+  a +0 whip
+(8, 38, D:4)
+  a +0 hammer
+(8, 40, D:4)
+  a +0 hammer
+(10, 0, D:4)
+  a +0 scale mail
+(12, 4, D:4)
+  a +0 club
+(12, 52, D:4)
+  a scroll of silence
+(13, 41, D:4)
+  5 stones
+(15, 43, D:4)
+  a potion of curing
+(20, 10, D:4)
+  a +0 leather armour
+(39, 9, D:4)
+  2 stones
+  a +0 short sword
+(41, 54, D:4)
+  a +0 short sword
+  5 poisoned darts
+(42, 22, D:4)
+  a +0 mace
+(46, 7, D:4)
+  a +0 ring mail
+(48, 10, D:4)
+  a +1 vampiric short sword
+  (unseen)
+(48, 18, D:4)
+  a +0 mace
+(49, 15, D:4)
+  a +0 glaive
+(50, 13, D:4)
+  a +0 club
+(51, 44, D:4)
+  5 stones
+  a +0 club
+(62, 13, D:4)
+  a +0 plate armour
+
+Level 5 of the Dungeon
+(12, -13, D:5)
+  an orb of mayhem
+(29, -27, D:5)
+  6 stones
+(32, -13, D:5)
+  a +0 spear
+(33, -22, D:5)
+  5 stones
+(39, -42, D:5)
+  a +0 chain mail
+  a boomerang
+  a +3 flail
+  a +0 mace
+(42, -42, D:5)
+  a +0 whip
+(44, -43, D:5)
+  a +0 club
+(47, -15, D:5)
+  3 stones
+(53, -39, D:5)
+  8 stones
+(54, -40, D:5)
+  a +0 quarterstaff
+(56, -26, D:5)
+  8 stones
+(56, -25, D:5)
+  5 silver boomerangs
+(57, -44, D:5)
+  4 stones
+(57, -38, D:5)
+  8 stones
+(57, -25, D:5)
+  a +0 spear
+(57, -21, D:5)
+  a +0 mace
+
+Level 6 of the Dungeon
+(3, -20, D:6)
+  a +0 dagger
+  a +0 leather armour
+  a +0 short sword
+  a +0 leather armour
+(4, -19, D:6)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 dagger
+(19, 16, D:6)
+  a +0 ring mail
+(21, -5, D:6)
+  a +0 great sword
+(23, -37, D:6)
+  a +0 dagger
+  a +0 robe
+(24, -38, D:6)
+  a +2 short sword of protection
+  3 boomerangs
+  a +0 flail
+(25, -39, D:6)
+  a +0 dagger
+  a +0 robe
+(25, 13, D:6)
+  a +0 giant club
+(27, -42, D:6)
+  a +0 short sword
+(29, -11, D:6)
+  a staff of cold
+(29, -1, D:6)
+  a +0 dagger
+(30, -6, D:6)
+  a +0 robe
+(30, -2, D:6)
+  a +0 dagger
+  a +0 robe
+  a +0 rapier
+  a +0 leather armour
+(31, 1, D:6)
+  a +0 halberd
+(35, -30, D:6)
+  the +7 staff of the Meek {protect, meekguard}
+(38, 5, D:6)
+  a +0 scale mail
+  the +5 sling "Pendulum" {speed, rF+ Int+3}
+    Int:       It affects your intelligence (+3).
+    rF:        It protects you from fire.
+  a +0 ring mail
+  a +0 shortbow
+(41, -32, D:6)
+  a +0 flail
+(42, -32, D:6)
+  a +0 club
+(43, -30, D:6)
+  a +0 flail
+  a +0 scale mail
+  a +0 hand axe
+  a +0 scale mail
+(43, 4, D:6)
+  6 stones
+(44, -29, D:6)
+  a +0 trident
+  a +0 short sword
+  a +0 ring mail
+  a +0 short sword
+  a +0 whip
+  a +0 hand axe
+(44, -28, D:6)
+  a +0 war axe
+  a +0 plate armour
+(58, -14, D:6)
+  a +0 spear
+(59, -14, D:6)
+  a +0 whip
+  a +0 spear
+  a +0 scale mail
+  a +0 spear
+(60, -14, D:6)
+  a +0 whip
+  a +0 whip
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  9 stones
+(1, -6, D:7)
+  a +0 falchion
+(5, -28, D:7)
+  a +0 robe
+(10, 2, D:7)
+  a +0 shortbow
+(13, -39, D:7)
+  a +0 sling
+(18, -30, D:7)
+  6 stones
+(33, -27, D:7)
+  a +0 leather armour
+(34, -39, D:7)
+  a +0 pair of gloves
+(40, -15, D:7)
+  a +0 club
+(41, -10, D:7)
+  a +0 robe
+(42, -16, D:7)
+  a +0 robe
+  a +0 dagger
+(42, -15, D:7)
+  a +0 ring mail
+  a +0 mace
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 leather armour
+(3, -6, D:8)
+  a +0 dagger
+(17, 16, D:8)
+  5 stones
+(18, -6, D:8)
+  a +2 short sword of speed
+  5 stones
+(19, -7, D:8)
+  a +0 whip
+(21, 3, D:8)
+  a +0 morningstar of flaming
+(23, -9, D:8)
+  a +0 short sword
+  a +0 dagger
+  a +0 short sword
+  8 poisoned darts
+(24, 11, D:8)
+  a +0 hand axe
+(25, -8, D:8)
+  a +0 dagger
+(28, 10, D:8)
+  a +0 plate armour of cold resistance
+(40, -5, D:8)
+  a +0 ring mail
+(56, 1, D:8)
+  a +0 flail
+(56, 2, D:8)
+  a +0 club
+  a stone
+  a +0 ring mail
+(56, 3, D:8)
+  a +0 dagger
+  a +0 short sword
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 dagger of venom
+  a +0 robe
+(0, 1, D:9)
+  a +0 club
+(0, 3, D:9)
+  a +0 scale mail
+  a +0 club
+(12, 32, D:9)
+  a +0 falchion
+(14, 24, D:9)
+  a +0 giant club
+  a +0 giant club
+(14, 28, D:9)
+  a +0 short sword
+  12 stones
+  a +0 whip
+  3 poisoned darts
+  a +0 short sword
+  a +0 short sword
+  a curare-tipped dart
+  a +0 dagger
+(14, 29, D:9)
+  a scroll of vulnerability
+  a scroll of noise
+  a potion of lignification
+  a potion of degeneration
+  2 potions of mutation
+(15, 30, D:9)
+  5 stones
+  a +0 club
+(16, 1, D:9)
+  4 stones
+(18, -8, D:9)
+  a +0 flail
+(19, -9, D:9)
+  a +0 scale mail
+(21, 28, D:9)
+  a +0 short sword
+(23, 8, D:9)
+  a +0 club
+  a +0 leather armour
+  a +0 short sword
+  a +0 scale mail
+  a +0 hand axe
+  a +0 chain mail
+  a +0 war axe
+  a +0 mace
+  a +0 chain mail
+  a +0 dire flail
+(25, 6, D:9)
+  5 javelins
+(28, 18, D:9)
+  a +0 ring mail
+(30, -4, D:9)
+  7 stones
+(32, -6, D:9)
+  a +0 leather armour
+  a +0 short sword
+  a +0 plate armour
+  a +0 trident
+(33, -7, D:9)
+  a +0 flail
+  a +0 scale mail
+  a +0 whip of venom
+  a +0 leather armour
+  a +0 flail
+(36, -7, D:9)
+  a +0 leather armour
+(46, 17, D:9)
+  a +0 pair of gloves
+(46, 33, D:9)
+  a +0 sling
+
+Level 10 of the Dungeon
+(6, 4, D:10)
+  a scroll of vulnerability
+(9, 15, D:10)
+  a +2 falchion of holy wrath
+(12, -32, D:10)
+  5 poisoned darts
+(16, 3, D:10)
+  a +3 trident
+  a +0 dagger
+  2 boomerangs
+  a +0 scale mail
+(22, 0, D:10)
+  a +0 trident
+  a +0 plate armour
+(22, 2, D:10)
+  a +0 war axe
+(25, 2, D:10)
+  a +0 mace
+(28, 13, D:10)
+  a +0 club
+(29, 11, D:10)
+  a +0 whip of freezing
+(29, 12, D:10)
+  a +0 trident
+  a +0 ring mail
+(29, 13, D:10)
+  a +0 whip
+(30, -37, D:10)
+  3 stones
+(31, -35, D:10)
+  a +2 dagger of venom
+  a +0 robe
+(37, -22, D:10)
+  2 atropa-tipped darts
+(41, -35, D:10)
+  a potion of degeneration
+(42, -37, D:10)
+  a +0 ring mail
+(43, -17, D:10)
+  5 stones
+(48, -35, D:10)
+  a +0 scimitar
+(54, -24, D:10)
+  a +0 dire flail
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  4 stones
+(2, 1, D:11)
+  a +0 rapier
+(3, -21, D:11)
+  a potion of lignification
+(8, 5, D:11)
+  a +0 falchion
+(14, 13, D:11)
+  a +0 troll leather armour
+(16, -11, D:11)
+  5 large rocks
+(18, -5, D:11)
+  a +0 leather armour
+(21, -15, D:11)
+  a +2 dagger of speed
+  a +0 chain mail
+(25, -24, D:11)
+  4 stones
+(27, -6, D:11)
+  a +0 shortbow
+(28, -10, D:11)
+  a +0 shortbow
+  a +0 troll leather armour
+(29, -3, D:11)
+  4 curare-tipped darts
+(29, -1, D:11)
+  a condenser vane
+(31, -3, D:11)
+  a +0 rapier
+(32, 2, D:11)
+  a +0 dagger
+  a +0 robe
+  a +0 trident
+  a +0 scale mail
+  a +0 flail
+(33, 1, D:11)
+  a +0 club
+  2 large rocks
+  a +1 flail of draining
+  a +0 ring mail
+(35, 3, D:11)
+  a +0 shortbow
+(38, -14, D:11)
+  a +0 dagger
+  a +0 robe
+(42, -11, D:11)
+  a +0 dagger
+  a +0 leather armour
+(42, -7, D:11)
+  a +0 dagger
+(43, -6, D:11)
+  a +0 whip
+  a +0 leather armour
+(43, 8, D:11)
+  a +0 spear
+(44, 0, D:11)
+  4 stones
+(45, -22, D:11)
+  a +0 hand axe
+(45, -9, D:11)
+  a +0 whip
+  a +0 leather armour
+(46, -9, D:11)
+  a +0 short sword
+  a +0 leather armour
+(50, 5, D:11)
+  a +0 scale mail
+(53, -13, D:11)
+  5 stones
+(57, -20, D:11)
+  a +0 short sword
+  a +0 leather armour
+(59, -20, D:11)
+  a +0 dagger
+  a +0 robe
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+[Shop] Soemekk's Assorted Antiques
+  a +0 dagger (72 gold)
+  a +0 leather armour (72 gold)
+  a scroll of noise (36 gold)
+  a condenser vane (1440 gold)
+  a scroll of magic mapping (270 gold)
+(0, 0, Orc:1)
+  a +0 arbalest
+  a +0 scimitar
+  a +0 plate armour
+(1, 0, Orc:1)
+  a +0 dagger
+  a +0 robe
+(2, 1, Orc:1)
+  a +0 flail
+(2, 2, Orc:1)
+  a +2 heavy trident
+  2 silver boomerangs
+(3, 1, Orc:1)
+  a +0 hand axe
+(3, 2, Orc:1)
+  a +0 hand axe
+  a +0 leather armour
+(4, 3, Orc:1)
+  a +0 flail
+  a +0 plate armour
+(5, 2, Orc:1)
+  a +0 hand axe
+(7, 5, Orc:1)
+  a +0 leather armour
+  a +0 mace
+(8, 22, Orc:1)
+  a +0 robe
+  a +0 dagger
+(8, 23, Orc:1)
+  a +0 robe
+  a +2 dagger of speed
+(8, 24, Orc:1)
+  a +0 leather armour
+  a +0 whip
+(8, 26, Orc:1)
+  a +0 leather armour
+  a +0 club
+(30, 13, Orc:1)
+  a +0 short sword
+
+Level 2 of the Orcish Mines
+(0, 0, Orc:2)
+  11 gold pieces
+(5, -4, Orc:2)
+  29 gold pieces
+(5, -2, Orc:2)
+  20 gold pieces
+(7, -9, Orc:2)
+  15 gold pieces
+(8, -8, Orc:2)
+  20 gold pieces
+(14, -12, Orc:2)
+  25 gold pieces
+(15, -13, Orc:2)
+  10 gold pieces
+(17, -14, Orc:2)
+  14 gold pieces
+  a +0 giant club
+(18, -20, Orc:2)
+  22 gold pieces
+(24, -15, Orc:2)
+  a +0 giant club
+(24, -12, Orc:2)
+  a +0 giant club
+(24, -10, Orc:2)
+  22 gold pieces
+(26, -13, Orc:2)
+  a +0 giant club
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a wand of digging (8)
+(4, -10, Lair:1)
+  a +0 robe
+(10, -19, Lair:1)
+  3 stones
+(18, -40, Lair:1)
+  a stone
+(21, -4, Lair:1)
+  a yak corpse
+(22, -3, Lair:1)
+  a yak corpse
+(23, -3, Lair:1)
+  a yak corpse
+  a yak corpse
+(25, -7, Lair:1)
+  a potion of attraction
+(26, -25, Lair:1)
+  a +0 plate armour
+(28, -7, Lair:1)
+  a cane toad corpse
+(32, -7, Lair:1)
+  a +0 shortbow
+(37, -28, Lair:1)
+  a scroll of vulnerability
+(39, -29, Lair:1)
+  a wolf corpse (skeletalised by now)
+(39, -15, Lair:1)
+  a cane toad corpse (skeletalised by now)
+(42, -17, Lair:1)
+  a staff of cold
+(53, -7, Lair:1)
+  a potion of degeneration
+

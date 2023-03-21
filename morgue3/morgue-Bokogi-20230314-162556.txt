@@ -1,0 +1,275 @@
+ Dungeon Crawl Stone Soup version 0.30-a0-879-ga8ba668304 (tiles) character file.
+
+Game seed: 11570107599154261196
+
+255 Bokogi the Ruffian (level 5, -1/52 HPs)
+             Began as a Troll Gladiator on Mar 14, 2023.
+             Killed from afar by an orc wizard (9 damage)
+             ... with a magic dart
+             ... on level 4 of the Dungeon.
+             The game lasted 00:09:17 (2206 turns).
+
+Bokogi the Ruffian (Troll Gladiator)                Turns: 2206, Time: 00:09:18
+
+Health: -1/52      AC:  7    Str: 30    XL:     5   Next: 91%
+Magic:  4/4        EV: 10    Int: 10    God:    
+Gold:   25         SH:  0    Dex: 11    Spells: 4/4 levels left
+
+rFire   . . .      SeeInvis .      - Unarmed
+rCold   . . .      Faith    .    (no shield)
+rNeg    . . .      Spirit   .    a - +0 robe
+rPois   .          Reflect  .    b - +0 hat
+rElec   .          Rampage  .    f - +2 cloak {Will+}
+rCorr   .                        (gloves unavailable)
+Will    ++...                    (boots unavailable)
+Stlth   +                        (no amulet)
+HPRegen 1.08/turn                g - +6 ring of intelligence
+MPRegen 0.09/turn                v - ring of Ufoacopn {Will+ Str+6}
+
+@: no status effects
+A: large, unfitting armour, claws 3, regeneration 1, shaggy fur 1, tough skin 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 77 gold pieces.
+You spent 52 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ c - 3 throwing nets
+ d - a large rock
+ h - 3 poisoned darts (quivered)
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+ f - a +2 cloak of willpower (worn)
+Jewellery
+ g - a +6 ring of intelligence (left claw)
+ v - the ring of Ufoacopn (right claw) {Will+ Str+6}
+   (You found it on level 4 of the Dungeon)   
+   
+   [ring of strength]
+   
+   Str:       It affects your strength (+6).
+   Will:      It increases your willpower.
+Wands
+ m - a wand of digging (2)
+ p - a wand of flame (17)
+Scrolls
+ j - a scroll of enchant armour
+ k - a scroll of enchant weapon
+ n - 2 scrolls of fog
+ q - a scroll of poison {unknown}
+ s - a scroll of teleportation
+ t - a scroll of fear {unknown}
+Potions
+ e - a potion of attraction {unknown}
+ i - a potion of heal wounds
+ l - a potion of degeneration {unknown}
+ o - a potion of curing {unknown}
+ r - a potion of flight {unknown}
+ u - a potion of might
+
+
+   Skills:
+ + Level 2.8 Fighting
+ + Level 3.2 Throwing
+ - Level 3.0 Dodging
+ * Level 4.6 Unarmed Combat
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Frozen Ramparts          Ice            0%         1d1       75%         3
+ Ice Form                 Ice/Tmut       0%         N/A       98%         4
+ Summon Ice Beast         Ice/Summ       0%         N/A       98%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Shops:
+D:3 [!!(=
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have tough skin. (AC +1)
+
+Message History
+
+You feel drained.
+You barely miss Edmund.
+Edmund is almost dead.
+Edmund hits you with a +2 flail of draining!
+You feel drained.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You scratch Edmund but do no damage.
+Edmund is almost dead.
+Edmund hits you with a +2 flail of draining.
+You feel drained.
+You scratch Edmund.
+Edmund is almost dead.
+Edmund hits you with a +2 flail of draining.
+* * * LOW HITPOINT WARNING * * *
+You feel drained.
+* * * LOW HITPOINT WARNING * * *
+You claw Edmund!
+You kill Edmund!
+Your life force feels restored.
+Your Throwing skill increases to level 3!
+Your Unarmed Combat skill increases to level 4!
+You have reached level 5!
+Something hits you but does no damage.
+Something hits you but does no damage.
+Something hits you but does no damage.
+You miss something. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+You closely miss something. Something hits you but does no damage.
+You scratch something. Something hits you but does no damage.
+You miss something. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+You miss something. Something hits you.
+* * * LOW HITPOINT WARNING * * *
+You completely miss something. Something hits you but does no damage.
+You closely miss something.
+You hear some strange, mumbled words.
+A magic dart appears from out of thin air!
+The magic dart hits you!
+You die...
+
+.#   #...##.###..[..........
+.#####...##.#     #....[..####
+.........##.##   ##..........##
+.........)...##  #...##........
+......#####...#  #.#.(.........
+......#   #.#<####..!.......#
+......#   #.#......#.##.....####
+......#  ##.#......#............
+......####..#)##.....##.....###
+.....<(.#..#..##.##o.##.....#
+.............###.##{###.....#
+.......^..........#@# #.....#
+....................####.##......
+....................##...##...##.
+......)..#..................#...
+.........####.####......########.
+.........#  #.###...#####
+.........# ##.##...##
+.........# #..##.###
+######†..###.....#
+     ##..#....####
+      #.......#
+      #....####
+
+
+You could see an orc.
+
+Vanquished Creatures
+  Edmund (D:4)
+  Ijyb (D:3)
+  Robin (D:3)
+  3 adders
+  2 orcs
+  6 ball pythons
+  5 endoplasms
+  3 giant cockroaches
+  6 hobgoblins
+  5 kobolds
+  2 quokkas
+  3 bats
+  3 frilled lizards
+  18 goblins
+  6 rats
+65 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bokogi the Troll Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    37 | D:1      | Found a faded altar of an unknown god.
+   129 | D:1      | Reached XP level 2. HP: 28/28 MP: 1/1
+   695 | D:1      | Reached XP level 3. HP: 28/35 MP: 2/2
+  1201 | D:3      | Found Oreri's Jewellery Shoppe.
+  1233 | D:3      | Found Upauwis's Weapon Boutique.
+  1278 | D:3      | Noticed Ijyb
+  1284 | D:3      | Killed Ijyb
+  1285 | D:3      | Reached XP level 4. HP: 41/42 MP: 3/3
+  1539 | D:3      | Found Isoph's Armour Emporium.
+  1618 | D:3      | Noticed Robin
+  1647 | D:3      | Killed Robin
+  1917 | D:3      | Found Qalyso's Distillery.
+  1925 | D:3      | Bought a potion of might for 52 gold pieces
+  1927 | D:3      | Found Umat's Distillery.
+  2070 | D:4      | Identified the ring of Ufoacopn {Will+ Str+6}
+  2158 | D:4      | Noticed Edmund
+  2196 | D:4      | Killed Edmund
+  2197 | D:4      | Reached skill level 4 in Unarmed Combat
+  2197 | D:4      | Reached XP level 5. HP: 8/52 MP: 4/4
+  2206 | D:4      | Killed from afar by an orc wizard
+
+Illustrated notes
+
+Levels and vault maps discovered:
+D:1:      denvon_arrival_planthouse, layout_rooms,
+          ebering_ecumenical_altar_sacrificial
+D:2:      layout_rooms
+D:3:      layout_loops_corners, serial_shops, shop, shop, nicolae_diamond_shop,
+          nicolae_shop_behind_doors, nicolae_shop_window_shopping, uniq_robin,
+          uniq_ijyb
+D:4:      layout_rooms, mainiacjoe_overflow_catwalk, uniq_edmund, uniq_duvessa
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Throwing       |  2        3 |  3.2
+Fighting       |     2       |  2.8
+Dodging        |           3 |  3.0
+Unarmed Combat |           4 |  4.6
+
+Action                     |  1- 3 |  4- 6 || total
+---------------------------+-------+-------++-------
+  Melee: Unarmed           |   120 |    66 ||   186
+         Punch             |     2 |     3 ||     5
+  Throw: Dart              |       |     8 ||     8
+    Use: Scroll            |     3 |     2 ||     5
+ Armour: Robe              |    36 |    25 ||    61
+  Dodge: Dodged            |    60 |    35 ||    95
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |   2192 |   2049 |    143 |      0 |   1626 |   4 |  548.0 |
+       Dungeon |   2192 |   2049 |    143 |      0 |   1626 |   4 |  548.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+     D:3: 857 daAuts
+     D:1: 688 daAuts
+     D:2: 483 daAuts
+     D:4: 163 daAuts
+
