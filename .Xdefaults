@@ -1,34 +1,46 @@
-st.alpha: 0.9
+st.alpha: 0.8
 Xcursor.size: 20
 *.font: DejaVuSansMono:pixelsize=30:antialias=true:autohint=true;
 
 ! custom theme from wal
 !black
 *.color0: #03060A 
+
+!could do dark blue, mid blue, light blue
+!then pink red dark red
 !orange
 *.color1: #E95208 
 !blue
-*.color2: #106397 
+*.color2: #3e6182
 !blue
-*.color3: #0371B6 
-!yellow
-*.color4: #c8b200
+*.color3: #416789
+!dark red
+*.color4: #9d1123
 !red
-*.color5: #810505
-!green
-*.color6: #42630c
-!lightest blue
-*.color7: #83bfd9 
-!grey blue
+*.color6: #fa2552
+!pink
+*.color5: #c9818e
+!off white
+*.color7: #ecd9da
+
+!blue grey
 *.color8: #5b8597 
 
-! duplicates
+! duplicates 1-7
+!orange
 *.color9: #E95208
-*.color10: #106397
-*.color11: #0371B6
-*.color12: #c8b200
-*.color13: #810505
-*.color14: #42630c
-*.color15: #83bfd9
+!blue
+*.color10: #3e6182
+!blue
+*.color11: #416789
+!dark red
+*.color14: #9d1123
+!red
+*.color12: #fa2552
+!pink
+*.color13: #c9818e
+!off white
+*.color15: #ecd9da
+
 *.background: #03060A
 *.foreground: #83bfd9
