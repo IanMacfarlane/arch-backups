@@ -1,6 +1,6 @@
 st.alpha: 0.8
 Xcursor.size: 20
-*.font: DejaVuSansMono:pixelsize=30:antialias=true:autohint=true;
+*.font: DejaVuSansMono:pixelsize=24:antialias=true:autohint=true;
 
 ! custom theme from wal
 !black
